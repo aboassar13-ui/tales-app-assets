@@ -1,0 +1,77 @@
+{
+  "id": "dolphins",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, deep ocean blue palette, friendly intelligent dolphins with kind eyes, sunlit underwater scenes, gentle nature documentary feel, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A pod of three dolphins jumps gracefully out of a sparkling ocean wave, mid-air with water droplets glistening around them. Sunset gold reflects on the water. The dolphins have happy, expressive faces"
+  },
+  "i18n": {
+    "ar": { "title": "عجائب الدلافين", "subtitle": "أذكى مخلوقات البحر", "tagline": "تتكلم، تلعب، وتحب اللهو!" },
+    "en": { "title": "Amazing Dolphins", "subtitle": "The Smartest Creatures of the Sea", "tagline": "They talk, play, and love to have fun!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A bottlenose dolphin gracefully swimming underwater in a sunlit blue ocean. The dolphin has a sleek gray body, a long beak (rostrum), and a friendly curved smile. Sunlight beams down from the surface." },
+      "ar": { "text": "في أعماق البحار يعيش حيوانٌ ذكيّ جداً — الدلفين! ليس سمكة كما يظن البعض، بل ثديي — مثل الإنسان والكلب! يتنفّس الهواء، ويلد صغاره ويرضعهم.", "voice": "nova" },
+      "en": { "text": "Deep in the seas lives one of the world's smartest animals — the dolphin! It's not a fish, as some think, but a mammal — like humans and dogs! It breathes air and gives birth to live young.", "voice": "nova" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A dolphin surfaces, blowing a misty spout from the blowhole on top of its head. Above water shows the dolphin's eye gleaming intelligently. The blowhole acts like a nostril." },
+      "ar": { "text": "الدلفين يتنفّس من فتحةٍ صغيرة فوق رأسه — اسمها «فتحة النفخ». يطلع كل بضع دقائق إلى السطح، يأخذ نفساً، ثم ينزل تاني. عند النوم، نصف دماغه ينام ونصفه يبقى صاحٍ — عشان لا ينسى التنفس!", "voice": "nova" },
+      "en": { "text": "Dolphins breathe through a hole on top of their head — called a \"blowhole.\" Every few minutes they surface, take a breath, then dive again. When sleeping, half their brain sleeps and half stays awake — so they don't forget to breathe!", "voice": "nova" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A pod of 6-8 dolphins swimming together in a group through the ocean, all heading the same direction. They look like a happy family. Some are larger adults, others smaller calves." },
+      "ar": { "text": "الدلافين تعيش في مجموعاتٍ تُسمّى «أسراب». في السرب 5-20 دلفين، أحياناً أكتر! كلهم أصدقاء وعائلة. يعتنون بصغارهم سوا، ويصطادون سوا، ويلعبون سوا. الدلفين الوحيد حزين دائماً.", "voice": "nova" },
+      "en": { "text": "Dolphins live in groups called \"pods.\" A pod has 5-20 dolphins, sometimes more! All are friends and family. They care for their calves together, hunt together, and play together. A dolphin alone is always sad.", "voice": "nova" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Two dolphins facing each other underwater, with stylized sound waves emerging from one and being received by the other. They appear to be 'talking' to each other through visualized clicks and whistles." },
+      "ar": { "text": "الدلافين تتكلم! نعم، تتكلم! لكن بطريقة مختلفة — بأصواتٍ عالية وصفّارات و«طقاتٍ» سريعة. كل دلفين له اسم — صفّارة خاصة به! وعندما يولد، أمه تعطيه صفّارة. وباقي السرب يناديه بصفّارته.", "voice": "nova" },
+      "en": { "text": "Dolphins talk! Yes, really! But in a different way — using high sounds, whistles, and rapid clicks. Each dolphin has a name — a special whistle! When a calf is born, its mother gives it a whistle. The rest of the pod calls it by its whistle.", "voice": "nova" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Diagram-style illustration: a dolphin sends out sound waves from its head that bounce off a fish in the distance and return, allowing the dolphin to 'see' the fish through echolocation. Done in gentle watercolor style." },
+      "ar": { "text": "الدلافين تستخدم «صدى الصوت» للرؤية تحت الماء! تطلق صوتاً، والصوت يرتدّ من السمك والصخور. من ارتداد الصوت، يعرف الدلفين بالظبط شكل الشيء، حجمه، وبعده! كأنّهم يرون بالأذن!", "voice": "nova" },
+      "en": { "text": "Dolphins use \"echolocation\" to see underwater! They send out sounds, and the sounds bounce off fish and rocks. From the echo, the dolphin knows exactly the shape, size, and distance of the object! They see with their ears!", "voice": "nova" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Three dolphins playing happily in ocean waves — one is doing a backflip in the air, another rides a wave, and the third blows water through its blowhole playfully. They look joyful and free." },
+      "ar": { "text": "الدلافين بتحب اللعب! تقفز في الهواء، تركب الأمواج، تلعب مع بعضها. لو لقت قطعة طحلب أو ريشة في الماء، تتراميها لبعض كأنها كرة! بعض الدلافين بتلعب لمدة ساعات. ذكاؤها يحتاج للترفيه.", "voice": "nova" },
+      "en": { "text": "Dolphins love to play! They jump in the air, ride waves, play with each other. If they find a piece of seaweed or feather, they toss it back and forth like a ball! Some play for hours. Their smart minds need fun.", "voice": "nova" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A wide-shot of dolphins helping a swimmer in distress, gently surrounding and guiding them safely. The swimmer holds onto a dolphin's dorsal fin while another swims alongside. Soft underwater light." },
+      "ar": { "text": "الدلافين تحب البشر! في حالاتٍ كثيرة، أنقذت سبّاحين في خطر، حملتهم على ظهورها للشاطئ! وأحياناً حمتهم من أسماك القرش بتشكيل دائرةٍ حولهم. الدلفين صديقٌ حقيقي للإنسان.", "voice": "nova" },
+      "en": { "text": "Dolphins love humans! Many times they have saved swimmers in danger, carrying them on their backs to shore! Sometimes they have protected swimmers from sharks by forming a circle around them. Dolphins are true friends to humans.", "voice": "nova" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A close-up of a mother dolphin gently nudging her newborn calf to the water surface for its first breath. Both have tender, bonded expressions. Soft underwater sunlight illuminates the moment." },
+      "ar": { "text": "صغير الدلفين يُولد تحت الماء! وأمّه تدفعه بسرعة إلى السطح، عشان يأخذ أول نفس. يرضع من أمه تحت الماء لمدة سنة كاملة. الأم تحبّ صغارها بقوة، وتعلّمهم كل شيء.", "voice": "nova" },
+      "en": { "text": "A baby dolphin is born underwater! Its mother pushes it quickly to the surface to take its first breath. It nurses from its mother underwater for a whole year. Mothers love their calves dearly and teach them everything.", "voice": "nova" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A scientific-style illustration showing a dolphin's brain compared to a human brain. The dolphin's brain is similarly complex with folds. Visual labels could be hinted at. Done in soft watercolor educational style." },
+      "ar": { "text": "العلماء يقولون إنّ الدلفين من أذكى الحيوانات في الدنيا — مع الشمبانزي والفيل! دماغ الدلفين كبير ومعقّد. يقدر يتعرّف على نفسه في المرآة (قليل من الحيوانات تقدر تعمل ده)، ويحلّ ألغازاً، ويتذكّر أصدقاءه لسنوات.", "voice": "nova" },
+      "en": { "text": "Scientists say dolphins are among the smartest animals in the world — along with chimpanzees and elephants! Dolphin brains are large and complex. They can recognize themselves in a mirror (few animals can!), solve puzzles, and remember friends for years.", "voice": "nova" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "A peaceful sunset ocean scene with a child silhouetted on a beach, watching a pod of dolphins playing in the distant water. Pink and orange sky reflects on the calm sea. The mood is hopeful and conservation-focused." },
+      "ar": { "text": "لكنّ الدلافين في خطر! التلوّث في البحار، شباك الصيد، والصيد الجائر تهدّدها. علينا نحافظ على نظافة بحارنا. الدلفين نعمة في الدنيا — ذكي، لطيف، وصديق للإنسان. نحبه ونحميه.", "voice": "nova" },
+      "en": { "text": "But dolphins are in danger! Ocean pollution, fishing nets, and overfishing threaten them. We must keep our seas clean. Dolphins are a blessing in this world — smart, kind, and friends to humans. We love them and protect them.", "voice": "nova" }
+    }
+  ]
+}

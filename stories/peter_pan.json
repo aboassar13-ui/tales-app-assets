@@ -1,0 +1,107 @@
+{
+  "id": "peter_pan",
+  "category": "adventure",
+  "source": "J.M. Barrie, 1911 novel (public domain in US)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, Edwardian London and magical Neverland palette, friendly boy in a green tunic and pointed hat (original Barrie design, NOT Disney's), a small glowing fairy companion, gentle fantasy mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Three children (a girl named Wendy in a long nightgown, and two younger boys in pajamas) fly hand-in-hand through a starry London sky with Peter Pan (a boy in green leafy clothes) leading them; below, Big Ben tower; ahead, a magical island silhouette with mountains; a tiny glowing fairy darts beside them"
+  },
+  "i18n": {
+    "ar": { "title": "بيتر بان", "subtitle": "حكاية من جيمس باري", "tagline": "ولدٌ لا يكبر، جنّية لامعة، وأرضٌ تطير إليها" },
+    "en": { "title": "Peter Pan", "subtitle": "A Tale by J.M. Barrie", "tagline": "A boy who never grows up, a tiny fairy, and a magical land" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A cozy Edwardian London bedroom at night. Three children — a girl named Wendy (age 10, in white nightgown), and two younger brothers John (in glasses, pajamas, top hat) and Michael (smaller, holding a teddy bear) — are getting ready for bed. The window curtains flutter in the breeze. Stars twinkle outside." },
+      "ar": { "text": "في لندن قديمة، عاشت ثلاثة أطفال — وندي وأخواها جون ومايكل — في بيتٍ لطيف. كانت وندي الكبيرة تحكي قصصاً كل ليلة قبل النوم. قصصها عن «بيتر بان» — ولدٌ سحري يعيش في بلادٍ بعيدة لا يكبر فيها أبداً!", "voice": "shimmer" },
+      "en": { "text": "In old London, three children — Wendy and her brothers John and Michael — lived in a cozy home. Wendy, the eldest, told stories every night before bed. Her stories were about \"Peter Pan\" — a magical boy who lives in a faraway land where children never grow up!", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The bedroom window flies open mysteriously in the night. A small glowing fairy (Tinker Bell, depicted as a tiny golden light with delicate wings, not the Disney version) zips into the room, leaving a trail of sparkles. The children sleep peacefully." },
+      "ar": { "text": "في ليلةٍ من الليالي، انفتحت نافذة غرفة الأطفال وحدها! دخلت ضوءٌ ذهبيٌّ صغير — جنّية! اسمها «تنكر بيل» (Tinker Bell). كانت تبحث عن... ظلّ مفقود. ثم دخل ولدٌ يطير في الهواء، يلبس ملابس من ورق الشجر — كان بيتر بان نفسه!", "voice": "shimmer" },
+      "en": { "text": "One night, the children's bedroom window flew open by itself! A small golden light came in — a fairy! Her name was Tinker Bell. She was searching for... a lost shadow. Then a boy flew into the room, wearing leafy clothes — it was Peter Pan himself!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Peter Pan (boy in green leafy tunic, pointed hat with red feather) sits on the floor trying to attach a black shadow back to his feet with a bar of soap. Wendy has awakened and watches in astonishment from her bed. Tinker Bell glows nearby." },
+      "ar": { "text": "استيقظت وندي. رأت بيتر يحاول لصق ظلّه السوداء بقدمَيه بصابون! ضحكت وندي ضحكةً صغيرة: «هذا ليس صحيحاً!» جلبت إبرةً وخيطاً، وخاطت الظلّ بقدمَيه برفق. شكرها بيتر بفرح. سألته: «من أنت؟» قال: «أنا بيتر بان!»", "voice": "shimmer" },
+      "en": { "text": "Wendy woke up. She saw Peter trying to stick his shadow back to his feet with soap! She giggled softly, \"That's not how!\" She fetched a needle and thread, and gently sewed his shadow back to his feet. Peter thanked her joyfully. She asked, \"Who are you?\" He answered, \"I am Peter Pan!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Peter Pan looks at Wendy excitedly, gesturing toward the open window with stars beyond. Tinker Bell sparkles with magic dust. Wendy's expression shifts from amazement to wonder. The brothers begin to wake up." },
+      "ar": { "text": "روى بيتر لوندي عن بلاده «نيفرلاند» (أرض اللا-أبداً) — حيث لا أحد يكبر! يعيش هناك مع «الأطفال الضائعين». قال بيتر: «تعالي معنا، يا وندي! كوني الأم الراوية للأطفال الضائعين، يحبون قصصكِ!»", "voice": "shimmer" },
+      "en": { "text": "Peter told Wendy about his land \"Neverland\" — where no one grows up! He lives there with the \"Lost Boys.\" Peter said, \"Come with us, Wendy! Be the storytelling mother to the Lost Boys, they will love your tales!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Peter sprinkles golden fairy dust on Wendy and her brothers, causing them to slowly lift off the floor. They all look amazed and joyful. Tinker Bell flies above scattering more sparkles. The children begin to float." },
+      "ar": { "text": "سألت وندي: «لكن كيف نطير؟» نثر بيتر غبار الجنّيات على الأطفال الثلاثة. وفجأة — بدأوا يطفون في الهواء! ضحكوا من الفرحة! «الآن فكّروا في فكرة جميلة، فكّروا جداً، وستطيرون!» فكّروا في عيد الميلاد، الكعك، حلوى!", "voice": "shimmer" },
+      "en": { "text": "Wendy asked, \"But how can we fly?\" Peter sprinkled fairy dust on all three children. Suddenly — they began to float in the air! They laughed with delight! \"Now think of a happy thought — a really happy one — and you'll fly!\" They thought of birthdays, cake, candy!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Wendy, John, Michael, Peter and Tinker Bell fly hand-in-hand out the window, soaring across the starlit London sky. Below: Big Ben clock tower, the Thames river, foggy streets. Above: a sparkling starry sky and Tinker Bell's trail." },
+      "ar": { "text": "طاروا من النافذة إلى السماء! فوق لندن، فوق البحار، فوق الغيوم! كانت رحلةً سحرية. توتو الكلب نبح من النافذة وهم يبتعدون. مرّوا فوق نجوم، ثم بدأت تظهر لهم جزيرةٌ من بعيد — نيفرلاند!", "voice": "shimmer" },
+      "en": { "text": "They flew out the window into the sky! Above London, above oceans, above clouds! It was a magical journey. Their dog Toto barked from the window as they disappeared. They passed through stars, then began to see an island in the distance — Neverland!", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Neverland from above: a tropical island with mountains, jungle, a lagoon, a pirate ship in the bay, a hidden treehouse, fairy lights in the forest. Colorful and fantastical." },
+      "ar": { "text": "وصلوا إلى نيفرلاند! كانت جزيرةً عجيبة: جبالٌ ملوّنة، غابةٌ كثيفة، بحيرةٌ تسبح فيها حوريات البحر، وسفينة قراصنة في الميناء! قال بيتر: «أهلاً ببيتي!» انتظرتهم مغامراتٌ كثيرة.", "voice": "shimmer" },
+      "en": { "text": "They arrived at Neverland! It was a wondrous island: rainbow mountains, thick jungle, a lagoon with swimming mermaids, and a pirate ship in the harbor! Peter said, \"Welcome to my home!\" Many adventures awaited them.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A group of six lost boys (children of various sizes) dressed in animal skins emerge from a hollow tree base. They look curious and friendly. Wendy stands surrounded by them, smiling kindly. Peter introduces her with a grand gesture." },
+      "ar": { "text": "قابلوا الأطفال الضائعين تحت شجرةٍ ضخمة. كان عددهم ستّة، يلبسون جلود الحيوانات. فرحوا بوندي كثيراً وقالوا: «أمّاه! أمّاه!» احتضنتهم وندي. أصبحت أمّهم الراوية، تحكي لهم قصصاً كل ليلة قبل النوم.", "voice": "shimmer" },
+      "en": { "text": "They met the Lost Boys under a great tree. There were six of them, dressed in animal skins. They were overjoyed to see Wendy and cried, \"Mother! Mother!\" Wendy hugged them all. She became their storytelling mother, telling them tales each night.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A comical pirate captain — the famous Captain Hook (NOT Disney's design — original Barrie depiction: tall, with long curly black hair, in a red Restoration-period coat, with an iron hook replacing his right hand). He looks villainous but cartoonish, not scary. He glares from his ship's deck." },
+      "ar": { "text": "لكنّ نيفرلاند فيها أيضاً قراصنة! وأشهرهم القبطان «هوك» (الخطّاف) — له خطّافٌ بدل يده، فقد فقدها في مغامرةٍ قديمة مع تمساحٍ ضخم. القبطان هوك عدوّ بيتر بان منذ سنوات. ويريد ينتقم!", "voice": "shimmer" },
+      "en": { "text": "But Neverland also has pirates! The most famous is Captain Hook — he has a hook instead of his right hand, having lost it in an old adventure with a great crocodile. Captain Hook has been Peter Pan's enemy for years. He wants revenge!", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Captain Hook on his pirate ship deck, pacing nervously. Suddenly we hear 'tick-tock'! A large green crocodile with a clock visible in its belly approaches the ship. Hook leaps back in fear. The crocodile follows Hook obsessively, having tasted his hand." },
+      "ar": { "text": "للقبطان هوك عدوٌّ مخيف يطارده — التمساح! ابتلع التمساح يد القبطان من قبل، وأعجبه طعمها، فظلّ يلاحقه! يعرف القبطان وصول التمساح من صوت ساعةٍ ابتلعها — «تيك تاك، تيك تاك!»", "voice": "shimmer" },
+      "en": { "text": "Captain Hook has a fearful foe who hunts him — the Crocodile! The crocodile once swallowed Hook's hand and loved the taste, so he keeps following him! Hook knows the crocodile is near by the sound of a clock it once swallowed — \"tick-tock, tick-tock!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Captain Hook and his pirates capture the Lost Boys and Wendy on a beach, tying them up gently (cartoonish, not violent). Peter Pan is not yet present. Hook gloats. The children look brave but worried." },
+      "ar": { "text": "في يومٍ من الأيام، نصب القبطان هوك فخّاً للأطفال الضائعين. قبضَ عليهم وعلى وندي وأخوَيها! أخذهم على سفينته. كانت خطّته أن يعاقبهم على صداقتهم لبيتر بان. لكن بيتر بان كان في الغابة، لم يعرف!", "voice": "shimmer" },
+      "en": { "text": "One day, Captain Hook set a trap for the Lost Boys. He captured them, Wendy and her brothers! He took them to his ship. His plan was to punish them for being friends with Peter Pan. But Peter Pan was in the forest — he did not yet know!", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Tinker Bell flies frantically through the jungle to find Peter Pan, finding him napping peacefully in his tree hideout. She shakes him awake with urgent sparkles. Peter's eyes snap open with determination." },
+      "ar": { "text": "ركضت تنكر بيل تبحث عن بيتر. وجدته نائماً تحت شجرة. أيقظته بحركة جناحَيها: «بيتر! القبطان هوك خطف وندي والأطفال!» قام بيتر فوراً، عيناه مليئة بالعزم. قال: «سأنقذهم! وسأعلّم القبطان درساً لن ينساه!»", "voice": "shimmer" },
+      "en": { "text": "Tinker Bell raced through the jungle to find Peter. She found him sleeping under a tree. She woke him with her wings, \"Peter! Captain Hook has taken Wendy and the children!\" Peter rose at once, eyes full of resolve. He said, \"I will save them! And I'll teach the Captain a lesson he will never forget!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Peter Pan flies dramatically onto the pirate ship deck, sword drawn. He duels with Captain Hook in a swashbuckling but cartoony fight. The Lost Boys and Wendy cheer. Tinker Bell flutters above. The crocodile peeks over the side of the boat." },
+      "ar": { "text": "طار بيتر إلى السفينة وسيفه في يده! بدأ مبارزة عظيمة مع القبطان هوك على ظهر السفينة. صفّق الأطفال وضحكوا! كان بيتر ماهراً وسريعاً، يقفز ويطير حول القبطان. صرخ القبطان من الإحباط، ولكن — سمع «تيك تاك! تيك تاك!»", "voice": "shimmer" },
+      "en": { "text": "Peter flew to the ship, sword in hand! He began a great duel with Captain Hook on the ship's deck. The children clapped and cheered! Peter was quick and skillful, leaping and flying around the captain. Hook shouted in frustration — when he heard \"tick-tock! tick-tock!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Captain Hook's eyes go wide with terror. The crocodile climbs onto the ship's deck. Hook leaps overboard fleeing in a comical fashion. Peter and the children laugh triumphantly. The pirates run scared." },
+      "ar": { "text": "ظهر التمساح! خاف القبطان هوك خوفاً شديداً، وقفز إلى البحر هارباً! تبعه القراصنة. ضحك بيتر والأطفال، وانتصروا! ركبوا السفينة وأبحروا في الهواء — لأن بيتر طيّر السفينة بسحر تنكر بيل!", "voice": "shimmer" },
+      "en": { "text": "The crocodile appeared! Captain Hook was terrified and leapt into the sea, fleeing! The pirates followed. Peter and the children laughed in victory! They took the ship and sailed it into the air — for Peter had made the ship fly with Tinker Bell's magic!", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Wendy and her brothers are flown back to their London bedroom window by Peter and the flying pirate ship. The Lost Boys wave goodbye. Wendy looks back at Peter with gratitude and friendship. The parents are seen sleeping peacefully through the window." },
+      "ar": { "text": "أرجع بيتر الأطفال إلى بيتهم في لندن. وندي حزنت قليلاً — أحبّت نيفرلاند. لكنّها أحبّت أهلها أكثر. وعد بيتر أن يزورها كل عام. أمّا الأطفال الضائعون، فبقوا معه يلعبون للأبد، لأنهم لا يكبرون.", "voice": "shimmer" },
+      "en": { "text": "Peter brought the children home to London. Wendy felt a little sad — she had loved Neverland. But she loved her family more. Peter promised to visit her every year. As for the Lost Boys, they stayed with Peter to play forever — for in Neverland, no one grows up.", "voice": "fable" }
+    }
+  ]
+}

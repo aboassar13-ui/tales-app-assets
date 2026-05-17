@@ -1,0 +1,77 @@
+{
+  "id": "giraffes",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, African savanna palette, realistic but soft and friendly giraffes with kind eyes, acacia trees and tall grasses, gentle nature documentary feel, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A graceful adult giraffe and a smaller baby giraffe stand side by side on the African savanna at sunset, the parent reaching high to eat acacia leaves while the calf looks up curiously. Golden sky behind"
+  },
+  "i18n": {
+    "ar": { "title": "عجائب الزرافات", "subtitle": "أطول حيوان في الدنيا", "tagline": "رقبة طويلة، بقعٌ مميزة، وقلبٌ ضخم!" },
+    "en": { "title": "Amazing Giraffes", "subtitle": "The Tallest Animals on Earth", "tagline": "Long neck, unique spots, and a huge heart!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A magnificent adult giraffe standing tall in an African savanna, comparison shown beside a person — the giraffe towers over the human at 18 feet (5.5 m) tall. Acacia trees and grasses surround." },
+      "ar": { "text": "هل تعرف ما هو أطول حيوانٍ في الدنيا؟ إنه الزرافة! يصل طول الزرافة الكبيرة إلى 5 أمتار ونصف — مثل بيتٍ من طابقَين! تستطيع أن تنظر من نافذة الطابق الثاني بسهولة.", "voice": "nova" },
+      "en": { "text": "Do you know the tallest animal on Earth? The giraffe! A grown giraffe can be 5.5 meters tall — like a two-story house! It could easily look into a second-floor window.", "voice": "nova" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Close-up of a giraffe's incredibly long neck reaching up to eat fresh leaves from a tall acacia tree. The neck is curved gracefully. Detail of its long purple-blue tongue wrapping around leaves." },
+      "ar": { "text": "أهمّ ميزة في الزرافة هي رقبتها الطويلة جداً! طولها مترَين تقريباً، تساعدها على أكل أوراق الأشجار العالية. ولها لسانٌ غريب — طوله 45 سنتيمتراً، ولونه أزرق-بنفسجي! يلفّ على الأوراق ويسحبها.", "voice": "nova" },
+      "en": { "text": "The giraffe's most amazing feature is its long, long neck! Almost 2 meters tall, it helps them eat leaves from high trees. They also have a strange tongue — 45 centimeters long, and blue-purple in color! It wraps around leaves and pulls them off.", "voice": "nova" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Detail of a giraffe's body showing the distinctive irregular brown spots on cream-colored fur. Each spot is shown clearly. The pattern looks like a beautiful natural artwork." },
+      "ar": { "text": "كل زرافة لها نمطٌ من البقع مميّز — مثل بصمة الأصبع عند الإنسان! ما فيش زرافتَين عندهم نفس البقع. هذه البقع تساعدها على الاختباء بين أشجار الأكاسيا.", "voice": "nova" },
+      "en": { "text": "Every giraffe has its own unique pattern of spots — like a fingerprint! No two giraffes have exactly the same spots. These spots help them hide among acacia trees.", "voice": "nova" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A baby giraffe drops from a standing mother giraffe — the calf is shown landing on the ground with comically wide eyes. The baby is already 2 meters tall at birth. Both look healthy and bonded." },
+      "ar": { "text": "صغير الزرافة يُولَد طويلاً جداً! يولد بطول مترَين — مثل أطول رجل! وبسبب رقبة أمه الطويلة، يسقط من علوّ عند ولادته. لكنه ينهض في أقل من ساعة ويبدأ في المشي!", "voice": "nova" },
+      "en": { "text": "Baby giraffes are born VERY tall! They are 2 meters at birth — as tall as a tall man! Because their mothers have such long necks, they drop from a height when born. But they stand up in less than an hour and start walking!", "voice": "nova" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A giraffe bending awkwardly with its front legs widely splayed apart to drink water from a small pool. Its long neck reaches down. Shown from a side angle, this is the difficult drinking position." },
+      "ar": { "text": "هل تعرف؟ شُرب الماء صعبٌ جداً للزرافة! لأن رقبتها طويلة، لازم تفرّق قدميها الأماميتَين كثيراً ثم تنحني. تشرب الزرافة قليلاً جداً — مرّة كل أسبوع! تأخذ معظم الماء من الأوراق.", "voice": "nova" },
+      "en": { "text": "Did you know? Drinking water is very hard for giraffes! Because of their long neck, they must spread their front legs wide and bend down. Giraffes drink rarely — once a week! They get most of their water from leaves.", "voice": "nova" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A group of giraffes (called a 'tower') standing together on savanna at golden hour. About 5 giraffes of different sizes, looking peaceful and watchful. They stand close like a family." },
+      "ar": { "text": "الزرافات تعيش في مجموعاتٍ تُسمّى «أبراج» — اسم لطيف لأنّها طويلة! في البرج، الأمهات يعتنين بكل الصغار معاً. والرجالة الكبار يحرسون من بعيد. الزرافات حيوانات لطيفة، نادراً ما تتقاتل.", "voice": "nova" },
+      "en": { "text": "Giraffes live in groups called \"towers\" — a fitting name for tall animals! In a tower, mothers care for all the calves together. The big males guard from a distance. Giraffes are gentle animals; they rarely fight.", "voice": "nova" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Two male giraffes 'necking' — gently swinging their long necks against each other in a slow competition. Their movements are graceful, almost like a dance. Other giraffes watch nearby." },
+      "ar": { "text": "لمّا يتنافس ذكران، يتقاتلون برقبتَيهم! يسمّى هذا «النيكينج» (necking). يضربون أعناقهم على بعضها بهدوء — كأنها رقصة بطيئة. الفائز يكسب احترام المجموعة. لكنّهم لا يؤذون بعضهم.", "voice": "nova" },
+      "en": { "text": "When two males compete, they fight with their necks! It's called \"necking.\" They swing their long necks against each other gently — like a slow dance. The winner earns respect from the group. But they never truly hurt each other.", "voice": "nova" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A giraffe galloping across the savanna, all four legs moving in unison in a smooth bouncing motion. Its long neck sways forward and back. Speed lines suggest fast movement." },
+      "ar": { "text": "رغم طولها، الزرافة تجري بسرعة! تستطيع أن تركض 55 كيلومتراً في الساعة — أسرع من الأسد لمسافات قصيرة! ركضها جميل ومتناسق، كأنها ترقص في الهواء.", "voice": "nova" },
+      "en": { "text": "Despite their height, giraffes can run fast! They can sprint at 55 km per hour — faster than a lion for short distances! Their running is graceful and rhythmic, as if they dance through the air.", "voice": "nova" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A close-up of a giraffe's chest area with a transparent illustration overlay showing the massive heart inside. The heart is the size of a soccer ball. Labels could be implied through visual scale." },
+      "ar": { "text": "للزرافة قلبٌ ضخم! وزنه 11 كيلوغراماً — مثل كرة قدم! القلب الكبير ضروري ليضخّ الدم عالياً إلى الرأس. ضغط دم الزرافة هو الأقوى في الدنيا — ضعف ضغط دم الإنسان!", "voice": "nova" },
+      "en": { "text": "A giraffe's heart is enormous! It weighs 11 kilograms — like a football! The big heart is needed to pump blood up to the head. A giraffe has the strongest blood pressure in the world — twice that of a human!", "voice": "nova" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "A peaceful sunset scene with a family of giraffes silhouetted against an orange African sky. They stand on a hillside overlooking a wide savanna. The mood is calm and conservation-themed." },
+      "ar": { "text": "لكن للأسف، الزرافات يقلّ عددها في الدنيا. علينا أن نحميها ونحمي بيتها في أفريقيا. الزرافة حيوانٌ خاصٌّ جداً — لطيف وأنيق وذكي. الدنيا أحلى مع الزرافات!", "voice": "nova" },
+      "en": { "text": "Sadly, giraffe numbers are decreasing in the wild. We must protect them and their homes in Africa. Giraffes are very special — gentle, elegant, and smart. The world is more beautiful with giraffes in it!", "voice": "nova" }
+    }
+  ]
+}

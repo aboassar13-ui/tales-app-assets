@@ -1,0 +1,107 @@
+{
+  "id": "wizard_of_oz",
+  "category": "adventure",
+  "source": "L. Frank Baum, 1900 (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, Kansas farmlands and emerald-green fantasy palette, friendly faces, original 1900 book character designs (NOT Disney/MGM 1939 film designs — Dorothy in simple gingham dress, silver shoes not ruby), gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Dorothy, a young girl in a simple blue-and-white gingham dress and silver shoes, stands on a yellow brick road holding a small dog (Toto). Beside her: a tall scarecrow with painted face, a tin man with funnel hat, and a friendly lion with a pink bow. Emerald city sparkles in the distance"
+  },
+  "i18n": {
+    "ar": { "title": "ساحر أوز", "subtitle": "حكاية من فرانك بوم", "tagline": "إعصار، طريقٌ ذهبي، وثلاثة أصدقاء عجيبون" },
+    "en": { "title": "The Wizard of Oz", "subtitle": "A Tale by L. Frank Baum", "tagline": "A tornado, a golden road, and three curious friends" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A small wooden farmhouse in the middle of flat brown Kansas prairie. A young girl in gingham dress plays with a small black terrier dog in the front yard. Her aunt and uncle work nearby. The sky is gray and threatening." },
+      "ar": { "text": "في ولاية كنساس الأمريكية، عاشت بنتٌ صغيرة اسمها دوروثي مع عمّها وزوجته في بيتٍ خشبيّ صغير. كان معها كلبٌ صغير اسمه «توتو»، يحبّها كثيراً. الحياة في كنساس كانت بسيطة، والسماء دائماً رمادية.", "voice": "shimmer" },
+      "en": { "text": "In Kansas, there lived a young girl named Dorothy with her uncle and aunt in a small wooden farmhouse. She had a little dog named Toto, who loved her dearly. Life in Kansas was simple, and the sky was always gray.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A massive dark tornado funnel approaches the farmhouse across the prairie. Dorothy clutches Toto and runs toward the farmhouse. Her uncle gestures frantically toward the storm cellar. Wind whips dust everywhere." },
+      "ar": { "text": "في يومٍ من الأيام، رأى عمّها سحاباً أسود قادماً من بعيد — إعصار! صرخ: «إلى القبو، بسرعة!» ركضت دوروثي تبحث عن توتو، لكنّها سمعت صوت الإعصار يقترب. ركضت إلى البيت. ولكن — الإعصار التقط البيت من الأرض!", "voice": "shimmer" },
+      "en": { "text": "One day, her uncle saw a great dark cloud approaching — a tornado! He shouted, \"To the cellar, quickly!\" Dorothy ran searching for Toto, but heard the tornado closing in. She ran into the house — when suddenly, the tornado lifted the house off the ground!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The small farmhouse spins inside a swirling tornado funnel high in the sky, with clouds and debris around it. Dorothy and Toto are visible through a window, looking calm but amazed. They sit on the bed." },
+      "ar": { "text": "طار البيت في الهواء! دار، ودار، ودار! جلست دوروثي على سريرها مع توتو، خائفة لكن مذهولة. مرّت ساعات، ثم نام البيت بهدوء عجيب على سحابة. شيئاً فشيئاً، هبط البيت إلى الأرض في مكانٍ غريب جداً.", "voice": "shimmer" },
+      "en": { "text": "The house flew through the sky! It spun and spun and spun! Dorothy sat on her bed with Toto, frightened but amazed. Hours passed, then the house drifted strangely on a cloud. Slowly, it descended to the ground — in a very strange place.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Dorothy opens the door of the farmhouse to a vibrant fantasy land — bright flowers in impossible colors, blue trees, a meadow of dancing wildflowers. Small joyful people in blue clothes (Munchkins, depicted as adult-sized but kind) gather to greet her." },
+      "ar": { "text": "فتحت دوروثي الباب — ولاحظت أنّ كنساس قد اختفت! حولها أزهارٌ ملوّنة كقوس قزح، وأشجارٌ زرقاء! اقترب منها قومٌ صغار ودودون يلبسون اللون الأزرق. قالوا: «أهلاً بكِ، يا منقذتنا! لقد قتلتِ ساحرة الشرق الشريرة!»", "voice": "shimmer" },
+      "en": { "text": "Dorothy opened the door — and Kansas was gone! Around her were rainbow flowers and blue trees! Small, friendly people in blue clothes came near. They said, \"Welcome, our savior! You have defeated the Wicked Witch of the East!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A kind woman in a flowing white dress (the Good Witch of the North) appears beside Dorothy. She holds out beautiful silver shoes that glow softly. Munchkins watch with reverence. The witch wears a star-pointed crown of small stars." },
+      "ar": { "text": "ظهرت ساحرة طيّبة، ترتدي أبيض وتاج نجوم. قالت: «أنا ساحرة الشمال الطيبة. خذي هذا الحذاء الفضيّ، فهو سحري.» سألت دوروثي: «كيف أعود إلى البيت؟» قالت الساحرة: «اذهبي إلى مدينة الزمرد، واسألي الساحر العظيم أوز.»", "voice": "shimmer" },
+      "en": { "text": "A kind witch appeared, in white robes and a starry crown. She said, \"I am the Good Witch of the North. Take these silver shoes — they are magical.\" Dorothy asked, \"How can I get home?\" The witch said, \"Go to the Emerald City, and ask the great Wizard of Oz.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Dorothy walks down a wide path of golden-yellow bricks winding through a beautiful sunlit meadow. Toto walks beside her. The yellow brick road curves into the distance toward green hills." },
+      "ar": { "text": "أعطتها الساحرة قبلةً على جبينها للحماية. ثم قالت: «اتبعي الطريق الذهبي. سيوصلكِ إلى الساحر.» مشت دوروثي مع توتو على الطريق الأصفر. كانت كل بلاطة ذهبية تلمع تحت الشمس. كانت رحلتها قد بدأت.", "voice": "shimmer" },
+      "en": { "text": "The witch kissed her forehead for protection. Then said, \"Follow the yellow brick road. It will lead you to the Wizard.\" Dorothy walked with Toto on the golden road. Each brick shone in the sun. Her journey had begun.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Dorothy stops at a cornfield. A friendly scarecrow with a painted face, straw stuffing, blue overalls, and a pointed hat hangs from a wooden post. He looks at Dorothy with a curious smile. Crows circle nearby." },
+      "ar": { "text": "بعد مسيرة، رأت دوروثي حقل ذرة. على عمودٍ خشبيّ، علّق فزّاعةٌ مضحك! نظر إليها وقال: «أهلاً، أتقدرين تنزّليني؟» تعجّبت دوروثي — فزّاعة تتكلم! ساعدته. سألها أين تذهب. قالت: «إلى الساحر أوز.» قال: «ممكن أجي معكِ؟ أنا محتاج عقل!»", "voice": "shimmer" },
+      "en": { "text": "Along the way, Dorothy saw a cornfield. On a wooden post hung a funny scarecrow! He looked at her and said, \"Hello, can you help me down?\" Dorothy was amazed — a talking scarecrow! She helped him. He asked where she was going. \"To Wizard Oz,\" she said. He answered, \"May I come? I need a brain!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Dorothy, Toto, and the Scarecrow walk together down the yellow brick road. They come upon a Tin Woodman frozen in a clearing, holding an axe high. He is made of shiny metal with riveted joints. His rusty eyes are tearful." },
+      "ar": { "text": "في الغابة، رأوا رجلاً من الصفيح! كان واقفاً جامداً، يحمل فأساً. قال بصوتٍ صدئ: «صدئَت مفاصلي! ساعدوني!» وضعت دوروثي قطرات زيت على مفاصله. تحرّك! ضحك بفرح. قال: «أنا فقدتُ قلبي! ممكن أجي معكم وأطلب من الساحر قلباً جديداً؟»", "voice": "shimmer" },
+      "en": { "text": "In the forest, they saw a Tin Man! He stood frozen, holding an axe. He said rustily, \"My joints are rusted! Help me!\" Dorothy put oil on his joints. He moved! He laughed with joy. He said, \"I have no heart! May I come and ask the Wizard for a new one?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The four companions (Dorothy, Toto, Scarecrow, Tin Man) walk into a thick dark forest. Suddenly a huge lion leaps onto the path, but he looks comically frightened, hiding his face with his paw. He's a friendly Cowardly Lion." },
+      "ar": { "text": "في غابةٍ مظلمة، قفز أمامهم أسدٌ ضخم! خاف توتو وزمجر، فبكى الأسد: «لا تضربوني!» ضحكت دوروثي: «أسدٌ يخاف من كلب صغير؟» قال الأسد: «أنا جبان! أبكي من كل شيء. آه، ليتني أحصل على شجاعة!» قالت دوروثي: «تعال معنا، الساحر سيعطيك.»", "voice": "shimmer" },
+      "en": { "text": "In a dark forest, a huge lion jumped at them! Toto growled, and the lion cried, \"Please don't hurt me!\" Dorothy laughed, \"A lion afraid of a small dog?\" The lion said, \"I'm a coward! I cry at everything. Oh, if only I had courage!\" Dorothy said, \"Come with us — the Wizard will help.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The five companions walking together — Dorothy, Toto, Scarecrow, Tin Man, Cowardly Lion — on the yellow brick road. They look like a happy band of friends. In the distance, a sparkling emerald-green city of towers and spires rises against the sky." },
+      "ar": { "text": "ساروا معاً: دوروثي، توتو، الفزّاعة، الرجل الصفيح، والأسد الجبان. أصدقاءٌ غرباء، لكنّهم متحدون! بعد أيامٍ، رأوا في الأفق مدينةً تلمع باللون الأخضر! كانت مدينة الزمرد العظيمة.", "voice": "shimmer" },
+      "en": { "text": "They traveled together — Dorothy, Toto, Scarecrow, Tin Man, and the Cowardly Lion. Strange friends, but united! After days, they saw on the horizon a city shining with green! It was the great Emerald City.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Dorothy and friends stand before the gates of a magnificent emerald-green city, with tall towers and sparkling crystal walls. A guard in green uniform welcomes them. Each gets a pair of green-tinted glasses." },
+      "ar": { "text": "دخلوا المدينة العظيمة. كل شيءٍ كان أخضر! حتى الناس يلبسون نظّاراتٍ خضراء. قابلوا الساحر العظيم أوز في قاعةٍ ضخمة. ظهر كرأسٍ ضخم في الهواء، وقال بصوتٍ مرعب: «ما الذي تطلبونه؟»", "voice": "shimmer" },
+      "en": { "text": "They entered the great city. Everything was green! Even the people wore green spectacles. They met the great Wizard Oz in a huge hall. He appeared as a huge floating head, and said in a booming voice, \"What do you ask of me?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The four companions stand respectfully before a giant projection of a wizard's head. Each holds up a hand in turn, asking for their wish. The Wizard's face looks stern but theatrical." },
+      "ar": { "text": "طلبت دوروثي العودة للبيت. الفزّاعة طلب عقلاً. الرجل الصفيح طلب قلباً. الأسد طلب شجاعة. قال الساحر: «سأمنحكم ما تريدون، لكن عليكم أن تجلبوا لي عصا الساحرة الشرّيرة في الغرب. اذهبوا!»", "voice": "shimmer" },
+      "en": { "text": "Dorothy asked to go home. Scarecrow wanted a brain. Tin Man wanted a heart. The Lion wanted courage. The Wizard said, \"I shall grant your wishes — but first, bring me the wand of the Wicked Witch of the West. Go!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The four friends bravely confront a mean-looking but cartoonish witch in the West. Dorothy holds up a bucket of water, splashing it. The witch melts away comically into a puddle as the friends watch in shock." },
+      "ar": { "text": "سافروا للغرب. لقوا الساحرة الشرّيرة، التي حاولت أذيّتهم. ولكن — رمت دوروثي عليها دلواً من الماء! بدأت الساحرة تذوب كالسكر في المطر! اختفت في لحظات. وأحضروا عصاها.", "voice": "shimmer" },
+      "en": { "text": "They traveled west. They met the Wicked Witch, who tried to harm them. But — Dorothy threw a bucket of water on her! The witch began to melt like sugar in rain! She vanished in moments. They took her wand.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Back in Emerald City throne room, Toto pulls back a curtain to reveal an old man at a control panel speaking into a microphone — the real wizard is just an ordinary person operating special effects. The friends look surprised but kind." },
+      "ar": { "text": "عادوا للساحر. لكن توتو، الكلب الصغير، سحب ستارة فجأة! خلفها كان رجلٌ عجوزٌ طيّب، يستعمل آلاتٍ وأصوات! الساحر العظيم لم يكن ساحراً — كان رجلاً عادياً! اعتذر: «أنا آسف، أنا مش ساحر حقيقي.»", "voice": "shimmer" },
+      "en": { "text": "They returned to the Wizard. But Toto, the little dog, suddenly pulled back a curtain! Behind it was a kind old man, using machines and sound effects! The Great Wizard wasn't a wizard at all — just an ordinary man! He apologized, \"I'm sorry, I'm not a real wizard.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Dorothy back home in Kansas with her aunt and uncle hugging her in their farmhouse, Toto in her arms. She smiles, wearing her gingham dress and silver shoes. Through the window the sky is now blue and bright." },
+      "ar": { "text": "لكنّ الرجل علّمهم درساً جميلاً: «الفزّاعة، أنت ذكي بالفعل. الرجل الصفيح، أنت لطيف بالفعل. الأسد، أنت شجاع بالفعل!» وبضربةٍ من حذاء دوروثي الفضيّ — عادت إلى كنساس مع توتو! احتضنها أهلها بفرح. ولم تنسَ مغامرتها أبداً.", "voice": "shimmer" },
+      "en": { "text": "But the old man taught them a beautiful lesson, \"Scarecrow, you're already wise. Tin Man, you're already kind. Lion, you're already brave!\" And with a click of Dorothy's silver shoes — she was back in Kansas with Toto! Her family hugged her joyfully. She never forgot her adventure.", "voice": "fable" }
+    }
+  ]
+}

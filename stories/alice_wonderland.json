@@ -1,0 +1,107 @@
+{
+  "id": "alice_wonderland",
+  "category": "adventure",
+  "source": "Lewis Carroll, 1865 (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, dreamy Victorian-fantasy palette, whimsical pastel colors, curious young girl with long brown hair and a blue dress, surreal Wonderland creatures (white rabbit in waistcoat, cards, teacups), gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A curious young girl in a pale blue dress and white apron peers down into a moss-lined rabbit hole, eyes wide with wonder; a white rabbit in a red waistcoat checking a pocket watch is just visible hopping into the hole; spring meadow with daisies all around"
+  },
+  "i18n": {
+    "ar": { "title": "أليس في بلاد العجائب", "subtitle": "حكاية من لويس كارول", "tagline": "أرنبٌ متأخّر، جحرٌ سحري، وعالمٌ مقلوب" },
+    "en": { "title": "Alice in Wonderland", "subtitle": "A Tale by Lewis Carroll", "tagline": "A late rabbit, a magic hole, an upside-down world" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "Alice, a young girl in pale blue dress, sits beside her sister under a leafy tree on a sunny meadow. Her sister reads a book without pictures. Alice looks bored, daydreaming, daisies in her hands." },
+      "ar": { "text": "في يومٍ مشمس، جلست أليس بجانب أختها تحت شجرة. كانت أختها تقرأ كتاباً ممل، بدون صور. مَلَّت أليس وفكّرت: «كتاب بدون صور؟ يا له من ملل!» بدأت تنعس قليلاً.", "voice": "shimmer" },
+      "en": { "text": "On a sunny day, Alice sat beside her sister under a leafy tree. Her sister was reading a book — but it had no pictures. Alice grew bored and thought, \"A book with no pictures? How dull!\" She began to feel drowsy.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A white rabbit in a red velvet waistcoat hurries past Alice, checking a large gold pocket watch with worried eyes, his pink ears flying back. Alice stares in astonishment, sitting up." },
+      "ar": { "text": "وفجأة، مرّ بقربها أرنبٌ أبيض! كان يلبس سترةً حمراء، ويحمل ساعةً ذهبية. صاح وهو يجري: «متأخر! متأخر! متأخر جداً!» قفزت أليس فضولاً: «أرنبٌ يتكلم؟ يجب أن أتبعه!»", "voice": "shimmer" },
+      "en": { "text": "Suddenly, a white rabbit hurried past! He wore a red waistcoat and carried a gold watch. He cried as he ran, \"I'm late! I'm late! I'm so late!\" Alice jumped with curiosity, \"A talking rabbit? I must follow him!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Alice peers down a large round rabbit hole at the base of an oak tree, the white rabbit's tail disappearing inside. She looks tentative but determined. Wildflowers surround the hole." },
+      "ar": { "text": "ركضت أليس وراء الأرنب حتى وصلت إلى جحرٍ كبير تحت شجرة. اختفى الأرنب فيه! نظرت أليس إلى الأسفل — كان الجحر عميقاً جداً. لكن فضولها كان أقوى من خوفها. قفزت!", "voice": "shimmer" },
+      "en": { "text": "Alice ran after the rabbit until she reached a great hole beneath a tree. The rabbit had vanished inside! Alice peered down — the hole was very deep. But her curiosity was stronger than her fear. She jumped!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Alice falls slowly through a magical tunnel lined with floating shelves of books, a tea-set, a map, a globe, and gilded picture frames. She drifts down peacefully as if in water, her dress and hair floating." },
+      "ar": { "text": "سقطت أليس... وسقطت... ولكن ببطء عجيب! كأنّها تطير في الهواء. مرّت بجوارها رفوفٌ معلّقة فيها كتب، وأكواب شاي، وخرائط، وصور! قالت متعجّبة: «يا لها من رحلة غريبة!»", "voice": "shimmer" },
+      "en": { "text": "Alice fell... and fell... but oh, so slowly! As if she were floating through the air. She passed shelves filled with books, teacups, maps, and pictures! She marveled, \"What a strange journey!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Alice lands softly in a beautiful long hallway with tiled floor, many small doors lining the walls, and a small glass table holding a tiny golden key. The hallway is filled with soft, magical light." },
+      "ar": { "text": "وصلت أليس إلى أرض صلبة في رواق طويل. حولها أبوابٌ صغيرة كثيرة، كلها مقفلة! على طاولة من الزجاج، رأت مفتاحاً ذهبياً صغيراً. حاولت فتح الأبواب — كلها كبيرة، والمفتاح صغير.", "voice": "shimmer" },
+      "en": { "text": "Alice landed gently in a long hallway. Many small doors lined the walls — all locked! On a glass table, she saw a tiny golden key. She tried each door — all too big, and the key too small.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Alice notices a small curtained alcove in the wall, behind which is a tiny door. She kneels and opens it with the gold key, peering through to a beautiful sunlit garden of giant flowers, but she is too big to fit." },
+      "ar": { "text": "أزاحت أليس ستارة صغيرة، فوجدت باباً صغيراً جداً خلفها! فتحته بالمفتاح. خلف الباب رأت حديقةً جميلة، بأزهار عملاقة وأشجار ملوّنة. لكن الباب صغيرٌ جداً، لا يدخله إلا قطة. حزنت أليس.", "voice": "shimmer" },
+      "en": { "text": "Alice pulled aside a small curtain and found a tiny door behind it! She opened it with the key. Beyond, she saw a beautiful garden — giant flowers, rainbow trees. But the door was too small, only a cat could fit. Alice was sad.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "On the glass table now stands a small glass bottle labeled 'DRINK ME' with a paper tag. Alice picks it up curiously. It glows faintly. She holds it up to the light." },
+      "ar": { "text": "عادت إلى الطاولة، فوجدت قارورةً صغيرة مكتوبٌ عليها: «اشربيني!» شعرت بالحذر — لكن القارورة كانت لطيفة. تذوّقت قطرة. كان الطعم لذيذاً جداً، خليط من كرز وكاسترد وأناناس وفطيرة!", "voice": "shimmer" },
+      "en": { "text": "Back at the table, she found a small bottle labeled \"DRINK ME!\" She felt cautious — but the bottle looked friendly. She tasted a drop. It was delicious — like cherries, custard, pineapple, and pie all together!", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Alice shrinks dramatically until she is only 10 inches tall, standing tiny beside the now-enormous glass table. Her dress shrinks with her. She looks down at her tiny hands in wonder." },
+      "ar": { "text": "فجأة، حدث شيءٌ عجيب! بدأت أليس تصغر! تصغر... تصغر... حتى صارت بطول 25 سنتيمتراً فقط! نظرت إلى يدَيها الصغيرتَين — «الآن أقدر أن أدخل من الباب!» لكن المفتاح فوق على الطاولة، وهي صغيرة جداً.", "voice": "shimmer" },
+      "en": { "text": "Suddenly, something wonderful happened! Alice began to shrink! Smaller... smaller... until she was only 10 inches tall! She looked at her tiny hands — \"Now I can fit through the door!\" But the key was up on the table, and she was too small to reach.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Tiny Alice spots a small cake on the floor labeled 'EAT ME' written in currants on its frosting. She kneels and considers eating it, looking thoughtful but determined." },
+      "ar": { "text": "بحثت أليس، فوجدت كعكةً صغيرة مكتوبٌ عليها بحبّات الكشمش: «كليني!» قالت بحماس: «إذا كبرت، أستطيع أن آخذ المفتاح. وإذا بقيت صغيرة، أستطيع الزحف تحت الباب!» أكلت قطعةً.", "voice": "shimmer" },
+      "en": { "text": "Alice searched and found a small cake with currants spelling \"EAT ME!\" She said brightly, \"If I grow, I can reach the key. If I stay small, I can crawl under the door!\" She took a bite.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Alice grows comically tall — her head touches the ceiling of the hallway, and she has to bend over. Her arms reach the table easily. She looks startled and amused." },
+      "ar": { "text": "كبرت أليس فجأة! كبرت كبيرة! كبيرة جداً! حتى وصل رأسها إلى السقف! انحنت لتأخذ المفتاح من فوق الطاولة. ضحكت: «الآن أكبر بكثير! لكن... كيف أدخل من الباب الصغير الآن؟»", "voice": "shimmer" },
+      "en": { "text": "Alice grew suddenly tall! Tall! Very tall! Her head touched the ceiling! She bent down to take the key from the table. She laughed, \"Now I'm much too big! But... how shall I fit through the tiny door now?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Giant Alice sits with knees folded against the ceiling, crying enormous tears that pool on the marble floor like a lake. Her dress is wet from her own tears." },
+      "ar": { "text": "بكت أليس من الحزن! دموعها كانت كبيرةً جداً، حتى تجمّعت على الأرضية وصارت بركةً كبيرة! غرقت قدماها فيها. قالت: «يا للسخافة، أبكي وأنا فتاة كبيرة! يجب أن أتوقف فوراً.» لكنّ الدموع كانت أكثر.", "voice": "shimmer" },
+      "en": { "text": "Alice cried! Her tears were enormous, pooling on the floor like a lake! Her feet were wet. She said, \"How silly to cry at my age! I must stop at once.\" But the tears kept coming.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The white rabbit hurries through the hallway again, now dropping a tiny fan and white gloves in his haste. He doesn't see giant Alice. Alice reaches down to pick up the fan." },
+      "ar": { "text": "مرّ الأرنب الأبيض مرّةً أخرى! لم يرَ أليس الضخمة. أسقط مروحته الصغيرة وقفّازَيه البيضاوَين. التقطت أليس المروحة. وعندما بدأت تروّح نفسها، شعرت بشيءٍ غريب يحدث...", "voice": "shimmer" },
+      "en": { "text": "The white rabbit hurried through again! He didn't see giant Alice. He dropped his tiny fan and white gloves in his hurry. Alice picked up the fan. As she began to fan herself, she felt something strange happen...", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Alice quickly shrinks down small again, now floating on her own tears like a sea. The pool seems enormous around tiny Alice. She paddles using her hands." },
+      "ar": { "text": "بدأت أليس تصغر مرّةً أخرى! صغيرة جداً، حتى سقطت في بركة دموعها! صارت الدموع بحراً ضخماً حولها. سبحت بيدَيها الصغيرتَين، تبحث عن شاطئ. قالت: «يا لها من مغامرة عجيبة!»", "voice": "shimmer" },
+      "en": { "text": "Alice began to shrink again! So small that she fell into her own tear pool! It became a huge sea around her. She paddled with her tiny hands, looking for shore. She said, \"What a curious adventure!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Tiny Alice swims through her tear-lake alongside other small creatures — a friendly mouse, a duck, a dodo bird, a lory parrot. All are swimming together cheerfully toward a shore in the distance." },
+      "ar": { "text": "وجدت أليس فأراً صغيراً يسبح بجانبها. ثم بطّة، ثم طائر «دودو» غريب، وببغاء! كانوا كلهم في بركة الدموع. سبحوا معاً نحو شاطئٍ بعيد، يضحكون ويتحدّثون عن المغامرات.", "voice": "shimmer" },
+      "en": { "text": "Alice found a little mouse swimming beside her. Then a duck, a strange Dodo bird, and a parrot! All in the tear pool. Together they swam to a far shore, laughing and talking of adventures.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Alice wakes up under the tree where she started, her sister still reading beside her. Daisies bloom. Alice smiles, a little dazed but full of wonder, having dreamed her adventure." },
+      "ar": { "text": "وفجأة، استيقظت أليس! كانت تحت الشجرة، وأختها تقرأ بجانبها. كل شيءٍ كان حلماً! ابتسمت أليس بسعادة. قامت تجري إلى البيت لتروي لأمها حلمها العجيب. ومن ذلك اليوم، لم تمل من الكتب أبداً.", "voice": "shimmer" },
+      "en": { "text": "Suddenly, Alice woke up! She was under the tree, her sister still reading beside her. It had all been a dream! Alice smiled with joy. She ran home to tell her mother of her wondrous dream. From that day on, she was never bored of books again.", "voice": "fable" }
+    }
+  ]
+}
