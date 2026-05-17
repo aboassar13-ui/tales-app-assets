@@ -1,0 +1,107 @@
+{
+  "id": "beauty_and_beast",
+  "category": "fairy_tale",
+  "source": "Jeanne-Marie Leprince de Beaumont, 1756 (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 10,
+  "style_suffix": "warm watercolor children's book illustration, enchanted castle palette with roses, expressive kind beast (gentle bear-like creature, not scary), graceful young woman, candlelight interiors, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind young woman in a flowing yellow gown stands beside a tall, gentle beast (large but kind-eyed, with shaggy fur) in an enchanted rose garden; a single magical red rose glows softly between them"
+  },
+  "i18n": {
+    "ar": { "title": "الجميلة والوحش", "subtitle": "حكاية من بومونت", "tagline": "وحشٌ بقلبٍ كريم، فتاةٌ تكسر التعويذة بالحبّ" },
+    "en": { "title": "Beauty and the Beast", "subtitle": "A Tale by Madame de Beaumont", "tagline": "A kind beast, a brave young woman, and love that breaks a spell" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A modest cottage in a snowy winter forest. A merchant father in a long coat says goodbye to his three daughters at the doorway. The youngest, Beauty, hugs him warmly. The two older sisters look more interested in shopping than in him." },
+      "ar": { "text": "كان هناك تاجرٌ له ثلاث بنات. الكبرى والوسطى أحبتا الجواهر والملابس. أمّا الصغرى، بِلّ، فأحبّت الكتب والورود البسيطة. سمّوها «الجميلة» لطيب قلبها أكثر من شكلها.", "voice": "shimmer" },
+      "en": { "text": "There once was a merchant with three daughters. The two elder loved jewels and fine clothes. The youngest, Belle, loved books and simple roses. They called her \"Beauty\" — for her kind heart more than her face.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The merchant rides his horse through a heavy snowstorm in a dark forest at night. He's clearly lost. Trees loom around him. He clutches his cloak against the wind." },
+      "ar": { "text": "ذات يوم، سافر التاجر في رحلة. عاد فيها قبل عاصفةٍ شديدة. ضاع في غابةٍ كثيفة. هبّت ريحٌ باردة، وتسلّقت الثلوج. شعر بالخطر. ثم رأى قصراً كبيراً يلمع من بعيد!", "voice": "shimmer" },
+      "en": { "text": "One day, the merchant traveled on business. On his way home, a fierce storm struck. He was lost in a thick forest. Cold winds howled, snow piled high. He felt in danger. Then he saw a great castle glowing in the distance!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Inside an enchanted castle. A grand hall with a long table set lavishly with a warm meal — bread, soup, fruit, wine. The merchant enters, looking awed. There are no other people visible — the food is set as if by magic." },
+      "ar": { "text": "دخل القصر فلم يجد أحداً، لكنّ النار كانت مشتعلة، والمائدة كانت ممتلئة بالطعام! ظنّ أنّه قصرٌ مسحور. أكل وشرب، ثم نام في غرفةٍ دافئة. صحا في الصباح، فوجد ملابس جديدة بانتظاره!", "voice": "shimmer" },
+      "en": { "text": "He entered the castle and found no one — but a fire was lit, and the table was set with food! He thought it must be enchanted. He ate, drank, and slept in a warm bedroom. He woke to find fresh clothes waiting for him!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The merchant in the castle garden, ready to leave. He spots a single perfect red rose and reaches out to pluck it for Beauty. The rose glows magically. The garden is full of roses but this one stands out." },
+      "ar": { "text": "قبل أن يرحل، تذكّر التاجر: «طلبت بِلّ منّي وردةً حمراء.» مرّ في حديقة القصر، فرأى وردةً جميلة، وقطفها. وفجأةً — هزّ القصر صوتٌ مدوّ! ظهر وحشٌ كبير وغاضب!", "voice": "shimmer" },
+      "en": { "text": "Before leaving, the merchant remembered, \"Belle asked me for a red rose.\" He walked through the castle garden, saw a perfect rose, and plucked it. Suddenly — the castle shook with a roar! A great beast appeared, looking angry!", "voice": "shimmer" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A large gentle-looking beast (more bear-like than scary, with kind eyes despite his size) confronts the merchant in the rose garden. The merchant kneels, looking apologetic. The beast looks dignified, not violent." },
+      "ar": { "text": "صرخ الوحش: «أنا أطعمتُك وأكرمتك، وأنت تسرق وردتي؟!» ركع التاجر مرتجفاً: «أرجوك! إنها لابنتي، طلبتها منّي.» نظر الوحش بحزن. قال بصوتٍ منخفض: «إذا أردتَ النجاة، فأرسل ابنتك إليّ لتعيش في قصري. وإلّا، فسأموت كثيراً.»", "voice": "shimmer" },
+      "en": { "text": "The beast cried, \"I fed you, sheltered you, and you steal my rose?!\" The merchant knelt trembling, \"Please! It's for my daughter — she asked for it.\" The beast looked sad. He said softly, \"If you wish to live, send your daughter to live in my castle. Otherwise, much grief will come.\"", "voice": "shimmer" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Beauty (a young woman with kind eyes) and her father sit at home, both holding the red rose. The father looks distressed, Beauty looks brave and determined. Her two older sisters watch from the side, looking shocked." },
+      "ar": { "text": "عاد التاجر يبكي، وحكى ما حدث. قالت بِلّ بشجاعة: «لا تخف يا أبي. سأذهب بدلاً منك. الوحش لم يقتلك حين سرقت الوردة، فربّما يكون قلبه طيّباً.»", "voice": "shimmer" },
+      "en": { "text": "The merchant returned in tears and told what had happened. Belle said bravely, \"Don't fear, Father. I will go in your place. The beast didn't harm you when you took the rose — perhaps his heart is kind.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Beauty arrives at the enchanted castle in a horse-drawn carriage. She enters the magnificent gates alone, carrying a small bag. The castle glows warmly. She looks brave but a bit nervous." },
+      "ar": { "text": "ودّعت بِلّ أهلها، ووصلت إلى القصر. كان ضخماً ومرعباً قليلاً. ولكن في الداخل، كانت غرف مليئةً بالكتب والزهور! ظهر الوحش. كانت بِلّ خائفة، لكنها لم تجري. سألها بصوتٍ هادئ: «هل أنتِ مرتاحة؟»", "voice": "shimmer" },
+      "en": { "text": "Belle said farewell to her family and reached the castle. It was grand and a little frightening. But inside, the rooms were full of books and flowers! The beast appeared. Belle was afraid, but she didn't run. He asked gently, \"Are you comfortable?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Beauty and the Beast sit on opposite sides of a long dining table for supper. The candles flicker. The Beast eats carefully and politely. Beauty looks more at ease now, talking with him." },
+      "ar": { "text": "تعشّيا معاً. تحدّث الوحش معها بأدبٍ ولطف. لاحظت بِلّ أنّ صوته حزين، لكنّه ذكيٌّ. سألها كلّ ليلة: «هل ستتزوّجينني، يا بِلّ؟» كانت تجيب: «أنت طيّب، لكنّي لا أحبّك حبّ الزوج.» يحزن، لكن لا يغضب.", "voice": "shimmer" },
+      "en": { "text": "They ate together. The Beast spoke to her politely and kindly. Belle noticed that his voice was sad, but wise. Each night he asked her, \"Will you marry me, Belle?\" She answered, \"You are kind, but I don't love you as a husband.\" He was sad, but never angry.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Beauty walks through a grand library full of golden-spined books from floor to ceiling. She marvels at the collection. A small enchanted candelabrum floats beside her, lighting her way. She picks a book and smiles." },
+      "ar": { "text": "اكتشفت بِلّ أنّ في القصر مكتبةً ضخمة! آلاف الكتب! كانت تقرأ كل يوم. عاشت في القصر شهراً. شيئاً فشيئاً، أحبّت أحاديثها مع الوحش. كانت ترى عينيه الطيّبتين خلف وجهه الغريب.", "voice": "shimmer" },
+      "en": { "text": "Belle discovered the castle had a huge library! Thousands of books! She read each day. She lived in the castle for a month. Bit by bit, she came to love her talks with the Beast. She saw his kind eyes behind his strange face.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Beauty and the Beast walk together in the rose garden in the evening. They laugh together. A magical mirror floats near Beauty, showing an image of her family in the distance. The Beast watches respectfully." },
+      "ar": { "text": "أعطاها الوحش مرآةً سحرية، يمكنها أن ترى فيها أهلها. نظرت — رأت والدها مريضاً! حزنت كثيراً. قالت للوحش: «أرجوك! دعني أذهب أراه. سأرجع.» وافق الوحش، رغم حزنه: «اذهبي، لكن عودي خلال أسبوع، وإلّا سأذبل.»", "voice": "shimmer" },
+      "en": { "text": "The Beast gave her a magic mirror that showed her family. She looked — and saw her father was ill! She was grieved. She said, \"Please, let me go see him. I will return.\" The Beast agreed, though sadly, \"Go — but return within a week, or I shall wither.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Beauty hugs her bedridden father at her family home. He smiles weakly. Her two older sisters look at her in awe — she's now wearing a fine gown. She sets a small ring on the bedside table." },
+      "ar": { "text": "وصلت بِلّ إلى بيتها. أبيها ضعيف. عناقته فبدأ يتعافى. أرادت بِلّ أن تبقى لتساعده. كانت أختاها الكبيرتان غيورتَين من فستانها الفاخر، فأقنعتاها بالبقاء أكثر، لتنسى الوحش.", "voice": "shimmer" },
+      "en": { "text": "Belle reached home. Her father was weak. Her embrace began to heal him. She wanted to stay and care for him. Her two elder sisters, jealous of her fine dress, urged her to stay longer, hoping she would forget the Beast.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Beauty looks worried into the magic mirror at night by candlelight. The mirror shows the Beast lying in the rose garden, looking weak and sad. Roses around him are wilting. Beauty's eyes fill with tears, and she clutches the mirror to her chest." },
+      "ar": { "text": "مرّ أسبوع. بدأت بِلّ تنسى وعدها. في الليلة العاشرة، نظرت في المرآة — رأت الوحش متعباً، حزيناً، يكاد يموت في حديقة الورد! بكت بِلّ: «أنا التي سبّبت له هذا! إنّه صديقي العزيز!» ركضت إلى القصر فوراً.", "voice": "shimmer" },
+      "en": { "text": "A week passed. Belle began to forget her promise. On the tenth night, she looked in the mirror — and saw the Beast, weak and sad, almost dying in the rose garden! She wept, \"I have done this to him! He is my dear friend!\" She ran to the castle at once.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Beauty rushes through the dark castle garden by moonlight, finding the Beast lying among wilted roses. She kneels beside him, holding his huge paw, crying. The Beast looks barely conscious." },
+      "ar": { "text": "وصلت بِلّ إلى القصر. وجدت الوحش يستلقي بين الورد المتساقط. كانت روحه ضعيفة. ركعت بقربه، أمسكت يده، وبكت: «استيقظ، أرجوك! لا تتركني! أنا أحبّك!»", "voice": "shimmer" },
+      "en": { "text": "Belle reached the castle. She found the Beast lying among the fallen roses. His life was fading. She knelt by him, took his paw, and wept, \"Wake up, please! Don't leave me! I love you!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "In a magical moment, golden light surrounds the Beast. He transforms into a kind handsome young prince. Beauty's eyes widen in wonder. The roses around them bloom anew in brilliant colors. Stars sparkle overhead." },
+      "ar": { "text": "وفي تلك اللحظة، حدث المعجزة! ضوءٌ ذهبيٌّ غطّى الوحش. تحوّل، واختفى! وفي مكانه، ظهر أميرٌ شابٌّ وسيم! ابتسم لها: «شكراً لك! ساحرةٌ شريرة سحرتني، ولم يكسر التعويذة إلّا قلبٌ يحبّ.»", "voice": "shimmer" },
+      "en": { "text": "And in that moment, the miracle happened! Golden light wrapped the Beast. He transformed and vanished! In his place stood a kind handsome young prince! He smiled at her, \"Thank you! A wicked enchantress cursed me, and only a heart that loves could break the spell.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The prince and Beauty stand together in the now magnificent rose garden, smiling. Servants of the castle, also freed from enchantment, appear from doorways. Beauty's father arrives in a carriage in the background. Everyone is joyful." },
+      "ar": { "text": "تحرّر القصر كلّه من السحر — الخدم، والحدائق، والقصر. تزوّج الأمير بِلّ في احتفالٍ عظيم. حضر والدها وأختاها — تعلّمتا أخيراً ألّا تكونا غيورَتَين. عاشوا معاً في سعادةٍ، وتعلّمت بِلّ درساً: «الجمال الحقيقي في القلب، والحبّ يكسر كلّ التعاويذ.»", "voice": "shimmer" },
+      "en": { "text": "The whole castle was freed from enchantment — the servants, the gardens, all of it. The prince married Belle in a great celebration. Her father and sisters came — the sisters had finally learned not to be envious. They all lived happily, and Belle learned a lesson, \"True beauty lies in the heart, and love can break any spell.\"", "voice": "fable" }
+    }
+  ]
+}

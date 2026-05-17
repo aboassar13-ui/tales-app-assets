@@ -1,0 +1,65 @@
+{
+  "id": "north_wind_and_sun",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 4,
+  "style_suffix": "warm watercolor children's book illustration, sky and meadow palette, expressive personifications of wind (blue-cheeked face in clouds) and sun (smiling golden face), gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A friendly smiling sun in golden rays in the sky and a friendly puffy-cheeked North Wind in a cloud both look down at a traveler walking on a country road below; the traveler wears a warm green coat"
+  },
+  "i18n": {
+    "ar": { "title": "الريح والشمس", "subtitle": "حكاية من حكايات إيسوب", "tagline": "أيّهما أقوى: القوّة أم اللطف؟" },
+    "en": { "title": "The North Wind and the Sun", "subtitle": "An Aesop's Fable", "tagline": "Which is stronger — force or kindness?" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "High in the sky, the Sun (a kind golden face within rays) and the North Wind (a puffy-cheeked face in clouds) face off, looking at each other competitively. They appear to be arguing." },
+      "ar": { "text": "في يومٍ من الأيام، تجادلت الريح الشمالية مع الشمس. قالت الريح بفخر: «أنا أقوى منكِ! أهزّ الأشجار، وأطفئ النار، وأرفع الأمواج!» ضحكت الشمس بهدوء: «هل أنت حقّاً أقوى منّي؟ لنُجرّب!»", "voice": "fable" },
+      "en": { "text": "One day, the North Wind argued with the Sun. The Wind boasted, \"I am stronger than you! I shake trees, I put out fires, I raise great waves!\" The Sun smiled calmly, \"Are you truly stronger than me? Let's try!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "On a country road below, a traveler in a green wool coat walks peacefully along the path. The Sun and Wind both look down at him from the sky, considering a contest." },
+      "ar": { "text": "نظرت الشمس إلى الأرض، فرأت رجلاً يمشي في الطريق، يلبس معطفاً صوفياً. قالت الشمس: «الذي يستطيع أن يجعل هذا الرجل يخلع معطفه، يكون الأقوى. تبدئين أنتِ.»", "voice": "fable" },
+      "en": { "text": "The Sun looked down to the earth and saw a man walking along the road, wearing a wool coat. The Sun said, \"Whoever can make this man take off his coat is the stronger. You go first.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The North Wind blows hard with puffed-out cheeks. Strong wind lines whip across the scene. The traveler clutches his coat tightly, leaning into the wind, refusing to let it go." },
+      "ar": { "text": "بدأت الريح. نفخت بكلّ قوّتها! هبّت ريحٌ باردةٌ شديدة! اهتزّت الأشجار، وطار التراب. لكنّ الرجل... شدّ معطفه أكثر، وأمسك الياقة بقوّة. لم يخلعه!", "voice": "fable" },
+      "en": { "text": "The Wind began. He blew with all his might! A fierce cold gust rushed down! Trees swayed, dust flew. But the man — he clutched his coat tighter and held the collar firmly. He did not take it off!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The North Wind blows even harder, puffing cheeks even more dramatically. Leaves and dust swirl wildly. The traveler holds his coat against his body and walks bent over against the wind, still refusing." },
+      "ar": { "text": "نفخت الريح أقوى وأقوى! تطاير وَرَق الأشجار في كل مكان. لكن كلّما اشتدّت الريح، شدّ الرجل معطفه أكثر، وضمّه إلى جسده. شعر بالبرد، فلم يخلعه أبداً.", "voice": "fable" },
+      "en": { "text": "The Wind blew harder and harder! Tree leaves scattered everywhere. But the more the Wind blew, the tighter the man held his coat. He felt cold, so he never thought to take it off.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The North Wind, exhausted, slumps in the sky, his cheeks deflated and red. The Sun smiles kindly, ready for his turn. The traveler below has stopped walking, still wearing his coat, looking up at the now-calm sky." },
+      "ar": { "text": "تعبت الريح أخيراً. توقّفت، ولم يخلع الرجل معطفه. قالت الشمس بلطف: «الآن دوري.» ابتسمت ابتسامتها الذهبية، وبدأت تشرق.", "voice": "fable" },
+      "en": { "text": "The Wind finally grew tired. He stopped, and the man still wore his coat. The Sun said gently, \"Now it's my turn.\" She smiled her golden smile, and began to shine.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The Sun shines brightly, beams stretching down to the traveler. The day grows warm. The traveler looks up at the warm sun, his expression relaxing. He starts to feel hot." },
+      "ar": { "text": "أرسلت الشمس أشعّتها الدافئة على الأرض. شعر الرجل بالدفء يدخل قلبه. وكلّما أشرقت أكثر، صار الجوّ أحرّ. مسح الرجل العرق عن جبينه، وفكّر: «ما ألطف الشمس!»", "voice": "fable" },
+      "en": { "text": "The Sun cast her warm rays upon the earth. The man felt warmth enter his heart. The more she shone, the warmer it grew. The man wiped sweat from his brow and thought, \"How kind the Sun is!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The traveler unbuttons his coat under the warm sunshine. He stretches, then takes off the coat completely and carries it folded over his arm. He's smiling, enjoying the warmth. Flowers bloom around him." },
+      "ar": { "text": "أصبح الجوّ حارّاً جداً! فكّ الرجل أزرار معطفه. ثم خلعه تماماً، وحمله على ذراعه. ابتسم بسعادة، وقال لنفسه: «يا له من يومٍ جميل!»", "voice": "fable" },
+      "en": { "text": "The day grew very warm! The man unbuttoned his coat. Then he took it off entirely and folded it over his arm. He smiled with pleasure, saying to himself, \"What a lovely day!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "In the sky, the Sun shines proudly, while the North Wind looks down humbly, no longer boastful. They are both smiling now — friends rather than rivals. Below, the man walks contentedly without his coat." },
+      "ar": { "text": "نظرت الريح بدهشة. قالت بتواضع: «أنتِ الأقوى، يا أختي! تعلّمتُ شيئاً مهماً: اللطف يفعل ما لا تفعله القوّة.» ضحكت الشمس، وعانقت الريح بأشعّتها. ومنذ ذلك اليوم، أصبحا أعزّ الأصدقاء.", "voice": "fable" },
+      "en": { "text": "The Wind watched in amazement. He said humbly, \"You are the stronger, sister! I have learned an important thing: kindness can do what force cannot.\" The Sun laughed and embraced the Wind with her rays. From that day on, they became the dearest friends.", "voice": "fable" }
+    }
+  ]
+}

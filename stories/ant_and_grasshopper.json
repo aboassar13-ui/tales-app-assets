@@ -1,0 +1,107 @@
+{
+  "id": "ant_and_grasshopper",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, summer meadow and winter snowy palette, cute cartoon ant in workman cap and friendly grasshopper with a tiny fiddle, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A small cartoon ant in a workman's cap carries a large grain seed along a sunny path, while a green grasshopper with a tiny fiddle plays music in tall blades of grass behind him; bright summer sunlight"
+  },
+  "i18n": {
+    "ar": { "title": "النملة والجندب", "subtitle": "حكاية من حكايات إيسوب", "tagline": "العمل في الصيف ينقذك في الشتاء" },
+    "en": { "title": "The Ant and the Grasshopper", "subtitle": "An Aesop's Fable", "tagline": "Hard work today prepares for tomorrow" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A sunny green meadow with wildflowers. A small ant in a tiny workman's cap walks purposefully along a path, carrying a single large wheat grain that is as big as he is. The sun is bright and warm above." },
+      "ar": { "text": "في صباحٍ صيفيّ، كانت نملةٌ صغيرة تعمل في الحقل. تحمل حبّةً من القمح أكبر منها بكثير، وتسير ببطء نحو بيتها. كانت تجمع الطعام لكلّ الصيف.", "voice": "fable" },
+      "en": { "text": "On a sunny summer morning, a little ant was working in the meadow. She carried a grain of wheat much larger than herself, walking slowly toward her home. She was gathering food for all the summer long.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A cheerful green grasshopper plays a tiny fiddle while sitting on a tall blade of grass, eyes closed in musical delight. Butterflies flutter around him. He has a happy carefree smile." },
+      "ar": { "text": "تحت شمس الصيف، كان جندبٌ أخضر يجلس على ورقةٍ ويعزف على كمنجةٍ صغيرة. كان يغنّي ويرقص بفرحٍ. كان الصيف بالنسبة له موسماً للموسيقى فقط.", "voice": "fable" },
+      "en": { "text": "Under the summer sun, a green grasshopper sat on a leaf and played a tiny fiddle. He sang and danced with delight. To him, summer was a season just for music.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The grasshopper plays his fiddle right beside the working ant. He laughs and gestures at her, asking her to join him. The ant pauses, looking up at him with a polite but tired smile, still holding her grain." },
+      "ar": { "text": "رأى الجندبُ النملةَ وضحك. قال: «يا نملة! لمَ تتعبين هكذا في يومٍ جميل؟ تعالي العبي معي!» توقّفت النملة لحظة قصيرة وقالت: «أنا أجمع طعاماً للشتاء. الشتاء قريب، ولا بدّ أن أستعدّ.»", "voice": "fable" },
+      "en": { "text": "The grasshopper saw the ant and laughed. \"Little ant! Why work so hard on a fine day? Come and play with me!\" The ant paused briefly and said, \"I am gathering food for winter. Winter is coming, and I must be ready.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The grasshopper waves dismissively and lies back on the grass laughing, while the ant continues walking with her grain. Plenty of sunshine and flowers around. A subtle hint of an approaching season — leaves slightly tinged yellow — in the corner." },
+      "ar": { "text": "ضحك الجندب أكثر. «الشتاء؟ الشتاء بعيد! تعالي العبي قبل أن ينتهي الصيف!» نظرت إليه النملة بصبر، ثم تابعت طريقها. قالت لنفسها: «لكلٍّ طريقته. أنا أرى ما لا يراه هو.»", "voice": "fable" },
+      "en": { "text": "The grasshopper laughed even harder. \"Winter? Winter is far away! Come and play before the summer ends!\" The ant looked at him patiently, then continued on her way. She thought to herself, \"Each of us has a way. I see what he does not see.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Inside the ant's underground home: a cosy series of small rooms with multiple chambers full of stored grain, seeds, dried berries, and bits of bread. Several ants work together organizing supplies. Soft lamplight glows." },
+      "ar": { "text": "في بيت النملة تحت الأرض، كانت الغرف مليئة بالحبوب والبذور. كانت النملة وعائلتها يخزّنون كلّ يوم. عملوا في الصباح، وفي الظهر، وفي العصر، دون أن يتعبوا. كانت السعادة عندهم في الاستعداد.", "voice": "fable" },
+      "en": { "text": "In the ant's underground home, the rooms were filled with grain, seeds, and dried berries. The ant and her family stored away food each day. They worked through morning, noon, and afternoon without tiring. Their happiness lay in being prepared.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The grasshopper continues to play and dance during summer. Other ants behind him carry various items — leaves, seeds, drops of nectar. Birds fly south overhead, a hint of autumn beginning to creep in." },
+      "ar": { "text": "مرّ الصيف بسرعة. كان الجندب يلعب كلّ يوم، ولا يفكّر في الغد. كانت النملة وأخواتها يمررن من حوله، ولا يتوقّفن. كانت السماء تتغيّر قليلاً، والطيور تطير جنوباً.", "voice": "fable" },
+      "en": { "text": "Summer flew by. The grasshopper played each day, thinking nothing of tomorrow. The ant and her sisters passed by him, never stopping. The sky was changing, and birds were flying south.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Autumn arrives. Leaves are now bright orange and red, falling from trees. The grasshopper now plays a slower tune, looking around with a hint of concern. The wind blows leaves around. The ants still hurry past, carrying things faster than before." },
+      "ar": { "text": "جاء الخريف. تساقطت الأوراق الصفراء والحمراء. أصبح الجوّ بارداً قليلاً، لكنّ الجندب ما زال يعزف، رغم أنّ النغمات صارت أبطأ. بدأ يشعر بشيءٍ من القلق. لكنّه طمأن نفسه: «ربّما الشتاء ليس بهذا السوء.»", "voice": "fable" },
+      "en": { "text": "Autumn came. Yellow and red leaves fell from the trees. The air grew a little cold, but the grasshopper still played, his tunes slower now. He began to feel a small worry. But he reassured himself, \"Maybe winter won't be so bad.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Winter has arrived. Snow blankets the meadow. The grasshopper, looking thin and shivering, sits alone on a snow-covered rock, his fiddle resting in his lap silently. He hugs himself for warmth. Snowflakes fall around him." },
+      "ar": { "text": "وأخيراً، جاء الشتاء. سقط الثلج وغطّى كلّ شيء بالأبيض. اختفت الأزهار، وذبل العشب. ارتجف الجندب من البرد، ولم يجد طعاماً ولا مأوى. كانت كمنجته الصغيرة صامتة. شعر بالجوع والوحدة.", "voice": "fable" },
+      "en": { "text": "At last, winter arrived. Snow fell and covered everything in white. The flowers vanished, and the grass withered. The grasshopper shivered in the cold, and could find neither food nor shelter. His tiny fiddle stayed silent. He felt hungry and very alone.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The grasshopper, weak from cold and hunger, approaches a small mound of earth — the entrance to the ant's underground home. Smoke curls from a tiny chimney, suggesting warmth inside. He hesitates, then knocks at the small door." },
+      "ar": { "text": "تذكّر الجندب أنّ النملة كانت تجمع الطعام طوال الصيف. مشى ببطءٍ نحو بيتها تحت الأرض. كان الدخان الصغير يتصاعد من المدخنة الصغيرة. وقف عند الباب ودقّ بخفّةٍ. كانت آخر فرصته.", "voice": "fable" },
+      "en": { "text": "The grasshopper remembered that the ant had been gathering food all summer long. He walked slowly toward her underground home. A tiny wisp of smoke rose from her chimney. He stood at the door and knocked weakly. It was his last hope.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The ant opens her tiny door. Behind her, warm light glows from inside her cozy home. She looks at the shivering grasshopper with a mix of sympathy and gentle reproach. He stands trembling, head bowed humbly." },
+      "ar": { "text": "فتحت النملة الباب. رأت الجندب يرتعش. نظرت إليه بدهشةٍ ثمّ بحنانٍ. قالت: «يا جندب! تذكّر ماذا كنتُ أفعل في الصيف؟» انخفض رأس الجندب وقال بحزن: «كنتِ تعملين، وأنا كنتُ ألعب. أرجوكِ يا نملة، أنا أتجمّد!»", "voice": "fable" },
+      "en": { "text": "The ant opened the door. She saw the trembling grasshopper. She looked at him in surprise, then with kindness. She said, \"Grasshopper! Do you remember what I was doing in summer?\" His head dropped sadly. \"You were working, and I was playing. Please, kind ant — I am freezing!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The grasshopper sits warmly inside the ant's home by a small fire, wrapped in a tiny blanket, eating from a small bowl. The ant sits across from him, smiling gently and offering him a cup of warm tea. The home is cosy and full of stored food." },
+      "ar": { "text": "كانت النملة طيّبة، رغم أنّ الجندب لم يأخذ نصيحتها. أدخلته البيت. وضعت أمامه طبقاً من الحبوب وكوب شاي ساخن. غطّته بغطاءٍ صغير. قالت: «كُل واسترح يا صديقي. ستبقى معنا حتى يأتي الربيع.»", "voice": "fable" },
+      "en": { "text": "The ant was kind, even though the grasshopper had ignored her advice. She let him inside. She set before him a bowl of grain and a cup of warm tea. She covered him with a small blanket. She said, \"Eat and rest, friend. You shall stay with us until spring comes.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The grasshopper and the ant working together side by side now — the grasshopper carries grain too, even though he's bigger. They walk along a snowy path with smiles. Their breath shows in cold air, but they look content." },
+      "ar": { "text": "قبل الجندب بامتنانٍ كبير. وعد النملة قائلاً: «من اليوم، سأعمل أنا أيضاً. وحتى في الربيع القادم، سأساعدكم في جمع الطعام، وأعزف لكم في المساء فقط.» ابتسمت النملة وقالت: «اتّفقنا!»", "voice": "fable" },
+      "en": { "text": "The grasshopper accepted with great gratitude. He promised the ant, \"From today, I shall work too. And next spring, I will help you gather food — and play music only in the evenings.\" The ant smiled and said, \"It's a deal!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Spring returns. The meadow blooms again. The grasshopper, alongside the ant, carries a large seed cheerfully. In the evening light, other ants gather around as the grasshopper plays his fiddle while they enjoy supper outside." },
+      "ar": { "text": "جاء الربيع. حافظ الجندب على وعده. كان يعمل مع النمل كل صباح، ويعزف في المساء فقط. وفي ذلك الشتاء التالي، كان لديه بيته الخاص — صغيراً لكن دافئاً، ومخزنه ممتلئاً.", "voice": "fable" },
+      "en": { "text": "Spring came. The grasshopper kept his promise. He worked with the ants every morning, and played his fiddle only in the evenings. The next winter, he had his very own home — small but warm, with a pantry full of food.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The ant and the grasshopper, now best friends, sit together at evening time outside their adjacent small homes, sharing a meal under a starlit sky. The grasshopper plays a soft tune, and the ant hums along. Fireflies float around them." },
+      "ar": { "text": "وأصبح الجندب والنملة أعزّ الأصدقاء. كانا يجتمعان كل مساء، تعزف هو الموسيقى، وتحضر هي العشاء. تعلّم الجندب أنّ العمل لا يلغي الفرح، بل يجعله أحلى عندما يأتي.", "voice": "fable" },
+      "en": { "text": "And so the grasshopper and the ant became the best of friends. Every evening they gathered together — he played music, and she brought supper. The grasshopper learned that work does not replace joy — it makes joy sweeter when it comes.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "A warm closing scene: many small ants and the grasshopper standing together at sunset in front of a meadow of flowers. They wave at the viewer happily. The sun sets in pinks and oranges. Wheat is harvested in neat bundles." },
+      "ar": { "text": "ومن ذلك اليوم، صارت الحكاية تُروى لكلّ الحيوانات الصغار: «اعمل في الصيف، وأنتَ في الشتاء آمن. ومن أحبّ أصدقاءه، عاش بسعادةٍ في كلّ الفصول.»", "voice": "fable" },
+      "en": { "text": "From that day on, this tale has been told to every small creature: \"Work in summer, and in winter you'll be safe. And whoever loves their friends, lives happily in every season.\"", "voice": "fable" }
+    }
+  ]
+}

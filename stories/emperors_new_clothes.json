@@ -1,0 +1,125 @@
+{
+  "id": "emperors_new_clothes",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 7,
+  "style_suffix": "warm watercolor children's book illustration, royal palace and town palette, expressive comedic faces, ornate but cartoony costumes, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A vain emperor in a comically large royal coat stands before two cunning weavers at an empty loom; the weavers pantomime weaving invisible cloth with grand gestures, while the emperor squints to see something he cannot"
+  },
+  "i18n": {
+    "ar": { "title": "ملابس الإمبراطور الجديدة", "subtitle": "حكاية من حكايات أندرسن", "tagline": "إمبراطورٌ مغرور، نسّاجان مخادعان، وطفلٌ يقول الحقيقة" },
+    "en": { "title": "The Emperor's New Clothes", "subtitle": "A Tale by Hans Christian Andersen", "tagline": "A vain emperor, two clever tricksters, and a child who tells the truth" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A vain emperor in elaborate richly decorated robes stands before a huge wardrobe full of dozens of colorful outfits. He admires himself in a tall mirror. His face shows extreme self-satisfaction. A courtier behind him bows." },
+      "ar": { "text": "في مملكةٍ بعيدة، حكم إمبراطورٌ كان يحبّ ملابسه أكثر من أيّ شيءٍ آخر. كان عنده آلاف الأثواب، يغيّر ثوبه كل ساعة! كان يقضي يومه أمام المرآة، يفكّر: ماذا ألبس بعد؟", "voice": "fable" },
+      "en": { "text": "In a faraway kingdom, there ruled an emperor who loved his clothes above all else. He had thousands of outfits, and he changed his clothes every hour! He spent his days before the mirror, wondering, \"What shall I wear next?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Two clever-looking strangers in patched merchant clothes arrive at the city gates, carrying empty suitcases and looking sly. They look up at a tall castle. A sign suggests they are weavers offering services." },
+      "ar": { "text": "في يومٍ من الأيام، جاء إلى المدينة رجلان غريبان. ادّعيا أنهما نسّاجان عظيمان. قالا: «نحن نصنع أجمل قماشٍ في الدنيا، لكنّه قماشٌ سحري! من كان غبياً أو لا يستحق منصبه، فلا يستطيع رؤيته!»", "voice": "fable" },
+      "en": { "text": "One day, two strange men came to the city. They claimed to be great weavers. \"We make the finest cloth in the world,\" they said. \"But it is magic cloth! Anyone who is foolish or unfit for their job cannot see it at all!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The two weavers stand before the emperor in his throne room, gesturing dramatically about their special cloth. The emperor leans forward eagerly, eyes wide with greed and curiosity. Courtiers murmur excitedly." },
+      "ar": { "text": "وصل الخبر إلى الإمبراطور. فكّر: «قماشٌ كهذا سيكشف لي من في بلاطي غبيٌّ أو لا يستحقّ منصبه!» استدعى النسّاجَين، وأعطاهما ذهباً كثيراً، وأمر: «ابدآ صنع قماشي فوراً!»", "voice": "fable" },
+      "en": { "text": "Word reached the emperor. He thought, \"Such cloth will reveal which of my officials are foolish or unworthy!\" He summoned the weavers, gave them much gold, and commanded, \"Begin weaving my cloth at once!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The two weavers sit at large empty wooden looms in a workshop, pretending to weave with intense focus. Their hands move expertly through air. A pile of gold coins sits beside them. The looms are completely empty." },
+      "ar": { "text": "جلس النسّاجان أمام نولَين كبيرَين، ولكن... كانا فارغَين! تظاهرا بالعمل، يحرّكان أيديهما في الهواء، يطلبان أغلى الخيوط الذهبية والفضية. كانا يأخذون كل شيءٍ ويخفونه في كيس سرّي!", "voice": "fable" },
+      "en": { "text": "The two weavers sat at two large looms — but the looms were completely empty! They pretended to weave, moving their hands through the air. They demanded the most expensive gold and silver threads — and stole all of it into a secret bag!", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "An elderly minister in fine robes stands awkwardly in front of an empty loom, squinting hard at nothing. The two weavers gesture proudly at the air. The minister's face shows panic and forced enthusiasm." },
+      "ar": { "text": "أرسل الإمبراطور وزيره العجوز ليرى الكقماش. وقف الوزير أمام النول، ولم يرَ شيئاً! فكّر بفزع: «هل أنا غبي إذن؟ هل لا أستحقّ منصبي؟ لا، لن يعرف أحد!» ابتسم وقال: «إنه أجمل قماشٍ رأيته!»", "voice": "fable" },
+      "en": { "text": "The emperor sent his elderly minister to inspect the cloth. The minister stood before the loom — and saw nothing! He thought in alarm, \"Am I foolish, then? Am I unworthy of my post? No, no one shall know!\" He smiled and said, \"It is the most beautiful cloth I have ever seen!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A second courtier, a stout official with a long beard, examines the empty loom anxiously. His expression mirrors the first minister's panic. The weavers point out 'details' that aren't there." },
+      "ar": { "text": "ثم أرسل الإمبراطور وزيراً ثانياً. كان مثل الأول! لم يرَ شيئاً، لكنّه خاف أن يقول، فأعلن: «جميلٌ! ألوان لم أرَ مثلها!» تابع النسّاجان عملهما الزائف، وكلٌّ من رأى — أو لم يرَ — صمت!", "voice": "fable" },
+      "en": { "text": "Then the emperor sent a second minister. He was no different from the first! He saw nothing, but he was afraid to say so, and declared, \"Beautiful! Colors I have never seen!\" The weavers continued their pretend work, and everyone who saw — or did not see — kept silent!", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The emperor himself, with his entourage, comes to inspect the loom. He stands tall in royal robes, but his eyes show secret panic. The weavers and courtiers all smile expectantly. The emperor pretends to admire what he cannot see." },
+      "ar": { "text": "أخيراً، جاء الإمبراطور بنفسه. وقف أمام النول، ونظر... لم يرَ شيئاً! ارتجف داخله: «أنا الإمبراطور! لا يمكن أن لا أرى! يجب أن أتظاهر بالإعجاب!» قال بصوتٍ عالٍ: «رائع! يا له من قماش بديع!»", "voice": "fable" },
+      "en": { "text": "At last, the emperor came himself. He stood before the loom and looked — and saw nothing! Inside, he trembled, \"I am the emperor! It cannot be that I cannot see! I must pretend to admire!\" He said loudly, \"Wonderful! What a marvelous cloth!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The weavers pretend to cut and shape the invisible cloth with shears, working frantically over a large table. They mime fitting fabric to the emperor. The emperor stands stiffly in his royal undergarments, looking embarrassed but trying to seem proud." },
+      "ar": { "text": "صنع النسّاجان «الملابس» في الليل. تظاهرا بالقصّ والخياطة. في الصباح، طلبا من الإمبراطور أن يخلع ملابسه ليقيسا ما صنعاه. أمسكا الهواء كأنه قماش، وقالا: «انظر يا مولاي، إنه أخف من ريشة!»", "voice": "fable" },
+      "en": { "text": "The weavers \"made\" the clothes overnight. They pretended to cut and stitch. In the morning, they asked the emperor to undress so they could fit their work. They held air as if it were cloth, and said, \"See, sire — it is lighter than a feather!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The weavers pantomime helping the emperor into invisible clothes. They hold up nothing in front of him, adjusting straps and seams that don't exist. The emperor turns and admires himself in a full-length mirror — wearing only his underwear!" },
+      "ar": { "text": "ألبسا الإمبراطور «الملابس الجديدة» — لكنه كان شبه عاري! نظر إلى المرآة، وما زال لا يرى شيئاً. لكنه ابتسم: «إنه فعلاً قماشٌ خفيف! لا أحسّ به!» وفي قلبه، الخوف يتزايد.", "voice": "fable" },
+      "en": { "text": "They dressed the emperor in his \"new clothes\" — but he was nearly naked! He looked in the mirror, still seeing nothing. But he smiled, \"Yes, it is truly light cloth! I hardly feel it!\" And in his heart, his fear grew.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "A grand parade in the town. The emperor walks along a wide street in his underwear, holding his head high under a royal canopy. Two trumpeters lead the procession. Crowds of townspeople line the streets, looking stunned but afraid to react." },
+      "ar": { "text": "قرّر الإمبراطور أن يتجوّل في المدينة ليرى الناس ملابسه الجديدة. خرج محمولاً تحت مظلّةٍ ملكية، يسير في الشوارع... في ملابسه الداخلية فقط! اصطفّ الناس على الجانبين، وفمهم مفتوح من المفاجأة.", "voice": "fable" },
+      "en": { "text": "The emperor decided to parade through the city so all could see his new clothes. He went out beneath a royal canopy, walking through the streets — in his underclothes only! The people lined the streets, mouths open in astonishment.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The crowd stares at the parading emperor, but everyone is forcing themselves to look impressed. People whisper to each other, nodding. A row of adults pretend to admire the clothes with strained smiles. Most look extremely uncomfortable." },
+      "ar": { "text": "كلّ شخصٍ منهم فكّر مثل غيره: «لا أرى ملابساً! لكنّ الجميع يرى! إذن لا بدّ أنّ المشكلة فيّ!» فبدأ الناس يصفّقون ويصيحون: «يا له من قماش رائع! أحسن ملابس في الدنيا!»", "voice": "fable" },
+      "en": { "text": "Each one thought, like all the rest, \"I don't see any clothes! But everyone else does! So it must be that I am the foolish one!\" And so they clapped and cheered, \"What magnificent cloth! The finest clothes in the world!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "A small child, around 5 years old, sits on his father's shoulders in the crowd. The child points at the emperor with a confused, honest expression and opens his mouth to speak. The parent behind him looks slightly alarmed." },
+      "ar": { "text": "ولكن... وقف طفلٌ صغير وسط الناس على كتفي أبيه. نظر إلى الإمبراطور بدهشة، ثم قال بصوتٍ عالٍ وصادق: «انظروا! الإمبراطور لا يلبس شيئاً!»", "voice": "fable" },
+      "en": { "text": "But — in the middle of the crowd, a small child sat on his father's shoulders. He looked at the emperor with surprise, then said in a clear, honest voice, \"Look! The emperor isn't wearing anything!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The crowd starts to murmur. Adults look at each other, then at the emperor. Some begin to nod and giggle. The child's father, surprised, looks up and around with a slow grin. The truth is dawning across many faces." },
+      "ar": { "text": "صمت الأب أوّلاً، ثم همس: «صدق ولدي... فعلاً، الإمبراطور لا يلبس شيئاً!» انتشر الكلام بين الناس: «نعم! الطفل قال الحقيقة! إنه عارٍ تماماً!» بدأ الناس يضحكون.", "voice": "fable" },
+      "en": { "text": "The father was silent at first, then whispered, \"My son is right... truly, the emperor isn't wearing anything!\" The truth spread through the crowd, \"Yes! The child spoke the truth! He's completely bare!\" People began to laugh.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The emperor, mid-parade, hears the laughter. He looks alarmed and embarrassed, but tries to keep his dignity by holding his head higher. His servants holding the canopy look at each other awkwardly." },
+      "ar": { "text": "سمع الإمبراطور الضحك. أدرك الحقيقة كاملة: لقد خُدع! ارتبك. لكنه لم يتوقّف. قال لنفسه: «يجب أن أكمل المسيرة بكرامة، حتى لو كنتُ مفضوحاً.» ومشى ورأسه مرفوع.", "voice": "fable" },
+      "en": { "text": "The emperor heard the laughter. He grasped the whole truth: he had been deceived! He was confused. But he did not stop. He thought, \"I must finish this parade with dignity, even if I am exposed.\" And he walked on with his head high.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The two weavers are shown sneaking out of the city at dawn with bags overflowing with gold and silk threads. They look back over their shoulders, smirking. The sun rises behind them as they vanish on the road." },
+      "ar": { "text": "أمّا النسّاجان، فقد فرّا من المدينة في تلك الليلة، يحملان أكياسهما المليئة بالذهب والحرير الحقيقي. لم يرَهما أحدٌ بعد ذلك. وعاد الإمبراطور إلى قصره، وأمر أن يكون عنده وزيرٌ خاصٌّ ليقول له الحقيقة دائماً.", "voice": "fable" },
+      "en": { "text": "As for the two weavers — they fled the city that very night, carrying their bags of gold and real silk. They were never seen again. The emperor returned to his palace, and ordered that he should always have a special minister whose only job was to tell him the truth.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The emperor stands humbly in simpler clothes (now dressed normally), bowing to a small child who sits in his palace. Other ministers stand nearby, smiling. The emperor's expression is now wiser and kinder." },
+      "ar": { "text": "استدعى الإمبراطور الطفل الذي قال الحقيقة. شكره وقال: «أنت يا صغير علّمتني درساً لن أنساه. لقد كنتُ مغروراً، ولم أكن أحبّ سماع الحقيقة. الآن، أنا أعرف أنّ الصدق أعظم نعمة.»", "voice": "fable" },
+      "en": { "text": "The emperor summoned the child who had told the truth. He thanked him and said, \"Little one, you have taught me a lesson I shall never forget. I was vain, and did not love to hear the truth. Now I know that honesty is the greatest gift.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "The emperor in simpler but elegant clothes (clearly more sensible now) walks among townspeople in the marketplace, chatting with them as an equal. The townspeople smile genuinely. Children play around him." },
+      "ar": { "text": "تغيّر الإمبراطور بعد ذلك اليوم. لم يعد يهتمّ بالملابس كما كان. كان يخرج إلى الناس، يسمع منهم، ويعرف ما يحتاجون. وأصبحت مملكته أفضل. ولم ينسَ أبداً: «الإنسان قد يكذب على نفسه أكثر مما يكذب على غيره.»", "voice": "fable" },
+      "en": { "text": "The emperor was changed from that day on. He no longer cared about clothes as before. He walked among his people, listened to them, and learned what they needed. His kingdom became better for it. And he never forgot, \"A person can lie to himself more easily than to others.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "A wise elderly emperor reads a book of children's stories to a small group of children gathered around him in a sunny palace garden. The same boy who spoke the truth sits at his feet, now slightly older. Flowers and birds fill the scene." },
+      "ar": { "text": "كبر الإمبراطور، وأصبح يحكي قصّته للأطفال في حديقة القصر. وكان يبدأها دائماً بقوله: «احفظوا هذا الدرس يا صغار: الطفل الصغير قد يقول الحقيقة، والإمبراطور قد يخطئ. والحكيم من يستمع للحقيقة، حتى لو جاءته من فمٍ صغير.»", "voice": "fable" },
+      "en": { "text": "The emperor grew old and would tell his story to the children in the palace gardens. He always began it the same way, \"Remember this lesson, little ones: a small child may speak the truth, and an emperor may be wrong. The wise one listens to the truth — even when it comes from a small mouth.\"", "voice": "fable" }
+    }
+  ]
+}

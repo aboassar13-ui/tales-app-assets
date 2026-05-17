@@ -1,0 +1,126 @@
+{
+  "id": "bremen_town_musicians",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, rural German countryside palette, expressive friendly cartoon animals — donkey, dog, cat, rooster — with cheerful personalities, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A donkey, a dog, a cat, and a rooster stand atop one another in a comical tower — donkey on the bottom, then dog on his back, then cat on the dog, then rooster on top — all looking forward determined, in a sunny countryside lane"
+  },
+  "i18n": {
+    "ar": { "title": "موسيقيو مدينة بريمن", "subtitle": "حكاية من حكايات الإخوة جريم", "tagline": "أربعة أصدقاء كبار في السن، حلم بسيط، وفرقة موسيقية!" },
+    "en": { "title": "The Bremen Town Musicians", "subtitle": "A Tale from the Brothers Grimm", "tagline": "Four old friends, one simple dream, one musical band!" }
+  },
+  "catalog_entry": { "order": 19 },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A tired old gray donkey stands on a country lane, having just left a small farm in the distance. He carries a small bundle on his back. He looks weary but determined. Wildflowers grow by the path." },
+      "ar": { "text": "كان هناك حمارٌ عجوز، عمل عند صاحبه سنواتٍ طويلة. لكنه كبر وضعف. وعندما لم يعد قويّاً، فكّر صاحبه أن يطرده! سمع الحمار ذلك، ففكّر: «لن أنتظر! سأذهب إلى مدينة بريمن، وسأصبح موسيقيّاً.»", "voice": "fable" },
+      "en": { "text": "There was once an old gray donkey who had worked for his master for many years. But he had grown old and weak. When he was no longer strong, his master thought of casting him out! The donkey overheard this and thought, \"I shall not wait! I will go to the city of Bremen and become a musician.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The donkey walks along a country road and meets an old, thin hunting dog lying by the path looking sad and tired. The dog looks up hopefully at the donkey." },
+      "ar": { "text": "بعد قليلٍ من المشي، رأى كلباً عجوزاً جالساً بحزن على الطريق. سأله الحمار: «لمَ أنت حزين، يا صديقي؟» قال الكلب: «كبرتُ، ولم أعد أستطيع الصيد. وصاحبي يريد أن يستغني عنّي.»", "voice": "fable" },
+      "en": { "text": "After walking a while, he came upon an old dog sitting sadly by the road. The donkey asked, \"Why so sad, my friend?\" The dog said, \"I have grown old and can no longer hunt. My master wants to be rid of me.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The donkey and dog walk together along the road, both looking happier now. They chat. The dog walks with a slight limp but has a hopeful expression." },
+      "ar": { "text": "ضحك الحمار وقال: «تعال معي! سأذهب إلى بريمن لأصبح موسيقياً. أنت تعرف كيف تنبح بقوّة، فستكون رائعاً معي!» وافق الكلب بفرح. وسارا معاً، فصارا رفيقين.", "voice": "fable" },
+      "en": { "text": "The donkey laughed and said, \"Come with me! I'm going to Bremen to become a musician. You can bark very loudly, so you'll be perfect alongside me!\" The dog gladly agreed. They walked together, becoming fast friends.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The donkey and dog walk past a tabby cat sitting on a fence, looking dejected. The cat's whiskers droop sadly. They stop to chat with him." },
+      "ar": { "text": "بعد قليل، رأيا قطّةً عجوزاً جالسةً على سور. قالت بحزن: «كنتُ أصطاد الفئران، لكنّ أسناني ضعفت. صاحبتي تريد أن تتخلّى عنّي.» قال الحمار: «تعالي معنا، يا قطّتي! ميياؤكِ سيكون موسيقى جميلة!»", "voice": "fable" },
+      "en": { "text": "Soon they spotted an old tabby cat on a fence, looking dejected. \"I used to catch mice,\" she said sadly, \"but my teeth have grown weak. My mistress wants to be done with me.\" The donkey said, \"Come with us, kitty! Your meowing will be lovely music!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The three animals walk together. They come upon a colorful rooster perched on a fencepost, crowing loudly and looking proud despite his old age. They look up at him." },
+      "ar": { "text": "ثمّ قابلوا ديكاً ملوّناً يقف على عمودٍ خشبيّ. كان يصيح بأعلى صوته! سألوه: «لمَ تصيح هكذا؟» قال الديك: «أصاحبي يريد أن يحوّلني إلى حساء غداً! فأصرخ آخر صرخات حياتي!»", "voice": "fable" },
+      "en": { "text": "Then they met a colorful rooster on a wooden post, crowing at the top of his voice! They asked, \"Why all the noise?\" The rooster said, \"My master wants to make me into soup tomorrow! So I'm crowing my last songs as loud as I can!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The four animals — donkey, dog, cat, rooster — walk together down a sunny country lane in single file. They look like four cheerful old friends with a purpose. The Bremen city is suggested faintly on the horizon." },
+      "ar": { "text": "صاحت القطّة: «انضمّ إلينا! نحن ذاهبون إلى بريمن لنكون موسيقيين. صوتك مذهل!» وافق الديك. فسار الحيوانات الأربعة معاً: حمارٌ، كلبٌ، قطّةٌ، وديك. كانوا فرقةً عجيبة، لكنّهم كانوا أصدقاء!", "voice": "fable" },
+      "en": { "text": "The cat called, \"Join us! We're going to Bremen to be musicians. Your voice is amazing!\" The rooster agreed. So the four animals walked together: donkey, dog, cat, and rooster. They were a strange band — but they were friends!", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Evening falls. The animals walk into a dark forest. They are tired. The dog yawns, the cat blinks sleepily, the rooster ruffles his feathers. They look around for shelter." },
+      "ar": { "text": "جاء المساء، وكانت بريمن بعيدة. تعب الحيوانات. دخلوا غابةً كثيفة. قال الحمار: «ننام هنا الليلة.» جلس الكلب تحت شجرة. صعدت القطّة على غصن. أمّا الديك، فطار إلى أعلى الشجرة، ونظر حوله.", "voice": "fable" },
+      "en": { "text": "Evening came, and Bremen was still far away. The animals were tired. They entered a dense forest. The donkey said, \"We'll sleep here tonight.\" The dog settled beneath a tree. The cat climbed onto a branch. The rooster flew to the very top of the tree and looked around.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The rooster's view from atop the tree — looking out over the dark forest, he spots a small cottage with warm yellow light glowing from its windows in a distant clearing. His eyes brighten with hope." },
+      "ar": { "text": "صاح الديك من أعلى الشجرة: «أنظروا! أرى ضوءاً بين الأشجار! لا بدّ أنّ هناك بيتاً قريباً!» قال الحمار: «ربّما نأكل ونرتاح! هيا.» مشوا نحو الضوء بسرعة.", "voice": "fable" },
+      "en": { "text": "The rooster called from the top of the tree, \"Look! I see a light through the trees! There must be a house nearby!\" The donkey said, \"Perhaps we can eat and rest! Let's go.\" They hurried toward the light.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The four animals peek through a window of a cottage at three rough-looking comical bandits feasting on a large table piled with food. The animals' eyes are wide with hunger seeing the food." },
+      "ar": { "text": "وصلوا إلى البيت. نظر الحمار من النافذة. ورأى منظراً عجيباً! كان هناك ثلاثة لصوصٍ يأكلون ويشربون حول مائدةٍ كبيرة مليئة بالطعام. كانت رائحة اللحم والخبز تملأ المكان. اشتهى الحيوانات الطعام!", "voice": "fable" },
+      "en": { "text": "They reached the cottage. The donkey peeked through the window — and saw an amazing sight! Three robbers were eating and drinking around a great table piled with food. The smell of meat and bread filled the air. The animals were ravenous!", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The four animals confer outside the cottage in the moonlight. They huddle together in a circle, hatching a plan. The donkey gestures with his head; the cat looks thoughtful; the rooster nods." },
+      "ar": { "text": "همس الحمار: «كيف نأخذ الطعام؟» فكّروا. ابتسمت القطّة بمكر، وقالت: «عندي فكرة! سنخيف اللصوص ونأخذ الطعام!» شرحت خطّتها لرفاقها. وافقوا جميعاً ضاحكين.", "voice": "fable" },
+      "en": { "text": "The donkey whispered, \"How shall we get the food?\" They thought. The cat smiled cleverly, \"I have an idea! We'll frighten the robbers away and take the food ourselves!\" She explained her plan. They all agreed, laughing.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The donkey stands on his hind legs with his front hooves on the windowsill. The dog jumps onto the donkey's back. The cat climbs onto the dog. The rooster perches on top of the cat. A comical tower of animals." },
+      "ar": { "text": "وقف الحمار قدّامه قدميه على عتبة النافذة. قفز الكلب على ظهره. تسلّقت القطّة فوق الكلب. وطار الديك إلى رأس القطة! صاروا برجاً عالياً! ثم... صاحوا كلّهم معاً بأقصى أصواتهم!", "voice": "fable" },
+      "en": { "text": "The donkey put his front hooves on the windowsill. The dog leapt onto his back. The cat climbed atop the dog. And the rooster flew onto the cat's head! They formed a tall tower! Then — they all cried out together at the very top of their voices!", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The window of the cottage shows the animals creating a wild ruckus — donkey braying, dog barking, cat hissing, rooster crowing — all at once. Inside, three robbers leap up in alarm, knocking over chairs and dropping plates. Pure cartoon mayhem." },
+      "ar": { "text": "نهق الحمار! «هي-ها-هي-ها!» نبح الكلب! «هاو هاو!» صاحت القطّة! «ميياو!» وصاح الديك! «كوكوكوريكو!» كانت الضوضاء مرعبة! ظنّ اللصوص أنّ وحشاً يهاجمهم. ركضوا إلى الباب وهربوا في الظلام!", "voice": "fable" },
+      "en": { "text": "The donkey brayed, \"Hee-haw, hee-haw!\" The dog barked, \"Woof, woof!\" The cat hissed, \"Meeeoow!\" And the rooster crowed, \"Cock-a-doodle-doo!\" The noise was terrifying! The robbers thought a monster was attacking. They bolted for the door and fled into the dark!", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The four animals happily feast at the abandoned table — donkey munching hay, dog gnawing a bone, cat lapping milk, rooster pecking grain. They look perfectly content in the cozy cottage." },
+      "ar": { "text": "دخل الحيوانات البيت، وأكلوا حتى شبعوا! أكل الحمار من الخضار، والكلب من العظام، والقطّة من الحليب، والديك من الحبوب. ثم بحثوا عن أماكن ليناموا فيها.", "voice": "fable" },
+      "en": { "text": "The animals entered the cottage and ate their fill! The donkey on vegetables, the dog on bones, the cat on milk, and the rooster on grain. Then they looked for places to sleep.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Inside the cottage, the four animals are now settled comfortably — the donkey sleeps in a corner, the dog by the warm hearth, the cat curled on a soft chair, the rooster perched on a wooden beam. All asleep peacefully." },
+      "ar": { "text": "نام الحمار في الغرفة الخلفية، والكلب قرب الباب، والقطّة على الكرسي، والديك على الشُّعاع العالي. أطفؤوا الأنوار وناموا في سعادة. كانوا متعبين بعد المغامرة الطويلة.", "voice": "fable" },
+      "en": { "text": "The donkey slept in the back room, the dog by the door, the cat on a chair, and the rooster on a high beam. They put out the lights and slept happily. They were tired after the long adventure.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "A robber returns to the cottage in darkness, peering through the door. He's startled by the cat's eyes glowing in the dark, sees a vague animal shape, gets a shock from a hoof and a peck. He runs away looking comically terrified." },
+      "ar": { "text": "في منتصف الليل، عاد أحد اللصوص ليتأكّد إن كان البيت آمناً. دخل في الظلام، ولكنّه ظنّ عينَي القطّة المشتعلتَين جمراً، فحاول لمسهما — فخدشته القطّة! ركض، فعضّه الكلب! ركض أكثر، فرفسه الحمار! وصاح الديك من فوق!", "voice": "fable" },
+      "en": { "text": "At midnight, one of the robbers returned to check if the house was safe. He went in in the dark, but mistook the cat's glowing eyes for coals — and tried to touch them. The cat scratched him! He ran, the dog bit him! He ran further, the donkey kicked him! And the rooster crowed from above!", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The robber bolts out the cottage door, terrified, running toward his comrades waiting in the woods. He waves his arms wildly. The cottage glows warmly in the background — the animals safe inside." },
+      "ar": { "text": "ركض اللصّ مذعوراً إلى رفاقه: «البيت ممتلئٌ بالوحوش! قطّةٌ تخدش بمخالب طويلة، وكلبٌ يعضّ، ووحشٌ ضخم يرفس، وعفريتٌ يصيح من السقف!» خاف اللصوص جميعاً، وفرّوا من المنطقة كلّها ولم يعودوا أبداً!", "voice": "fable" },
+      "en": { "text": "The robber raced back to his comrades, \"The house is full of monsters! A cat with long claws, a dog that bites, a great beast that kicks, and a goblin shrieking from the roof!\" All the robbers were terrified and fled the area, never to return!", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Sunrise over the cottage. The four animals stand at the front door together, looking out at the morning. They've decided to stay. Behind them, the cottage is now their home — cozy and full of food." },
+      "ar": { "text": "في الصباح، فكّر الأصدقاء الأربعة: «هذا البيت جميلٌ. لمَ نسافر إلى بريمن؟ سنبقى هنا!» وقرّروا أن يعيشوا في البيت معاً. عاشوا بقيّة حياتهم في سعادة، يغنّون أحياناً كفرقةٍ موسيقية، رغم أنهم لم يصلوا إلى بريمن أبداً!", "voice": "fable" },
+      "en": { "text": "In the morning, the four friends thought, \"This cottage is wonderful. Why travel all the way to Bremen? We'll stay here!\" And so they decided to live in the cottage together. They lived out their days happily, sometimes singing as a band — though they never made it to Bremen at all!", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "The four animals on a sunny day in front of their cottage, playing music together. The donkey 'plays' a fiddle with his hooves, the dog has a small drum, the cat plays a flute, and the rooster sings. Music notes float around them. They look truly happy together." },
+      "ar": { "text": "وفي كلّ مساء، تجمّعوا أمام بيتهم وغنّوا. كانت موسيقاهم غريبة، لكنّها مفعمة بالفرح. وعلّمهم هذا الدرس: إنّ الإنسان قد يكبر ويتغيّر عمله، لكنّه يستطيع دائماً أن يبدأ من جديد مع أصدقاءٍ يحبّونه.", "voice": "fable" },
+      "en": { "text": "Every evening, they gathered in front of their home and sang. Their music was strange, but full of joy. And they learned this lesson: a creature may grow old and change their work, but with friends who love them, they can always begin again.", "voice": "fable" }
+    }
+  ]
+}

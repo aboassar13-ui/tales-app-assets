@@ -1,0 +1,71 @@
+{
+  "id": "lions",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, African savanna palette, realistic but soft and friendly lions with kind expressions, natural grasslands and acacia trees, gentle nature documentary feel, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A majestic male lion with a magnificent golden mane sits proudly atop a rocky outcrop on a sunny savanna, with a lioness and two cubs resting at his feet; acacia trees and a golden sunset behind"
+  },
+  "i18n": {
+    "ar": { "title": "عجائب الأسود", "subtitle": "تعرّف على ملك الغابة", "tagline": "قوي، اجتماعي، ولديه أسنان كالسكاكين!" },
+    "en": { "title": "Amazing Lions", "subtitle": "Meet the King of the Jungle", "tagline": "Strong, social, and with teeth like knives!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A magnificent male lion with a full golden mane walks proudly across an African savanna at sunrise. His muscular body and confident stride show his strength. Tall grasses sway around him." },
+      "ar": { "text": "هل تعرف لماذا يسمّونه «ملك الغابة»؟ الأسد حيوان عظيم القوّة، يعيش في سهول أفريقيا. الذكر له لبدةٌ ذهبية حول رأسه، ووزنه يصل إلى 250 كيلوغراماً — مثل ثلاثة أشخاص كبار!", "voice": "nova" },
+      "en": { "text": "Do you know why lions are called \"kings of the jungle\"? The lion is a mighty animal that lives on the plains of Africa. Male lions have a golden mane around their head, and they can weigh up to 250 kilograms — that's like three grown-ups together!", "voice": "nova" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A pride of lions resting together in the shade of a baobab tree — two adult females, one male, and four cubs playing nearby. They look relaxed and connected as a family." },
+      "ar": { "text": "الأسود تعيش في عائلات اسمها «الزمرة». كل زمرة فيها 10 إلى 20 أسداً: ذكر أو اثنان، وعدة لبؤات (أمّهات)، وأشبال صغيرة. كلهم يعتنون ببعض ويتشاركون كل شيء.", "voice": "nova" },
+      "en": { "text": "Lions live in families called \"prides.\" Each pride has 10 to 20 lions: one or two males, several lionesses (mothers), and lots of cubs. They all look after each other and share everything.", "voice": "nova" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Three sleek lionesses crouch low in tall yellow grass, working together as a hunting team. Their eyes are focused, bodies tense. A herd of zebras grazes in the distance." },
+      "ar": { "text": "الذي يصطاد الطعام للزمرة هنّ اللبؤات، الأمهات. يصطدن معاً كفريق، يطاردن الحيوانات بسرعة! تستطيع اللبؤة الجري بسرعة 80 كيلومتراً في الساعة — مثل سيارة!", "voice": "nova" },
+      "en": { "text": "It's the lionesses — the mothers — who do the hunting for the pride. They hunt as a team, chasing animals at incredible speed! A lioness can run at 80 kilometers per hour — as fast as a car!", "voice": "nova" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Close-up of a young lion cub with bright curious blue-green eyes, fluffy golden fur, and tiny black-tipped ears. He's playfully batting a fallen acacia flower." },
+      "ar": { "text": "صغير الأسد اسمه «شبل». يولد بعينَين زرقاوَين، وفروته فيها بقع داكنة تختفي لما يكبر. الأشبال تلعب طول اليوم: تتعلّم الصيد والقفز والركض من خلال اللعب.", "voice": "nova" },
+      "en": { "text": "Baby lions are called \"cubs.\" They are born with blue eyes and a fur with dark spots that fade as they grow. Cubs play all day long — they learn to hunt, leap, and run through play.", "voice": "nova" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A male lion roars proudly, head thrown back, mane flowing. Sound waves are stylized as gentle visual ripples spreading through the savanna. Other animals far away look up alert." },
+      "ar": { "text": "الزئير! صوت الأسد القوي يسمعه من على بعد 8 كيلومترات! يستخدم الذكر زئيره ليقول للأسود الأخرى: «هذه أرضي، لا تقتربوا!» ويستخدم أيضاً ليجد عائلته.", "voice": "nova" },
+      "en": { "text": "The roar! A lion's mighty voice can be heard from 8 kilometers away! Males use their roar to tell other lions, \"This is my land — stay away!\" They also use it to find their family.", "voice": "nova" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A pride of lions resting peacefully in the afternoon, sprawled together in the shade. Some yawn showing big teeth, some are sleeping deeply. The image conveys laziness and family bonding." },
+      "ar": { "text": "الأسد ينام كثيراً! يقضي 16 إلى 20 ساعة كل يوم نائماً أو مستريحاً. لأن الصيد متعب جداً، فيلزم الراحة الطويلة بعده. لذلك ترى الأسود تكسل في الظل أكثر الوقت.", "voice": "nova" },
+      "en": { "text": "Lions sleep a lot! They spend 16 to 20 hours every day sleeping or resting. Hunting is very tiring, so they need long rests afterwards. That's why you'll often see lions lazing in the shade.", "voice": "nova" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Lioness affectionately licking and grooming her cub. Their faces are close together, eyes half-closed in contentment. The cub looks small and safe under his mother's care." },
+      "ar": { "text": "الأمهات في الزمرة يعتنين بكل الأشبال، حتى لو ما كانوش أولادهن! إذا انشغلت أم بالصيد، أم أخرى تعتني بأشبالها. وأحياناً، الأشبال يرضعون من أي لبؤة في الزمرة!", "voice": "nova" },
+      "en": { "text": "Mother lions in a pride care for all the cubs — even ones that aren't their own! If one mother is busy hunting, another takes care of her cubs. Sometimes cubs even nurse from any lioness in the pride!", "voice": "nova" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A close-up of a lion's powerful paw with extended claws beside his face showing four large teeth in a yawn. Done in soft watercolor, friendly not scary. Comparison shapes of small kid hand visible faintly." },
+      "ar": { "text": "أسنان الأسد ضخمة! له أربعة أنياب طويلة كالسكاكين، تساعده على الإمساك بالطعام. وأقدامه قوية فيها مخالب حادة. هذه الأدوات تجعله أقوى الصيادين في السهل.", "voice": "nova" },
+      "en": { "text": "Lions have huge teeth! They have four long fangs, sharp as knives, which help them catch food. Their paws are powerful with sharp claws. These tools make them the mightiest hunters of the plains.", "voice": "nova" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A lion family at sunset — adults and cubs walking together across a vast savanna, painted in warm golden light. Children's silhouettes from a safari jeep watch respectfully from a distance, taking photos." },
+      "ar": { "text": "للأسف، أعداد الأسود تقلّ كل سنة. بقي في الدنيا حوالي 20 ألف أسد فقط. لذلك علينا أن نحميها، نحفظ موطنها، ونعلّم الآخرين أهميتها. الأسد ملك الغابة يستحق أن يبقى!", "voice": "nova" },
+      "en": { "text": "Sadly, lion numbers are shrinking each year. Only about 20,000 lions remain in the wild. So we must protect them, preserve their home, and teach others how important they are. The king of the jungle deserves to thrive!", "voice": "nova" }
+    }
+  ]
+}

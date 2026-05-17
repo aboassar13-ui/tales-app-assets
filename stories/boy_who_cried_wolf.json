@@ -1,0 +1,137 @@
+{
+  "id": "boy_who_cried_wolf",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 4,
+  "style_suffix": "warm watercolor children's book illustration, rolling green hills, woolly sheep, golden afternoon light, mischievous shepherd boy with friendly face, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young shepherd boy in a straw hat sits on a hill with his crook, surrounded by fluffy white sheep, cupping his hands to his mouth as if calling out. Village rooftops are visible far below in a green valley."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الراعي الكاذب",
+      "subtitle": "حكاية من حكايات إيسوب",
+      "tagline": "الكذب يفقد الإنسان أصدقاءه"
+    },
+    "en": {
+      "title": "The Boy Who Cried Wolf",
+      "subtitle": "An Aesop's Fable",
+      "tagline": "Why honesty matters most"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A young shepherd boy in a brown tunic and straw hat watches a flock of sheep grazing on a sunny hillside. The boy looks a bit bored, swinging his shepherd's crook. Wildflowers grow around. A village is visible in the valley below."
+      },
+      "ar": {
+        "text": "في قريةٍ صغيرة، كان هناك صبيٌّ يعمل راعياً للأغنام. كل يوم، كان يأخذ أغنامه إلى التلّة الخضراء ليرعاها. كانت الأغنام تأكل العشب بهدوء، أما الصبي فكان يشعر بالملل الشديد.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In a small village, there once lived a boy whose job was to watch over the sheep. Every day, he led his flock up to a grassy hill. The sheep would munch happily on the grass — but the boy grew very, very bored.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The shepherd boy stands on the hilltop with a mischievous grin, cupping his hands to his mouth and shouting. Below in the valley, several farmers drop their tools and run uphill in alarm — one with a rake, one with a bucket."
+      },
+      "ar": {
+        "text": "ذات يوم، خطرت في باله فكرةٌ مزعجة. صرخ بأعلى صوته: «ذئب! ذئب! هناك ذئبٌ يهاجم أغنامي!» ركض أهل القرية مسرعين، يحملون العصيّ والأدوات لينقذوه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "One day, a mischievous idea came into his head. He cupped his hands and yelled at the top of his voice, \"Wolf! Wolf! A wolf is attacking my sheep!\" The villagers grabbed sticks and tools and ran up the hill as fast as they could.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "Villagers — a farmer, a woman with a broom, an old man — stand on the hilltop looking around confused. There is no wolf. The shepherd boy is laughing, holding his belly, while his sheep look at him quizzically."
+      },
+      "ar": {
+        "text": "وصل القرويون لاهثين، فلم يجدوا أيّ ذئب. كان الصبي يضحك ضحكاً عالياً ويقول: «خدعتكم! خدعتكم!» تضايق القرويون كثيراً وعادوا إلى أعمالهم وهم يهزّون رؤوسهم.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "When the villagers arrived, panting, there was no wolf at all. The boy was rolling with laughter. \"I tricked you! I tricked you!\" he shouted. The villagers were very upset and trudged back down the hill, shaking their heads.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Another day on the same hill. The shepherd boy laughs again as fewer villagers — just two this time — march up wearily, looking annoyed. The boy's sheep continue grazing peacefully."
+      },
+      "ar": {
+        "text": "بعد أيامٍ قليلة، شعر الصبيّ بالملل مرّةً أخرى. صرخ: «ذئب! ذئب!» ركض بعض القرويين مرّةً أخرى، لكنه ضحك عليهم. غضب الناس وقالوا له: «لا تمزح بهذا! الذئب أمرٌ خطير!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "A few days later, the boy felt bored again. \"Wolf! Wolf!\" he shouted. A few villagers ran up the hill once more — only to find the boy laughing again. They were furious. \"This is not a joke!\" they warned him. \"Wolves are dangerous!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Evening light on the hill turns to dusk. A real gray wolf, with cautious eyes and bushy fur, sneaks out from behind some bushes toward the flock of frightened sheep. The boy's eyes go wide with genuine fear."
+      },
+      "ar": {
+        "text": "في اليوم التالي، وبينما كانت الشمس تميل للغروب، خرج من بين الأشجار ذئبٌ حقيقي! خاف الصبي خوفاً شديداً وصرخ بكل قوّته: «ذئب! ذئب! النجدة! إنه ذئبٌ حقيقي هذه المرة!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The next day, as the sun began to set, a real wolf slipped out from the bushes! The boy's heart pounded. He yelled with all his might, \"Wolf! Wolf! Help! It's a real wolf this time!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Down in the village, farmers continue their evening work — milking cows, sweeping yards, eating supper. They hear the cries faintly but shake their heads and keep working, assuming it's another prank."
+      },
+      "ar": {
+        "text": "سمع القرويون صراخه، لكنّهم تذكّروا كذبه السابق، فهزّوا رؤوسهم وقالوا: «إنه يكذب مرّةً أخرى. لن نذهب هذه المرّة.» وتابعوا أعمالهم في القرية، ولم يصعد أحدٌ إلى التلة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The villagers heard his cries, but they remembered his lies. They shook their heads and said, \"Not this time. He's tricking us again.\" And they kept on with their evening, while not a single person ran up the hill.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The shepherd boy sits dejectedly on the empty hilltop at dusk, head in his hands, surrounded by his crook and a few remaining sheep. The wolf is gone. Sad orange and purple sky."
+      },
+      "ar": {
+        "text": "هرب الذئب بعد أن أخاف الأغنام وفرّقها في كل مكان. جلس الصبيّ على الحجر وحيداً، يبكي ويُعدّ أغنامه فيجد بعضها قد ضاع في الغابة. وفهم أن لا أحد سيصدّقه بعد اليوم.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The wolf scattered the frightened sheep across the hillside and slipped away. The boy sat down on a stone and cried. Some of his sheep had run off into the woods. He realized that no one would ever believe him again.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The boy walks down a path toward his village at dawn, with his sheep in tow, head held a bit more humbly. A kind older shepherd walks beside him, putting a hand on his shoulder. Sunrise spreads gentle pink light."
+      },
+      "ar": {
+        "text": "في الصباح، عاد الصبي إلى القرية حزيناً. ذهب يعتذر للقرويين وقال: «لقد تعلّمت درساً مهماً. لن أكذب مرّةً أخرى.» ومنذ ذلك اليوم، عرف أن الكاذب لا يصدّقه أحدٌ، حتى لو قال الحقيقة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In the morning, the boy walked sadly back to the village. He went to each neighbor and said, \"I've learned my lesson. I will never lie again.\" And from that day on, he understood: when a person lies often, no one believes them — not even when they finally tell the truth.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

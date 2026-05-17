@@ -1,0 +1,107 @@
+{
+  "id": "frog_prince",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "4-9",
+  "duration_minutes": 7,
+  "style_suffix": "warm watercolor children's book illustration, palace garden palette with golden pond, friendly cartoon frog with kind eyes, princess with flowing dress, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind princess in a pale yellow dress kneels by a marble pond holding a small golden ball; a friendly green frog with bright eyes pokes his head out of the water beside her"
+  },
+  "i18n": {
+    "ar": { "title": "الأمير الضفدع", "subtitle": "حكاية من حكايات الإخوة جريم", "tagline": "وعدٌ بسيط، صداقةٌ غير متوقّعة، وتعويذةٌ تذوب" },
+    "en": { "title": "The Frog Prince", "subtitle": "A Tale from the Brothers Grimm", "tagline": "A simple promise, an unexpected friendship, a spell undone" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A beautiful palace garden with marble fountains and flowering trees. A young princess in a yellow silk dress tosses a small golden ball into the air, catching it with delight. Birds sing nearby." },
+      "ar": { "text": "في مملكةٍ قديمة، عاشت أميرةٌ شابة بشعرٍ ذهبيٍّ طويل. كانت تحبّ أن تلعب بكرةٍ ذهبية صغيرة كل يومٍ في حديقة القصر. كانت تقذفها في الهواء وتلتقطها بفرح.", "voice": "shimmer" },
+      "en": { "text": "In an old kingdom, there lived a young princess with long golden hair. Each day she loved to play with a small golden ball in the palace garden. She would toss it high in the air and catch it joyfully.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The golden ball misses her hands and rolls across the marble floor, then plops into a deep stone well in the garden. The princess gasps and rushes to peer over the edge, her hands on the stone rim." },
+      "ar": { "text": "في يومٍ من الأيام، طارت الكرة عالياً جداً... وسقطت في بئرٍ عميق في وسط الحديقة! ركضت الأميرة إلى البئر، وانحنت لتنظر داخله. لكنه كان عميقاً جداً، ولم ترَ القاع.", "voice": "shimmer" },
+      "en": { "text": "One day, the ball flew up too high — and dropped into a deep stone well in the middle of the garden! The princess ran to the well and leaned over. But it was very deep, and she could not see the bottom.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The princess sits sadly on the stone wall of the well, tears in her eyes. A small green frog with bright kind eyes peeks over the edge of the well behind her, looking curious and gentle." },
+      "ar": { "text": "جلست الأميرة تبكي. قالت: «لقد ضاعت كرتي الذهبية! كانت أحبّ شيءٍ عندي.» وفجأةً، سمعت صوتاً ناعماً: «لمَ تبكين، يا أميرة؟» التفتت ودهشت — كان ضفدعٌ صغير ينظر إليها!", "voice": "shimmer" },
+      "en": { "text": "The princess sat and cried, \"My golden ball is lost — and it was my favorite thing!\" Suddenly, a soft voice spoke, \"Why do you weep, princess?\" She turned, astonished — a small frog was looking at her!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The small green frog speaks to the princess, who sits beside the well, listening with curious surprise. The frog has a small but earnest expression. Sunbeams light the scene." },
+      "ar": { "text": "تكلّم الضفدع! قال: «أستطيع أن أحضر لكِ الكرة من البئر. لكن، هل تعدينني بشيءٍ في المقابل؟» ابتسمت الأميرة وقالت بسرعة: «نعم! خذ أيّ شيءٍ تريده — ذهبي، أو جواهري، أو حتى تاجي!»", "voice": "shimmer" },
+      "en": { "text": "The frog could speak! He said, \"I can bring back your ball from the well. But will you promise me something in return?\" The princess quickly smiled, \"Yes! Take whatever you want — my gold, my jewels, even my crown!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The frog tilts his head and gestures with a tiny webbed hand, listing his requests. The princess listens, a slight uncomfortable smile on her face. She nods quickly to get it over with." },
+      "ar": { "text": "قال الضفدع: «لا أريد ذهباً ولا جواهر. أريد أن أكون صديقكِ. لأجلس قربكِ على المائدة، وآكل من صحنكِ، وأشرب من كأسكِ، وأنام بجوار وسادتكِ.» وافقت الأميرة بسرعة: «نعم، نعم، أيّ شيء! المهم احضر كرتي!»", "voice": "shimmer" },
+      "en": { "text": "The frog said, \"I do not want gold or jewels. I want to be your friend. To sit beside you at the table, eat from your plate, drink from your cup, and sleep beside your pillow.\" The princess agreed at once, \"Yes, yes, anything! Just bring me my ball!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The frog dives gracefully into the deep dark well, leaving small ripples. The princess watches from the rim, hands clasped expectantly. A moment of suspense." },
+      "ar": { "text": "غاص الضفدع في الماء. انتظرت الأميرة. مرّت دقائق طويلة. ثم صعد الضفدع وفي فمه الكرة الذهبية! فرحت الأميرة فرحاً عظيماً. أخذت كرتها بسرعة، وانطلقت تجري نحو القصر، تاركةً الضفدع!", "voice": "shimmer" },
+      "en": { "text": "The frog dove into the water. The princess waited. Long minutes passed. Then up came the frog with the golden ball in his mouth! The princess was overjoyed. She snatched up her ball and ran toward the palace — leaving the frog behind!", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The frog calls out after the running princess from the well, hopping along the path behind her. The princess's gown disappears into the palace doorway. The frog looks crestfallen but hops onward." },
+      "ar": { "text": "نادى الضفدع: «انتظري! انتظري! ماذا عن وعدكِ؟» لكنّ الأميرة لم تنتبه، أو تظاهرت بأنها لا تسمع. ركضت إلى قصرها، وأغلقت الباب. ظنّت أنها لن تراه أبداً.", "voice": "shimmer" },
+      "en": { "text": "The frog called, \"Wait! Wait! What about your promise?\" But the princess did not hear — or pretended not to. She ran to the palace and shut the door. She thought she would never see him again.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A grand dining hall. The royal family sits at a long table set for dinner. The king and queen are eating. The princess is seated beside her father. There's a knock at the door. Everyone looks toward it." },
+      "ar": { "text": "في المساء، كانت العائلة الملكية تتناول العشاء على الطاولة الكبيرة. فجأة، سمعوا نقراً خفيفاً على الباب. سألَ الملك: «من بالباب؟» ذهبت الأميرة، ففتحت الباب — ووجدت الضفدع! ارتجفت، وأغلقت الباب بسرعة!", "voice": "shimmer" },
+      "en": { "text": "That evening, the royal family was at supper. Suddenly, they heard a soft tap-tap at the door. The king asked, \"Who is there?\" The princess went and opened the door — and there sat the frog! She gasped and slammed it shut!", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The princess rejoins the table looking nervous. The king is wise and concerned, asking her gently what's wrong. The queen looks at her daughter with knowing eyes. The frog can be seen through a small window, patiently waiting." },
+      "ar": { "text": "سأل الملك: «من كان عند الباب يا ابنتي؟» احمرّت الأميرة، وروت كل القصّة. استمع الملك بانتباه. ثم قال بحزم: «يا ابنتي، الوعد وعد. مهما كان من قطعتِه له، يجب أن تفي. افتحي الباب ودعيه يدخل.»", "voice": "shimmer" },
+      "en": { "text": "The king asked, \"Who was at the door, my daughter?\" The princess blushed and told the whole story. The king listened carefully. Then he said firmly, \"My daughter, a promise is a promise. Whatever you have promised, you must keep. Open the door and let him in.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The small green frog hops politely across the marble dining-room floor toward the long table. The princess stares with reluctance, while her father gestures kindly for the frog to come closer." },
+      "ar": { "text": "فتحت الأميرة الباب، ودخل الضفدع متخطّياً المرمر. اقترب من الطاولة. قال بأدب: «ضعيني على المائدة لأكل معكِ، كما وعدتِني.» نظرت إليه الأميرة باشمئزاز، لكنّ والدها قال: «نعم، نفّذي.»", "voice": "shimmer" },
+      "en": { "text": "The princess opened the door, and the frog hopped across the marble floor. He approached the table. He said politely, \"Please lift me to the table, that I may eat with you — as you promised.\" The princess looked at him with reluctance, but her father said, \"Yes, do as you said.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The frog sits politely on the dining table beside the princess's plate. He nibbles small bits of food. The princess pushes her plate slightly toward him, looking less hostile now. The king watches with quiet approval." },
+      "ar": { "text": "وضعت الأميرة الضفدع على الطاولة، وقدّمت له صحنها. أكل قليلاً بأدب، وشرب من كأسها. كانت الأميرة في البداية تتأفّف، لكن... شيئاً فشيئاً، لاحظت أنّه ليس مخيفاً، بل ضفدعٌ مهذّب لطيف.", "voice": "shimmer" },
+      "en": { "text": "The princess set the frog on the table and offered him her plate. He ate a little politely, and drank from her cup. At first she was annoyed — but little by little, she noticed he wasn't frightening at all, but quite a polite and gentle frog.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Bedtime scene. The princess in her nightgown carries the small frog on a silk cushion toward her bedroom. She looks resigned but no longer angry. The frog looks content." },
+      "ar": { "text": "بعد العشاء، طلب الضفدع: «الآن، خذيني إلى غرفتكِ. وعدتِنِي أن أنام بجوار وسادتكِ.» تنهّدت الأميرة، لكنّ أبوها كان يراقب. حملته على وسادة حريرية إلى غرفتها، ووضعته بجانبها.", "voice": "shimmer" },
+      "en": { "text": "After supper, the frog said, \"Now take me to your room. You promised I would sleep beside your pillow.\" The princess sighed, but her father was watching. She carried him on a silk cushion to her room and placed him beside her.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The princess in bed turns her head and looks at the small frog beside her with new understanding. Through the window, moonlight floods the room. The frog gently closes his eyes in trust." },
+      "ar": { "text": "نظرت الأميرة إلى الضفدع. شعرت بشيءٍ من الخجل من نفسها — كان قد ساعدها بصدقٍ، وهي حاولت أن تكسر وعدها. همست له: «أنا آسفة لتركك عند البئر. أنت صديقٌ حقيقي.» ابتسم الضفدع ابتسامةً صغيرة.", "voice": "shimmer" },
+      "en": { "text": "The princess looked at the frog. She felt a little ashamed of herself — he had truly helped her, and she had tried to break her promise. She whispered, \"I am sorry I left you at the well. You are a true friend.\" The frog smiled a tiny smile.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "A magical moment — the frog transforms in soft golden light into a kind handsome young prince. The princess watches in awe, sitting up in bed. Stars shine through the window. The prince smiles gently and bows his head in greeting." },
+      "ar": { "text": "في تلك اللحظة، حدث شيءٌ سحريّ! تحوّل الضفدع، وغطّاه نورٌ ذهبيّ، ثم اختفى الضفدع، وظهر مكانه أميرٌ شابٌّ وسيم! ابتسم وقال: «شكراً لكِ! ساحرةٌ شرّيرة حوّلتني إلى ضفدع. ولم يكسر تعويذتها إلّا قلبٌ يتعلّم اللطف الصادق.»", "voice": "shimmer" },
+      "en": { "text": "At that moment, something magical happened! The frog glowed with golden light, then disappeared — and in his place stood a kind, handsome young prince! He smiled and said, \"Thank you! A wicked enchantress turned me into a frog. Only a heart learning true kindness could break her spell.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The princess and the prince walk together in the palace garden the next morning. They are smiling and talking warmly. Flowers bloom around them. The golden ball rests forgotten on a stone bench in the background." },
+      "ar": { "text": "في الصباح، روى الأمير قصّته للملك. سرّ الملك بصداقتهما، وبارك علاقتهما. عاشت الأميرة والأمير في صداقةٍ ومحبّة. ولم تنسَ الأميرة أبداً درساً مهمّاً: «من يعدُ بشيء، عليه أن يفي، حتى لو بدا الأمر صغيراً.»", "voice": "shimmer" },
+      "en": { "text": "In the morning, the prince told his story to the king. The king was delighted by their friendship and blessed it. The princess and prince lived in friendship and love. And the princess never forgot a most important lesson: \"Whoever makes a promise must keep it — even if the matter seems small.\"", "voice": "fable" }
+    }
+  ]
+}

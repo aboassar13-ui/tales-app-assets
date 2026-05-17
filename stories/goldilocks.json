@@ -1,0 +1,137 @@
+{
+  "id": "goldilocks",
+  "category": "fairy_tale",
+  "source": "English folk tale (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 7,
+  "style_suffix": "warm watercolor children's book illustration, sunny forest palette, cozy bear cottage interior, friendly cartoon bears in pleasant clothes, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A curly-haired girl with golden hair in a blue pinafore peeks through the window of a cozy log cottage in a forest clearing, where three friendly cartoon bears in soft clothing are visible inside"
+  },
+  "i18n": {
+    "ar": { "title": "الذهبية والدببة الثلاثة", "subtitle": "حكاية شعبية إنجليزية", "tagline": "فتاة فضولية، ثلاثة دببة، ودرسٌ بسيط" },
+    "en": { "title": "Goldilocks and the Three Bears", "subtitle": "An English Folk Tale", "tagline": "A curious girl, three bears, and a gentle lesson" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A cosy log cottage in a forest clearing. A papa bear in a vest stands tall, a mama bear in an apron, and a baby bear with a tiny scarf hold paws. Sunshine filters through tall pines. Smoke curls from the chimney." },
+      "ar": { "text": "في غابةٍ خضراء، عاشت عائلة من ثلاثة دببة في بيتٍ خشبيٍّ لطيف. كان فيها بابا الدب الكبير، وماما الدببة، والدبدوب الصغير. كانوا يحبّون بعضهم كثيراً.", "voice": "fable" },
+      "en": { "text": "Deep in a green forest, there lived a happy family of three bears in a cosy log cottage. There was Papa Bear, who was very big; Mama Bear, who was medium-sized; and Baby Bear, who was small. They loved each other very much.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The three bears around a wooden table inside the cottage. Three porridge bowls of different sizes sit steaming on the table — large, medium, small. Mama Bear lifts a small spoon and tastes from a bowl, then makes a slight face from the heat." },
+      "ar": { "text": "في أحد الصباحات، طبخت ماما الدببة عصيدةً ساخنة في ثلاثة أطباق: طبقٌ كبير لبابا، وطبقٌ متوسط لها، وطبقٌ صغير لدبدوب. لكنّ العصيدة كانت ساخنةً جداً!", "voice": "fable" },
+      "en": { "text": "One sunny morning, Mama Bear made a steaming pot of porridge and poured it into three bowls: a big bowl for Papa, a medium bowl for herself, and a tiny bowl for Baby Bear. But the porridge was much too hot!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The three bears walking together along a forest path, arm in arm, looking content. Papa Bear in vest, Mama in apron, Baby Bear holding her paw. Birds sing in the branches. Sun dapples the path." },
+      "ar": { "text": "قال بابا الدب: «هيا نتمشّى في الغابة حتى تبرد العصيدة!» فرح دبدوب وقفز: «أحبّ التمشي!» خرج الثلاثة وأغلقوا الباب خلفهم، ولم يقفلوه لأن الغابة آمنة.", "voice": "fable" },
+      "en": { "text": "Papa Bear suggested, \"Let's take a stroll through the forest until the porridge cools.\" Baby Bear hopped excitedly, \"I love walks!\" The three left and shut the door behind them — but did not lock it, for the forest was safe.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A young girl with golden curls wearing a blue dress wanders through the forest, looking around with bright curious eyes. She steps over moss-covered logs and admires a butterfly. Sunlight glints off her hair." },
+      "ar": { "text": "في تلك الأثناء، كانت فتاةٌ صغيرة شعرها ذهبيٌّ تتجوّل في الغابة. كانت تحبّ المغامرات، وكانت دائماً فضولية. مشت بعيداً عن بيتها، ولم تنتبه إلى الطريق.", "voice": "fable" },
+      "en": { "text": "Meanwhile, a little girl with golden curls was wandering through the forest. She loved adventures and was very curious. She had walked far from home without noticing the path.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Goldilocks discovers the bears' cottage in a clearing, mouth slightly open in surprise. Smoke curls from the chimney. She tiptoes toward the door, looking around to see if anyone is watching." },
+      "ar": { "text": "وجدت فجأةً البيت الخشبي اللطيف. شمّت رائحة عصيدةٍ شهية. قرعت الباب، فلم يجبها أحد. كانت جائعة وفضولية، فدفعت الباب بهدوء — ودخلت!", "voice": "fable" },
+      "en": { "text": "Suddenly, she spotted the cosy cottage. The smell of warm porridge drifted out. She knocked on the door, but no one answered. Being hungry and very curious, she gently pushed the door — and stepped inside!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Goldilocks at the table, hovering over the three porridge bowls. She holds a small spoon, leaning toward Papa Bear's largest bowl with a hopeful but skeptical expression. Steam rises from all three bowls." },
+      "ar": { "text": "رأت ثلاثة أطباق على الطاولة. ذاقت من الطبق الكبير، فقالت: «إنه ساخنٌ جداً!» ثم ذاقت من الطبق المتوسط، فقالت: «إنه باردٌ جداً!» ثم جرّبت الطبق الصغير...", "voice": "fable" },
+      "en": { "text": "She saw three bowls on the table. She tasted from the big bowl. \"This is too hot!\" she said. She tasted from the middle bowl. \"This is too cold!\" Then she tried the little bowl...", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Goldilocks gleefully eating from Baby Bear's tiny porridge bowl with both hands on the spoon. Her face beams with delight. The empty Papa and Mama bowls sit behind her, untouched." },
+      "ar": { "text": "ابتسمت: «إنه تمامٌ — لا حارّ ولا بارد!» وأكلت كلّ ما فيه! لم تتذكّر أن هذا طبق شخصٍ آخر. شعرت بالشبع وفكّرت أن تجلس قليلاً وترتاح.", "voice": "fable" },
+      "en": { "text": "She smiled, \"This is just right — not too hot and not too cold!\" And she ate up every spoonful! She forgot it belonged to someone else. Feeling full, she thought she might sit down and rest a while.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Three wooden chairs of different sizes in front of the fireplace. Goldilocks climbs onto the big chair, looking comically tiny in it. Her feet dangle far off the floor." },
+      "ar": { "text": "رأت ثلاثة كراسي. جلست في الكرسي الكبير، فقالت: «إنه كبيرٌ جداً!» انتقلت إلى الكرسي المتوسط، فقالت: «إنه قاسٍ جداً!» ثم جرّبت الكرسي الصغير...", "voice": "fable" },
+      "en": { "text": "She saw three chairs. She climbed into the big chair. \"This is too big!\" she said. She sat in the middle chair. \"This is too hard!\" she said. Then she tried the little chair...", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Baby Bear's small wooden chair collapses comically beneath Goldilocks as she sits — pieces of chair fly around her. Her arms flail and she has a startled expression that is funny rather than scary." },
+      "ar": { "text": "قالت بسعادة: «إنه مريحٌ تماماً!» لكن... كراك! انكسر الكرسي الصغير من تحتها، فسقطت على الأرض ضاحكة. شعرت بالنعاس، فقالت: «سأبحث عن سرير لأنام قليلاً.»", "voice": "fable" },
+      "en": { "text": "She said happily, \"This is just right!\" But — crack! — the little chair broke beneath her, and she tumbled onto the floor with a giggle. Feeling sleepy, she thought, \"I shall find a bed for a little nap.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Three beds in a row in an upstairs bedroom: a large one, a medium one, a small one with a colorful patchwork quilt. Goldilocks climbs onto the big bed, her tiny figure dwarfed by it." },
+      "ar": { "text": "صعدت إلى الطابق الأعلى، فوجدت ثلاثة أسرّة. اضطجعت على السرير الكبير، فقالت: «إنه قاسٍ جداً!» انتقلت إلى السرير المتوسط، فقالت: «إنه طريٌّ جداً!» ثم جرّبت السرير الصغير...", "voice": "fable" },
+      "en": { "text": "She climbed upstairs and found three beds. She lay on the big bed. \"This is too hard!\" she said. She tried the middle bed. \"This is too soft!\" she said. Then she tried the little bed...", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Goldilocks sleeping peacefully on Baby Bear's small bed, tucked under a patchwork quilt with one curly lock peeking out. A sunbeam falls across her face. The room is quiet and cozy." },
+      "ar": { "text": "ابتسمت ونامت قائلة: «إنه مريحٌ تماماً!» في تلك الأثناء، كان الدببة الثلاثة قد عادوا من نزهتهم وفتحوا الباب.", "voice": "fable" },
+      "en": { "text": "She smiled and whispered, \"This is just right!\" and fell asleep instantly. Meanwhile, the three bears were returning from their walk and opening the cottage door.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The three bears stand together at the kitchen table, looking down at their porridge bowls with surprise and slight confusion. Papa Bear scratches his head, Mama Bear has paws on her hips, Baby Bear is dismayed at his empty bowl." },
+      "ar": { "text": "دخل الدببة الثلاثة فلاحظوا الفور أن شيئاً ما غير اعتيادي! قال بابا الدب بصوته العميق: «من ذاق عصيدتي؟» قالت ماما الدببة: «ومن ذاق عصيدتي؟» ثم صرخ دبدوب بحزن: «ومن أكل عصيدتي كلّها؟!»", "voice": "fable" },
+      "en": { "text": "The three bears walked in and immediately sensed something was off! Papa Bear said in his deep voice, \"Who has been tasting my porridge?\" Mama Bear said, \"Who has been tasting MY porridge?\" Then Baby Bear cried in dismay, \"Who has been tasting MY porridge — and ate it all up?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The three bears stand near the three chairs by the fireplace. Papa and Mama bears look at their chairs with mild confusion. Baby bear stares at the broken pieces of his tiny chair, lip quivering sadly but in a cute, gentle way." },
+      "ar": { "text": "ذهبوا إلى الكراسي. قال بابا: «من جلس على كرسيّي؟» قالت ماما: «ومن جلس على كرسيّي؟» وانفجر دبدوب باكياً: «ومن كسر كرسيّي الصغير!»", "voice": "fable" },
+      "en": { "text": "They turned to their chairs. Papa Bear growled, \"Who has been sitting in my chair?\" Mama said, \"Who has been sitting in MY chair?\" And Baby Bear's eyes filled with tears, \"Who has been sitting in MY chair — and broken it all to pieces!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The three bears tiptoe into the bedroom and find Goldilocks asleep on Baby Bear's small bed. They lean over her with surprised, curious expressions. Baby Bear points with one paw, eyes wide. Sun beams through the window." },
+      "ar": { "text": "صعد الدببة إلى الأعلى بحذر. نظر بابا في سريره: «من نام على سريري؟» نظرت ماما في سريرها: «ومن نام على سريري؟» وأخيراً، صرخ دبدوب الصغير: «انظروا! ها هي... ما زالت نائمة!»", "voice": "fable" },
+      "en": { "text": "The bears tiptoed upstairs. Papa peered at his bed, \"Who has been lying in my bed?\" Mama looked at hers, \"And who has been lying in MY bed?\" Finally, Baby Bear cried, \"Look! There she is — and she's still here!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Goldilocks startles awake to find three friendly but surprised bears staring down at her. She has a moment of frozen comic surprise on her face, eyes wide as saucers. The bears look more curious than angry." },
+      "ar": { "text": "استيقظت الذهبية، فرأت الدببة الثلاثة من حولها. ارتجفت من المفاجأة، وكانت ستصرخ — لكنّها رأت أنهم ليسوا غاضبين، فقط متفاجئين قليلاً.", "voice": "fable" },
+      "en": { "text": "Goldilocks awoke with a start and saw all three bears around her. She nearly screamed in surprise — but then she saw they were not angry, only quite surprised.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Goldilocks sits up in bed, hands clasped apologetically, looking down at the broken pieces of Baby Bear's chair on the floor. Baby Bear looks at her hopefully, ears perked up." },
+      "ar": { "text": "قفزت الذهبية واقفةً وقالت بخجل: «أنا آسفة جداً! لم أقصد أن أكسر الكرسي ولا أن آكل عصيدتك. لقد دخلت دون إذن، وكان ذلك خطأً.» نظر إليها الدببة بدهشة من اعتذارها الصادق.", "voice": "fable" },
+      "en": { "text": "Goldilocks jumped up and said shyly, \"I am very sorry! I did not mean to break your chair or eat your porridge. I came into your home without asking, and that was wrong.\" The bears looked surprised by how honest her apology was.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Goldilocks helps Baby Bear pick up the broken chair pieces, both of them smiling shyly at each other. Papa Bear watches with a kind face, Mama Bear nods approvingly. Sunlight fills the room." },
+      "ar": { "text": "ساعدت الذهبية دبدوب في جمع قطع الكرسي المكسور. قالت: «سأطلب من أبي أن يصنع لكم كرسياً جديداً، وأعدكم أن أطرق الباب في المرّة القادمة!» ابتسم دبدوب، وأخذت ماما الدببة الذهبية ووعدتها أن ترشدها إلى البيت.", "voice": "fable" },
+      "en": { "text": "Goldilocks helped Baby Bear gather the broken chair pieces. \"I'll ask my papa to make you a new one,\" she promised, \"and next time I will knock and wait!\" Baby Bear smiled. Mama Bear took her paw and said she would walk her home through the forest.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "Goldilocks walking home along a sunlit forest path with Mama Bear beside her. They chat warmly, like new friends. Papa and Baby Bear wave from the cottage in the background." },
+      "ar": { "text": "مشت الذهبية مع ماما الدببة عبر الغابة، وتحدّثتا عن النحل والزهور. لما اقتربتا من بيتها، شكرتها بصدق وعدت قائلة: «سأعود لزيارتكم، ومعي كعكاتٌ لذيذة!»", "voice": "fable" },
+      "en": { "text": "Goldilocks walked through the forest beside Mama Bear, and they chatted about bees and flowers. As they neared her home, Goldilocks thanked her sincerely and promised, \"I'll come back to visit you all — and I'll bring delicious cakes!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "Goldilocks at her own cottage door, hugging her mother. The mother looks relieved. Behind Goldilocks, Mama Bear waves from the edge of the forest before turning back. Soft golden afternoon light." },
+      "ar": { "text": "وصلت الذهبية إلى بيتها، فاحتضنتها أمها بفرح. روت لها كل ما حدث. تعلّمت درساً مهماً: لا تدخل بيت أحدٍ دون إذن، حتى لو كنتَ فضولياً.", "voice": "fable" },
+      "en": { "text": "Goldilocks reached her home, and her mother embraced her with joy. She told her mama everything that had happened. She had learned an important lesson: never go into someone else's home without asking — no matter how curious you are.", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "Days later, Goldilocks stands at the bears' cottage door carrying a basket of cupcakes and a small chair made by her father. She knocks politely. The three bears beam at her through the window with happy expressions." },
+      "ar": { "text": "وفي الأسبوع التالي، عادت الذهبية إلى بيت الدببة، تحمل سلّةً من كعكات الفراولة وكرسياً صغيراً صنعه أبوها. طرقت الباب وانتظرت بأدب. ومن ذلك اليوم، أصبحت من أقرب أصدقاء عائلة الدببة الثلاثة.", "voice": "fable" },
+      "en": { "text": "The very next week, Goldilocks returned to the bears' cottage with a basket of strawberry cupcakes and a new chair her father had built. She knocked politely and waited. And from that day on, she became one of the best friends of the three little bears.", "voice": "fable" }
+    }
+  ]
+}

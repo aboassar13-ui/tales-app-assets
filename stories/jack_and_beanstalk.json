@@ -1,0 +1,137 @@
+{
+  "id": "jack_and_beanstalk",
+  "category": "fairy_tale",
+  "source": "English folk tale (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, bright green meadow and cloud kingdom palette, friendly cartoon giant, cozy cottage aesthetic, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A barefoot boy in a brown vest climbs a colossal twisting beanstalk that disappears into puffy white clouds. He looks up with wonder. A small brown cow watches from a green meadow below."
+  },
+  "i18n": {
+    "ar": { "title": "جاك وساق الفاصوليا", "subtitle": "حكاية شعبية إنجليزية", "tagline": "صبي فقير، فول سحري، ومغامرة في الغيوم" },
+    "en": { "title": "Jack and the Beanstalk", "subtitle": "An English Folk Tale", "tagline": "A poor boy, magic beans, and an adventure in the clouds" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A small thatched cottage on a green hill. A boy of about ten, in patched clothes, stands beside a thin brown cow named Milky-White. His worried mother in an apron watches from the doorway. The garden looks bare." },
+      "ar": { "text": "في بيتٍ صغير على تلّة، عاش صبيٌّ اسمه جاك مع أمه. لم يكن عندهما شيءٌ تقريباً، إلا بقرة هزيلة اسمها «حليبيّة». في يومٍ من الأيام، توقّفت البقرة عن إعطاء الحليب.", "voice": "fable" },
+      "en": { "text": "In a small cottage on a green hill lived a boy named Jack and his mother. They had almost nothing — only one thin brown cow named Milky-White. One sad day, the cow stopped giving milk altogether.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Mother in an apron speaks gently but seriously to Jack outside the cottage, pointing toward a road that leads to town. Jack holds the cow's rope, looking determined. Morning sunlight breaks through clouds." },
+      "ar": { "text": "قالت الأم: «يا جاك، يجب أن نبيع حليبيّة في السوق، وإلا سنجوع. خذها وقايضها بأفضل ثمن.» وعد جاك أمه، ثم ربط حبلاً حول رقبة البقرة وانطلق إلى البلدة.", "voice": "fable" },
+      "en": { "text": "His mother said, \"Jack, we must sell Milky-White at the market, or we shall starve. Take her and trade her for the best price you can.\" Jack promised his mother, tied a rope around the cow's neck, and set off toward town.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A strange old man with a long silver beard stands on a country road. He holds out a small leather pouch toward Jack and the cow, smiling mysteriously. The pouch glows faintly. Jack tilts his head curiously." },
+      "ar": { "text": "وفي الطريق، التقى جاك رجلاً عجيباً ذا لحيةٍ بيضاء. قال الرجل: «أعطني بقرتك، وخذ هذه الحبوب. إنها حباتٌ سحرية!» نظر جاك إلى الحبوب الخضراء وفكّر طويلاً.", "voice": "fable" },
+      "en": { "text": "Along the way, Jack met a curious old man with a long white beard. The man said, \"Trade me your cow for these beans. They are magic beans!\" Jack looked at the small green beans and thought hard.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Jack returns to the cottage door empty-handed except for a tiny pouch. His mother, distressed, shakes her head and tosses something tiny out the window into the garden. Jack looks down, shoulders slumped, but with a flicker of hope." },
+      "ar": { "text": "قبل جاك المقايضة وعاد إلى البيت. غضبت أمه غضباً شديداً: «أعطيت بقرتنا مقابل هذه؟» رمت الحبوب من النافذة في الحديقة، وأرسلت جاك إلى السرير بلا عشاء. حزن جاك وفكّر: «هل خدعني الرجل؟»", "voice": "fable" },
+      "en": { "text": "Jack agreed to the trade and hurried home. His mother was furious: \"You traded our cow for these?\" She tossed the beans out the window into the garden and sent Jack to bed without supper. Jack lay sadly thinking, \"Was the old man tricking me?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A colossal beanstalk grows overnight, towering above the cottage and disappearing into pillowy clouds high above. Jack looks out of his small upstairs window, jaw dropped, the morning sky lit pink and gold behind it." },
+      "ar": { "text": "في الصباح، استيقظ جاك على ضوءٍ غريب. نظر من النافذة، وكاد أن يقع! نمت في الحديقة ساقُ فاصولياء عملاقة، صعدت إلى السماء وفوق الغيوم! ركض جاك مذهولاً ولمس الأوراق العملاقة.", "voice": "fable" },
+      "en": { "text": "In the morning, Jack awoke to a strange green light. He looked out the window and nearly tumbled over! In the garden grew a giant beanstalk, climbing into the sky and far above the clouds! Jack ran out, amazed, and touched its huge leaves.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Jack carefully begins climbing the colossal beanstalk, gripping its winding leaves and tendrils. The view shows him about a third of the way up, with the cottage growing smaller below. Birds fly past at his level." },
+      "ar": { "text": "قرّر جاك أن يصعد. قال لنفسه: «ربما يوجد شيءٌ في الأعلى يساعدنا.» تسلّق ورقةً بعد ورقة، فوق التلال، فوق السحاب، حتى لم يعد يرى البيت أبداً. كان قلبه يدقّ بقوّة لكنه كان شجاعاً.", "voice": "fable" },
+      "en": { "text": "Jack decided to climb. He thought, \"Maybe up there I'll find something to help us.\" He climbed leaf by leaf, past the hills, past the clouds, until he could no longer see his cottage at all. His heart pounded, but he was brave.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Jack stands at the top of the beanstalk on a wide flat plain of cloud, looking out at a giant's enormous castle in the distance. The castle is huge: door taller than ten houses. Soft cloud-mist drifts around Jack's feet." },
+      "ar": { "text": "وصل جاك إلى عالمٍ غريب فوق الغيوم. كانت الأرض ناعمةً كالقطن. ورأى أمامه قصراً ضخماً، أبوابه أطول من بيوت كثيرة! اقترب جاك بحذر، خائفاً ومشتاقاً في آنٍ معاً.", "voice": "fable" },
+      "en": { "text": "Jack arrived in a strange world above the clouds. The ground felt soft as cotton. Before him stood a huge castle — its doors taller than many houses! Jack crept toward it, both frightened and very curious.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Jack stands at the foot of a giant kitchen door. A gigantic kind-faced woman in apron — the giant's wife — peers down at him with concern. She is enormous compared to him, but her face is gentle and worried." },
+      "ar": { "text": "فتحت الباب امرأةٌ ضخمة بمئزر. خافت عندما رأت جاك. قالت بصوتٍ خافت: «اهرب يا صغير! زوجي عملاقٌ، ويأكل الأطفال على فطوره!» لكنّ جاك توسّل: «أرجوكِ، أنا جوعان جداً!»", "voice": "fable" },
+      "en": { "text": "A giant woman with a kitchen apron opened the door. She gasped when she saw Jack. \"Run, little one!\" she whispered. \"My husband is a fearsome giant who eats children for breakfast!\" But Jack pleaded, \"Please — I am so hungry!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Inside an enormous kitchen with cabinets the size of houses. The giant's wife hands Jack a piece of bread that is nearly as big as he is, then hides him quickly in a large bread bin. Her face is kind but worried." },
+      "ar": { "text": "شفقت عليه المرأة وأدخلته. أعطته خبزاً كبيراً ولبناً ساخناً. لكن فجأة، اهتزّت الأرض: «بومْ! بومْ!» قالت الزوجة: «إنه زوجي! اختبئ هنا!» وأخفت جاك في صندوق الخبز الكبير.", "voice": "fable" },
+      "en": { "text": "She took pity on him and let him in. She gave him a chunk of bread and a cup of warm milk. Suddenly, the ground shook — boom, boom, boom! \"It's my husband!\" she cried. \"Hide, quickly!\" She tucked Jack into a huge bread bin.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "A massive, friendly-faced (not menacing) giant with a wild beard stomps into the kitchen, carrying three small bags. He sets them on a colossal wooden table. His expression is grumpy but cartoonishly drawn, not terrifying." },
+      "ar": { "text": "دخل العملاق وصرخ: «فِي، فاي، فُو، فَم! أشمّ رائحة إنسانٍ صغير!» قالت زوجته: «بل تشمّ بقايا الإفطار، يا عزيزي.» ثم أحضرت له طعامه. أكل العملاق، ثم أخرج كيساً مليئاً بالعملات الذهبية، وعدّها قبل أن يغفو.", "voice": "fable" },
+      "en": { "text": "In stomped the giant, bellowing, \"Fee, fi, fo, fum! I smell a tiny human one!\" \"You smell leftover breakfast, dear,\" said his wife. She set down his meal. The giant ate, then pulled out a bag of golden coins, counted them, and slowly fell asleep at the table.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Jack tiptoes from the bread bin past the sleeping giant whose loud snores almost shake the table. Jack carries a small leather bag of gold that is heavy for him. His face shows nervous excitement." },
+      "ar": { "text": "خرج جاك من صندوق الخبز، ومرّ على أطراف أصابعه. حمل كيس الذهب الصغير — الذي كان مع ذلك ثقيلاً عليه — وانسلّ خارجاً. ركض إلى ساق الفاصولياء، ونزل بسرعة إلى البيت. صرخت أمه فرحاً عندما رأت الذهب!", "voice": "fable" },
+      "en": { "text": "Jack tiptoed out of the bread bin, slipping past the snoring giant. He hauled the small bag of gold — heavy for him — and slipped outside. He raced to the beanstalk and climbed all the way down. His mother cried with joy when she saw the gold!", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Jack and his mother sit at their cottage table, sharing a big warm meal. Bread, soup, fruits and milk. The cow is back in the meadow outside the window. Their faces are happy and full." },
+      "ar": { "text": "اشترت الأم طعاماً وأعادت البقرة إلى المرعى. عاشا فترةً سعيدة. لكن، بعد شهور، انتهى الذهب. تذكّر جاك أن في الأعلى أشياء أخرى... وكان فضوله أكبر من خوفه.", "voice": "fable" },
+      "en": { "text": "His mother bought food and brought a cow back to the meadow. They lived happily for many months. But after a while, the gold ran out. Jack remembered there were more wonders above — and his curiosity was bigger than his fear.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Jack climbs the beanstalk again, looking more confident this time. The giant's castle gleams in the cloud distance. The sun is setting behind the castle, painting everything pink and orange." },
+      "ar": { "text": "تسلّق جاك ساق الفاصولياء مرّةً أخرى. وصل إلى القصر بسرعة. قرع الباب، ففتحت الزوجة. قالت: «دائماً تظهر يا صغير، وأخاف عليك!» لكنها أدخلته وأطعمته، ثم أخفته خلف مرجل كبير.", "voice": "fable" },
+      "en": { "text": "Jack climbed the beanstalk again. He reached the castle quickly. He knocked, and the giant's wife opened the door. \"You always come back, little one, and I worry for you!\" she said. But she let him in, fed him, and hid him behind a great copper pot.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The giant sits at his huge table, holding up a glistening white hen. The hen lays a perfect golden egg in his enormous palm. The giant's eyes are sleepy and lazy, his expression sleepy-grumpy. Jack peeks from behind a copper pot." },
+      "ar": { "text": "هذه المرة، أحضر العملاق دجاجةً بيضاء عجيبة. قال لها: «بيضي!» فباضت بيضةً ذهبية! ثم أخرى، وأخرى! دهش جاك. أكل العملاق، وغرق في النوم وهو يمسك بالدجاجة. لكنّها فلتت من يده.", "voice": "fable" },
+      "en": { "text": "This time the giant brought a curious white hen. He commanded, \"Lay!\" and out plopped a golden egg! Then another, and another! Jack stared in amazement. The giant ate, dozed off holding the hen — until the hen slipped from his hand.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Jack carefully picks up the small golden hen, looking back nervously at the sleeping giant. The hen is calm and content in his arms. Jack tiptoes across the giant kitchen floor toward a window." },
+      "ar": { "text": "تسلّل جاك وأخذ الدجاجة. كانت هادئةً وكأنها تعرفه. خرج بهدوء، وركض إلى ساق الفاصولياء. نزل والدجاجة بين يديه. سعدت أمه: «دجاجةٌ تبيض ذهباً! لن نخاف الجوع أبداً!»", "voice": "fable" },
+      "en": { "text": "Jack snuck up and picked up the hen. She was as calm as if she knew him. He hurried outside, raced to the beanstalk, and climbed down with the hen tucked safely in his arms. His mother rejoiced: \"A hen that lays gold! We shall never know hunger again!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Jack climbing the beanstalk for a third time, looking older and braver. The cloud kingdom looks majestic ahead. Birds and butterflies flutter near him. Storm clouds gather behind the giant's castle." },
+      "ar": { "text": "لكن جاك أراد أن يرى المزيد. صعد للمرّة الثالثة. هذه المرّة، ذهبت زوجة العملاق إلى السوق، ودخل جاك القصر وحده. اختبأ في زاوية قبل أن يصل العملاق.", "voice": "fable" },
+      "en": { "text": "But Jack wanted to see one more wonder. He climbed up a third time. This time, the giant's wife was at the market, so Jack slipped inside alone. He hid in a corner before the giant came home.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "The giant plays a tiny, glowing golden harp on his great table. The harp has a small carved face and sings sweetly. Jack listens, awestruck, from behind a large pewter mug, eyes wide with longing." },
+      "ar": { "text": "أخرج العملاق هذه المرّة قيثارةً ذهبية صغيرة. قال لها: «غنّي!» فبدأت تعزف وتغني بصوتٍ جميل جداً! استمعت أذنا جاك مدهوشتين. وبعد قليل، نام العملاق نوماً عميقاً.", "voice": "fable" },
+      "en": { "text": "This time the giant brought out a tiny golden harp. \"Sing!\" he commanded, and the harp began to play and sing with the loveliest voice! Jack's ears tingled with delight. After a while, the giant fell into a deep sleep.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "Jack lifts the small golden harp, which suddenly opens its tiny carved eyes and looks worried. The harp's mouth opens to cry out. The sleeping giant begins to stir, eyes squinting open. Jack runs out the door clutching the harp." },
+      "ar": { "text": "تسلّل جاك وأخذ القيثارة. لكنّ القيثارة كانت سحرية، صرخت: «سيّدي! سيّدي!» استيقظ العملاق فجأة! ركض جاك بكل قوّته، والعملاق وراءه يصرخ ويهتزّ به الأرض.", "voice": "fable" },
+      "en": { "text": "Jack snuck up and grabbed the harp. But the harp was enchanted, and she cried out, \"Master! Master!\" The giant jolted awake! Jack ran for his life, the giant thundering after him, shaking the very ground with his steps.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "Jack slides down the beanstalk frantically, clutching the harp. Above him, the giant has begun climbing down too, the beanstalk swaying dangerously under his weight. The clouds boil around the giant. Jack's eyes are wide with focus." },
+      "ar": { "text": "وصل جاك إلى ساق الفاصولياء وانطلق ينزل بأقصى سرعة. لكنّ العملاق بدأ ينزل أيضاً، فاهتزّت الساق! صرخ جاك لأمه من الأعلى: «أمّي! أمّي! أحضري الفأس!»", "voice": "fable" },
+      "en": { "text": "Jack reached the beanstalk and slid down as fast as he could. But the giant began to climb down too, the great stalk swaying wildly! Jack called out from above, \"Mother! Mother! Bring the axe!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "Jack and his mother stand together looking at a flat patch of garden where the beanstalk used to be. The harp sings quietly in Jack's arms, and the golden hen pecks happily nearby. Sunshine warms the cottage. The cow grazes in a green field." },
+      "ar": { "text": "وصل جاك إلى الأرض، أخذ الفأس بسرعة، وضرب ساق الفاصولياء حتى وقعت! اختفى العملاق بين الغيوم ولم يعد. عاش جاك وأمه بسعادة، مع الدجاجة والقيثارة، ولم ينسَ أبداً درس الشجاعة... وأن لا يصعد ما لا يعرف نهايته!", "voice": "fable" },
+      "en": { "text": "Jack reached the ground, grabbed the axe, and chopped the beanstalk with all his might until it crashed down! The giant disappeared back into the clouds and never returned. Jack and his mother lived happily ever after with the golden hen and the singing harp — and Jack always remembered that bravery is wonderful, but it's wise to know what you're climbing toward!", "voice": "fable" }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "space_planets",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, deep space with stars and nebulae, friendly cartoon planets with personalities, soft cosmic colors, gentle educational tone, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "The Sun in the center surrounded by all 8 planets arranged in their orbits — Mercury, Venus, Earth, Mars, Jupiter (with bands), Saturn (with rings), Uranus, Neptune. Each planet has a kind cartoon face. Stars and a small galaxy in background"
+  },
+  "i18n": {
+    "ar": { "title": "رحلة في الفضاء", "subtitle": "تعرّف على المجموعة الشمسية", "tagline": "شمس واحدة، 8 كواكب، وقمر يدور حولنا!" },
+    "en": { "title": "A Journey Through Space", "subtitle": "Meet Our Solar System", "tagline": "One Sun, eight planets, and a Moon that dances around us!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A friendly bright yellow Sun with a smiling face at the center of space, surrounded by faint orbital lines and small planets in the distance. Solar flares dance gently from its surface." },
+      "ar": { "text": "في وسط مجموعتنا الشمسية، نجمٌ ضخمٌ ولامع: الشمس! الشمس كرة من النار والغاز، حجمها يكفي ليضع داخلها مليون أرض! وحرارتها على السطح 5500 درجة. كل النور والدفء يأتيان منها.", "voice": "nova" },
+      "en": { "text": "In the heart of our solar system shines a huge bright star: the Sun! The Sun is a ball of fire and gas, big enough to fit one million Earths inside! Its surface is 5500 degrees hot. All our light and warmth comes from it.", "voice": "nova" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Small gray rocky planet Mercury close to the giant Sun, half its surface scorched orange and half cool dark. It looks tiny and rocky like our Moon, with no atmosphere." },
+      "ar": { "text": "أقرب كوكب للشمس اسمه «عطارد». صخريّ صغير، ليس له هواء. نهاره حار جداً (430 درجة!) وليله بارد جداً (-180 درجة!). يطير حول الشمس بأسرع كل الكواكب.", "voice": "nova" },
+      "en": { "text": "The closest planet to the Sun is Mercury. It's a small rocky world with no air. Its days are scorching (430 degrees!) and nights freezing (-180 degrees!). It zooms around the Sun faster than any other planet.", "voice": "nova" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Venus shown as a beautiful golden-yellow planet shrouded in thick swirling clouds. The clouds make it look soft and dreamy. It glows like a jewel in space." },
+      "ar": { "text": "بعده «الزهرة». الزهرة تشبه الأرض في حجمها، لكنها ساخنة جداً تحت غيوم سميكة. من الأرض، تظهر كأجمل نجمة في السماء! يسمّيها الناس «نجمة الصباح» أو «نجمة المساء».", "voice": "nova" },
+      "en": { "text": "Next is Venus. Venus is about the same size as Earth, but it's blazing hot under thick clouds. From Earth, it shines as the brightest star in our sky! People call it the \"Morning Star\" or \"Evening Star.\"", "voice": "nova" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Beautiful blue and green Earth with white clouds, viewed from space. The Moon hovers nearby, smaller and pale gray. Both have gentle smiling faces. Continents are visible — Africa, Asia." },
+      "ar": { "text": "وها هي «الأرض» — بيتنا! الأرض الكوكب الوحيد المعروف به حياة. ثلثا سطحه ماء، والباقي أرض جافة. حوله قمر يدور، اسمه «القمر»، يضيء ليلنا.", "voice": "nova" },
+      "en": { "text": "And here is Earth — our home! Earth is the only planet we know of with life. Two-thirds of it is water, and the rest is dry land. A Moon circles around it, lighting up our nights.", "voice": "nova" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Red-orange Mars planet with dust storms, polar ice caps, and the giant Olympus Mons volcano visible. A small cute Mars rover with solar panel wings drives across its surface." },
+      "ar": { "text": "«المريخ» الكوكب الأحمر. سطحه مليء بالغبار الأحمر، ولديه أعلى جبل في كل المجموعة الشمسية، أعلى من جبل إيفرست بـ3 مرات! العلماء أرسلوا مركبات إلى المريخ لدراسته. يبحثون عن حياة ربما كانت فيه قديماً.", "voice": "nova" },
+      "en": { "text": "Mars is the red planet. Its surface is covered in red dust, and it has the tallest mountain in the whole solar system — three times taller than Mount Everest! Scientists have sent rovers to Mars to study it, searching for signs of past life.", "voice": "nova" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The largest planet, Jupiter, with its iconic banded clouds in stripes of orange, brown, and white. The famous Great Red Spot is visible like a giant eye. Four small moons orbit nearby." },
+      "ar": { "text": "«المشتري» أكبر الكواكب، ضخمٌ جداً جداً! 1300 أرض تدخل فيه! كله غازات، ليس عنده سطح صلب. على جسمه «بقعة حمراء كبيرة» — عاصفة عملاقة تستمرّ منذ 350 سنة! وحوله 80 قمراً!", "voice": "nova" },
+      "en": { "text": "Jupiter is the biggest planet — enormous! 1,300 Earths could fit inside it! It's all gas, with no solid surface. On its body, you can see the \"Great Red Spot\" — a giant storm that has been spinning for 350 years! And it has 80 moons!", "voice": "nova" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Beautiful pale yellow Saturn with its magnificent multi-colored rings. The rings are wide and detailed, made of ice and rock chunks. Multiple small moons orbit around it." },
+      "ar": { "text": "«زحل» أجمل كواكب المجموعة! له حلقات عظيمة حوله، مصنوعة من قطع ثلج وصخور صغيرة! إذا وضعت زحل في حوض ضخم من الماء، سيطفو! لأنه أخف من الماء — رغم حجمه الضخم.", "voice": "nova" },
+      "en": { "text": "Saturn is the most beautiful planet! It has magnificent rings around it, made of chunks of ice and rock! If you put Saturn in a giant tub of water, it would float! Because it's lighter than water — despite its huge size.", "voice": "nova" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Pale blue-green Uranus tilted on its side with faint rings, alongside deep blue Neptune showing storm clouds. Both planets shown together at the edge of the solar system in cold dark space." },
+      "ar": { "text": "آخر كوكبَين «أورانوس» و«نبتون». أورانوس ينام على جنبه! يدور وهو مائل تماماً، غريب جداً. ونبتون أبعد كوكب، أزرق غامق وبارد جداً. الرياح فيه أسرع من رياح أيّ مكان آخر — 2100 كم/ساعة!", "voice": "nova" },
+      "en": { "text": "The last two planets are Uranus and Neptune. Uranus sleeps on its side! It rotates completely tilted over — very strange. And Neptune is the farthest planet — deep blue and very cold. Its winds are the fastest anywhere — 2,100 km per hour!", "voice": "nova" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A child looks up through a small telescope in their backyard at a starry night sky filled with stars, constellations, and the Milky Way's band. Bright planets are visible — Venus and Mars. The expression on the child's face is one of wonder." },
+      "ar": { "text": "وراء الكواكب، كل النجوم اللي تشوفها في الليل! كل نجمة شمس مثل شمسنا — لكنها بعيدة جداً. حولها كواكب أخرى، ربما عليها حياة! الكون أكبر بكثير ممّا نتخيّل، ونحن جزءٌ صغيرٌ منه.", "voice": "nova" },
+      "en": { "text": "Beyond the planets, all the stars you see at night! Each star is a sun like our own — but very, very far away. Other planets orbit them — maybe with life! The universe is far bigger than we can imagine, and we are just a small part of it.", "voice": "nova" }
+    }
+  ]
+}

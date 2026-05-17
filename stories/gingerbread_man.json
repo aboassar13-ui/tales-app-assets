@@ -1,0 +1,95 @@
+{
+  "id": "gingerbread_man",
+  "category": "fairy_tale",
+  "source": "English folk tale, Joseph Jacobs (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, cozy bakery and sunny countryside palette, lively cartoon gingerbread man with raisin eyes, expressive friendly faces, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A lively gingerbread man with raisin eyes, candy buttons, and icing trim leaps cheerfully out of an open oven door; an elderly couple in aprons watch in surprise from behind, smiling"
+  },
+  "i18n": {
+    "ar": { "title": "رجل خبز الزنجبيل", "subtitle": "حكاية شعبية إنجليزية", "tagline": "ركض، ركض، بأقصى سرعة!" },
+    "en": { "title": "The Gingerbread Man", "subtitle": "An English Folk Tale", "tagline": "Run, run, as fast as you can!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A cozy farmhouse kitchen. An elderly woman with rosy cheeks rolls out gingerbread dough on a wooden table, shaping it into a small man with raisin eyes and currant buttons. Sunlight streams in through a small window." },
+      "ar": { "text": "كانت هناك امرأة عجوز طيّبة تعيش مع زوجها في بيتٍ صغير. لم يكن عندهما أطفال. في يومٍ من الأيام، فكّرت العجوز: «سأخبز رجلاً صغيراً من خبز الزنجبيل!»", "voice": "fable" },
+      "en": { "text": "There was once a kind old woman who lived with her husband in a small cottage. They had no children. One day, she thought, \"I shall bake a little man from gingerbread!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The old woman places the unbaked gingerbread man on a tray and slides it into the oven. The kitchen is warm and inviting. Her husband peeks over her shoulder curiously." },
+      "ar": { "text": "صنعت من العجين رجلاً صغيراً، بزرّي زبيب لعينيه، وحبّتين من الكشمش لزرّي قميصه، وفم من العسل. وضعته في الفرن وانتظرت. كانت الرائحة شهيّة!", "voice": "fable" },
+      "en": { "text": "She shaped the dough into a little man, with raisins for eyes, currants for buttons, and a smile of honey. She placed him in the oven and waited. The smell was wonderful!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The oven door flies open and the gingerbread man jumps out, animated and lively. The old couple stare in delight and surprise. He has a cheerful expression and looks ready to run." },
+      "ar": { "text": "وفجأةً، انفتح باب الفرن! قفز رجل خبز الزنجبيل خارجاً، حيّاً وسعيداً! نظر إلى العجوزَين وضحك. قالت العجوز: «انتظر! لا تركض!» لكنّه ركض!", "voice": "fable" },
+      "en": { "text": "Suddenly, the oven door flew open! The gingerbread man jumped out, alive and merry! He looked at the old couple and laughed. \"Wait! Don't run!\" the old woman called. But run he did!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The gingerbread man runs out the cottage door into a country lane, looking back over his shoulder with a huge grin. The old couple stand in the doorway, hands on their cheeks in amazement." },
+      "ar": { "text": "ركض رجل خبز الزنجبيل خارج البيت، ضاحكاً بأعلى صوته: «اركضوا، اركضوا، بأسرع ما تستطيعون! لن تمسكوني، أنا رجل خبز الزنجبيل!»", "voice": "fable" },
+      "en": { "text": "The gingerbread man dashed out of the house, laughing at the top of his voice, \"Run, run, as fast as you can! You can't catch me, I'm the Gingerbread Man!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The gingerbread man runs past a cow grazing in a field. The cow lifts her head curiously, considering chasing him. The gingerbread man laughs and waves cheerfully as he runs by." },
+      "ar": { "text": "مرّ على بقرةٍ تأكل العشب. قالت البقرة: «ابقَ هنا! أنت تبدو شهياً!» لكنّه ضحك: «هربتُ من عجوزٍ وعجوزة، وسأهرب منكِ أيضاً! اركضوا، اركضوا!»", "voice": "fable" },
+      "en": { "text": "He ran past a cow grazing in a field. The cow said, \"Stop! You look delicious!\" But he laughed, \"I've run from an old man and an old woman, and I'll run from you too! Run, run, as fast as you can!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The gingerbread man continues running and passes a horse looking over a fence. The horse looks intrigued. The gingerbread man's running speed is shown with motion lines. The old couple and the cow follow at a distance." },
+      "ar": { "text": "ثم رأى حصاناً. صهل الحصان: «انتظر، أيها الرجل الحلو!» لكنّ رجل خبز الزنجبيل ضحك: «هربتُ من العجوزَين والبقرة، وسأهرب منك! اركضوا، اركضوا، بأسرع ما تستطيعون!»", "voice": "fable" },
+      "en": { "text": "Then he came to a horse. The horse neighed, \"Wait, you sweet little man!\" But the gingerbread man laughed, \"I've run from an old man, an old woman, and a cow — I'll run from you too! Run, run, as fast as you can!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The gingerbread man runs past three workers (a farmer with a pitchfork, a baker, a maid) all reaching out for him. They have surprised, hungry expressions. He just laughs and keeps running." },
+      "ar": { "text": "ثم رأى ثلاثة عمّال في الحقل. حاولوا أن يمسكوه، لكنه طار بسرعة! «هربتُ من عجوزٍ وعجوزة وبقرة وحصان، وسأهرب منكم! اركضوا، اركضوا!»", "voice": "fable" },
+      "en": { "text": "Then he came upon three workers in a field. They tried to grab him, but he zoomed past! \"I've run from an old man, an old woman, a cow, and a horse — and I'll run from you too! Run, run, as fast as you can!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The gingerbread man stops at the edge of a wide stream. He looks worried — he cannot cross. A clever-looking red fox approaches from beside a tree, smiling kindly but with sly eyes." },
+      "ar": { "text": "وأخيراً، وصل رجل خبز الزنجبيل إلى نهرٍ كبير. توقّف فجأة! لم يكن يعرف السباحة. كان خلفه العجوز والعجوزة والبقرة والحصان والعمال! ثم اقترب منه ثعلبٌ ماكر، يبتسم.", "voice": "fable" },
+      "en": { "text": "At last, the gingerbread man came to a wide stream. He stopped! He couldn't swim. Behind him came the old man, the old woman, the cow, the horse, and the workers! Then a sly fox approached, smiling.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The fox offers his tail to the gingerbread man as a bridge across the stream. The gingerbread man looks both grateful and a bit suspicious. He climbs onto the fox's tail. The fox grins slyly." },
+      "ar": { "text": "قال الثعلب: «أنا أحبّ مساعدة الجميع! اقفز على ذيلي، وسأعبر بك النهر!» تردّد رجل خبز الزنجبيل قليلاً، لكنّ المطارَدِين خلفه كانوا قريبين. قفز على ذيل الثعلب.", "voice": "fable" },
+      "en": { "text": "The fox said, \"I love to help everyone! Jump on my tail, and I'll carry you across!\" The gingerbread man hesitated, but his pursuers were getting close. He jumped onto the fox's tail.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The fox swims through the stream with the gingerbread man on his tail. As the water rises, the fox says the man should climb up onto his back. The gingerbread man looks slightly worried." },
+      "ar": { "text": "بدأ الثعلب يسبح. ولكن مع كل ضربة، أخفض ذيله أكثر في الماء. قال الثعلب: «الماء يبتلّك! اقفز على ظهري لتكون أكثر أمناً.» قفز رجل خبز الزنجبيل على ظهره.", "voice": "fable" },
+      "en": { "text": "The fox began to swim. But with each stroke, his tail dipped lower in the water. The fox said, \"You're getting wet! Climb onto my back for safety.\" The gingerbread man climbed up.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Mid-stream, the fox suggests the gingerbread man climb to his head or even onto his nose. The gingerbread man looks more worried now, clinging on. The fox's eyes have become slyer." },
+      "ar": { "text": "ثم قال الثعلب: «الماء يصل إلى ظهري! اقفز إلى رأسي.» قفز رجل خبز الزنجبيل إلى رأس الثعلب. ثم قال: «اقفز إلى أنفي، فهو أعلى وأكثر أمناً!» قفز هناك أيضاً.", "voice": "fable" },
+      "en": { "text": "Then the fox said, \"The water is at my back! Jump onto my head.\" The gingerbread man jumped onto the fox's head. Then the fox said, \"Jump onto my nose — it's higher and safer!\" He jumped there too.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "On the other bank of the stream, the fox flips his head up and tosses the gingerbread man into the air. The gingerbread man's expression is one of comic surprise mid-flight. The fox below has an open mouth, ready to catch him." },
+      "ar": { "text": "ولكن... عندما وصل الثعلب إلى الشاطئ الآخر، رفع رأسه فجأةً، فطار رجل خبز الزنجبيل في الهواء! وفمه فاغراً، التقطه الثعلب وأكله. مالك القصة هنا ليس درس قسوة، بل: «احذر من المكر، حتى لو ابتسم.»", "voice": "fable" },
+      "en": { "text": "But — when the fox reached the other side, he flipped up his head suddenly! The gingerbread man flew up into the air. With his mouth wide open, the fox caught him in one snap. The point of the tale isn't cruelty, but a wise lesson: \"Beware of trickery, even when it smiles.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Back at the cottage, the old woman teaches a small group of children how to bake gingerbread men together, smiling warmly. Kids are kneading dough and laughing. The kitchen is full of warmth and joy." },
+      "ar": { "text": "في الكوخ، عادت العجوز وعجوزها إلى البيت بحزن. لكنها قالت: «سأخبز رجلَ خبز زنجبيل آخر، وسأنتبه هذه المرّة!» وخبزت كثيرين بعد ذلك، ودعت أطفال القرية ليأكلوا معها. أمّا الثعلب، فاكتفى بأكله الذي مكر له، ولم يعد طمّاعاً مرّةً أخرى.", "voice": "fable" },
+      "en": { "text": "Back at the cottage, the old couple were sad. But the old woman said, \"I shall bake another gingerbread man — and this time I'll watch him carefully!\" She baked many more, and invited all the village children to share them. As for the fox, he was content with what his trickery had earned, and never sought such a treat again.", "voice": "fable" }
+    }
+  ]
+}

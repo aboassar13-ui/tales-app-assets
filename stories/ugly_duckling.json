@@ -1,0 +1,137 @@
+{
+  "id": "ugly_duckling",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "4-9",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, peaceful pond and meadow palette, expressive sympathetic animal faces, gentle storybook mood, seasonal changes visible, no text in image, no watermark",
+  "cover": {
+    "prompt": "A small gray cygnet stands beside a serene pond, looking at his own reflection, while a graceful adult white swan floats nearby — the cygnet's eyes wide with the dawning realization of who he truly is"
+  },
+  "i18n": {
+    "ar": { "title": "البطة القبيحة", "subtitle": "حكاية من حكايات أندرسن", "tagline": "صغيرٌ مختلف، رحلةٌ طويلة، وحقيقةٌ جميلة" },
+    "en": { "title": "The Ugly Duckling", "subtitle": "A Tale by Hans Christian Andersen", "tagline": "A different little one, a long journey, a beautiful truth" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "Sunny farmyard pond. A mother duck sits on a nest at the edge of tall reeds, gently warming six smooth white eggs and one large gray-tinged egg that looks different from the rest. Wildflowers bloom around her." },
+      "ar": { "text": "في يومٍ من أيام الربيع، كانت بطّةٌ أمّ ترقد على بيضاتها في عشٍّ من القصب. كان عندها ست بيضات بيضاء صغيرة، وبيضةٌ سابعةٌ أكبر قليلاً، بلونٍ مختلف. ظلّت تنتظر بصبر.", "voice": "shimmer" },
+      "en": { "text": "One spring day, a mother duck sat patiently on her nest among the reeds. She had six small white eggs and one seventh egg — larger and a different color from the others. She waited with great patience.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Six little yellow ducklings emerge from cracking eggs, fuzzy and bright. The mother duck smiles. One large egg next to them remains unhatched. Pond ripples gently in golden sunlight." },
+      "ar": { "text": "ذات صباح، تكسّرت البيضات: كراك! خرجت ست بطّاتٍ صفراء صغيرة، تضحك وتمسح ريشها. لكن البيضة السابعة بقيت مغلقة. قالت الأم بفضول: «لمَ تتأخر هذه؟»", "voice": "shimmer" },
+      "en": { "text": "One morning, the eggs cracked open: crack, crack! Six bright yellow ducklings emerged, chirping and fluffing their down. But the seventh egg stayed shut. Mama Duck wondered, \"Why is this one taking so long?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Finally, a larger seventh egg cracks open and a slightly bigger, fuzzy gray duckling emerges, blinking. He looks shy and curious. The other six yellow ducklings stare at him with confused expressions." },
+      "ar": { "text": "أخيراً، تكسّرت البيضة الأخيرة، وخرج بطٌّ كبيرٌ نوعاً ما، رماديٌّ غامق. نظر إليه إخوته فقالوا متعجّبين: «إنه غريب! ليس مثلنا!» نظرت إليه أمّه باهتمام، لكنها ابتسمت وقالت: «إنه طفلي.»", "voice": "shimmer" },
+      "en": { "text": "At last, the seventh egg cracked, and out came a slightly larger duckling — not yellow, but grayish-brown. His siblings stared. \"He's different! He doesn't look like us!\" they squeaked. Mama Duck looked puzzled — but she smiled and said, \"He is my child.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The mother duck leads her seven ducklings in a line down to the pond — six bright yellow and one bigger gray. The gray duckling swims at the back, looking happy in the water. Other farm animals watch from the shore." },
+      "ar": { "text": "أخذتهم أمّهم إلى البركة وعلّمتهم السباحة. تفاجأت أنّ البط الرمادي سبح أفضل من إخوته! قالت بفخر: «انظروا! إنه يسبح كأمير.» لكنّ حيوانات المزرعة كانت قاسية معه: «ما أقبح هذا البط!»", "voice": "shimmer" },
+      "en": { "text": "Mama took them to the pond and taught them to swim. To her surprise, the gray duckling swam better than the rest! \"Look how well he swims — like a prince!\" she said proudly. But the other farm animals were unkind. \"What an ugly duckling!\" they whispered.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The gray duckling is jostled by his yellow siblings who push him away from a feeding bowl. Hens and a turkey nearby look at him with disapproving expressions. The duckling looks down sadly." },
+      "ar": { "text": "كبر البط الصغير، لكنه ظلّ يختلف. أبعدته الدجاجات عن الحبوب، ولم يلعب معه إخوته. كان دائماً وحيداً، يجلس قرب البركة، ينظر إلى انعكاسه: «لمَ أنا مختلف هكذا؟»", "voice": "shimmer" },
+      "en": { "text": "The little duckling grew, but he stayed different. The hens pushed him away from food, and even his siblings would not play with him. He often sat alone by the pond, gazing at his reflection. \"Why am I so different?\" he wondered.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The gray duckling waddles away from the farmyard at dusk, looking back once with sad eyes. Lights twinkle in the farm windows behind him. Ahead lies an open meadow leading to wild reeds." },
+      "ar": { "text": "في ليلةٍ من الليالي، قرّر البط الصغير: «سأذهب لأبحث عن مكانٍ ينتمي إليه شخصٌ مثلي.» ودّع البركة بصمتٍ، ومشى في الظلام. دخل غابةً مظلمة كبيرة، خائفاً لكن قويّاً.", "voice": "shimmer" },
+      "en": { "text": "One night, the little duckling decided, \"I shall set out to find a place where someone like me belongs.\" He said a quiet goodbye to the pond and walked into the darkness. He entered a vast forest, frightened but determined.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The duckling walks through a meadow of tall reeds at dawn. A flock of wild ducks emerges from the reeds and watches him with curious, friendly eyes. The duckling pauses, hopeful." },
+      "ar": { "text": "في الصباح، وصل إلى مستنقعٍ كبير، حيث رأى مجموعة من البط البرّي. قال بفرح: «أهلاً! هل أستطيع البقاء معكم؟» قالوا: «أنت قبيحٌ، لكن لا يهم. ابقَ.» سعد البط الصغير بأن يكون له أصدقاء.", "voice": "shimmer" },
+      "en": { "text": "In the morning, he reached a great marshland, where he saw a flock of wild ducks. \"Hello!\" he said hopefully. \"May I stay with you?\" They replied, \"You're ugly — but no matter. You may stay.\" The duckling felt grateful for any kindness.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The duckling huddles alone in tall reeds during a sudden hunting commotion. Distant hunters and dogs are suggested only by shadows and the spooked wild ducks flying up. The duckling looks frightened but unharmed." },
+      "ar": { "text": "لكن فجأة، انفجرت أصواتٌ مرعبة. كان هناك صيّادون مع كلابهم. هرب البط البرّي. اختبأ البط الصغير بين القصب وسكت تماماً. مرّ كلبٌ كبير، فاشتمّه ومضى دون أن يأخذه. أحسّ بالأمان قليلاً.", "voice": "shimmer" },
+      "en": { "text": "Suddenly, loud noises filled the marsh — hunters and their dogs. The wild ducks flew off. The little duckling hid silently among the reeds. A great dog sniffed at him, but turned away. He felt almost safe — but very alone again.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A small cottage at the edge of woods. An old woman with a kerchief opens the door. A cat and a hen peer over her shoulder. The duckling stands at the threshold, soaked and shivering. The cottage looks warm inside." },
+      "ar": { "text": "مشى البط طويلاً حتى وصل إلى بيتٍ قديم. عاشت فيه عجوز مع قطّةٍ ودجاجة. أدخلته العجوز ليتدفّأ. لكنّ القطة والدجاجة قالتا بسخرية: «أيمكنك أن تخرخر؟ هل تبيض؟ لا؟ إذن أنت لا تنفع!»", "voice": "shimmer" },
+      "en": { "text": "The duckling walked on until he reached an old cottage at the edge of the woods. An old woman lived there with her cat and her hen. She let him in to warm by the fire. But the cat and hen mocked him: \"Can you purr? Can you lay eggs? No? Then what good are you?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The duckling leaves the cottage and trudges out into a frosty meadow as snow begins to fall. He looks small and lonely against a wide gray sky. His feathers are puffed for warmth." },
+      "ar": { "text": "حزن البط الصغير من جديد. قال: «لا، أنا لا أعرف أن أخرخر ولا أبيض، لكنني أحبّ السباحة!» خرج وحده. حلّ الخريف، ثم بدأ الشتاء. كان البرد قارساً، وكان البط جائعاً وبارداً.", "voice": "shimmer" },
+      "en": { "text": "The duckling felt sad once more. \"No, I cannot purr or lay eggs — but I do love to swim!\" he said, and slipped away. Autumn came, then winter. The cold was harsh, and the duckling grew thin and shivering.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "In an autumn sunset over a vast lake, a flock of magnificent white swans flies overhead in a V-formation. The little gray duckling stares up from the water, transfixed with awe. His mouth is open in wonder." },
+      "ar": { "text": "في ليلةٍ خريفية، رأى البط الصغير منظراً عجيباً. فوق البحيرة، كان يطير سربٌ من طيورٍ بيضاء كبيرة، بأعناقٍ طويلة وأجنحةٍ ممتدّة. شعر بأن قلبه يخفق بقوّة! «ما أجملهم! ليتني أكون مثلهم!»", "voice": "shimmer" },
+      "en": { "text": "One autumn evening, the duckling saw a marvelous sight. Above the lake flew a flock of large white birds with long necks and wide wings. His heart pounded. \"How beautiful they are! Oh, if only I could be like them!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Frozen winter scene. The little duckling is partly stuck in a thin sheet of pond ice, only his head and neck above. Snow falls gently. A kind elderly farmer in a coat approaches, looking concerned and ready to help." },
+      "ar": { "text": "مرّ الشتاء قاسياً. تجمّدت البحيرة، وعلق البط في الثلج. كاد يموت من البرد. لكن مزارعاً طيباً وجده، وأخذه إلى بيته، وأذاب الثلج عن ريشه بلطف. شفت زوجته البطّ بطعامٍ دافئ.", "voice": "shimmer" },
+      "en": { "text": "Winter grew terribly harsh. The lake froze, and the duckling became trapped in the ice. He nearly perished from the cold. But a kind farmer found him, carried him home, and gently melted the ice from his feathers. His wife nursed the duckling with warm food.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Inside a small farmhouse kitchen, a comically chaotic moment: the duckling, frightened by friendly children running toward him, splashes in a milk pot. Flour and a butter dish spill. The farmer's family laugh kindly." },
+      "ar": { "text": "في البيت، أحبّ الأطفال البط، وأرادوا أن يلعبوا معه. لكنه خاف من الصخب، فطار في المطبخ، وأوقع وعاء الحليب، ودخل في كيس الدقيق! ضحك الأطفال كثيراً، لكنّه ظنّ أنّهم سيغضبون منه.", "voice": "shimmer" },
+      "en": { "text": "Inside the cottage, the children loved the duckling and wanted to play with him. But he was frightened by their noise. He flapped about the kitchen, knocked over the milk pot, and tumbled into a bag of flour! The children laughed kindly — but he thought he had angered them.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The duckling escapes through an open farmhouse window, leaving a small floury trail. Outside the window, the spring meadows have just begun to bloom — the first flowers appear, and birds sing." },
+      "ar": { "text": "هرب البط من النافذة وعاش في الحقول والمستنقعات وحده طوال الشتاء. وعندما حلّ الربيع أخيراً، أحسّ بقوّة جديدة في جناحيه. مدّ جناحيه وفوجئ — كم أصبحا كبيرَين وقويَّين!", "voice": "shimmer" },
+      "en": { "text": "The duckling escaped out the window and spent the rest of the winter alone in fields and marshes. When spring finally arrived, he felt a new strength in his wings. He stretched them out — and was astonished at how large and strong they had grown!", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The duckling stands at the edge of a beautiful crystal-clear pond. He looks down at his reflection in the water — and sees not a gray duckling, but a young white swan with elegant feathers and a graceful neck. His eyes go wide with realization." },
+      "ar": { "text": "طار البط إلى بركةٍ جميلة في حديقةٍ كبيرة. نظر إلى الماء ليشرب — ووقف مذهولاً! لم يرَ بطّاً رماديّاً قبيحاً. رأى... طائراً أبيضَ جميلاً بعنقٍ طويل! «هل هذا أنا حقّاً؟»", "voice": "shimmer" },
+      "en": { "text": "He flew to a lovely pond in a great garden. He bent down for a drink — and froze in amazement! He did not see an ugly gray duckling in the water. He saw a beautiful white swan with a long, graceful neck. \"Is that... really me?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Three magnificent adult white swans glide gracefully across a sunlit pond toward the young transformed swan. They tilt their heads warmly, welcoming him. Their feathers gleam in the spring sunlight." },
+      "ar": { "text": "اقترب منه ثلاثة بجعات بيضاء كبيرة — مثله تماماً! لم يهربن منه ولم يسخرن. بل ابتسمن وقلن: «أهلاً، يا أخانا الصغير الجميل! كنّا نبحث عنك!»", "voice": "shimmer" },
+      "en": { "text": "Three magnificent adult swans came gliding toward him — just like himself! They did not chase him away or mock him. They smiled and said, \"Welcome, beautiful little brother! We have been looking for you!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Children in a sunny garden point in delight at the young swan now swimming with three older swans. One small child holds out breadcrumbs. The atmosphere is one of celebration and welcome." },
+      "ar": { "text": "ركض أطفال الحديقة إلى الماء وقالوا فرحاً: «أتت بجعةٌ صغيرة جديدة! إنها أجملهنّ كلهنّ!» نظر البطّ — أو بالأحرى البجعة الشابة — حوله. لم يصدق ما يحدث.", "voice": "shimmer" },
+      "en": { "text": "Children in the garden ran to the water and cried with joy, \"A new little swan has come! And he is the loveliest of them all!\" The young swan — for that is what he was now — looked around, scarcely believing what was happening.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "The young swan tilts his head back, eyes closed, smiling peacefully — a moment of finally belonging. Surrounding swans bow their long necks in welcome. Spring flowers and the bright pond reflect the moment." },
+      "ar": { "text": "خفض البجع الشاب رأسه بتواضع. تذكّر كل الأيام الصعبة، الأيام التي شعر فيها بأنه قبيحٌ ووحيد. الآن، يفهم: لم يكن قبيحاً، بل كان فقط مختلفاً. وكان عليه أن ينمو ليصير ما هو.", "voice": "shimmer" },
+      "en": { "text": "The young swan lowered his head humbly. He remembered every hard day — every moment he had felt ugly and alone. Now he understood: he had never been ugly at all. He had simply been different. He had needed time to grow into who he truly was.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "The new swan flies in a V-formation alongside the older swans, his wings strong and white, soaring over sunlit countryside. Sunlight glints off his feathers. He looks both peaceful and proud." },
+      "ar": { "text": "طار البجع الجديد مع الآخرين فوق الحقول. شعر بأنه مفعمٌ بالحياة والفرح. ابتسم في نفسه قائلاً: «لم يخطر ببالي وأنا بطّةٌ صغيرة قبيحة، أنني سأكون يوماً ما بجعةً سعيدة.»", "voice": "shimmer" },
+      "en": { "text": "The new swan flew with the others above the meadows. His heart was full of life and joy. He smiled to himself, \"When I was a small, ugly duckling, I never dreamed I would one day be a happy swan.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "Group of swans on a tranquil pond in evening light, the once-ugly duckling now nestled among them as one of the family. Lily pads float around them, fireflies appear, and the sunset is golden and warm." },
+      "ar": { "text": "ومن ذلك اليوم، عاش بسعادة مع عائلته الجديدة. ولم ينسَ أبداً أن المختلف ليس قبيحاً، وأن أجمل الأشياء قد تحتاج وقتاً لتظهر.", "voice": "shimmer" },
+      "en": { "text": "From that day on, he lived happily with his new family. And he never forgot the great truth: being different is not being ugly — and the most beautiful things sometimes need a little time to be seen.", "voice": "fable" }
+    }
+  ]
+}

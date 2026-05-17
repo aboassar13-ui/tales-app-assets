@@ -1,0 +1,53 @@
+{
+  "id": "golden_goose",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 4,
+  "style_suffix": "warm watercolor children's book illustration, simple farm palette, expressive friendly goose with gentle eyes, golden eggs glistening, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A beautiful white goose stands beside a wicker basket filled with shining golden eggs in a sunny barnyard; a farmer and his wife look down at the eggs with awe and joy"
+  },
+  "i18n": {
+    "ar": { "title": "الإوزة التي تبيض الذهب", "subtitle": "حكاية من حكايات إيسوب", "tagline": "الطمع يضيّع النعمة" },
+    "en": { "title": "The Goose That Laid Golden Eggs", "subtitle": "An Aesop's Fable", "tagline": "Greed destroys gifts" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A humble small farmhouse on a sunny morning. A farmer and his wife walk together toward a small barn. They look like simple, kind people. Chickens scratch in the yard." },
+      "ar": { "text": "كان هناك مزارعٌ فقير، يعيش مع زوجته في مزرعة صغيرة. كان لديهما إوزّة بيضاء جميلة، تبيض بيضةً واحدة كلّ يوم.", "voice": "fable" },
+      "en": { "text": "There once was a poor farmer who lived with his wife on a small farm. They had a lovely white goose, who laid one egg each day.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The farmer enters the barn and stops in shock. Inside the goose's nest sits a glistening solid gold egg. His wife is behind him, mouth open in amazement. The goose looks at them serenely." },
+      "ar": { "text": "في صباحٍ من الأيام، دخل المزارع إلى الحظيرة، فوجد في عشّ الإوزّة... بيضةً من الذهب الخالص! لمعت تحت الشمس. اندهش هو وزوجته! ركضا إلى السوق وباعا البيضة، وجمعا الكثير من المال.", "voice": "fable" },
+      "en": { "text": "One morning, the farmer entered the barn and found in the goose's nest — an egg of pure gold! It shone in the sunlight. He and his wife were astonished! They ran to the market and sold the egg for a great deal of money.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Days pass. The farmer collects golden eggs one by one, each day from the goose's nest. He's now wearing better clothes; his wife has a new dress. Their once-humble house now has more furniture and decorations." },
+      "ar": { "text": "في اليوم التالي، كانت هناك بيضةٌ ذهبية أخرى! وفي اليوم الثالث، أخرى! استمرّت الإوزّة تبيض بيضةً من الذهب كلّ يوم. صار المزارعان غنيَّين قليلاً، ثم أكثر، ثم أكثر بكثير!", "voice": "fable" },
+      "en": { "text": "The next day, there was another golden egg! And the third day, another! The goose continued laying a golden egg every single day. The farmer and his wife became a little wealthy, then more, then much more!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Inside their now-grand home, the farmer paces impatiently in front of a fireplace. His wife sits in a fancy chair, both holding a single golden egg, looking dissatisfied despite their wealth. They look greedy now, not content." },
+      "ar": { "text": "لكنّ المزارع، رغم غناه، لم يكن راضياً. قال لزوجته: «بيضةٌ واحدة في اليوم قليلة. لو ذبحنا الإوزّة، سنجد كلّ ذهبها في بطنها مرّةً واحدة! سنصبح أغنى الأغنياء!»", "voice": "fable" },
+      "en": { "text": "But the farmer, despite his wealth, was not content. He said to his wife, \"One egg a day is too slow. If we kill the goose, we'll get all her gold at once — we'll be the richest of the rich!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The farmer holds an empty wicker basket, looking deeply disappointed. The goose lies peacefully but has clearly been opened to look inside — depicted abstractly, not graphically. The interior is shown as empty, no gold. The wife stands behind looking horrified." },
+      "ar": { "text": "تردّدت الزوجة، لكنّ الطمع غلب الحكمة. ذبحا الإوزّة. لكنّ... لم يكن في بطنها أيّ ذهب! كانت إوزّة عادية مثل أيّ إوزّة. لقد فقدا إوزّتهما العجيبة، ولم يربحا شيئاً!", "voice": "fable" },
+      "en": { "text": "The wife hesitated, but greed overcame wisdom. They killed the goose. But — inside her there was no gold at all! She was an ordinary goose, like any other. They had lost their magical goose, and gained nothing!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The farmer and wife sit on the floor of their fancy home, looking heartbroken and remorseful. Their now-bare nest sits before them — no goose, no eggs. The realization of their foolishness shows on their faces." },
+      "ar": { "text": "جلس المزارعان وبكيا. لم يعد عندهما إوزّة، ولم يعد عندهما ذهبٌ جديد. تعلّما درساً قاسياً: «الطمع يفقدك ما تملك. ومن قنع بالقليل اليومي، حافظ على نعمته للأبد.»", "voice": "fable" },
+      "en": { "text": "The farmer and his wife sat down and wept. They had no more goose, and no more new gold. They learned a hard lesson, \"Greed makes you lose what you have. He who is content with a little each day, keeps his blessing for life.\"", "voice": "fable" }
+    }
+  ]
+}

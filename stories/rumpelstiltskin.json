@@ -1,0 +1,113 @@
+{
+  "id": "rumpelstiltskin",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, royal castle and miller's cottage palette, expressive gentle faces, magical golden thread spinning, comical tiny imp character (not scary), gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young miller's daughter sits at a spinning wheel in a stone room; magical golden thread spins from the wheel. A tiny, comical-looking imp with a long pointed hat dances beside her, helping her spin"
+  },
+  "i18n": {
+    "ar": { "title": "روملستيلتسكين", "subtitle": "حكاية من حكايات الإخوة جريم", "tagline": "أبٌ مغرور، فتاةٌ في ورطة، وقزمٌ غامض" },
+    "en": { "title": "Rumpelstiltskin", "subtitle": "A Tale from the Brothers Grimm", "tagline": "A boastful father, a desperate girl, a mysterious imp" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A poor miller in patched clothes stands proudly before a young king in a grand throne room. The miller gestures excitedly as he boasts. His shy daughter stands awkwardly beside him, looking embarrassed." },
+      "ar": { "text": "كان هناك طحّان فقير، له ابنةٌ جميلة. لكي يلفت انتباه الملك، كذب وقال: «يا مولاي، ابنتي تستطيع غزل القشّ ليصبح ذهباً!» اندهش الملك. كانت كلمات كذبٍ من والدٍ يحاول التفاخر.", "voice": "fable" },
+      "en": { "text": "There was once a poor miller who had a beautiful daughter. To impress the king, he boasted, \"Your Majesty, my daughter can spin straw into gold!\" The king was amazed. They were boastful lies from a father trying to seem grand.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The young miller's daughter is led by guards into a stone room filled with piles of straw. A spinning wheel sits in the corner. The door closes behind her, and she sits down, looking distressed and tearful." },
+      "ar": { "text": "أمر الملك بإحضار الفتاة إلى القصر. أدخلها في غرفةٍ مليئةٍ بالقشّ، وفيها مغزل. قال: «اغزلي هذا القشّ ذهباً قبل الصباح، وإلّا...» وأغلق الباب. بكت الفتاة — لم تكن تستطيع فعل هذا!", "voice": "fable" },
+      "en": { "text": "The king summoned the girl to the castle. He put her in a room filled with straw, with a spinning wheel in it. He said, \"Spin this straw into gold by morning, or else...\" and shut the door. The girl wept — she could not do this!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A tiny, oddly-dressed imp with a long pointed hat and curly shoes suddenly appears in the room. He's no bigger than a child, comical and friendly-looking but with sly eyes. He looks at the crying girl curiously." },
+      "ar": { "text": "وفجأةً، ظهر قزمٌ صغير غريب! كان لطيف الشكل، بقبّعةٍ طويلة. سألها: «لمَ تبكين، يا فتاة؟» روت له القصّة. ابتسم القزم: «أستطيع أن أغزل القشّ ذهباً. لكن، ماذا ستعطيني في المقابل؟»", "voice": "fable" },
+      "en": { "text": "Suddenly, a small strange imp appeared! He was odd-looking, with a tall pointed hat. He asked, \"Why do you cry, girl?\" She told him her story. The imp smiled, \"I can spin straw into gold. But what will you give me in return?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The imp sits at the spinning wheel, working magic — golden thread streams from the wheel into a basket. The girl watches in amazement. The straw piles transform into shining piles of gold thread. Moonlight outside the window." },
+      "ar": { "text": "قالت الفتاة: «أعطيك قلادتي.» وافق القزم. جلس عند المغزل، وبدأ يعمل بسرعةٍ سحرية. تحوّل كلّ القشّ إلى ذهبٍ ذهبيٍّ لامع! اختفى القزم قبل الفجر. اندهش الملك في الصباح.", "voice": "fable" },
+      "en": { "text": "The girl said, \"I'll give you my necklace.\" The imp agreed. He sat at the wheel and worked with magical speed. All the straw turned into shining gold thread! The imp vanished before dawn. The king was amazed in the morning.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The king, even more excited, leads the girl to a larger room with even more piles of straw. He has a greedy expression. The girl looks worried, then resigned." },
+      "ar": { "text": "كان الملك طمّاعاً. أدخلها غرفةً أكبر، مع كميةٍ أكبر من القشّ. «اغزليها كلّها هذه الليلة أيضاً!» بكت الفتاة. لكنّ القزم ظهر ثانية. قال: «وماذا الآن؟» قالت: «هذا خاتمي.» جلس وغزل كل شيء.", "voice": "fable" },
+      "en": { "text": "The king was greedy. He led her into a larger room, with even more straw. \"Spin it all tonight too!\" The girl wept. But the imp appeared again. He said, \"And now?\" She said, \"My ring.\" He sat and spun it all.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The king now leads the girl to a third even larger room, completely filled to the ceiling with straw. He looks delighted and greedy. The girl looks exhausted and despairing. The straw towers above her." },
+      "ar": { "text": "في اليوم الثالث، أدخلها الملك في الغرفة الأكبر، مليئةً بالقشّ حتى السقف! قال: «إن غزلتِها هذه الليلة، أتزوّجك!» ظهر القزم ثالثاً. سألها: «ماذا ستعطين؟» قالت بحزن: «ليس لديّ شيءٌ آخر.»", "voice": "fable" },
+      "en": { "text": "On the third day, the king led her into the biggest room, filled with straw up to the ceiling! He said, \"If you spin this tonight, I'll marry you!\" The imp appeared a third time. He asked, \"What will you give?\" She said sadly, \"I have nothing left.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The imp looks at the girl with serious, mysterious eyes. He gestures slyly. The girl listens, looking torn. The room is dimly lit by candlelight, and the straw towers around them." },
+      "ar": { "text": "قال القزم بمكرٍ: «إذن، عديني: إن تزوّجتِ الملك، تعطيني طفلكِ الأول.» تردّدت الفتاة، لكنّها كانت يائسة. وافقت — لم تكن تصدّق أنها ستصبح ملكةً يوماً. جلس القزم، وغزل كلّ القشّ ذهباً.", "voice": "fable" },
+      "en": { "text": "The imp said slyly, \"Then promise me: if you marry the king, you'll give me your firstborn child.\" The girl hesitated, but she was desperate. She agreed — she didn't believe she'd ever truly be queen. The imp sat and spun all the straw into gold.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A grand royal wedding. The girl, now in a beautiful gown, is being married to the king. The miller's daughter looks both happy and worried, remembering her promise. A grand banquet table is set in the background." },
+      "ar": { "text": "أعجب الملك، وتزوّج الفتاة. أصبحت ملكة! نسيت — أو حاولت أن تنسى — وعدها للقزم. مرّ عامٌ، وأنجبت طفلاً جميلاً. كانت سعيدة جداً، حتى... ظهر القزم.", "voice": "fable" },
+      "en": { "text": "The king was pleased, and he married the girl. She became a queen! She forgot — or tried to forget — her promise to the imp. A year passed, and she had a beautiful child. She was very happy — until... the imp appeared.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The imp stands in the queen's bedroom, arms crossed, smiling with sly satisfaction. The queen holds her baby tightly, eyes wide with horror. The baby sleeps innocently." },
+      "ar": { "text": "قال القزم بابتسامة: «الآن، أعطيني طفلكِ كما وعدتِ!» انفجرت الملكة باكية: «أرجوك! خذ أيّ شيءٍ، الذهب، الجواهر، كلّ ما عندي، لكن لا تأخذ طفلي!» فكّر القزم.", "voice": "fable" },
+      "en": { "text": "The imp said with a smile, \"Now, give me your child as you promised!\" The queen burst into tears, \"Please! Take anything — gold, jewels, everything I have — but don't take my child!\" The imp thought.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The imp gestures with one finger, looking thoughtful. The queen leans forward eagerly. The atmosphere is tense but hopeful." },
+      "ar": { "text": "قال القزم: «حسناً، سأمنحكِ فرصة. لديكِ ثلاث ليالٍ. إن خمّنتِ اسمي، أتركك وطفلك. إن لم تستطيعي، أعود وأخذ الطفل.» ابتسم بثقة، واختفى. لم تستطع الملكة النوم.", "voice": "fable" },
+      "en": { "text": "The imp said, \"Very well, I'll give you a chance. You have three nights. If you guess my name, I'll leave you and your child. If you can't, I'll return and take the child.\" He smiled confidently and vanished. The queen couldn't sleep.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The queen sits in her chamber with parchment scrolls of names spread around her. She frantically writes lists of names. Servants stand by, also looking through name books. The atmosphere is one of urgent research." },
+      "ar": { "text": "في الليلة الأولى، طلبت الملكة من خدمها أن يبحثوا في كلّ كتب الأسماء. لمّا عاد القزم، خمّنت: «هل اسمك جاسبر؟» «لا.» «بلتاسار؟» «لا.» «ميلكيور؟» «لا.» اختفى ضاحكاً.", "voice": "fable" },
+      "en": { "text": "On the first night, the queen ordered her servants to search through every book of names. When the imp returned, she guessed, \"Is your name Caspar?\" \"No.\" \"Balthasar?\" \"No.\" \"Melchior?\" \"No.\" He vanished laughing.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "On the second night, the queen tries even more unusual names. She has a list. The imp shakes his head with each guess, smiling smugly. The candle is burning low." },
+      "ar": { "text": "في الليلة الثانية، حاولت بأسماء غريبة: «بوتشي؟» «لا.» «هانز ووركر؟» «لا.» «ريبسيب؟» «لا!» ضحك القزم. كانت الملكة تائسة. أرسلت رجلاً ذكياً ليبحث في الغابة، علّه يجد إشارة.", "voice": "fable" },
+      "en": { "text": "On the second night, she tried strange names, \"Bouchi?\" \"No.\" \"Hans Worker?\" \"No.\" \"Ribsib?\" \"No!\" The imp laughed. The queen was desperate. She sent a clever man to search the forest, hoping he might find a clue.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Deep in a moonlit forest, the queen's messenger hides behind a tree, watching a small fire in a clearing. The little imp dances around the fire singing loudly. He's celebrating his upcoming prize." },
+      "ar": { "text": "في الغابة، رأى الرجل ناراً صغيرة في عرضاء. اقترب بصمت. كان القزم يرقص حول النار ويغنّي بفرح: «اليوم أطبخ، وغداً أشوي، وفي اليوم الثالث، طفل الملكة سيصير لي! ما أسعد القزم اسمه روملستيلتسكين!»", "voice": "fable" },
+      "en": { "text": "In the forest, the messenger saw a small fire in a clearing. He crept closer silently. The imp was dancing around the fire, singing joyfully, \"Today I bake, tomorrow I brew, the third day I'll have the queen's child too! Happy is the imp whose name is Rumpelstiltskin!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The messenger races back to the castle, panting. He whispers urgently in the queen's ear. The queen's eyes widen with hope. She smiles knowingly." },
+      "ar": { "text": "ركض الرجل إلى القصر، وأخبر الملكة! فرحت الملكة فرحاً شديداً. في الليلة الثالثة، وصل القزم بثقةٍ كاملة. قال: «هذه آخر فرصتكِ! خمّني!» تمالكت الملكة، وابتسمت.", "voice": "fable" },
+      "en": { "text": "The man ran back to the castle and told the queen! She rejoiced! On the third night, the imp arrived full of confidence. He said, \"This is your last chance! Guess!\" The queen composed herself and smiled.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The queen confidently faces the imp, smiling knowingly. The imp's face transforms from confident to surprised to angry as she reveals his name. He stomps his foot in frustration. The queen holds her baby protectively." },
+      "ar": { "text": "قالت الملكة بهدوء: «هل اسمك... جاك؟» قال القزم بفرح: «لا!» «هل اسمك... بيتر؟» «لا!» ثم ابتسمت: «هل اسمك... روملستيلتسكين؟» جمد القزم! صرخ: «الشيطان أخبرك! الشيطان أخبرك!» قفز غاضباً في الأرض.", "voice": "fable" },
+      "en": { "text": "The queen said calmly, \"Is your name... Jack?\" The imp said joyfully, \"No!\" \"Is your name... Peter?\" \"No!\" Then she smiled, \"Is your name... Rumpelstiltskin?\" The imp froze! He shouted, \"The devil told you! The devil told you!\" He stamped his foot in fury.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The imp stomps so hard his foot sinks into the ground. He pulls it out with the other foot, comically getting stuck deeper and deeper. The queen and baby watch with relief. Eventually, the imp pops away in a puff of smoke." },
+      "ar": { "text": "ضرب القزم برجله الأرض من شدّة الغضب، فدخلت رجله في الأرض! حاول أن يخرجها، فحفر أكثر! وفجأةً، اختفى تماماً! ولم يره أحدٌ بعد ذلك. عاشت الملكة وطفلها بسعادة، وتعلّمت درساً: «الوعود مهمة، فلا تعِدي بما لا تستطيعين الوفاء به.»", "voice": "fable" },
+      "en": { "text": "The imp stomped the ground in such fury that his foot sank in! He tried to pull it out and dug himself in deeper! Suddenly, he vanished entirely — never to be seen again! The queen and her child lived happily, and she learned: \"Promises matter — never promise what you cannot keep.\"", "voice": "fable" }
+    }
+  ]
+}

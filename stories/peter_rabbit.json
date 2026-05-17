@@ -1,0 +1,89 @@
+{
+  "id": "peter_rabbit",
+  "category": "fairy_tale",
+  "source": "Beatrix Potter, 1902 (public domain globally since 2014)",
+  "age_range": "3-7",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, English countryside garden palette, cute cartoon rabbits in small jackets, expressive friendly faces, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A mischievous little rabbit wearing a small blue jacket sneaks through a vegetable garden, eating a small radish. Tall lettuce, carrots, and beans grow around him. The garden is warm and inviting in the morning sun"
+  },
+  "i18n": {
+    "ar": { "title": "حكاية الأرنب بيتر", "subtitle": "حكاية من بياتريكس بوتر", "tagline": "أرنبٌ شقي، حديقةٌ ممنوعة، ومغامرةٌ مرحة" },
+    "en": { "title": "The Tale of Peter Rabbit", "subtitle": "A Tale by Beatrix Potter", "tagline": "A naughty rabbit, a forbidden garden, a merry adventure" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A cozy rabbit burrow under the root of a large tree. Mother Rabbit in apron stands at the entrance with her four small bunny children: three sisters (Flopsy, Mopsy, Cotton-tail) in pink dresses, and Peter, who wears a blue jacket and looks mischievous." },
+      "ar": { "text": "كان هناك أربعة أرانب صغار: فلوبسي، وموبسي، وكوتنتيل، وبيتر. عاشوا مع أمهم تحت شجرة كبيرة. كانت الأم تقول لهم: «العبوا في الحقل، لكن لا تذهبوا إلى حديقة السيّد ماك-جريجور! والدكم اختفى هناك.»", "voice": "fable" },
+      "en": { "text": "There were four little rabbits: Flopsy, Mopsy, Cottontail, and Peter. They lived with their mother in a burrow under a great tree. Their mother said, \"Play in the field, but do not go to Mr. McGregor's garden! Your father disappeared there.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The three obedient bunny sisters in pink dresses gather blueberries in a small basket together, smiling. They look like proper, well-behaved little ones. Wildflowers and sunshine surround them." },
+      "ar": { "text": "وافقت الأخوات الثلاث، وذهبن لقطف التوت في الحقل. كنّ مهذّباتٍ ومطيعات. أمّا بيتر... كان أرنباً شقيّاً جداً!", "voice": "fable" },
+      "en": { "text": "The three sisters agreed and went to gather blackberries in the field. They were polite and obedient. But Peter — he was a very naughty rabbit!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Peter Rabbit, wearing his small blue jacket, sneaks under a wooden garden gate. The garden beyond is lush with vegetables. Peter has a mischievous, excited grin. He doesn't look back." },
+      "ar": { "text": "ركض بيتر مباشرةً إلى حديقة ماك-جريجور! تسلّل من تحت البوّابة. كانت الحديقة جميلة جداً: فيها خسٌّ كبير، وفول، وفجل أحمر، وكلّ ما يحبّه الأرنب! بدأ يأكل بشغف.", "voice": "fable" },
+      "en": { "text": "Peter ran straight to Mr. McGregor's garden! He slipped under the gate. The garden was beautiful: huge lettuces, beans, red radishes — everything a rabbit could love! He began to eat eagerly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Peter Rabbit feasts on lettuce, then beans, then radishes — eating until his belly is round and full. He sits among the vegetables looking quite satisfied. His blue jacket is slightly disheveled." },
+      "ar": { "text": "أكل بيتر خسّاً، ثم فولاً، ثم فجلاً. شعر بألمٍ خفيفٍ في بطنه! نظر حوله ليبحث عن البقدونس ليهدّئ معدته.", "voice": "fable" },
+      "en": { "text": "Peter ate lettuce, then beans, then radishes. He felt a small ache in his belly! He looked around for parsley to settle his stomach.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Mr. McGregor, an elderly gardener with a wide-brimmed straw hat and gardening apron, appears at the corner of his garden, holding a small rake. He spots Peter mid-radish. His eyes go wide with anger. Peter freezes in place." },
+      "ar": { "text": "وفجأةً، رأى السيّد ماك-جريجور! كان يعمل في الحديقة. صرخ: «أوقفوا اللصّ! أرنبٌ في حديقتي!» ركض ماك-جريجور وراء بيتر بأداة البستنة!", "voice": "fable" },
+      "en": { "text": "Suddenly, there was Mr. McGregor! He had been working in the garden. He shouted, \"Stop, thief! A rabbit in my garden!\" Mr. McGregor ran after Peter with his rake!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Peter bolts through the garden in a panic, his ears flying back. He runs past cabbages and onion plants. Mr. McGregor pursues, brandishing his rake. The chase is comical, not scary." },
+      "ar": { "text": "ركض بيتر بأقصى سرعته! لكنّه كان قد أكل كثيراً، فلم يستطع الجري بسرعة. ضاع! نسي أين البوّابة! ركض في كل اتّجاه، خائفاً وغارقاً في العرق.", "voice": "fable" },
+      "en": { "text": "Peter ran as fast as he could! But he had eaten so much that he could not run quickly. He was lost! He had forgotten where the gate was! He ran in every direction, frightened and breathless.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Peter's small blue jacket catches on a wooden trellis with three netting wires. He's stuck! Trying to wriggle free, his big buttons get tangled. Three friendly sparrows fly down beside him, looking concerned." },
+      "ar": { "text": "وفجأةً، علق سترته الزرقاء في الشبكة! حاول بيتر أن يفلت، لكنّ أزراره الكبيرة اشتبكت في الأسلاك. شعر باليأس. ثلاث عصافير صغيرة طارت إليه، وحاولت تشجيعه: «خلِّعها يا بيتر! اتركها!»", "voice": "fable" },
+      "en": { "text": "Suddenly, his blue jacket caught on a wire trellis! Peter tried to wriggle free, but his large buttons got tangled in the wires. He despaired. Three little sparrows flew to him, urging him on, \"Take it off, Peter! Leave it!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Peter wriggles out of his blue jacket, leaving it stuck in the trellis. He's free but coatless. He looks back at the abandoned jacket with one moment of sadness before continuing to flee. The garden surroundings blur with motion." },
+      "ar": { "text": "نزع بيتر سترته الزرقاء، وتركها معلّقةً في الشبكة. تحرّر، ولكنه فقد سترته الجديدة! ركض من جديد. كان ما يزال ضائعاً في الحديقة.", "voice": "fable" },
+      "en": { "text": "Peter wriggled out of his blue jacket, leaving it tangled in the wires. He was free, but had lost his fine new jacket! He ran again, still lost in the garden.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Peter hides inside an old watering can full of cold water. Only his ears stick up out of the water. He shivers, looking miserable but safe. Outside the can, his shoes (one of them) sits in a flower bed where it fell off." },
+      "ar": { "text": "اختبأ بيتر في علبة سقاية قديمة، فيها ماءٌ بارد. سقطت إحدى نعليه في الحديقة. ارتجف من البرد، وعطس: «أتشي!» سمعه ماك-جريجور! ركض بعيداً مرّةً أخرى.", "voice": "fable" },
+      "en": { "text": "Peter hid in an old watering can full of cold water. One of his shoes fell off in the garden. He shivered with cold and sneezed, \"Achoo!\" Mr. McGregor heard him! He ran off once more.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Peter encounters an older friendly cat in the garden — large with a white belly. The cat looks at him calmly, not threatening but not friendly. Peter recoils and runs the other way. The cat watches with mild interest." },
+      "ar": { "text": "بعد ذلك، رأى بيتر قطّةً كبيرة جالسة. ابتعد عنها سريعاً — أمّه قالت له لا يقترب من القطط. ركض إلى أرضٍ مفتوحة في الحديقة، وأخيراً... رأى البوّابة!", "voice": "fable" },
+      "en": { "text": "Then Peter saw a large cat sitting still. He hurried away from her — his mother had told him to avoid cats. He ran into an open part of the garden and at last — saw the gate!", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Peter scampers under the garden gate, his ears flopping, and emerges into the safe meadow beyond. He looks exhausted but relieved. In the distance, his rabbit family burrow is visible under the tree." },
+      "ar": { "text": "ركض بيتر بكل قوّته إلى البوّابة، وتسلّل تحتها! خرج إلى الحقل خارج الحديقة. كان متعباً جداً، لكنّه نجا! ركض إلى بيته بأقصى سرعة.", "voice": "fable" },
+      "en": { "text": "Peter ran with all his might to the gate, and slipped under it! He emerged into the safe field beyond. He was very tired, but he was safe! He ran home as fast as he could.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Inside the cozy rabbit burrow, Peter lies in his small bed, looking exhausted. Mother Rabbit gently puts a wet cloth on his forehead, looking firm but loving. His three obedient sisters in pink dresses are eating a full dinner of bread, milk, and blackberries at the table behind." },
+      "ar": { "text": "وصل بيتر إلى بيته متعباً. ألقى بنفسه على السرير، وقد فقد سترته ونعليه. غلت أمه شاي البابونج للمعدة المؤلمة، وأعطته ملعقة. بقي بيتر في فراشه، يفكّر في درسه. أمّا أخواته الثلاث المطيعات، فأكلن خبزاً وحليباً وتوتاً لذيذاً للعشاء!", "voice": "fable" },
+      "en": { "text": "Peter reached his home exhausted. He flopped into bed, having lost his jacket and shoes. His mother boiled chamomile tea for his aching belly and gave him a spoonful. Peter stayed in bed, thinking about his lesson. As for his three obedient sisters — they ate bread, milk, and blackberries for supper!", "voice": "fable" }
+    }
+  ]
+}

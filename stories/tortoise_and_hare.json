@@ -1,0 +1,137 @@
+{
+  "id": "tortoise_and_hare",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 4,
+  "style_suffix": "warm watercolor children's book illustration, sunny meadow palette, friendly cartoon animal characters with expressive faces, gentle storybook mood, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful green tortoise and a brown hare side by side at a starting line of stones in a sunny meadow, smiling at each other, with woodland animals watching from the grass"
+  },
+  "i18n": {
+    "ar": {
+      "title": "السلحفاة والأرنب",
+      "subtitle": "حكاية من حكايات إيسوب",
+      "tagline": "البطيء المثابر يفوز أحياناً على السريع المغرور"
+    },
+    "en": {
+      "title": "The Tortoise and the Hare",
+      "subtitle": "An Aesop's Fable",
+      "tagline": "Slow and steady can win the race"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A boastful brown hare stands tall on a sunny meadow knoll, paws on hips, smirking proudly. Forest animals — a deer, a fox, a squirrel — listen with polite expressions. Wildflowers dot the grass."
+      },
+      "ar": {
+        "text": "في غابةٍ خضراء، عاش أرنبٌ سريع يفتخر دائماً بسرعته. كان يقول لكل الحيوانات: «أنا أسرع حيوانٍ في الغابة! لا أحد يستطيع أن يسبقني!» وكان يضحك على كل من يمشي ببطء.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In a green forest, there lived a swift hare who was always boasting about his speed. \"I'm the fastest animal in the whole forest!\" he told everyone. \"No one can ever beat me!\" And he laughed at anyone who moved slowly.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A small green tortoise with a kind smile looks up calmly at the boasting hare, who is gesturing wildly. The other forest animals watch with quiet curiosity. Sunshine warms the meadow."
+      },
+      "ar": {
+        "text": "في يومٍ من الأيام، مرّت سلحفاةٌ صغيرة بجانب الأرنب. ضحك الأرنب وقال ساخراً: «انظروا! ها هي السلحفاة، أبطأ كائنٍ في الأرض!» نظرت إليه السلحفاة بهدوء وقالت: «هل تريد أن نتسابق؟ ربما أفوز عليك.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "One day, a small tortoise walked past. The hare laughed and called out, \"Look, everyone! Here comes the slowest creature on earth!\" The tortoise looked at him calmly and said, \"Would you like to race? Perhaps I can beat you.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A wise old fox in a forest clearing draws a starting line in the dirt with a stick. The hare and tortoise stand ready. A crowd of woodland animals — birds, rabbits, a badger — gather excitedly to watch."
+      },
+      "ar": {
+        "text": "انفجر الأرنب ضاحكاً، لكنه قبل التحدّي. اجتمعت كل حيوانات الغابة لمشاهدة السباق. رسم الثعلب الحكيم خطّ البداية، وقال: «من يصل إلى الشجرة الكبيرة على التلّة أوّلاً، يفوز.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The hare burst into laughter, but he accepted the challenge. All the forest animals gathered to watch. A wise old fox drew the starting line and said, \"Whoever reaches the great tree on the hill first is the winner.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The hare zooms ahead in a blur of motion, kicking up dust. The tortoise plods steadily behind, eyes focused, a determined smile on his face. A grassy path winds toward a distant tree on a hill."
+      },
+      "ar": {
+        "text": "صرخ الثعلب: «استعداد، انطلاق!» انطلق الأرنب كالبرق وترك السلحفاة بعيداً خلفه. أما السلحفاة، فبدأت تمشي خطوةً خطوة، ببطءٍ وثبات، دون أن تتوقف.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The fox called, \"Ready... go!\" The hare shot off like lightning, leaving the tortoise far, far behind. The tortoise, meanwhile, began plodding along — step by steady step, never stopping.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The hare lies sprawled under a leafy tree, eyes closed in a peaceful nap, paws tucked behind his head. Dappled sunlight falls across him. Bees buzz lazily nearby. The hill with the goal tree is visible in the distance."
+      },
+      "ar": {
+        "text": "وصل الأرنب إلى منتصف الطريق، فنظر خلفه ولم يرَ السلحفاة. ضحك وقال لنفسه: «هذه السلحفاة بطيئةٌ جداً! لديّ متّسعٌ من الوقت لأنام قليلاً تحت هذه الشجرة.» فاضطجع وأغمض عينيه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Halfway up the path, the hare looked back. The tortoise was nowhere in sight! He laughed to himself, \"That tortoise is so slow! I have plenty of time for a little nap under this tree.\" He lay down and shut his eyes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The tortoise plods past the sleeping hare under the tree, eyes forward, focused and patient. The hare snores peacefully, unaware. Wildflowers sway gently. A butterfly lands on the tortoise's shell."
+      },
+      "ar": {
+        "text": "نام الأرنب نوماً عميقاً. ومرّت السلحفاة بقربه، ولم تتوقف، ولم تستيقظه. خطوة... خطوة... كانت تتقدّم بهدوء نحو الشجرة الكبيرة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The hare fell into a deep sleep. The tortoise plodded past him — never pausing, never waking him. Step... by step... she crept closer to the great tree on the hill.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The hare wakes with a startled jump, ears straight up, eyes wide. In the distance, the tiny silhouette of the tortoise is almost at the great tree on the hill, with cheering animals around it."
+      },
+      "ar": {
+        "text": "استيقظ الأرنب فجأة! نظر نحو الشجرة، فرأى السلحفاة تكاد تصل إليها! ركض بكل قوّته، يقفز كأنه طائر، لكن... وصلت السلحفاة قبله!",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The hare woke with a jolt! He looked toward the tree — and saw the tortoise almost at the finish! He ran with all his might, leaping like the wind, but... the tortoise crossed the line first!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "All the forest animals cheer around the smiling tortoise under the great tree on the hill. The hare arrives panting, looking embarrassed but smiling. The wise fox holds up a small daisy crown for the tortoise."
+      },
+      "ar": {
+        "text": "هتفت الحيوانات جميعها للسلحفاة! خجل الأرنب من نفسه واعتذر قائلاً: «كنت مغروراً، وأنت كنتِ مثابرة.» ابتسمت السلحفاة وقالت: «البطيء الذي لا يتوقف، يفوز على السريع الذي يتكاسل.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "All the animals cheered for the tortoise! The hare hung his head and said, \"I was proud and lazy, but you were patient and strong.\" The tortoise smiled and replied, \"Slow and steady wins the race — when the fast grow careless.\"",
+        "voice": "fable"
+      }
+    }
+  ]
+}

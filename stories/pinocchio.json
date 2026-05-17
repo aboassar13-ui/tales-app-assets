@@ -1,0 +1,107 @@
+{
+  "id": "pinocchio",
+  "category": "adventure",
+  "source": "Carlo Collodi, 1883 (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, Italian Tuscan village palette, friendly wooden puppet character with cheerful face (not Disney's design — original Italian style with pointed hat and patched clothes), expressive gentle faces, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful wooden puppet with a small pointed hat, patched striped clothes, and a smiling face stands beside an elderly woodcarver in a cozy workshop full of tools, wood shavings, and a small fireplace; sunlight streams through a window"
+  },
+  "i18n": {
+    "ar": { "title": "بينوكيو", "subtitle": "حكاية الدمية الخشبية", "tagline": "دمية تتحرّك، أنف يكبر مع الكذب، ودرسٌ في الصدق" },
+    "en": { "title": "Pinocchio", "subtitle": "The Tale of the Wooden Puppet", "tagline": "A puppet who comes alive, a nose that grows when he lies" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "An elderly Italian woodcarver with white hair and a kind face works in his small wooden workshop, holding a piece of pine wood and a chisel. Wood shavings cover the floor. A single candle illuminates the cozy room." },
+      "ar": { "text": "في قرية إيطالية صغيرة، عاش نجّار عجوز اسمه جيبيتو. كان فقيراً وحيداً، يصنع الدمى من الخشب. ذات يوم، حصل على قطعة خشب رائعة. قال: «سأنحت منها دمية، وأسمّيها بينوكيو!»", "voice": "fable" },
+      "en": { "text": "In a small Italian village lived an old woodcarver named Geppetto. He was poor and lonely, making wooden puppets for a living. One day he got a wonderful piece of wood. He said, \"I'll carve a puppet from this, and call him Pinocchio!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The elderly woodcarver carves a wooden puppet boy. As he works, the puppet's wooden head turns slightly on its own and gives him a wink. Geppetto looks startled but delighted, eyes wide with wonder." },
+      "ar": { "text": "بدأ جيبيتو ينحت الدمية. وبينما يعمل... تحرّكت! غمزت له! تكلّمت بصوت طفل: «مرحباً يا أبي!» اندهش جيبيتو، فرحاً وخائفاً: «دمية تتكلّم؟ هذه معجزة!» احتضنها كأنها ابنه.", "voice": "fable" },
+      "en": { "text": "Geppetto carved away. As he worked, the puppet moved on its own! It winked at him! It spoke in a child's voice, \"Hello, father!\" Geppetto gasped in wonder, \"A talking puppet? It's a miracle!\" He hugged it like his own son.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Geppetto kneels and lovingly fits a tiny outfit on Pinocchio — a small cap, a colorful jacket. He has a tender smile. Pinocchio looks like a happy child. The workshop is filled with light." },
+      "ar": { "text": "خاط جيبيتو لبينوكيو ملابس ملوّنة، وقبّعة جميلة، وحذاءَين صغيرَين. عمل لساعات. كان فرحاً جداً — أخيراً عنده ابن! قال له: «غداً تذهب إلى المدرسة وتتعلّم القراءة.» وعد بينوكيو، رغم أنّه كان فضولياً جداً.", "voice": "fable" },
+      "en": { "text": "Geppetto sewed colorful clothes for Pinocchio: a cap, a jacket, tiny shoes. He worked for hours. He was overjoyed — at last he had a son! He told him, \"Tomorrow you'll go to school and learn to read.\" Pinocchio promised, though he was very curious.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Pinocchio walks down a sunny Italian village road toward school, carrying a small spelling book under his arm. He looks excited and bright. But a colorful poster on a wall catches his eye — a sign for a marionette show with bright drawings of puppets dancing." },
+      "ar": { "text": "في الصباح، خرج بينوكيو إلى المدرسة. لكن في الطريق، رأى ملصقاً ملوّناً: «عرض دمى متحرّكة! اليوم فقط!» شعر بفضولٍ شديد. قال لنفسه: «سأذهب فقط لأتفرّج، ثم أذهب للمدرسة.» نسي وعد أبيه.", "voice": "fable" },
+      "en": { "text": "In the morning, Pinocchio set off for school. But on his way, he saw a colorful poster: \"Puppet Show! Today only!\" Curiosity gripped him. He thought, \"I'll just peek, then go to school.\" He forgot his promise to Geppetto.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Inside a small theater tent, colorful marionette puppets dance on a stage. Pinocchio in the audience leans forward in delight. The other audience members are children with smiling faces. Bright lanterns light the scene." },
+      "ar": { "text": "دخل العرض. شاهد دمى تغنّي وترقص. كان مذهلاً! لكن... فجأة، رأت الدمى بينوكيو. صرخن: «انظروا! واحد منّا!» قفزن من المسرح وعانقنه! ضحك بينوكيو فرحاً، ونسي تماماً المدرسة.", "voice": "fable" },
+      "en": { "text": "He went in. Singing, dancing puppets filled the stage. Magnificent! But suddenly the puppets saw Pinocchio. They cried, \"Look! One of us!\" They leapt off the stage and hugged him! Pinocchio laughed and forgot all about school.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A sly fox in a red waistcoat and a comical-looking cat with a bandage on his eye approach Pinocchio on a country road. They smile slyly. Pinocchio holds a small bag of gold coins, looking innocent and trusting." },
+      "ar": { "text": "بعد العرض، عاد بينوكيو متأخّراً. في الطريق، قابل ثعلباً وقطّاً غريبَين. كانا مكّارين. قالا: «يا بينوكيو، عندنا حقل سحري! ازرع نقودك، وغداً تنمو شجرة من الذهب!» صدّق بينوكيو الساذج، وأعطاهما نقوده.", "voice": "fable" },
+      "en": { "text": "After the show, Pinocchio walked home late. On the road, he met a sly fox and a comical cat. They were tricksters. They said, \"Pinocchio, we know a magic field! Plant your coins, and tomorrow a tree of gold will grow!\" Innocent Pinocchio believed them and gave them his money.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Pinocchio stands sadly in an empty dirt field, watching a hole where he buried his coins. A gentle blue Fairy with sparkling wings appears in front of him, looking concerned but kind. Stars twinkle around her." },
+      "ar": { "text": "خدعاه! اختفيا بنقوده. جلس بينوكيو يبكي. وفجأة، ظهرت أمامه «الجنّيّة الزرقاء»، تطير بأجنحة لامعة. سألته بلطف: «لمَ تبكي يا صغير؟» روى لها كل القصة، وكذب: «كنت ذاهباً للمدرسة!» — وكان كاذباً.", "voice": "fable" },
+      "en": { "text": "They tricked him! They vanished with his coins. Pinocchio sat down and cried. Suddenly, a Blue Fairy appeared, flying with sparkling wings. She asked gently, \"Why do you cry, little one?\" He told her the story, but lied, \"I was going to school!\" — but he was lying.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Pinocchio's wooden nose suddenly grows comically long as he tells a lie. The Blue Fairy watches with a knowing, gentle smile. Pinocchio looks at his nose in shock, hands at his face." },
+      "ar": { "text": "وفجأة! بدأ أنف بينوكيو يطول! كلما كذب، يطول أكثر! نظر إلى أنفه مذعوراً. قالت الجنّيّة بحنان: «الكذب يجعل أنفك يكبر يا بينوكيو. الصدق هو الذي يجعلك إنساناً حقيقياً.»", "voice": "fable" },
+      "en": { "text": "And suddenly! Pinocchio's nose began to grow! Each lie made it longer! He stared at his nose in horror. The fairy said softly, \"Lying makes your nose grow, Pinocchio. Only honesty can make you a real boy.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Pinocchio looks down at the ground with a small repentant tear, his nose still long. The Blue Fairy puts a gentle hand on his wooden shoulder. The atmosphere is forgiving rather than scolding." },
+      "ar": { "text": "اعترف بينوكيو بالحقيقة بدموع: «أنا كذبت. لم أذهب للمدرسة. أنا آسف!» وفجأة، عاد أنفه إلى حجمه الطبيعي! ابتسمت الجنّيّة وقالت: «الاعتراف بالخطأ نصف العلاج. ارجع لأبيك واطلب الصفح.»", "voice": "fable" },
+      "en": { "text": "Pinocchio confessed in tears, \"I lied. I didn't go to school. I'm sorry!\" Suddenly, his nose shrank back to normal! The fairy smiled, \"Admitting your mistake is half the cure. Go home to your father and ask his forgiveness.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Pinocchio runs eagerly along a village road back toward home, smiling. The Geppetto's workshop is visible at the end of the road, smoke rising from a chimney. The sun is setting in pink and gold." },
+      "ar": { "text": "ركض بينوكيو إلى البيت. كان جيبيتو حزيناً جداً، يبحث عنه. عانقه بينوكيو وقال: «أبي، أنا آسف. أخطأت! من اليوم سأذهب للمدرسة كل يوم.» احتضنه جيبيتو بدموع فرح. سامحه فوراً.", "voice": "fable" },
+      "en": { "text": "Pinocchio raced home. Geppetto was very sad, searching for him. Pinocchio hugged him, \"Father, I'm sorry. I was wrong! From today I'll go to school every day.\" Geppetto embraced him with tears of joy. He forgave him at once.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Pinocchio sits diligently at a small desk in a classroom with other children. He's reading a small book carefully, finger tracing the words. The teacher writes on a blackboard. Sunlight streams through tall windows." },
+      "ar": { "text": "كل يوم، ذهب بينوكيو إلى المدرسة. تعلّم القراءة والكتابة. كان يعمل بجدّ ويعود إلى البيت في الموعد. بدأ يكبر — ليس في حجمه (لأنه دمية!) بل في عقله وقلبه.", "voice": "fable" },
+      "en": { "text": "Every day, Pinocchio went to school. He learned to read and write. He worked hard and came home on time. He began to grow — not in size (since he was a puppet!) but in his mind and heart.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Pinocchio at home helping Geppetto by carrying firewood. The old man rests in a chair, and Pinocchio brings him a hot bowl of soup. The two share a warm smile. The cottage is cozy and well-kept." },
+      "ar": { "text": "بدأ بينوكيو يساعد جيبيتو في البيت. كان يحضر الحطب، ويطبخ الحساء، ويعتني بأبيه العجوز. كان طيّباً ومجتهداً. الجنّيّة الزرقاء كانت تراقبه من السماء، وتفرح بتحسّنه.", "voice": "fable" },
+      "en": { "text": "Pinocchio began helping Geppetto around the house. He fetched firewood, cooked soup, and cared for his elderly father. He was kind and hardworking. The Blue Fairy watched him from the sky, pleased with his growth.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The Blue Fairy appears in Pinocchio's bedroom at night while he sleeps. She gently touches him with her wand. Magic sparkles fill the room. The wooden puppet begins to transform into a real boy under the bedsheets." },
+      "ar": { "text": "في ليلةٍ من الليالي، نام بينوكيو وهو متعب من العمل والدراسة. جاءت الجنّيّة، ولمست رأسه بعصاها السحرية. قالت: «أثبتّ أنّك جدير. صادق، مجتهد، تعتني بأبيك. حان وقت أن تصبح ولداً حقيقياً!»", "voice": "fable" },
+      "en": { "text": "One night, Pinocchio fell asleep tired from work and school. The fairy came and touched his head with her magic wand. She said, \"You've proven yourself worthy. Honest, hardworking, caring for your father. It's time for you to become a real boy!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Pinocchio wakes up in the morning — but now he's a real human boy with soft skin, dark hair, and bright eyes. He looks at his hands in wonder, then jumps out of bed. The wooden puppet sits on a chair across the room like an empty costume." },
+      "ar": { "text": "في الصباح، استيقظ بينوكيو — ووجد نفسه! ولداً حقيقياً! له بشرة ناعمة، شعر بنّي، عينان لامعتان! قفز من السرير. ركض إلى المرآة: «أبي! أبي! أنا ولد! أنا ولد حقيقي!»", "voice": "fable" },
+      "en": { "text": "In the morning, Pinocchio awoke — and found himself! A real boy! Soft skin, brown hair, bright eyes! He leapt out of bed. He ran to the mirror, \"Father! Father! I'm a boy! I'm a real boy!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Geppetto hugs his now-human son Pinocchio in the workshop, both crying tears of joy. The old wooden puppet sits respectfully on a shelf, like a fond memory. Warm light fills the room." },
+      "ar": { "text": "ركض جيبيتو إليه واحتضنه. كان أعظم يومٍ في حياتيهما! عاش بينوكيو حياة سعيدة كولدٍ حقيقي. وحفظ الدمية الخشبية تذكاراً على الرف. وكل من سأله: «كيف صرت إنساناً؟» يقول: «بالصدق، والاجتهاد، والاعتناء بمن أحبّ.»", "voice": "fable" },
+      "en": { "text": "Geppetto ran and embraced him. It was the greatest day of their lives! Pinocchio lived happily as a real boy. He kept the wooden puppet on a shelf as a memento. To anyone who asked how he became human, he would say, \"Through honesty, hard work, and loving those who love me.\"", "voice": "fable" }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "three_billy_goats_gruff",
+  "category": "fairy_tale",
+  "source": "Norwegian folk tale, Joseph Jacobs (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, lush green meadows and a wooden bridge over a stream, three friendly cartoon goats of small/medium/large size, gentle storybook mood, troll depicted as comical, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Three goats of small, medium, and large sizes stand at the entrance of a wooden bridge over a babbling stream, with green hills and wildflowers all around. The smallest goat steps forward bravely with a cheerful expression"
+  },
+  "i18n": {
+    "ar": { "title": "التيوس الثلاثة الجريئة", "subtitle": "حكاية شعبية نرويجية", "tagline": "ثلاثة إخوة، جسرٌ خشبي، ووحشٌ غاضب" },
+    "en": { "title": "The Three Billy Goats Gruff", "subtitle": "A Norwegian Folk Tale", "tagline": "Three brothers, one wooden bridge, one grumpy troll" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A grassy meadow with three goats of different sizes — small, medium, large. The grass is sparse and partially eaten. In the distance, a wooden bridge crosses a stream to greener hills beyond." },
+      "ar": { "text": "كانت هناك ثلاثة تيوس إخوة، يعيشون في مرجٍ صغير. كانوا أكلوا كلّ العشب فيه. كانوا يرون من بعيد مرجاً آخر، أخضر وكثيف، خلف نهرٍ صغير. قالوا: «يجب أن نعبر إلى هناك!»", "voice": "fable" },
+      "en": { "text": "There were once three billy-goat brothers who lived in a small meadow. They had eaten all the grass. Across a stream they could see another meadow, lush and green. \"We must cross to that side!\" they said.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The three goats stand at one end of a wooden bridge. Underneath the bridge, partly hidden in shadow, a comical grumpy-looking troll with bushy hair and a large nose peeks out. He's silly rather than scary." },
+      "ar": { "text": "لكنّ تحت الجسر كان يعيش وحشٌ غريب — له أنفٌ كبير وشعرٌ منكوش وعينان دائريتان. كان كسولاً، لا يحبّ أن يعبر أحد جسره دون إذنه. كان دائماً يصرخ بأصواتٍ مرعبة!", "voice": "fable" },
+      "en": { "text": "But under that bridge there lived a strange troll — with a big nose, wild hair, and round bulging eyes. He was lazy, and would not let anyone cross his bridge without permission. He always shouted in a frightful voice!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The smallest goat steps onto the wooden bridge. His tiny hooves go 'trip trap' on the boards. He looks brave and curious. The medium and large goats watch from behind on the meadow side." },
+      "ar": { "text": "قال التيس الأصغر: «أنا أصغركم، فلأذهب أنا أولاً.» مشى على الجسر بحذر. كانت قدماه تصدر صوتاً: «تيك تاك، تيك تاك!» سمع الوحش الصوت، وغضب!", "voice": "fable" },
+      "en": { "text": "The smallest goat said, \"I am the smallest, so I'll go first.\" He stepped onto the bridge carefully. His tiny hooves went \"trip-trap, trip-trap!\" The troll heard it and grew angry!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The troll pops his head up from under the bridge, eyebrows furrowed comically. The small goat freezes mid-step on the bridge. The troll looks grumpy but cartoonish, not truly scary." },
+      "ar": { "text": "خرج الوحش من تحت الجسر وصرخ: «من يجرؤ على عبور جسري؟ سآكلك على الإفطار!» قال التيس الصغير بسرعة: «أنا التيس الأصغر! أنا صغير جداً، لا تستحقّ أكلي. ينتظر أخي المتوسط، وهو أكبر منّي بكثير!»", "voice": "fable" },
+      "en": { "text": "The troll popped up from under the bridge and shouted, \"Who dares cross my bridge? I'll eat you for breakfast!\" The smallest goat said quickly, \"I'm the smallest billy goat! I'm so little, I'm not worth eating. My middle brother is coming, and he's much bigger than me!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The troll, looking thoughtful and greedy, lets the small goat pass. The small goat skips happily across the bridge to the green meadow on the other side. The troll grins anticipating a bigger meal." },
+      "ar": { "text": "فكّر الوحش: «حسناً، سأنتظر الأكبر!» وقال للتيس الصغير: «اعبر، لكن أخوك سيكون لي!» ركض التيس الصغير سعيداً، ووصل إلى المرج الأخضر. أكل العشب الطيّب وفرح.", "voice": "fable" },
+      "en": { "text": "The troll thought, \"All right, I'll wait for the bigger one!\" He called to the small goat, \"Go on, but I'll have your brother!\" The little goat skipped happily across and reached the green meadow. He munched the lovely grass and was glad.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The medium-sized goat steps onto the bridge, his hooves going 'trip trap' a bit louder. He looks confident. The troll's bushy head pops up under the bridge with greedy eyes." },
+      "ar": { "text": "ثم مشى التيس المتوسط على الجسر. كانت قدماه أكبر، فاصدرتا صوتاً أعلى: «تيك تاك! تيك تاك!» خرج الوحش من جديد وصرخ: «من يعبر جسري؟ سآكلك!»", "voice": "fable" },
+      "en": { "text": "Then the middle goat walked onto the bridge. His hooves were bigger, so they made a louder sound: \"trip-trap! trip-trap!\" Out came the troll again, shouting, \"Who is crossing my bridge? I'll eat you up!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The medium goat speaks calmly to the troll, gesturing back toward the largest goat waiting on the meadow side. The big goat looks impressive in the distance — biggest of all." },
+      "ar": { "text": "قال التيس المتوسط بهدوء: «أنا متوسط الحجم، صحيح، لكنّ أخي الأكبر قادمٌ بعدي، وهو ضخمٌ جداً! انتظره، فسيكون إفطاراً أفضل لك بكثير.» نظر الوحش إلى التيس الأكبر بشغف، ووافق: «اذهب! سأنتظر الكبير!»", "voice": "fable" },
+      "en": { "text": "The middle goat said calmly, \"I am medium-sized, true, but my older brother is coming next — and he is huge! Wait for him, he'll be a far better breakfast.\" The troll glanced at the big goat with hungry eyes, and agreed, \"Go on! I'll wait for the big one!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The middle goat trots happily across to the green meadow, joining the smaller goat eating grass. Both look content and well-fed. The troll waits eagerly under the bridge for the big goat." },
+      "ar": { "text": "عبر التيس المتوسط بسلام. وصل إلى أخيه الصغير في المرج الأخضر، وأخذ يأكل العشب الكثير. أمّا الوحش، فظلّ يتمنّى الإفطار الأكبر، يفرك يديه ويتخيّل!", "voice": "fable" },
+      "en": { "text": "The middle goat crossed safely. He joined his little brother in the green meadow and began to eat. As for the troll, he kept dreaming of the larger breakfast — rubbing his hands and imagining!", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The largest billy goat — big with strong curved horns and a determined expression — strides onto the bridge. His hooves go 'TRIP TRAP, TRIP TRAP' loudly on the wood. The bridge shakes slightly." },
+      "ar": { "text": "أخيراً، جاء التيس الأكبر. كانت له قرون قويّة وكتفان عريضان. خطا على الجسر، فاهتزّ تحت قدميه: «طوم! طوم! طوم!» ارتجف الوحش وصعد بسرعة. صرخ: «من يجرؤ على عبور جسري؟!»", "voice": "fable" },
+      "en": { "text": "At last, the biggest goat came. He had strong horns and broad shoulders. He stepped onto the bridge, and it shook beneath him: \"TROMP! TROMP! TROMP!\" The troll trembled and rushed up. He bellowed, \"Who dares cross my bridge?!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The biggest goat lowers his head menacingly toward the troll, his horns aimed straight forward. The troll's eyes go wide with sudden fear, his confidence vanishing. He starts to back away on the bridge." },
+      "ar": { "text": "أجاب التيس الأكبر بصوتٍ هادر: «أنا التيس الكبير الجريء! ولست خائفاً منك!» خفض رأسه وأبرز قرونه. خاف الوحش — لم يكن يتوقّع تيساً بهذا الحجم! حاول أن يهرب.", "voice": "fable" },
+      "en": { "text": "The biggest goat answered in a deep, booming voice, \"I am the great Billy Goat Gruff! And I am not afraid of you!\" He lowered his head and showed his horns. The troll grew frightened — he had not expected a goat so huge! He tried to flee.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The biggest goat charges forward, headbutting the troll comically off the bridge. The troll flies into the air with a comically exaggerated expression of surprise, splashing into the stream below in a comic fountain of water." },
+      "ar": { "text": "ركض التيس الأكبر بقوّة، وضرب الوحش بقرنيه! طار الوحش في الهواء، وسقط في النهر تحت الجسر — بلوب! خرج من النهر مبتلّاً، وفرّ بعيداً، ولم يعد إلى الجسر أبداً!", "voice": "fable" },
+      "en": { "text": "The biggest goat charged forward and butted the troll with his horns! The troll flew through the air and landed in the stream below — SPLASH! He came out soaking wet and ran away, never to return to the bridge again!", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "All three goats happily eating grass together in the lush green meadow at sunset. They look fat and content. Wildflowers bloom around them. The bridge is visible peacefully in the background, no troll in sight." },
+      "ar": { "text": "عبر التيس الأكبر بسلام، ووصل إلى إخوته. أكلت التيوس الثلاثة من العشب الأخضر الكثير حتى شبعت، وعاشت في المرج الجديد بسعادة. ومن ذلك اليوم، لم يعد جسرٌ مغلقاً على أحد!", "voice": "fable" },
+      "en": { "text": "The biggest goat crossed safely and joined his brothers. The three goats ate the lush green grass until they were full, and lived happily in the new meadow. From that day on, the bridge was open to everyone!", "voice": "fable" }
+    }
+  ]
+}

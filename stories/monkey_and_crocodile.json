@@ -1,0 +1,89 @@
+{
+  "id": "monkey_and_crocodile",
+  "category": "fable",
+  "source": "Panchatantra, India (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, tropical Indian river palette, expressive friendly cartoon monkey and friendly-looking crocodile, mango trees, river bank scenery, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful brown monkey sits on a branch of a tall mango tree, holding a juicy ripe mango. Below in the river, a curious crocodile looks up with a friendly smile, gentle ripples around him"
+  },
+  "i18n": {
+    "ar": { "title": "القرد والتمساح", "subtitle": "حكاية من بانشاتنترا الهندية", "tagline": "صداقةٌ على نهر، خيانةٌ، وذكاءٌ ينقذ" },
+    "en": { "title": "The Monkey and the Crocodile", "subtitle": "A Tale from the Indian Panchatantra", "tagline": "A river friendship, a betrayal, and a clever escape" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A tall mango tree growing on the bank of a wide river. A brown monkey sits in the highest branches, eating a juicy mango. The river below is calm and blue. Sunlight filters through the leaves." },
+      "ar": { "text": "في غابةٍ خضراء على شاطئ نهر، عاش قردٌ صغير في شجرة مانجو كبيرة. كان يأكل أحلى المانجو، وكان دائماً سعيداً وحيداً. ولكنّه كان يحبّ أن يشارك أحياناً.", "voice": "fable" },
+      "en": { "text": "In a green forest by a river, a small monkey lived in a great mango tree. He ate the sweetest mangoes, and he was always happily by himself. But sometimes he liked to share.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A friendly-looking crocodile swims slowly through the river beneath the mango tree, looking up at the monkey curiously. He's a green-brown creature, drawn in a friendly cartoon style rather than scary." },
+      "ar": { "text": "في يومٍ من الأيام، سبح تمساحٌ تحت الشجرة. نظر إلى القرد وقال: «مرحباً يا قرد! يا لها من شجرةٍ جميلة!» ابتسم القرد، وألقى للتمساح ثمرة مانجو ناضجة. تذوّقها التمساح، وأعجبته كثيراً.", "voice": "fable" },
+      "en": { "text": "One day, a crocodile swam beneath the tree. He looked up at the monkey and said, \"Hello, monkey! What a beautiful tree!\" The monkey smiled and tossed the crocodile a ripe mango. The crocodile tasted it, and loved it.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The monkey throws mangoes down to the crocodile, who catches them gracefully. They are both laughing and chatting. The river is calm and the day is bright." },
+      "ar": { "text": "أصبح القرد والتمساح صديقَين. كلّ يومٍ، يأتي التمساح إلى الشجرة، يجلسان معاً ويتحدّثان ويأكلان المانجو. كان القرد دائماً يعطي التمساح أحلى الثمار.", "voice": "fable" },
+      "en": { "text": "The monkey and the crocodile became friends. Every day, the crocodile came to the tree, and they sat together chatting and eating mangoes. The monkey always gave the crocodile the sweetest fruits.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The crocodile returns home to his own riverbank cave to find his wife — a large female crocodile with a slightly grumpy expression. He hands her some mangoes. She looks pleased but cunning." },
+      "ar": { "text": "ذات مساء، حمل التمساح بعض المانجو إلى زوجته. تذوّقتها، فقالت بشهية: «من أين هذه؟» قال التمساح: «من صديقي القرد على الشجرة!»", "voice": "fable" },
+      "en": { "text": "One evening, the crocodile brought some mangoes home to his wife. She tasted them and said hungrily, \"Where are these from?\" The crocodile said, \"From my friend the monkey in the tree!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The crocodile's wife has a sly, greedy expression, gesturing to her husband. She whispers something to him. The crocodile looks surprised and uncomfortable but listens." },
+      "ar": { "text": "ابتسمت الزوجة بمكر: «لو كان قلبه أحلى من المانجو، فلنأخذ قلبه! هاتِ القرد لي، يا زوجي.» تردّد التمساح: «لكن، إنه صديقي!» قالت بشدّة: «إن لم تأتني به، فلن أرى وجهك مرّةً أخرى!»", "voice": "fable" },
+      "en": { "text": "The wife smiled slyly, \"If his heart is sweeter than the mangoes, then bring me his heart! Bring me the monkey, my husband.\" The crocodile hesitated, \"But he's my friend!\" She said firmly, \"If you don't bring him, I'll never see you again!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The next day, the crocodile sadly approaches the mango tree, looking conflicted. The monkey throws him mangoes happily, unaware. The crocodile's expression is troubled." },
+      "ar": { "text": "في الصباح، عاد التمساح إلى الشجرة. كان وجهه حزيناً. سأله القرد: «لمَ أنت حزين، يا صديقي؟» قال التمساح: «زوجتي تريد أن تقابلك! تعال معي إلى بيتي عبر النهر.»", "voice": "fable" },
+      "en": { "text": "The next morning, the crocodile returned to the tree. His face was sad. The monkey asked, \"Why so sad, my friend?\" The crocodile said, \"My wife wants to meet you! Come with me to my home across the river.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The monkey leaps from the tree and lands carefully on the crocodile's back. The crocodile begins swimming across the river. The monkey looks excited and happy to visit a friend's home." },
+      "ar": { "text": "فرح القرد بالدعوة. قفز من الشجرة إلى ظهر التمساح. بدأ التمساح يسبح. لكن في منتصف النهر، توقّف فجأة. قال بصوتٍ منخفض: «صديقي، لديّ أمرٌ يجب أن تعرفه...»", "voice": "fable" },
+      "en": { "text": "The monkey was glad to be invited. He leapt from the tree onto the crocodile's back. The crocodile began to swim. But in the middle of the river, he stopped suddenly. He said softly, \"My friend, there's something you must know...\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The crocodile, stopped in the middle of the wide river, looks back at the monkey on his back with sad eyes. The monkey listens with growing concern, looking back at the distant safe shore of the mango tree." },
+      "ar": { "text": "قال التمساح: «زوجتي... تريد قلبك! تظنّ أنّه حلو من كثرة المانجو الذي أكلتَه.» جمد القرد من الخوف. لكنّه كان ذكياً! خفى خوفه وضحك: «آه! لمَ لم تقل لي من البداية؟»", "voice": "fable" },
+      "en": { "text": "The crocodile said, \"My wife wants your heart! She thinks it must be sweet from all the mangoes you've eaten.\" The monkey froze in fear. But he was clever! He hid his fear and laughed, \"Oh! Why didn't you tell me from the start?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The monkey pretends to be casual, gesturing back toward the mango tree on the shore. The crocodile looks confused but interested in what the monkey is saying. The monkey points confidently toward something at the top of the tree." },
+      "ar": { "text": "قال القرد بهدوء: «نحن القرود تركنا قلوبنا على الشجرة! نتركها معلّقة بين أوراق المانجو. لم آخذ قلبي معي. أرجوك، أعدني إلى الشجرة، فأحضر قلبي، وأعود معك.»", "voice": "fable" },
+      "en": { "text": "The monkey said calmly, \"We monkeys leave our hearts on the tree! We hang them in the mango leaves. I didn't bring mine. Please, take me back to the tree, and I'll get my heart and come back with you.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The crocodile, confused but convinced, turns around and swims back to the mango tree's shore. The monkey rides his back, looking secretly relieved and clever." },
+      "ar": { "text": "صدّق التمساح كلامه! «حقّاً؟» قال القرد: «نعم! اذهب بسرعة!» عاد التمساح إلى الشجرة. لمّا اقتربت من الشاطئ، قفز القرد بسرعة، وتسلّق إلى أعلى الشجرة!", "voice": "fable" },
+      "en": { "text": "The crocodile believed him! \"Really?\" The monkey said, \"Yes! Go quickly!\" The crocodile went back to the tree. As soon as they reached the shore, the monkey leapt off and climbed up to the top of the tree!", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The monkey stands safely on a high branch of the mango tree, looking down at the crocodile who waits on the riverbank below. The monkey gestures cheekily, his message clear. The crocodile looks crestfallen as he realizes his mistake." },
+      "ar": { "text": "نظر التمساح إلى الأعلى. صاح القرد: «أيها التمساح الأحمق! القلب في الصدر، ليس في الشجرة! حاولت أن تخدعني، فخدعتك! أمّا الصداقة، فقد انتهت بيننا. اذهب وقل لزوجتك أنّك فقدت أعزّ أصدقائك بسبب طمعها!»", "voice": "fable" },
+      "en": { "text": "The crocodile looked up. The monkey shouted, \"Foolish crocodile! Hearts are in the chest, not on the tree! You tried to trick me — so I tricked you! Our friendship is over. Go tell your wife that you've lost your dearest friend because of her greed!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The crocodile slowly swims away, looking sad and ashamed. The monkey watches from the tree top, biting into a mango. The river is peaceful but the friendship between them is gone." },
+      "ar": { "text": "تنهّد التمساح، وعاد إلى زوجته بلا قرد. ولم يعد إلى شجرة المانجو مرّةً أخرى. أمّا القرد، فقد بقي في شجرته، وعلّم نفسه: «من خانك مرّةً، لا تثق به مرّةً ثانية. وحتى لو فقدتَ صديقاً، فإنّ ذكاءك يحفظ حياتك.»", "voice": "fable" },
+      "en": { "text": "The crocodile sighed and returned to his wife without the monkey. He never came back to the mango tree. As for the monkey, he stayed in his tree, and learned for himself, \"He who betrays you once, do not trust him again. And even if you lose a friend, your cleverness can save your life.\"", "voice": "fable" }
+    }
+  ]
+}

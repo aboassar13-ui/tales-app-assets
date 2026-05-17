@@ -1,0 +1,77 @@
+{
+  "id": "town_and_country_mouse",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, contrast between rustic countryside and elegant town interiors, expressive friendly cartoon mice with personalities, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Two friendly cartoon mice meet on a country path: one in simple work clothes carrying a wheat stalk (country mouse), one in fancy waistcoat and bow tie (town mouse). They greet each other warmly"
+  },
+  "i18n": {
+    "ar": { "title": "فأر المدينة وفأر الريف", "subtitle": "حكاية من حكايات إيسوب", "tagline": "البساطة الآمنة أحلى من الفخامة الخطرة" },
+    "en": { "title": "The Town Mouse and the Country Mouse", "subtitle": "An Aesop's Fable", "tagline": "Simple safety beats fancy danger" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A small country mouse in a simple brown waistcoat walks through a sunny wheat field, gathering tiny seeds in a small sack. He has a peaceful, content expression. His tiny home is visible in the distance — a hole at the base of a tree." },
+      "ar": { "text": "كان هناك فأرٌ يعيش في الريف. كان بيته صغيراً في جذور شجرة. كان يأكل من الحبوب والجذور والتوت البري. كانت حياته بسيطة وسعيدة.", "voice": "fable" },
+      "en": { "text": "There was once a mouse who lived in the countryside. His home was a tiny hole at the roots of a tree. He ate grain, roots, and wild berries. His life was simple and happy.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The country mouse welcomes another mouse — his cousin from the town — to his country home. The town mouse wears a fancy red waistcoat, bow tie, and tiny gold watch. He looks slightly out of place but happy to visit." },
+      "ar": { "text": "في يومٍ من الأيام، زاره ابن عمّه — فأر المدينة. كان فأر المدينة يلبس سترةً حمراء فاخرة وربطة عنق. قال: «مرحباً يا قريبي! جئتُ لأراك.»", "voice": "fable" },
+      "en": { "text": "One day, his cousin came to visit — the town mouse. The town mouse wore a fine red waistcoat and a bow tie. He said, \"Greetings, cousin! I've come to see you.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The country mouse proudly serves his cousin a simple meal: a few grains of wheat, a small piece of cheese, a single blackberry. The food sits on tiny leaves as plates. The town mouse looks at it with thinly veiled distaste." },
+      "ar": { "text": "قدّم فأر الريف لضيفه أحسن طعامه: حبّات قمحٍ، وقطعة جبن صغيرة، وحبّة توت بريّ. ابتسم فأر المدينة باستهتار، وقال: «أهذا كلّ ما تأكله؟ هذا طعام فقير! تعال معي إلى المدينة، وسترى ما الطعام الحقيقي!»", "voice": "fable" },
+      "en": { "text": "The country mouse gave his guest his best food: grains of wheat, a small piece of cheese, and a wild berry. The town mouse smiled with mild contempt and said, \"Is this all you eat? It's poor food! Come with me to the town, and I'll show you real food!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The two mice walk together along a country road toward a distant town. The town mouse leads confidently while the country mouse follows curiously. The town's silhouette grows closer." },
+      "ar": { "text": "تردّد فأر الريف، لكنّه قبل الدعوة من فضوله. سارا معاً إلى المدينة. وصلا قبل المساء. أدخله فأر المدينة إلى بيتٍ كبيرٍ فاخر — كان قصراً بمعايير الفئران!", "voice": "fable" },
+      "en": { "text": "The country mouse hesitated, but accepted out of curiosity. They walked together to the town. They arrived before evening. The town mouse led him into a grand house — a palace by mouse standards!", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Inside a grand mansion, the two mice scurry up onto a large dining table that's set with rich foods: cheeses, breads, fruits, cakes, jellies. The town mouse spreads his arms grandly, showing off the feast. The country mouse's eyes are wide with amazement." },
+      "ar": { "text": "صعد الفأران على طاولة كبيرة. كانت مغطّاة بطعامٍ فاخر: أنواع من الجبن، خبزٌ طازج، فاكهة لذيذة، كعكٌ بالكريمة، وعصير الفواكه! اندهش فأر الريف: «يا للسماء! ما رأيتُ في حياتي طعاماً كهذا!»", "voice": "fable" },
+      "en": { "text": "The two mice climbed onto a great table. It was covered with rich foods: many kinds of cheese, fresh bread, ripe fruits, creamy cake, fruit juices! The country mouse gasped, \"Goodness! I've never seen such food in my life!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The two mice eat happily from the lavish spread. The country mouse takes small careful bites while the town mouse eats with confident enjoyment. The dining room is grand with silver candlesticks." },
+      "ar": { "text": "بدأ الفأران يأكلان. شعر فأر الريف بسعادة لم يشعر بها من قبل! كان كلّ شيءٍ شهياً. قال: «أنت محقّ، يا قريبي! هذه الحياة أحسن بكثير!» ضحك فأر المدينة بفخر.", "voice": "fable" },
+      "en": { "text": "The two mice began to eat. The country mouse felt happiness he had never known! Everything was delicious. He said, \"You're right, cousin! This life is far better!\" The town mouse laughed with pride.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A sudden loud noise! The dining room door bursts open and a maid with a cat (the cat looking hungry) appears. The two mice freeze, then scramble in panic — running to hide. Crumbs scatter from the table." },
+      "ar": { "text": "وفجأةً، انفتح الباب بقوّة! دخلت خادمةٌ تحمل قطّاً جائعاً! نظر القطّ إلى الطاولة ورأى الفئران. صرخت الخادمة: «فئران!» قفز الفأران من فزعهما، وركضا بأقصى سرعة!", "voice": "fable" },
+      "en": { "text": "Suddenly, the door burst open! A maid came in carrying a hungry cat! The cat looked at the table and saw the mice. The maid cried, \"Mice!\" Both mice leapt up in fright and ran for their lives!", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The two mice cower together inside a small hole in the wall, breathing hard. The country mouse looks shaken and worried. The town mouse tries to brush off the fear, but he's also breathing fast. The cat can be seen prowling outside in their viewing area." },
+      "ar": { "text": "اختبأ الفأران في ثقبٍ صغيرٍ في الجدار، يلهثان من الخوف. قال فأر المدينة: «نعم، نعم، حدث هذا أحياناً. لكن، انتظر قليلاً، وسنعود لإنهاء عشائنا!»", "voice": "fable" },
+      "en": { "text": "The two mice hid in a small hole in the wall, panting in fear. The town mouse said, \"Yes, yes, this happens sometimes. But wait a little, and we can go back to finish our supper!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The country mouse looks at his cousin with a wise expression. He's clearly thinking about heading home. Outside the hole, the cat is still visible, prowling near the table." },
+      "ar": { "text": "نظر فأر الريف إلى ابن عمّه باعجاب وبتفكير. قال بحكمة: «شكراً يا قريبي. الطعام عندك لذيذ فعلاً. لكنّي أعرف الآن أنّ السلامة أحلى من الحلوى. سأعود إلى بيتي.»", "voice": "fable" },
+      "en": { "text": "The country mouse looked at his cousin with both wonder and thought. He said wisely, \"Thank you, cousin. Your food is truly delicious. But I know now that safety is sweeter than sweets. I'll return to my home.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The country mouse heads back home through the countryside in the early dawn. He carries a tiny bundle. He smiles peacefully. In the distance, his simple tree-root home is welcoming. Wildflowers bloom along the path." },
+      "ar": { "text": "ودّع فأر الريف ابن عمّه، وعاد إلى بيته في الفجر. وصل إلى جذور شجرته، وأكل من حبوبه البسيطة. شعر بالأمان والراحة. علم أنّ السعادة ليست في الطعام الفاخر، بل في القلب الهادئ.", "voice": "fable" },
+      "en": { "text": "The country mouse said goodbye to his cousin and returned home at dawn. He reached his tree-root home and ate his simple grains. He felt safe and peaceful. He knew now that happiness was not in fancy food, but in a quiet heart.", "voice": "fable" }
+    }
+  ]
+}

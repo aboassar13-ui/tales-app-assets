@@ -1,0 +1,65 @@
+{
+  "id": "crow_and_pitcher",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 3,
+  "style_suffix": "warm watercolor children's book illustration, dry summer day palette, expressive black crow with shiny feathers, clay pitcher and pebbles, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A clever black crow stands beside a tall ceramic pitcher in a sunny garden, holding a small stone in his beak; he is about to drop it into the pitcher's narrow opening with a thoughtful, focused expression"
+  },
+  "i18n": {
+    "ar": { "title": "الغراب والإبريق", "subtitle": "حكاية من حكايات إيسوب", "tagline": "الذكاء يحلّ ما لا تحلّه القوّة" },
+    "en": { "title": "The Crow and the Pitcher", "subtitle": "An Aesop's Fable", "tagline": "Cleverness solves what strength cannot" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A black crow flies through a hot dry landscape, his black feathers shining in the harsh sun. The ground below is parched and yellow. Few clouds dot the sky. The crow looks thirsty." },
+      "ar": { "text": "في يومٍ حار جداً، طار غرابٌ أسود في السماء يبحث عن ماء. كان عطشاناً جداً. حلّق فوق الأرض الجافّة، ولم يجد بركةً ولا نهراً. شعر بأنّه قد يسقط من الحرّ.", "voice": "fable" },
+      "en": { "text": "On a very hot day, a black crow flew through the sky searching for water. He was terribly thirsty. He soared over the parched land, but found no pond or stream. He felt he might fall from the heat.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The crow lands beside a tall ceramic pitcher in someone's garden. He peers inside the narrow opening eagerly. Water is visible at the bottom but very low down. His expression goes from hope to disappointment." },
+      "ar": { "text": "أخيراً، رأى إبريقاً قديماً في حديقةٍ مهجورة. هبط بسرعة، ونظر داخله. كان هناك ماء! لكن الإبريق كان طويلاً، والماء قليلاً في القاع. حاول أن يصل بمنقاره — لكنه لم يستطع.", "voice": "fable" },
+      "en": { "text": "At last, he saw an old pitcher in an abandoned garden. He landed quickly and peered inside. There was water! But the pitcher was tall, and the water was very low. He tried to reach with his beak — but he couldn't.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The crow tries to push the pitcher with his beak and wings to tip it over. The pitcher doesn't budge. He looks frustrated. The pitcher is heavy and stable on the ground." },
+      "ar": { "text": "حاول الغراب أن يقلب الإبريق. دفعه بمنقاره وجناحيه، لكنّه لم يتحرّك. كان ثقيلاً جداً. شعر باليأس. قال: «سأموت من العطش، والماء قريبٌ منّي ولا أصل إليه!»", "voice": "fable" },
+      "en": { "text": "The crow tried to tip the pitcher. He pushed with his beak and his wings — but it would not move. It was too heavy. He felt discouraged. \"I shall die of thirst, with water right here that I cannot reach!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The crow sits beside the pitcher, looking around. He notices small smooth pebbles scattered nearby. A light bulb of an idea appears in his eyes. He tilts his head thoughtfully." },
+      "ar": { "text": "جلس الغراب يفكّر. نظر حوله، فرأى حصواتٍ صغيرة كثيرة على الأرض. وفجأةً، خطرت بباله فكرة! «إذا وضعتُ الحصوات في الإبريق، يرتفع الماء!»", "voice": "fable" },
+      "en": { "text": "The crow sat and thought. He looked around and saw many small pebbles on the ground. Suddenly, an idea came to him! \"If I drop pebbles into the pitcher, the water will rise!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The crow picks up a small pebble in his beak and carefully drops it into the pitcher's opening. A small splash. The crow watches intently as the water level rises slightly." },
+      "ar": { "text": "أخذ حصاةً صغيرة بمنقاره، وأسقطها في الإبريق. بلوب! ارتفع الماء قليلاً. ابتسم الغراب. التقط حصاةً ثانية، وأسقطها. ارتفع الماء أكثر.", "voice": "fable" },
+      "en": { "text": "He picked up a small pebble in his beak and dropped it into the pitcher. Plop! The water rose just a little. The crow smiled. He picked up a second pebble and dropped it in. The water rose more.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The crow has dropped many pebbles. He continues to bring more, flying from the ground to the pitcher's opening. The pitcher now contains many pebbles, and the water level is visibly higher." },
+      "ar": { "text": "ظلّ الغراب يجمع الحصوات ويسقطها في الإبريق، واحدةً تلو الأخرى. حصاة... حصاة... حصاة... كان الماء يرتفع رويداً رويداً. لم يستسلم رغم التعب.", "voice": "fable" },
+      "en": { "text": "The crow kept gathering pebbles and dropping them into the pitcher, one by one. Pebble... pebble... pebble... The water rose, little by little. He did not give up, though it was tiring.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Finally, the water has risen near the top of the pitcher. The crow stands on top of the pitcher's rim, dipping his beak in to drink. His expression is one of joyful triumph." },
+      "ar": { "text": "وأخيراً، وصل الماء إلى أعلى الإبريق! وقف الغراب على حافّته، ومدّ منقاره للماء. شرب وشرب حتى ارتوى! كان أحلى ماءٍ شربه في حياته.", "voice": "fable" },
+      "en": { "text": "At last, the water reached the top of the pitcher! The crow stood on the rim and dipped his beak in. He drank and drank until he was satisfied! It was the sweetest water he had ever tasted.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The crow now stands proudly on top of the now-full pitcher, looking at the camera with a wise smile. The pile of pebbles inside the pitcher is visible. Birds in the distance look on admiringly." },
+      "ar": { "text": "طار الغراب سعيداً. تذكّر دائماً ذلك اليوم. وكان يقول لكلّ من يقابله: «حتى لو كانت المشكلة كبيرة، يمكنك حلّها بالذكاء والصبر. حصاةٌ صغيرة قد ترفع ماء كثيراً!»", "voice": "fable" },
+      "en": { "text": "The crow flew away happily. He always remembered that day. He said to everyone he met, \"Even a big problem can be solved with cleverness and patience. A small pebble can raise much water!\"", "voice": "fable" }
+    }
+  ]
+}

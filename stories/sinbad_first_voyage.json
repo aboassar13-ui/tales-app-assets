@@ -1,0 +1,137 @@
+{
+  "id": "sinbad_first_voyage",
+  "category": "arabic_classic",
+  "source": "1001 Nights (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 10,
+  "style_suffix": "warm watercolor children's book illustration, Middle Eastern sea adventure palette, expressive friendly faces, traditional Arabian sailing dhow, deep blue oceans, friendly sea creatures, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A brave young sailor in a turban and traditional Arabian clothing stands on the deck of a small wooden dhow, looking out at a sun-kissed ocean horizon with curious wonder; a friendly whale's back rises faintly in the distance"
+  },
+  "i18n": {
+    "ar": { "title": "السندباد البحري — الرحلة الأولى", "subtitle": "حكاية من ألف ليلة وليلة", "tagline": "بحّار شاب، جزيرة عجيبة، ومغامرة لا تُنسى" },
+    "en": { "title": "Sinbad the Sailor — First Voyage", "subtitle": "A Tale from the 1001 Nights", "tagline": "A young sailor, a strange island, an unforgettable adventure" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A bustling marketplace in old Baghdad. A wealthy young Sinbad in fine clothes stands by his luxurious home, watching merchants and travelers passing by. He's surrounded by friends but looks restless." },
+      "ar": { "text": "كان السندباد شاباً غنياً يعيش في بغداد. ورث ثروةً كبيرة من أبيه، لكنه أنفقها على المرح والأصدقاء، حتى لم يبقَ معه شيءٌ تقريباً. فكّر يوماً: «لن أكسب ثروةً جديدة وأنا جالس. لا بدّ أن أسافر وأرى الدنيا!»", "voice": "onyx" },
+      "en": { "text": "Sinbad was a wealthy young man living in Baghdad. He had inherited a great fortune from his father, but spent it on merry days with friends — until almost nothing remained. One day he thought, \"I shall never earn a new fortune sitting still. I must travel and see the world!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Sinbad on the docks of a Persian port at dawn, buying trade goods (spices, silks, copper pots) from merchants. He's stacking them carefully onto a wooden cart with the help of porters. Ships float in the harbor." },
+      "ar": { "text": "اشترى السندباد ما تبقّى عنده من المال بضائع: بهارات، وحرير، ونحاس. قال لنفسه: «سأبيعها في بلاد بعيدة بأضعاف ثمنها.» نزل إلى ميناء البصرة، وبحث عن سفينة تأخذه عبر البحار.", "voice": "onyx" },
+      "en": { "text": "With the little money he had left, Sinbad bought trade goods: spices, silks, and copper pots. \"I will sell these in distant lands for many times their cost,\" he thought. He went down to the port of Basra and looked for a ship that would carry him across the seas.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A wooden Arabian dhow with white triangular sails leaves the busy port of Basra. Sinbad waves goodbye from the deck. Other merchants and sailors are on board. Seagulls follow above. The sea is calm and blue." },
+      "ar": { "text": "وجد السندباد سفينةً ذاهبةً إلى الهند. ركبها مع تجّارٍ آخرين. كانت السماء صافية، والريح طيّبة. أبحرت السفينة لأيامٍ كثيرة، حتى صارت بغداد بعيدةً وراءهم. كان السندباد سعيداً في كلّ يوم بمنظر جديد.", "voice": "onyx" },
+      "en": { "text": "Sinbad found a ship bound for India. He boarded with other merchants. The sky was clear, the wind was kind. The ship sailed for many days, until Baghdad was far behind them. Sinbad was thrilled by each new sight along the way.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A small green island in the middle of a vast ocean. The ship is anchored nearby. Sinbad and other sailors row a small boat to shore. The island has gentle hills and a few palm trees. Birds fly above." },
+      "ar": { "text": "ذات صباح، رأى الرّبّان جزيرةً صغيرة في وسط البحر. قال: «نتوقّف هنا لنرتاح ونملأ الماء.» نزل السندباد مع التجّار، وأشعلوا ناراً ليطبخوا. كانت الجزيرة جميلة، خضراء، تشبه حديقةً صغيرة.", "voice": "onyx" },
+      "en": { "text": "One morning, the captain saw a small island in the middle of the sea. \"Let us stop here to rest and refill our water,\" he said. Sinbad and the merchants rowed ashore. They lit a fire to cook. The island was beautiful — green and lush, like a small floating garden.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The 'island' begins to shake! Trees bend, and the ground beneath the merchants tilts. They look up in confusion. Sinbad is mid-step, off balance. The cooking fire scatters." },
+      "ar": { "text": "وفجأةً، اهتزّت الأرض بقوّة! اهتزّت الأشجار، وارتجف كل شيء. صرخ الربّان من السفينة: «اهربوا! هذه ليست جزيرة! إنها حوتٌ ضخم نائم على وجه الماء!» سقط السندباد، وكاد لا يستطيع الوقوف.", "voice": "onyx" },
+      "en": { "text": "Suddenly, the ground shook with great force! The trees bent, and everything trembled. The captain shouted from the ship, \"Flee! That is no island — it is a huge whale, asleep on the surface of the sea!\" Sinbad fell, scarcely able to stand.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The massive whale's back is rising more dramatically now, looking like a huge dark hill emerging from the sea. Other merchants rush back to the ship and row away. Sinbad is left behind on the rising whale, looking around frantically." },
+      "ar": { "text": "ركض التجّار نحو القارب! استطاع بعضهم العودة إلى السفينة. لكنّ السندباد كان بعيداً، فلم يصل في الوقت المناسب. غاص الحوت في الماء، فسقط السندباد في البحر! اختفت السفينة في الأفق، ولم يبقَ معه أحد.", "voice": "onyx" },
+      "en": { "text": "The merchants ran for the boats! Some reached the ship in time. But Sinbad was farther away, and could not get back fast enough. The whale dove into the water, and Sinbad fell into the sea! The ship disappeared on the horizon, and he was left alone.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Sinbad floats in the open sea, clinging to a large wooden trough or barrel that has fallen from the whale's back. Waves rise and fall around him. He looks scared but determined. The sun shines distantly." },
+      "ar": { "text": "بحث السندباد بيأس في الموج. وجد قطعةً كبيرة من الخشب — كانت أداةً للطبخ سقطت من ظهر «الجزيرة». تمسّك بها بكلّ قوّته. مرّت ساعات، ثم يوم، ثم آخر. كان عطشاناً جائعاً، لكنّه لم يستسلم.", "voice": "onyx" },
+      "en": { "text": "Sinbad searched desperately through the waves. He found a large piece of wood — a cooking trough that had fallen from the back of the \"island.\" He clung to it with all his strength. Hours passed, then a day, then another. He was thirsty and hungry, but he did not give up.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Sinbad washes ashore on a beautiful golden beach with palm trees. He crawls onto the sand, exhausted but alive. The sun is warm and welcoming. Fresh coconuts and fruits are visible in the trees above." },
+      "ar": { "text": "أخيراً، رماه الموج على شاطئ جزيرةٍ كبيرة جميلة! زحف على الرمل بضعف، ثم سقط نائماً من التعب. عندما استيقظ، رأى نخيلاً مليئاً بثمار جوز الهند، وأنهاراً صغيرة. شرب وأكل، فعادت إليه قوّته.", "voice": "onyx" },
+      "en": { "text": "At last, the waves carried him onto the beach of a great beautiful island! He crawled onto the sand, weak, and fell asleep from exhaustion. When he awoke, he saw palms heavy with coconuts and small clear streams. He drank and ate, and his strength returned.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Sinbad explores the island. He walks along a forested path and discovers a beautiful royal horse — pure white, with a long flowing mane — tied to a wooden post in a clearing. The horse looks at him curiously." },
+      "ar": { "text": "تجوّل السندباد في الجزيرة. وفجأة، رأى منظراً عجيباً! حصاناً أبيض جميلاً مربوطاً عند الشاطئ، وبجانبه نهرٌ صغير. كان الحصان فاخراً، وأطعمته معلّقة بكوميديا. تساءل السندباد: «من ربط حصاناً هنا في جزيرةٍ مهجورة؟»", "voice": "onyx" },
+      "en": { "text": "Sinbad wandered the island. Suddenly, he saw a strange sight! A beautiful white horse, tied near the shore, with a small stream beside it. The horse was magnificent, with fine equipment hanging nearby. Sinbad wondered, \"Who would tie a horse here, on a deserted island?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "A man in fine royal robes emerges from behind some rocks, looking at Sinbad with curiosity and welcome. He's a stable-master of the king of this island. He looks well-fed and friendly." },
+      "ar": { "text": "خرج من بين الصخور رجلٌ في زيٍّ ملكيّ. تفاجأ من رؤية السندباد، وسأله: «من أنت؟ كيف وصلت إلى هنا؟» روى السندباد قصّته. ابتسم الرجل وقال: «اطمئنّ. أنا خادم الملك. هذه الجزيرة عظيمة، ولها سلطانٌ كريم. سأخذك إليه.»", "voice": "onyx" },
+      "en": { "text": "From behind some rocks, a man in royal attire appeared. Surprised to see Sinbad, he asked, \"Who are you? How did you come here?\" Sinbad told his tale. The man smiled and said, \"Rest easy. I serve the king of this land. This island is great, and its sultan is kind. I shall take you to him.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Sinbad rides behind the stable-master on a horse, traveling through a magnificent landscape with palm groves and cultivated fields. They approach a grand walled palace with golden domes. Other people walk in colorful traditional dress." },
+      "ar": { "text": "أخذه إلى مدينة عظيمة، وأدخله إلى قصر السلطان «مهرجان». استقبله الملك بترحاب، وأطعمه، واستمع إلى قصّته. أعجب السندباد بحكمته ولطفه. قال السلطان: «ابقَ معنا، فأنت ضيفنا.»", "voice": "onyx" },
+      "en": { "text": "He took Sinbad to a magnificent city and brought him before Sultan Maharaja. The king welcomed him kindly, fed him, and listened to his tale. Sinbad was impressed by the sultan's wisdom and kindness. The sultan said, \"Stay with us — you are our guest.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Sinbad sits in the sultan's grand court, discussing trade with merchants who present various goods (spices, jewels, ivory). The sultan watches approvingly. Bright Persian carpets cover the floor." },
+      "ar": { "text": "عاش السندباد في القصر، وأصبح صديقاً للسلطان. كان يقابل التجّار القادمين من البحر، ويتحدّث معهم بأكثر من لغة. أعجب السلطان بذكائه، فعيّنه وزيراً للموانئ. كانت أيامه تمرّ بسلامٍ، لكنه لم ينسَ بغداد أبداً.", "voice": "onyx" },
+      "en": { "text": "Sinbad lived in the palace and became a friend of the sultan. He met merchants from across the seas, and spoke with them in many tongues. The sultan was impressed by his wit, and made him minister of the ports. His days passed peacefully — but he never forgot Baghdad.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "A new merchant ship docks at the island's port. Sinbad walks down with the harbor master to greet it. He notices something familiar about its design and the goods on deck — his eyes widen in recognition." },
+      "ar": { "text": "في يومٍ من الأيام، وصلت سفينةٌ كبيرة إلى الميناء. ذهب السندباد لمتابعة عملها. وعندما اقترب، عرف السفينة! كانت سفينة الربّان الذي ضاع منها على ظهر الحوت! ركض إلى الربّان: «أنا السندباد!»", "voice": "onyx" },
+      "en": { "text": "One day, a large ship arrived at the port. Sinbad went to oversee its work. As he drew near, he recognized the ship! It was the very same one he had been lost from on the whale's back! He ran to the captain. \"I am Sinbad!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The captain and crew on deck stare in shock at Sinbad. The captain holds his cheeks in disbelief. Crew members embrace Sinbad. Some of his original goods are visible stacked on the deck." },
+      "ar": { "text": "صعق الربّان! «أنت! ظنّنا أنّك متّ! انظر، بضائعك ما زالت معنا في السفينة، لم نلمسها انتظاراً لك أو لأهلك!» فرح السندباد فرحاً عظيماً. صلّى شكراً لله الذي حفظ له ماله مع وفاء الناس.", "voice": "onyx" },
+      "en": { "text": "The captain was astonished! \"You! We thought you had perished! Look — your goods are still aboard, untouched, kept for you or your family!\" Sinbad was overjoyed. He gave thanks to God who had preserved his goods, through the honesty of good men.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Sinbad in fine robes presents valuable gifts (jewels, gold-embroidered cloth, a fancy box) to a smiling Sultan Maharaja in his grand throne room. The sultan accepts warmly. Courtiers watch respectfully." },
+      "ar": { "text": "باع السندباد بضائعه في الجزيرة بأضعاف ثمنها. ربح ربحاً عظيماً! ثم اشترى هدايا فاخرة وقدّمها للسلطان مهرجان: ساعةً ذهبية، وعطوراً، وحريراً نادراً. شكره السلطان وودّعه. قال السندباد: «أنت أكرم سلطان عرفته في الدنيا.»", "voice": "onyx" },
+      "en": { "text": "Sinbad sold his goods in the island for many times their cost. His profit was great! He bought fine gifts for Sultan Maharaja: a golden clock, perfumes, rare silks. The sultan thanked him and bid him farewell. Sinbad said, \"You are the most generous sultan I have known.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The ship sails back home across calm seas. Sinbad stands on the deck, looking out at the horizon with a content smile. The setting sun paints everything in gold. He holds a small wooden chest of treasures." },
+      "ar": { "text": "ركب السندباد السفينة عائداً إلى بغداد. كانت رحلة العودة هادئة. وقف على السطح، ينظر إلى البحر، ويفكّر: «لقد فقدتُ ثروتي، ثم وجدتها مضاعفة. لكنّ الأهم أنّي تعلّمتُ شيئاً: أنّ الصبر والشجاعة طريقٌ إلى النجاح.»", "voice": "onyx" },
+      "en": { "text": "Sinbad boarded the ship and sailed home to Baghdad. The voyage back was peaceful. He stood on deck, gazing at the sea, and thought, \"I lost my fortune, then found it doubled. But more importantly, I learned this: that patience and bravery are the path to success.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Sinbad arrives home in Baghdad, walking through the marketplace, recognized by old friends who run to greet him with surprise and joy. He's well-dressed and carries chests of trade goods. The marketplace is bustling and bright." },
+      "ar": { "text": "وصل السندباد إلى البصرة، ثم سار إلى بغداد. التقى أصدقاءه القدامى، فلم يصدّقوا أنّه عاد! روى لهم قصّته، وسحرتهم المغامرة. اشترى بيتاً جديداً جميلاً، وأنشأ تجارة، وعاش بكرامة.", "voice": "onyx" },
+      "en": { "text": "Sinbad reached Basra, then went home to Baghdad. He met his old friends, who could not believe he had returned! He told them his tale, and the adventure enchanted them. He bought a beautiful new home, established a trading business, and lived with dignity.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "Sinbad sits in his new fine home with a group of old friends around him, gesturing as he tells his story. They listen with wide-eyed wonder. Lamps glow above them. A plate of dates and a teapot sit on a table." },
+      "ar": { "text": "كان السندباد يحكي قصّته للأصدقاء، ولم يملّ من السماع، ولا هم من السؤال. تعلّموا منه: «المغامرة قد تأخذ منك، لكنّها تردّ لك أعظم — لو كنتَ صبوراً، وأمنياً، وكريماً.»", "voice": "onyx" },
+      "en": { "text": "Sinbad told his tale to his friends, and never tired of telling it — nor did they tire of asking. They learned from him: \"Adventure may take from you, but it gives back even more — if you are patient, honest, and generous.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "An older Sinbad sits in a garden with children gathered around him, telling them his story. He holds a small model of a dhow ship. The children listen with rapt attention, and one girl points at the ship with curiosity. Flowers bloom around them." },
+      "ar": { "text": "كبر السندباد، وروى قصّته لأبنائه وأحفاده. كانوا يقولون له: «يا أبي، احكِ لنا الحكاية مرّةً أخرى!» وكان يبتسم، ويبدأ من جديد: «في زمنٍ بعيد، في مدينة بغداد، كان شابٌّ ضيّع ثروته، فقرّر أن يبحث عن مغامرة...»", "voice": "onyx" },
+      "en": { "text": "Sinbad grew old and told his tale to his children and grandchildren. They would say, \"Father, tell us the story once again!\" And he would smile and begin anew: \"Long ago, in the city of Baghdad, there was a young man who lost his fortune, and decided to seek adventure...\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "A sweeping view of an ocean at sunset, with a single small dhow ship on the horizon. The image is dreamy and reflective — a calm ending image. The sea reflects the warm pink and gold sky." },
+      "ar": { "text": "كانت هذه الرحلة الأولى للسندباد. لكنّ البحر ناداه مرّاتٍ كثيرة بعدها، وكان لكلّ رحلةٍ حكاية. أمّا هو، فلم يخف أبداً — لأنه عرف أنّ الإنسان إذا توكّل، ووثق، فالعالم كلّه يفتح له ذراعَيه.", "voice": "onyx" },
+      "en": { "text": "This was Sinbad's first voyage. But the sea called him many more times, and each voyage had its own tale. As for him — he was never again afraid. For he had learned that when one trusts and is faithful, the whole world opens its arms.", "voice": "fable" }
+    }
+  ]
+}

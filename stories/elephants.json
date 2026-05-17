@@ -1,0 +1,137 @@
+{
+  "id": "elephants",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, realistic but soft and friendly elephants, natural savanna and forest palettes, gentle nature documentary feel, no text in image, no watermark",
+  "cover": {
+    "prompt": "A majestic African elephant family — a tall mother and a tiny calf walking close beside her — at golden sunset on an open savanna, acacia trees in the background"
+  },
+  "i18n": {
+    "ar": {
+      "title": "عجائب الفيلة",
+      "subtitle": "تعرّف على أكبر حيوانٍ يمشي على الأرض",
+      "tagline": "ضخمٌ، ذكي، ولطيف!"
+    },
+    "en": {
+      "title": "Amazing Elephants",
+      "subtitle": "Meet the Largest Animal on Land",
+      "tagline": "Huge, smart, and surprisingly gentle"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A herd of African elephants — a few adults and a calf — walks across a sunlit savanna under a bright blue sky. Tall grasses sway, and a distant flat-topped acacia tree stands on the horizon."
+      },
+      "ar": {
+        "text": "هل تعرف ما هو أكبر حيوانٍ يعيش على اليابسة؟ إنه الفيل! يستطيع الفيل أن يصل ارتفاعه إلى أربعة أمتار، وأن يزن أكثر من ستة آلاف كيلوغرام، أي مثل أربع سيارات صغيرة!",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Do you know which animal is the largest one living on land? It's the elephant! An elephant can grow as tall as four meters and weigh more than six thousand kilograms — that's the same as four small cars!",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Close-up of an elephant's long trunk gracefully curling to pick up a single red apple from a wooden bowl on the ground. The trunk's wrinkles and tip are detailed and soft. Forest background, gentle light."
+      },
+      "ar": {
+        "text": "أهمّ ما يميّز الفيل هو خرطومه الطويل. يستخدم الفيل خرطومه ليأكل، ويشرب، ويستحم، ويلتقط الأشياء، حتى الصغيرة جداً مثل التفاحة! ويحتوي خرطومه على أربعين ألف عضلة، تخيّل!",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "An elephant's most amazing feature is its long trunk. Elephants use their trunks to eat, drink, take a shower, and pick things up — even something as small as a single apple! And a trunk has forty thousand muscles inside it. Can you imagine?",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A friendly elephant standing in a watering hole, spraying water playfully into the air from its trunk. Droplets sparkle in the sunlight. A baby elephant beside it copies the move with a smaller spray."
+      },
+      "ar": {
+        "text": "في الأيام الحارة، يحبّ الفيل أن يدخل البركة، ويملأ خرطومه بالماء، ثم يرشّه على ظهره ليبرد! كأنه يحمل دشّاً صغيراً معه أينما ذهب.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "On hot days, an elephant loves to step into a watering hole. It fills its trunk with water and sprays it over its back to cool down — like carrying its very own shower wherever it goes!",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Two elephants stand close together, foreheads gently touching, with a baby elephant between them. Their large ears are spread softly. The image conveys family love and gentleness, in a warm forest glade."
+      },
+      "ar": {
+        "text": "الفيلة حيواناتٌ ذكيّةٌ جداً، تحبّ بعضها كأفراد العائلة. تعيش الفيلة في مجموعاتٍ تُسمّى «قطعاناً»، وتقودها الفيلة الأم الأكبر سنّاً. ويبقى صغير الفيل قرب أمه لسنواتٍ طويلة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Elephants are very smart animals, and they love each other like a family. They live in groups called \"herds,\" led by the oldest mother elephant. A baby elephant stays close to its mother for many years.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "An African elephant with very large flapping ears stands beside an Asian elephant with smaller rounder ears. Both are friendly and curious. A simple background separating savanna on one side and jungle on the other."
+      },
+      "ar": {
+        "text": "هل تعرف أن هناك نوعَين رئيسيَّين من الفيلة؟ الفيل الأفريقي ذو الأذنَين الكبيرتَين، يعيش في سهول إفريقيا. والفيل الآسيوي بأذنَين أصغر، يعيش في غابات الهند وآسيا. الأذنان الكبيرتان تساعدان الفيل الأفريقي على البقاء بارداً في الشمس!",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Did you know there are two main kinds of elephants? The African elephant, with very large ears, lives on the plains of Africa. The Asian elephant has smaller, rounder ears and lives in the forests of India and Asia. Those huge ears help the African elephant stay cool under the hot sun!",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "An elephant uses its trunk to pull leaves off a tall tree branch, eating gently. Other plants — grass, flowers, fruits, bark — are arranged around in a soft illustrated chart style."
+      },
+      "ar": {
+        "text": "الفيل حيوانٌ نباتي، أي أنه يأكل النباتات فقط. يأكل الفيل الواحد حوالي مئتي كيلوغرام من النباتات كل يوم! يحبّ الأوراق والأغصان والفواكه والعشب. ويقضي معظم نهاره يبحث عن الطعام.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Elephants are plant-eaters — they eat only plants. A single elephant can eat about two hundred kilograms of plants every day! They love leaves, branches, fruits, and grass, and they spend most of the day searching for food.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "A baby elephant takes wobbly first steps under the gentle gaze of its mother, the rest of the herd standing protectively around in a soft green meadow at dawn."
+      },
+      "ar": {
+        "text": "صغير الفيل لطيفٌ جداً، ويزن عند ولادته حوالي مئة كيلوغرام! يقف على قدميه بعد ساعةٍ فقط من ولادته. وتعتني به أمّه وكل خالاته في القطيع، لأن الفيلة تساعد بعضها دائماً.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "A baby elephant is wonderfully cute and weighs about one hundred kilograms at birth! It stands up on its feet just one hour after being born. Its mother and all its \"aunties\" in the herd help take care of it, because elephants always look after one another.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A warm-hearted scene of a large adult elephant and a small calf standing under a tree, with bright sunlight filtering through leaves. A small bird perches on the elephant's back. A heart-shape suggested by trunk curls."
+      },
+      "ar": {
+        "text": "الفيلة من أذكى حيوانات العالم. تتذكّر الأماكن والأصدقاء لسنواتٍ طويلة، وتحزن إذا فقدت أحد أفراد القطيع. علينا أن نحميها ونعتني بها، فهي كنزٌ من كنوز الطبيعة!",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Elephants are among the smartest animals in the world. They remember places and friends for many, many years, and they feel sad if they lose a member of their herd. We must protect them and take care of them — they are one of nature's true treasures!",
+        "voice": "nova"
+      }
+    }
+  ]
+}

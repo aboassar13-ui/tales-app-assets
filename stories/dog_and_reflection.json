@@ -1,0 +1,53 @@
+{
+  "id": "dog_and_reflection",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 3,
+  "style_suffix": "warm watercolor children's book illustration, sunny country road palette, expressive friendly cartoon dog with a juicy bone, clear stream water, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A happy brown and white spotted dog carries a large meaty bone in his mouth as he walks proudly along a country path beside a clear stream. The reflection shows another dog with another bone in the water"
+  },
+  "i18n": {
+    "ar": { "title": "الكلب وانعكاسه", "subtitle": "حكاية من حكايات إيسوب", "tagline": "الطمع قد يضيّع منك ما تملك" },
+    "en": { "title": "The Dog and His Reflection", "subtitle": "An Aesop's Fable", "tagline": "Greed can lose you what you already have" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A happy brown dog with a wagging tail walks along a country path. He carries a large juicy meaty bone in his mouth, looking very proud and pleased with himself. Sun shines on a peaceful day." },
+      "ar": { "text": "في يومٍ من الأيام، وجد كلبٌ صغير عظمةً كبيرة لذيذة في الجزّار! حمل العظمة في فمه بفرحٍ، وعاد إلى بيته. كان فخوراً جداً بعظمته.", "voice": "fable" },
+      "en": { "text": "One day, a little dog found a big delicious bone at the butcher's! He carried the bone in his mouth happily and headed home. He was very proud of his prize.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The dog walks across a wooden bridge over a clear, calm stream. He's holding his bone proudly. Sunlight reflects on the water. He hasn't yet looked down." },
+      "ar": { "text": "في طريقه إلى البيت، عبر الكلب على جسرٍ خشبيّ فوق نهرٍ صافي. كان الماء هادئاً، يعكس كلّ شيءٍ كأنّه مرآة. توقّف الكلب ونظر إلى الأسفل.", "voice": "fable" },
+      "en": { "text": "On his way home, the dog crossed a wooden bridge over a clear stream. The water was still, reflecting everything like a mirror. The dog stopped and looked down.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The dog stands on the bridge looking down into the water. In the reflection, he sees himself with a bone — but he doesn't realize it's his own reflection. His eyes widen as he stares at the 'other dog'." },
+      "ar": { "text": "ورأى! كلباً آخر في الماء، يحمل عظمةً أيضاً! اعتقد الكلب أنّه كلبٌ حقيقي. قال في نفسه: «انظر! كلبٌ آخر معه عظمة أكبر من عظمتي! يجب أن آخذها أيضاً!»", "voice": "fable" },
+      "en": { "text": "And he saw! Another dog in the water, also holding a bone! The dog thought it was a real dog. He thought to himself, \"Look! Another dog with a bone bigger than mine! I must take it too!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The dog growls and barks aggressively at his own reflection in the water. He opens his mouth wide to bark, dropping his bone in the process. The bone falls into the water with a splash." },
+      "ar": { "text": "ظنّ الكلب الجشع: «سأخذ عظمته إن أحضرها أمامي.» نبح بصوتٍ عالٍ: «هاو هاو!» وعندما فتح فمه ليُخيف الكلب الآخر... سقطت عظمته من فمه إلى الماء!", "voice": "fable" },
+      "en": { "text": "The greedy dog thought, \"I'll take his bone if he brings it close.\" He barked loudly, \"Woof! Woof!\" And when he opened his mouth to frighten the other dog — his bone fell from his mouth into the water!", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The dog looks down at the ripples in the water — both his reflection and his bone are now gone. He has a comically shocked, sad expression. His tail droops. Water still splashes from where the bone fell." },
+      "ar": { "text": "اختفى الانعكاس مع موجات الماء. اختفت العظمة في النهر! نظر الكلب في يأسٍ — لا كلب آخر، ولا عظمتان، ولا حتى عظمته الأصلية! خسر كلّ شيء!", "voice": "fable" },
+      "en": { "text": "The reflection vanished with the ripples. The bone disappeared into the river! The dog looked down in dismay — no other dog, no second bone, not even his own original bone! He had lost everything!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The sad dog walks home from the bridge with his tail between his legs, no bone in his mouth. The sun continues to shine but he looks defeated. A wise old owl watches from a tree, smiling knowingly." },
+      "ar": { "text": "عاد الكلب إلى بيته حزيناً، بدون أيّ عظمة. تعلّم درساً مهمّاً: «إذا كان معك شيءٌ جميل، فاحفظه. الطمع يضيّع ما عندك. وما ترى في الماء قد لا يكون حقيقياً!»", "voice": "fable" },
+      "en": { "text": "The dog returned home sadly, with no bone at all. He learned an important lesson: \"If you have something good, hold on to it. Greed can lose you what you have. And what you see in the water may not be real!\"", "voice": "fable" }
+    }
+  ]
+}

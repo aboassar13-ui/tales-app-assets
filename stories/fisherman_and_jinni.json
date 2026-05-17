@@ -1,0 +1,137 @@
+{
+  "id": "fisherman_and_jinni",
+  "category": "arabic_classic",
+  "source": "1001 Nights (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, Middle Eastern coastal palette, expressive friendly faces, traditional Arabian setting, friendly cartoon jinni in colorful robes (not scary), no text in image, no watermark",
+  "cover": {
+    "prompt": "An elderly fisherman in a humble brown robe stands on a sandy beach holding a glowing brass bottle; a huge blue smoke begins to swirl out of it forming the shape of a friendly large jinni above"
+  },
+  "i18n": {
+    "ar": { "title": "الصياد والجني", "subtitle": "حكاية من ألف ليلة وليلة", "tagline": "صياد فقير، زجاجة قديمة، وذكاء ينقذ" },
+    "en": { "title": "The Fisherman and the Jinni", "subtitle": "A Tale from the 1001 Nights", "tagline": "A poor fisherman, an ancient bottle, and a clever trick" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "An elderly fisherman in a faded robe stands by a gentle sea at dawn, casting a fishing net from a small wooden boat. His three children wait on the shore looking hungry but hopeful." },
+      "ar": { "text": "في زمن بعيد، عاش صياد عجوز فقير على شاطئ البحر. كانت له زوجة وثلاثة أطفال، وكان يرمي شبكته أربع مرّات كلّ يوم لإطعامهم. لم يكن يأخذ أكثر، فقد قال: «هذه عادتي ولا أغيّرها.»", "voice": "onyx" },
+      "en": { "text": "Long ago, there lived a poor old fisherman by the sea. He had a wife and three children, and each day he cast his net just four times to feed them. He never cast it more, saying, \"This is my custom, and I will not change it.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The fisherman pulls up his net, but instead of fish, it contains a dead donkey. His face shows mild dismay. Seagulls fly above." },
+      "ar": { "text": "في يوم من الأيام، رمى الصياد شبكته في البحر. سحبها فوجدها ثقيلةً جداً! فرح وقال: «نصيب وفير اليوم!» لكن... لم يجد سمكاً، بل حماراً ميتاً. تنهّد وقال: «الرزق من الله.»", "voice": "onyx" },
+      "en": { "text": "One day, the fisherman cast his net into the sea. He pulled, and it was very heavy! \"A great catch today!\" he rejoiced. But — there was no fish, only a dead donkey. He sighed and said, \"My provision is in God's hands.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The fisherman casts his net a second time, pulls it up — and this time it's full of mud and old broken jars. He shakes his head with patience." },
+      "ar": { "text": "رمى الشبكة مرّةً ثانية. كانت أثقل! ابتسم بأمل. لكنه أخرج طيناً وأحجاراً قديمة. لم يحزن: «الصبر مفتاح الفرج. لي طلقتان بعد.»", "voice": "onyx" },
+      "en": { "text": "He cast his net a second time. It was heavier still! He smiled with hope. But out came mud, old stones, and broken jars. He was not dismayed: \"Patience is the key to relief. I have two more tries.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The fisherman casts his net a third time. He pulls up bones, shells, and seaweed. He looks up at the sky and shrugs with humble resignation." },
+      "ar": { "text": "في المرّة الثالثة، أخرجت الشبكة عظاماً وأصدافاً وقشّاً. رفع الصياد عينيه إلى السماء وقال: «يا ربّ، أنت تعلم أنّي لا أرمي إلّا أربع مرّات. هذه آخر فرصة.» ورمى الشبكة للمرّة الرابعة.", "voice": "onyx" },
+      "en": { "text": "On the third cast, his net came up with bones, shells, and weeds. He lifted his eyes to the sky and said, \"Lord, You know I cast only four times. This is my last chance.\" And he threw his net for the fourth time.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The fisherman pulls up his net and discovers a large brass bottle inside, ornately decorated with intricate seals and stamped with a strange marking on its cap. His eyes go wide with surprise. Sun reflects off its tarnished surface." },
+      "ar": { "text": "سحب الشبكة بصعوبة. كانت ثقيلة جداً! ولكن... لم يجد سمكاً ولا حماراً. وجد زجاجةً نحاسية كبيرة، عليها ختمٌ غريب من رصاص. فرح وقال: «إن بعتُها للنحاسين، ستُطعم عائلتي شهراً كاملاً!»", "voice": "onyx" },
+      "en": { "text": "He pulled his net up with great effort. It was extremely heavy! But — no fish, no donkey. Inside was a large brass bottle, sealed with a strange lead seal. He rejoiced, \"If I sell this to the brass merchants, my family will eat for a whole month!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The fisherman examines the brass bottle on the beach, holding it up to the light. He's about to break open the lead seal with a small stone, a curious look on his face." },
+      "ar": { "text": "نظر الصياد إلى الختم: عليه نقشٌ غريب. كان فضولياً، ففكّر: «لمَ هذا الختم؟ ماذا يكون بداخلها؟» أمسك بحجر صغير، وكسر الختم بحذر. خرج من الزجاجة دخانٌ كثيف!", "voice": "onyx" },
+      "en": { "text": "The fisherman looked at the seal: it had a strange engraving. Curious, he wondered, \"Why is it sealed? What could be inside?\" He picked up a small stone and broke the seal carefully. From the bottle billowed a great cloud of smoke!", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A massive but cartoonish friendly-looking blue jinni rises from the bottle's smoke, towering above the beach. He has a kind face but is clearly upset. The fisherman shrinks back in surprise, jaw dropped." },
+      "ar": { "text": "صعد الدخان عالياً حتى السحاب، ثم تشكّل منه مارد ضخم! كان طوله كالشجرة، وصوته كالرعد. صرخ الصياد من المفاجأة وكاد يقع! نظر إليه الجني وقال: «أيها الصياد! لقد حرّرتني بعد آلاف السنين!»", "voice": "onyx" },
+      "en": { "text": "The smoke rose to the clouds, and from it formed a huge jinni! He was as tall as a tree, his voice like thunder. The fisherman gasped and nearly tumbled back! The jinni looked down and said, \"O fisherman! You have set me free after thousands of years!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The huge jinni looks down at the tiny fisherman, looking quite serious but not menacing. His arms are crossed. The fisherman stands his ground, looking concerned but composed." },
+      "ar": { "text": "فرح الصياد قليلاً، ظنّ أنّه سينال مكافأة. لكن الجني قال: «اختر كيف تموت! إنّي أقسمتُ في القرن الأول من سجني، أنّ من يحرّرني سأجعله غنياً. وفي القرن الثاني، سأمنحه كل ما يطلب. لكن طال انتظاري، فحلفتُ في القرن الأخير أنّي سأنهي حياة من يخرجني!»", "voice": "onyx" },
+      "en": { "text": "The fisherman brightened — surely he would be rewarded! But the jinni said, \"Choose how you shall meet your end! In the first century of my captivity, I swore to make my rescuer rich. In the second, to grant his every wish. But ages dragged on, and in the last century I swore that whoever freed me would meet his end!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The fisherman, looking thoughtful and brave, holds up one hand as if to make a request. The jinni leans down with interest, hands on knees, listening." },
+      "ar": { "text": "تجمّد الصياد. لكنه فكّر بسرعة. قال بأدب: «يا سيدي الجني، إن أردتَ إنهاء حياتي، فلكَ ذلك. لكن أرجوك، أجبني على سؤالٍ واحد قبل ذلك.» قال الجني: «اسأل ما شئت.»", "voice": "onyx" },
+      "en": { "text": "The fisherman froze. But he thought quickly. He spoke politely, \"Sir jinni, if you will end my life, so be it. But please, answer me one question first.\" The jinni said, \"Ask what you wish.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The fisherman points cleverly at the small brass bottle on the sand at his feet, looking up at the towering jinni with a thoughtful expression. The bottle is much smaller than the jinni." },
+      "ar": { "text": "قال الصياد بهدوء: «أنت ضخمٌ كالجبل! كيف يُعقل أنك كنتَ في هذه الزجاجة الصغيرة؟ لا أصدّق! من حقّي أن أرى بعينيّ.» نظر الجني إلى الزجاجة، وفكّر: «نعم، لا بدّ أن يصدق! سأريه!»", "voice": "onyx" },
+      "en": { "text": "The fisherman said calmly, \"You are as huge as a mountain! How could you have fit in that tiny bottle? I cannot believe it! Surely I have the right to see with my own eyes.\" The jinni considered the bottle. \"True — I must convince him! I will show him!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The jinni dissolves into smoke and begins to flow back into the brass bottle. The fisherman watches eagerly. The smoke is colorful and magical." },
+      "ar": { "text": "تحوّل الجني إلى دخانٍ من جديد، وبدأ ينزل إلى الزجاجة شيئاً فشيئاً. كان الصياد ينظر مذهولاً. وعندما دخل الجني تماماً، أسرع الصياد وأخذ الختم، وأغلق الزجاجة بسرعة!", "voice": "onyx" },
+      "en": { "text": "The jinni turned into smoke again and began to flow into the bottle, little by little. The fisherman watched in amazement. The moment the jinni was completely inside, the fisherman snatched up the seal and clamped the bottle shut!", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The fisherman holds the now-sealed brass bottle confidently in both hands. The bottle wobbles and shakes as the jinni inside protests. The fisherman has a satisfied, slightly amused expression." },
+      "ar": { "text": "اهتزّت الزجاجة! خرج صوت الجني من الداخل: «دعني أخرج! إنّك تخدعني!» ضحك الصياد قليلاً وقال: «أنت تستحقّ ما حدث. سأرميك في البحر مرّةً أخرى، وسأبني فوق المكان منزلاً، وأخبر كل صياد أن لا يخرجك!»", "voice": "onyx" },
+      "en": { "text": "The bottle shook! The jinni's voice rumbled from inside, \"Let me out! You've tricked me!\" The fisherman chuckled and said, \"You deserve what has happened. I shall throw you back into the sea, build a house above the spot, and warn every fisherman never to free you!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The jinni's voice from inside the bottle pleads, suggested by stylized smoke wisps escaping the sealed bottle. The fisherman holds the bottle up, listening, with a measured expression." },
+      "ar": { "text": "أدرك الجني خطأه. قال بصوتٍ ضعيف: «يا صياد، اغفر لي! كنتُ غاضباً من طول سجني، ولم أكن أعني ما قلته. أطلق سراحي، وسأكافئك بمكافأة عظيمة، أعدك!»", "voice": "onyx" },
+      "en": { "text": "The jinni realized his mistake. He said in a softer voice, \"Fisherman, forgive me! I was angry from my long imprisonment. I did not truly mean what I said. Free me, and I shall reward you greatly — I promise!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The fisherman sits on a rock by the sea, holding the bottle and looking at it thoughtfully. He's clearly considering whether to trust the jinni. Waves lap gently nearby." },
+      "ar": { "text": "فكّر الصياد طويلاً. كان قلبه طيباً، لكنه كان حذراً أيضاً. قال: «كيف أصدّقك يا جني؟ لقد كذبتَ من قبل!» أقسم الجني أيماناً كثيرة. أخيراً، قال الصياد: «حسناً، سأطلقك. لكن إن خنتَني، سأعيدك إلى البحر للأبد!»", "voice": "onyx" },
+      "en": { "text": "The fisherman thought a long time. He had a kind heart, but he was also wise. He said, \"How can I trust you, jinni? You have lied before!\" The jinni swore many oaths. At last the fisherman said, \"Very well — I shall free you. But if you betray me, I will return you to the sea forever!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The fisherman opens the bottle. The jinni emerges from the bottle as friendly smoke, materializing into his huge friendly form, looking truly grateful and humble this time." },
+      "ar": { "text": "فتح الصياد الزجاجة، وخرج الجني بحجمه الضخم. ابتسم بصدق هذه المرّة، وقال: «يا صياد الكريم، أنت أكثر حكمةً منّي. شكراً لك على عفوك. تعالَ معي، سأعطيك هديةً تستحقّها.»", "voice": "onyx" },
+      "en": { "text": "The fisherman opened the bottle, and the jinni emerged in his great form. This time he smiled with true sincerity, and said, \"Generous fisherman, you are wiser than I. Thank you for your mercy. Come with me — I shall give you a gift you have earned.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The huge jinni walks alongside the small fisherman across a sunny landscape. They head toward an inland lake. The jinni is gesturing forward kindly, and the fisherman follows curiously." },
+      "ar": { "text": "أخذ الجني الصياد إلى بحيرة بعيدة، لم يعرفها أحد. قال: «ارمِ شبكتك هنا، مرّةً واحدة فقط. ولا تكثر، فهذه بحيرة سحرية.» رمى الصياد شبكته، وعندما رفعها...", "voice": "onyx" },
+      "en": { "text": "The jinni led the fisherman to a distant lake, one no man had seen before. He said, \"Cast your net here, just once. Do not cast more — for this is a magical lake.\" The fisherman threw his net, and when he pulled it up...", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "The fisherman lifts his net out of a sparkling lake. The net is full of four colorful, magical-looking fish — one red, one blue, one yellow, one white. They glow softly. The fisherman's face lights up with wonder." },
+      "ar": { "text": "كانت الشبكة مليئة بأربع سمكات عجيبة: واحدة حمراء كالياقوت، وواحدة زرقاء كالسماء، وواحدة صفراء كالذهب، وواحدة بيضاء كالفضّة! قال الجني: «خذها إلى السلطان نفسه. ستكون مكافأتك أعظم ممّا تتصوّر.»", "voice": "onyx" },
+      "en": { "text": "The net was full of four wondrous fish: one red as a ruby, one blue as the sky, one yellow as gold, one white as silver! The jinni said, \"Take these to the sultan himself. Your reward will be greater than you can imagine.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "The fisherman in his humble robes bows before a kind-looking sultan in a richly decorated palace court. He holds up the basket of four magical glowing fish. The sultan's eyes are wide with delight." },
+      "ar": { "text": "ذهب الصياد إلى السلطان وقدّم له السمكات الأربع. اندهش السلطان كثيراً، ولم يرَ مثلها أبداً! كافأه بمالٍ كثير. عاد الصياد إلى بيته يحمل ذهباً وفضة، فرحت زوجته وأولاده فرحاً كبيراً.", "voice": "onyx" },
+      "en": { "text": "The fisherman went to the sultan and presented the four fish. The sultan was astonished — he had never seen their like! He rewarded the fisherman with much gold. The fisherman returned home with treasure, and his wife and children rejoiced greatly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "The fisherman's family enjoys a warm meal together in their now slightly nicer home — fresh bread, fish, fruit. They share smiles. A simple but bright atmosphere fills the home." },
+      "ar": { "text": "اشترى الصياد بيتاً أفضل، ولكنه لم يطمع. لم يطلب من الجني المزيد. عاد إلى صيده اليومي، يرمي الشبكة أربع مرّات فقط، ويعيش بصبره الجميل. وكان يحكي القصة لأطفاله، ويعلّمهم: «الذكاء أقوى من القوّة، والعفو أعظم من الانتقام.»", "voice": "onyx" },
+      "en": { "text": "The fisherman bought a finer home, but he did not become greedy. He never asked the jinni for more. He returned to his daily fishing — casting his net only four times — and lived with patient grace. He told this tale to his children, teaching them, \"Cleverness is mightier than strength, and mercy is greater than revenge.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "An elderly version of the fisherman sits by the sea at sunset, surrounded by his children and grandchildren, telling them the story. The brass bottle sits on a wooden shelf in the background as a memento. Warm orange and pink light fills the scene." },
+      "ar": { "text": "كبر الأطفال، وتذكّروا قصّة أبيهم دائماً. وعندما زاروا البحر، نظروا إلى الأمواج وفكّروا: «ربّما هناك جنّيٌّ آخر تحت الماء، لكنّا تعلّمنا حكمة أبينا، فلن نخاف ولن نغترّ.»", "voice": "onyx" },
+      "en": { "text": "His children grew up and never forgot their father's story. Whenever they walked by the sea, they looked at the waves and thought, \"Perhaps another jinni lies somewhere beneath. But we have learned our father's wisdom, so we shall neither fear nor be foolish.\"", "voice": "fable" }
+    }
+  ]
+}

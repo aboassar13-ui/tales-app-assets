@@ -1,0 +1,137 @@
+{
+  "id": "ali_baba",
+  "category": "arabic_classic",
+  "source": "1001 Nights (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 11,
+  "style_suffix": "warm watercolor children's book illustration, Middle Eastern desert and cavern palette, expressive friendly faces, traditional Arabian clothing and architecture, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young woodcutter in a turban stands in awe before an enormous cave entrance set into a desert cliff; a treasure of gold coins, gems, and silken carpets glimmers in the cave's interior, lit by warm golden light"
+  },
+  "i18n": {
+    "ar": { "title": "علي بابا والأربعون لصاً", "subtitle": "حكاية من ألف ليلة وليلة", "tagline": "حطّابٌ فقير، كهفٌ ساحر، وجاريةٌ ذكية" },
+    "en": { "title": "Ali Baba and the Forty Thieves", "subtitle": "A Tale from the 1001 Nights", "tagline": "A poor woodcutter, a magic cave, and a clever maid" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A modest Persian town with adobe houses. Two brothers stand at a fork in the road. One, well-dressed and proud, walks toward a fine merchant's house. The other, in simple work clothes with an axe over his shoulder, heads toward the desert. Sunset paints the sky orange." },
+      "ar": { "text": "في بلدةٍ بعيدة، عاش أخوان: قاسم كان غنيّاً ومغروراً، وعليّ بابا كان فقيراً وطيب القلب. كان عليّ بابا يعمل حطّاباً، يقطع الخشب من الجبال ويبيعه ليطعم زوجته وأولاده.", "voice": "onyx" },
+      "en": { "text": "In a town far away lived two brothers: Cassim, who was rich and proud, and Ali Baba, who was poor but kind-hearted. Ali Baba worked as a woodcutter, chopping wood from the mountains and selling it to feed his wife and children.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Ali Baba on a rocky desert hillside, chopping branches. In the distance, a cloud of dust approaches — a band of forty horsemen riding fast. Ali Baba's eyes go wide and he ducks behind a large boulder." },
+      "ar": { "text": "ذات يوم، كان عليّ بابا يجمع الحطب في الجبل، فرأى من بعيدٍ سحابةً كبيرة من الغبار. ركبَ على شجرةٍ كثيفة الأوراق ليختفي. واقتربت السحابة — كانت أربعين فارساً مدجّجين بالسلاح! توقّفوا تحت الشجرة تماماً.", "voice": "onyx" },
+      "en": { "text": "One day, while gathering wood in the mountains, Ali Baba saw a great cloud of dust in the distance. He climbed a leafy tree to hide. The cloud drew closer — and revealed forty armed horsemen! They stopped right beneath the very tree where he was hidden.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Forty rough-looking but cartoon-style bandits dismount near a tall stone cliff. Their leader, a man with a long mustache and an embroidered cloak, steps forward and raises a hand toward a seemingly solid rock face." },
+      "ar": { "text": "نزل اللصوص من خيولهم، وخلعوا حقائب ثقيلة من ظهورها. اقترب رئيسهم من جانبٍ مسطّحٍ من الصخر. ورفع يده ونادى بصوتٍ قويّ: «افتح يا سمسم!»", "voice": "onyx" },
+      "en": { "text": "The thieves dismounted and unloaded heavy bags from their horses' backs. Their leader walked up to a flat patch of cliff. He raised his hand and called out in a strong voice: \"Open, Sesame!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A massive stone door in the cliff slides aside, revealing a glowing cave entrance. The leader leads the forty bandits inside. Ali Baba peeks down from the tree above, completely astonished, hand to his mouth." },
+      "ar": { "text": "وفجأةً، تحرّكت الصخرة بصوتٍ مدوٍّ، وانفتح بابٌ ضخم في الجبل! أدخل اللصوص حقائبهم. ولما خرجوا، قالوا: «أغلق يا سمسم!» فأغلق الباب. ركبوا خيولهم ومضوا. ظلّ عليّ بابا في الشجرة لا يصدّق عينَيه.", "voice": "onyx" },
+      "en": { "text": "Suddenly, with a great rumble, the rock slid aside, and an enormous door opened in the mountain! The thieves carried their bags inside. When they came out, they said, \"Close, Sesame!\" and the door sealed shut. They rode away. Ali Baba stayed in the tree, scarcely believing his eyes.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Ali Baba climbs down and approaches the cliff cautiously. He stands before the stone wall and raises both hands hesitantly, mouthing magical words. His face shows both fear and curiosity." },
+      "ar": { "text": "عندما ابتعد اللصوص، نزل عليّ بابا. اقترب من الصخرة المسطّحة وقال متردّداً: «افتح... يا سمسم!» وفجأة! تحرّكت الصخرة وانفتح الباب. توقّف قلبه من الدهشة، ثم دخل.", "voice": "onyx" },
+      "en": { "text": "When the bandits were gone, Ali Baba climbed down. He approached the flat rock and said hesitantly, \"Open... Sesame!\" Suddenly! The rock slid aside, and the door opened. His heart skipped a beat, and he stepped inside.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Inside a vast cavernous treasure chamber. Mountains of gold coins, jeweled goblets, silken carpets, and chests overflow under the warm glow of golden light through small windows in the rock. Ali Baba's eyes are wide as saucers." },
+      "ar": { "text": "وقف عليّ بابا مذهولاً! امتلأ الكهف بالكنوز: أكياسٌ من الذهب، أكوامٌ من الجواهر، سجاجيد فاخرة، صناديق من الفضة! كان كل هذا قد سرقه اللصوص من قوافل التجار على مرّ السنين.", "voice": "onyx" },
+      "en": { "text": "Ali Baba stood astonished! The cave was filled with treasures: sacks of gold, piles of jewels, fine carpets, chests of silver! All of it had been stolen by the thieves from trade caravans over many years.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Ali Baba carefully loads three small bags of gold coins onto his donkey at the cave entrance. He looks thoughtful and modest — taking only a little. The vast treasure remains mostly untouched." },
+      "ar": { "text": "أخذ عليّ بابا فقط ثلاثة أكياس من الذهب — لا أكثر. قال لنفسه: «هذا يكفي لإطعام عائلتي.» خرج، وقال: «أغلق يا سمسم!» فأغلق الباب. حمّل الأكياس على حماره وعاد إلى البيت.", "voice": "onyx" },
+      "en": { "text": "Ali Baba took only three small sacks of gold — no more. \"This is enough to feed my family,\" he thought. He stepped out and said, \"Close, Sesame!\" The door sealed. He loaded the bags onto his donkey and headed home.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Ali Baba's modest home interior. His wife stares at three small bags of gleaming gold coins poured on a rug, hands to her cheeks in disbelief. Ali Baba smiles, but raises a finger to his lips for secrecy." },
+      "ar": { "text": "صرخت زوجته من الفرح عندما رأت الذهب! قال لها عليّ بابا: «هذه نعمةٌ من الله، لكن يجب أن نخفي السرّ. لا يجب أن يعرف أحد، حتى لا يطمع الناس فينا.» وافقت بسرعة.", "voice": "onyx" },
+      "en": { "text": "His wife gasped with joy at the sight of the gold! Ali Baba said, \"This is a blessing, but we must keep our secret. No one must know, or greedy people will come.\" She agreed at once.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Cassim's wife, a fancy woman with jewelry, talks to Ali Baba's modest wife at a doorway, with a curious expression. Ali Baba's wife holds a borrowed small set of scales. Cassim's wife sneakily presses sticky wax to the bottom of the scale." },
+      "ar": { "text": "أرادت زوجة عليّ بابا أن تعدّ الذهب بميزان، فاستعارت ميزاناً من زوجة قاسم. لكنّ زوجة قاسم وضعت قطعة شمعٍ تحت الميزان بسبب فضولها. عندما عاد الميزان، التصقت قطعة ذهبٍ في الشمع! ركضت إلى زوجها: «قاسم! عليّ بابا عنده ذهب!»", "voice": "onyx" },
+      "en": { "text": "Ali Baba's wife borrowed a scale from Cassim's wife to weigh the gold. But Cassim's wife, curious, had pressed wax onto its base. When the scale came back, a single gold coin was stuck in the wax! She ran to her husband: \"Cassim! Ali Baba has gold!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Wealthy Cassim, in fine robes, confronts a worried Ali Baba in a courtyard, holding up a single small gold coin demandingly. Ali Baba clasps his hands, looking pleading. The atmosphere is tense but not violent." },
+      "ar": { "text": "ركض قاسم إلى أخيه وأمسك يده بقوة: «من أين لك هذا الذهب؟ يجب أن تخبرني!» تردد عليّ بابا، لكنّ قاسم أصرّ. أخيراً، روى له عليّ بابا قصة الكهف وكلمة «افتح يا سمسم». لمعت عينا قاسم طمعاً.", "voice": "onyx" },
+      "en": { "text": "Cassim rushed to his brother and grabbed his hand. \"Where did you get this gold? You must tell me!\" Ali Baba hesitated, but Cassim insisted. At last, he told his brother of the cave and the words \"Open, Sesame.\" Cassim's eyes gleamed with greed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Cassim leads ten loaded mules through the desert toward the rocky cliff. He looks proud and greedy. The mules' panniers are empty, ready to be filled." },
+      "ar": { "text": "في اليوم التالي، حملَ قاسم عشرة حميرٍ بسلال فارغة، وذهب إلى الجبل وحده. وقف أمام الصخرة وقال: «افتح يا سمسم!» انفتح الباب. دخل وقفل خلفه. وحين رأى الكنوز، نسي كلّ شيء.", "voice": "onyx" },
+      "en": { "text": "The next day, Cassim led ten mules with empty baskets to the mountain, alone. He stood at the rock and cried, \"Open, Sesame!\" The door opened. He went inside and the door closed behind him. When he saw the treasures, he forgot everything else.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Cassim panics inside the cave, hands at his head, trying to remember a word. Piles of gold and jewels are stacked around him in chaos. He tries different grain names — 'Open, Barley!' suggested by an expression of frustration." },
+      "ar": { "text": "ملأ قاسم السلال بالذهب والجواهر. ولكن... نسي الكلمة السحرية! حاول: «افتح يا قمح!» لم يفتح. «افتح يا شعير!» لم يفتح. «افتح يا أرز!» لم يفتح. ارتعب — قد عاد اللصوص الآن.", "voice": "onyx" },
+      "en": { "text": "Cassim filled the baskets with gold and jewels. But — he had forgotten the magic word! He tried, \"Open, Wheat!\" Nothing. \"Open, Barley!\" Nothing. \"Open, Rice!\" Nothing. He grew terrified — and at that very moment, the thieves were returning.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The forty thieves arrive at the cliff and find ten mules tied up outside the cave entrance. The leader gestures angrily. They draw scimitars and the door opens with their command. The scene is dramatic but the violence is suggested, not shown." },
+      "ar": { "text": "وصل اللصوص، فرأوا الحمير عند الباب. عرفوا أن دخيلاً في كهفهم. قال زعيمهم: «افتح يا سمسم!» انفتح الباب، فدخلوا واحداً تلو الآخر. وجدوا قاسماً، فلم يكن أمامه مكانٌ للهرب.", "voice": "onyx" },
+      "en": { "text": "The thieves arrived and saw the mules at the door. They knew someone was inside their cave. The leader cried, \"Open, Sesame!\" The door opened, and they entered one by one. They found Cassim, who had no way to escape.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Ali Baba kneels beside his fallen brother in the cave entrance, sad-faced. He places his brother's hand gently and rises to leave. Outside, the desert is quiet. The mood is tender, not graphic." },
+      "ar": { "text": "حين تأخّر قاسم، قلق عليه عليّ بابا. ذهب إلى الكهف وفتحه. وجد أخاه قد قضى نحبه على يد اللصوص. بكى عليه عليّ بابا بحرقة، وحمل جسده ليدفنه باحترام. أدرك أنّ الطمع كلّف أخاه حياته.", "voice": "onyx" },
+      "en": { "text": "When Cassim did not return, Ali Baba grew worried. He went to the cave and opened it. He found his brother had perished at the hands of the thieves. Ali Baba wept bitterly and gently carried him home for an honorable burial. He realized that his brother's greed had cost him his life.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Ali Baba sits with his brother's widow and a smart young maid named Morgiana inside a modest house. Morgiana is listening intently with intelligent, focused eyes. Ali Baba speaks gravely. Tea cups sit between them." },
+      "ar": { "text": "ضمّ عليّ بابا أرملة أخيه وأولاده إلى بيته. كان مع زوجة قاسم جاريةٌ ذكيّة اسمها مرجانة. قال لها عليّ بابا: «أحتاج لذكائك يا مرجانة. اللصوص قد يأتون يبحثون عنا.» قالت بثقة: «لا تخف يا سيدي.»", "voice": "onyx" },
+      "en": { "text": "Ali Baba brought his brother's widow and children into his own home. With them came a clever young maid named Morgiana. \"I need your wits, Morgiana,\" said Ali Baba. \"The thieves may come looking for us.\" \"Have no fear, master,\" she said firmly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The chief thief, disguised as an oil merchant, leads a long caravan of donkeys carrying thirty-nine large clay oil jars into a city street at dusk. He looks shifty. The jars are unusually large, as if they could hold a person." },
+      "ar": { "text": "اكتشف اللصوص أن دخيلاً آخر زار كهفهم. تنكّر زعيمهم في زيّ تاجر زيت، وملأ تسعةً وثلاثين جرّةً كبيرة. لكنّه أخفى في كلّ جرّة لصّاً، وجعل الجرّة الأخيرة وحدها مليئة بالزيت! اقترب من بيت عليّ بابا قائلاً: «أنا تاجر زيت محتاجٌ للضيافة.»", "voice": "onyx" },
+      "en": { "text": "The thieves learned another stranger had entered their cave. The leader disguised himself as an oil merchant. He filled thirty-nine large jars — but hid a thief inside each one, leaving only the last jar full of real oil! He arrived at Ali Baba's house and asked, \"I am an oil merchant in need of lodging.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Morgiana, the clever maid, holds a candle as she walks past the row of huge oil jars lined up in the courtyard at night. Her face is alert and curious. She tilts her ear toward one jar, eyebrows raised in suspicion." },
+      "ar": { "text": "رحّب عليّ بابا بالتاجر. لكنّ مرجانة الذكيّة لاحظت شيئاً غريباً. في الليل، خرجت لتأخذ زيتاً للمصباح. اقتربت من الجرار، فسمعت همساً من إحداها: «هل حان الوقت يا رئيس؟» جمدت من الدهشة.", "voice": "onyx" },
+      "en": { "text": "Ali Baba welcomed the merchant warmly. But clever Morgiana noticed something odd. That night, she went out to fetch oil for a lamp. As she neared the jars, she heard a whisper from one: \"Is it time yet, chief?\" She froze in astonishment.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "Morgiana, holding a lantern and a confident smile, whispers to each oil jar in turn: 'Not yet, wait.' The thieves believe their leader. She has placed a sleeping potion in their boiling pot. She is brave and clever." },
+      "ar": { "text": "أجابت مرجانة بصوتٍ منخفض يشبه صوت الزعيم: «ليس بعد، انتظر إشارتي.» مرّت على كلّ جرّة بالحيلة نفسها. ثم سكبت في كلّ جرّة شراباً مهدّئاً قويّاً، فناموا جميعاً. أنقذت بيت عليّ بابا.", "voice": "onyx" },
+      "en": { "text": "Morgiana answered in a low voice that sounded just like the chief's: \"Not yet, wait for my signal.\" She went from jar to jar with the same trick. Then she poured a strong sleeping potion into each jar — and all the thieves fell sound asleep. She had saved Ali Baba's whole household.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "Morgiana dances gracefully with veils and a small dagger at a celebration in Ali Baba's house. The disguised chief thief watches from a divan, surprised. Family members watch in delight. Lanterns hang above. The scene is festive." },
+      "ar": { "text": "في الصباح، اكتشف الزعيم خسارة رجاله، فهرب. لكنه عاد بعد فترةٍ متنكّراً في زيّ تاجرٍ آخر، فدعاه عليّ بابا للعشاء. أحسّت مرجانة بالخطر. فرقصت رقصةً جميلة، وعند انحناءتها الأخيرة كشفت تنكّره — فعرفه عليّ بابا.", "voice": "onyx" },
+      "en": { "text": "In the morning, the chief discovered his loss and slipped away. Later he returned, disguised as a new merchant, and Ali Baba invited him to dinner. Morgiana sensed danger. She danced a beautiful dance, and at her final bow she revealed his disguise — and Ali Baba recognized him at once.", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "A joyful family scene: Ali Baba, his wife, his children, his brother's family, and Morgiana sitting together at a richly set table with bread, dates, fruit, and tea. They smile and toast. Lamps glow warmly above. Morgiana is honored with a beautiful new robe." },
+      "ar": { "text": "كافأ عليّ بابا مرجانة بأن جعلها حرّةً وأهلاً، وزوّجها لابنه. ومنذ ذلك اليوم، لم يعد أحدٌ من اللصوص يأتي. عاش عليّ بابا وعائلته في سلامٍ ومحبّة. وتعلّموا أنّ الذكاء أنفعُ من القوّة، وأنّ الجشع لا يجلب إلّا الخسران.", "voice": "onyx" },
+      "en": { "text": "Ali Baba freed Morgiana and made her family, marrying her to his son. From that day on, no thief ever returned. Ali Baba and his family lived in peace and love. They had learned that cleverness is mightier than force — and that greed brings only loss.", "voice": "fable" }
+    }
+  ]
+}

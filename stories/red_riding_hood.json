@@ -1,0 +1,151 @@
+{
+  "id": "red_riding_hood",
+  "category": "fairy_tale",
+  "source": "Charles Perrault / Brothers Grimm (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, soft pastel forest tones, friendly expressive faces, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful girl in a bright red hooded cape carries a wicker basket of bread and fruit through a sunlit forest path, smiling, with wildflowers around her feet"
+  },
+  "i18n": {
+    "ar": {
+      "title": "ليلى والذئب",
+      "subtitle": "حكاية الرداء الأحمر",
+      "tagline": "فتاة شجاعة، ذئب ماكر، ودرسٌ لا يُنسى"
+    },
+    "en": {
+      "title": "Little Red Riding Hood",
+      "subtitle": "A Classic Forest Tale",
+      "tagline": "A brave girl, a sly wolf, and a lesson never forgotten"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A cozy cottage kitchen with a stone fireplace. A loving mother places fresh bread and a jar of honey into a wicker basket held by her young daughter, who wears a bright red hooded cape. Sunlight streams through small windows."
+      },
+      "ar": {
+        "text": "كانت هناك فتاةٌ صغيرةٌ يحبّها الجميع، خصوصاً جدّتها التي خاطت لها رداءً أحمر جميلاً. لذلك سمّاها الناس «ذات الرداء الأحمر»، أو ليلى. في يومٍ من الأيام، قالت لها أمها: «جدّتك مريضة. خذي هذه السلة فيها خبز ومربى، واذهبي لزيارتها.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "There once was a little girl whom everyone loved, especially her grandmother — who had stitched her a beautiful red hooded cape. So everyone called her Little Red Riding Hood. One day her mother said, \"Grandmother is feeling unwell. Take this basket of bread and jam to her cottage in the woods.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A young girl in a red hooded cape walks along a sunlit forest path lined with wildflowers, butterflies fluttering around her, a wicker basket in her hand. Birds sing in the bright green trees."
+      },
+      "ar": {
+        "text": "حذّرتها أمها قائلة: «امشي في الطريق ولا تتأخّري ولا تتحدّثي مع الغرباء.» وعدتها ليلى، ثم خرجت تسير في الغابة. كانت الزهور جميلة والطيور تغرّد، وكانت ليلى سعيدة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "\"Stay on the path,\" her mother warned, \"don't dawdle, and don't speak to strangers.\" Red Riding Hood promised, then set off through the forest. Flowers nodded, birds sang, and she felt very happy.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A friendly-looking but sly wolf with a bushy gray coat stands politely on a forest path, tilting his head and smiling at a small girl in a red cape. Dappled sunlight filters through the trees. The wolf looks curious, not scary."
+      },
+      "ar": {
+        "text": "وفجأةً، خرج من بين الأشجار ذئبٌ كبير. ابتسم ابتسامةً ودودة وقال: «صباح الخير يا صغيرتي! إلى أين أنتِ ذاهبة؟» نسيت ليلى وصية أمها، وأجابته: «أحمل سلة طعام لجدتي المريضة، وهي تسكن في البيت الصغير خلف الغابة.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Suddenly, a large wolf stepped from the trees. He smiled politely and said, \"Good morning, little one! Where are you going?\" Forgetting her mother's warning, Red Riding Hood answered, \"I'm bringing a basket of food to my grandmother, who lives in the little cottage beyond the woods.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The wolf gestures with a paw toward a meadow of bright wildflowers, while the girl in red bends to pick a blossom, distracted. The wolf is already slipping away down the path behind her, unseen."
+      },
+      "ar": {
+        "text": "قال الذئب وهو يفكّر بمكر: «ما أجمل هذه الزهور! لمَ لا تقطفي منها باقةً لجدّتك؟» نظرت ليلى وقالت: «فكرة رائعة!» وانشغلت بقطف الزهور. أما الذئب، فقد ركض مسرعاً نحو بيت الجدّة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The wolf thought slyly, then said, \"What lovely flowers! Why not pick a bouquet for your grandmother?\" \"What a wonderful idea!\" said Red, and she stopped to gather blossoms. Meanwhile, the wolf raced ahead to grandmother's cottage.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A small cottage in the woods with a wooden door. The wolf stands on the porch on his hind legs, knocking politely. Light glows softly from the window. The scene is cozy, not threatening."
+      },
+      "ar": {
+        "text": "وصل الذئب إلى البيت الصغير. طرق الباب بلطف. سألت الجدّة: «من بالباب؟» قلّد الذئب صوت ليلى: «أنا حفيدتك، جئت لزيارتك!» قالت الجدّة: «الباب مفتوح يا حبيبتي، ادخلي.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The wolf reached the cottage and knocked gently. \"Who's there?\" called grandmother. The wolf made his voice soft and high, \"It's me, your granddaughter, come to visit!\" \"The door is open, darling,\" replied grandmother. \"Come in.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Interior of grandmother's bedroom. The wolf, wearing grandmother's white nightcap and floral nightgown, sits up in a cozy bed under a patchwork quilt, paws folded. The room is gently lit by a bedside lamp. Comically dressed, not frightening."
+      },
+      "ar": {
+        "text": "دخل الذئب البيت بسرعة، ثم لبس قميص نوم الجدّة وقبّعتها، واختبأ في السرير تحت اللحاف. أما الجدّة، فاختبأت بسرعة في الخزانة من شدّة الخوف، وأغلقتها بإحكام.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The wolf hurried in, then quickly slipped on grandmother's nightgown and lacy cap, and tucked himself under the quilt. As for grandmother, she dashed into her wardrobe and shut the door tight, hiding herself away.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Red Riding Hood, holding her basket and a small bunch of wildflowers, stands beside grandmother's bed, leaning forward with a puzzled expression. The wolf in the nightcap peeks at her with very wide, comical eyes."
+      },
+      "ar": {
+        "text": "وصلت ليلى ودخلت إلى غرفة الجدة. اقتربت من السرير، وقالت بحيرة: «يا جدّتي، ما أكبر عينيكِ!» قال الذئب: «حتى أراكِ جيداً يا صغيرتي.» «وما أكبر أذنيكِ!» «حتى أسمعكِ جيداً.» «وما أكبر أسنانكِ!» «حتى... آكلكِ!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Red Riding Hood arrived and walked to grandmother's bed. \"Grandmother,\" she said, puzzled, \"what big eyes you have!\" \"All the better to see you, dear,\" said the wolf. \"And what big ears you have!\" \"All the better to hear you.\" \"And what big teeth you have!\" \"All the better to — gobble you up!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A kind, sturdy woodcutter with a friendly beard bursts through the cottage door, carrying an axe over his shoulder. Sunlight streams in behind him. The wolf shrinks back in surprise. The scene feels triumphant and safe, not violent."
+      },
+      "ar": {
+        "text": "صرخت ليلى بأعلى صوتها! سمعها حطّابٌ شجاع كان يقطع الخشب قريباً. ركض إلى البيت وفتح الباب بقوة، فهرب الذئب من النافذة، ولم يعد يُرى أبداً!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Red screamed with all her might! A brave woodcutter, chopping nearby, heard her cry and ran to the cottage. He flung open the door — and the wolf, terrified, leapt out the window and was never seen again!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The grandmother, in her nightgown, emerges from the wardrobe and hugs Red Riding Hood tightly. The woodcutter smiles in the doorway. The basket of bread and flowers sits on the bedside table. Warm afternoon light fills the room."
+      },
+      "ar": {
+        "text": "خرجت الجدّة من الخزانة وعانقت ليلى بشدّة. شكرت الحطّاب الشجاع، ثم جلس الجميع يأكلون من سلّة ليلى. ومن ذلك اليوم، تعلّمت ليلى أن تستمع لأمّها، وألّا تتحدّث مع الغرباء أبداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Grandmother climbed out of the wardrobe and hugged Red Riding Hood tightly. They thanked the brave woodcutter, then sat down together to share the bread and jam from the basket. From that day on, Red Riding Hood always listened to her mother — and never, ever spoke to strangers in the woods again.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

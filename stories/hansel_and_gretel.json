@@ -1,0 +1,137 @@
+{
+  "id": "hansel_and_gretel",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "warm watercolor children's book illustration, dappled forest light, cozy storybook style, expressive friendly faces, gingerbread cottage motifs, witch shown as comical rather than scary, no text in image, no watermark",
+  "cover": {
+    "prompt": "A brother and sister, about 7 and 9, hold hands in a sunlit forest clearing, staring in wonder at a cottage made of gingerbread, candy windows, and frosted icing roof. Friendly birds flutter around them."
+  },
+  "i18n": {
+    "ar": { "title": "هانسل وجريتل", "subtitle": "حكاية الأخوين والبيت الحلوى", "tagline": "أخوان شجاعان، بيت من حلوى، ومغامرة في الغابة" },
+    "en": { "title": "Hansel and Gretel", "subtitle": "The Tale of the Candy Cottage", "tagline": "Two brave siblings, a candy cottage, and a forest adventure" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A small wooden cottage on the edge of a dense forest at dusk. A poor woodcutter father sits at a bare table with his two children — a curly-haired boy and a younger sister with braids — and a tired stepmother. The cupboard behind them is empty." },
+      "ar": { "text": "في طرف غابةٍ كبيرة، عاش حطّابٌ فقير مع زوجته وطفليه: هانسل وأخته الصغيرة جريتل. كانوا يحبّون بعضهم بعضاً، لكن جاء عامٌ صعب، ولم يبقَ في البيت طعامٌ تقريباً.", "voice": "shimmer" },
+      "en": { "text": "At the edge of a great forest, a poor woodcutter lived with his wife and his two children, Hansel and his younger sister Gretel. They loved each other dearly, but a hard year had come, and there was almost no food left in the house.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Two children pretend to sleep on a small straw bed, listening worriedly. Their parents whisper at the table by candlelight in the next room. Moonlight comes through cracks in shutters." },
+      "ar": { "text": "في الليل، سمع هانسل أبوه وزوجته يتحدّثان بحزن: «ليس لدينا ما يكفي. غداً، سنضيع الأطفال في الغابة، لعلّ شخصاً طيّباً يجدهما.» بكى هانسل بهدوء، ثم فكّر بسرعة.", "voice": "shimmer" },
+      "en": { "text": "That night, Hansel overheard his father and stepmother talking sadly: \"There is not enough. Tomorrow we must lose the children in the forest, in hope that some kind soul will find them.\" Hansel cried quietly, then began to think fast.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A determined small boy in a nightshirt sneaks outside at moonrise, picking up shiny white pebbles from a stream and filling his pockets. Silver moonlight reflects off the pebbles." },
+      "ar": { "text": "تسلّل هانسل من البيت في الليل. ذهب إلى ساقية صغيرة، حيث كانت حصواتٌ بيضاءُ تلمع كالنجوم تحت ضوء القمر. ملأ جيوبه منها وعاد إلى السرير. همس لأخته: «لا تخافي، عندي خطة!»", "voice": "shimmer" },
+      "en": { "text": "Hansel slipped out of the house in the night. He went to a little brook where white pebbles shone like stars in the moonlight. He filled his pockets and crept back to bed. He whispered to his sister, \"Do not be afraid — I have a plan!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Two children walk behind their father along a winding forest path. The boy quietly drops a small white pebble every few steps. Tall trees and ferns surround them. Sunbeams break through the canopy." },
+      "ar": { "text": "في الصباح، أخذهما الأب إلى الغابة. كان هانسل يلتفت كل قليل، يسقط حصاةً بيضاء على الأرض، ليجعل لنفسه طريقاً سيعود به. لم يلاحظ أبوهما ولا زوجته شيئاً.", "voice": "shimmer" },
+      "en": { "text": "In the morning, the father led them into the forest. Hansel kept turning back, dropping a single white pebble every few paces, marking a trail he could follow home. Neither his father nor his stepmother noticed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Two children sit together at the foot of a great oak tree, eating a small piece of bread between them, looking tired. Twilight settles. White pebbles trail off behind them, glinting in the dimming light." },
+      "ar": { "text": "ضاع الأب والأم — أو بالأحرى تركاهما عمداً. حلّ الليل. خاف الأطفال، لكن هانسل قال: «اتبعي ضوء القمر يا جريتل، نتبع حصواتي البيضاء.» وفعلاً، أرشدتهم الحصوات حتى البيت!", "voice": "shimmer" },
+      "en": { "text": "Their father and stepmother left them — though Hansel knew it was on purpose. Night fell. Gretel was frightened, but Hansel said, \"Follow the moonlight, sister. We will follow my pebbles home.\" And the pebbles led them all the way back!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Inside the small cottage at night. The father hugs the two children with tears in his eyes, holding them close. The stepmother stands behind, arms crossed, frowning. A single candle burns on the table." },
+      "ar": { "text": "احتضنهما الأب بفرح عند الباب. كان قد ندم بشدّة. لكن زوجة الأب كانت ما زالت غاضبة. وبعد أيامٍ، حين قلّ الطعام أكثر، أصرّت أن يأخذهما إلى الغابة مرّةً أخرى، وهذه المرّة أبعد.", "voice": "shimmer" },
+      "en": { "text": "Their father hugged them at the door with tears of joy. He had deeply regretted what he had done. But the stepmother was still angry. Days later, when the food was even scarcer, she insisted he take them into the forest once more — and farther this time.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Two children walking deeper into the forest. The boy drops tiny breadcrumbs from a small bread loaf along the path. Behind them, small birds — finches and sparrows — descend immediately to peck the crumbs, leaving the trail empty." },
+      "ar": { "text": "هذه المرّة قفل الأب الباب بليلٍ، فلم يستطع هانسل جمع الحصوات. لكنه أخذ كسرةً من الخبز معه، وبدأ يفتّتها في الغابة كأنه يبني طريقاً. لكنه لم يلاحظ أن الطيور كانت تأكل الفتات بمجرد سقوطه!", "voice": "shimmer" },
+      "en": { "text": "This time, the father had locked the door at night, so Hansel could not gather pebbles. But he took a crust of bread with him, and dropped tiny crumbs along the way, hoping to make a trail. He did not notice that the forest birds were pecking up every crumb the moment it fell!", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Two children walk deeper into a now twilight-darkening forest, looking back at an empty path. Their faces show worry but not panic. A protective owl perches in a tree above them, watching with kind eyes." },
+      "ar": { "text": "جاء المساء. أراد هانسل أن يعود بأخته، فالتفت ليبحث عن فتات الخبز، لكنه لم يجد شيئاً! نظر إلى جريتل قائلاً بثبات: «لا تخافي. سنجد طريقاً.» نام الطفلان تحت شجرةٍ كبيرة، يتدفّآن ببعضهما.", "voice": "shimmer" },
+      "en": { "text": "Evening came. Hansel turned to lead his sister back, but the trail was gone — every crumb eaten! He looked at Gretel calmly and said, \"Do not worry. We will find a way.\" They slept under a great tree, keeping each other warm.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A small white bird with a glowing edge flies just above the children, leading them gently through a sunlit morning forest. Both children look up in wonder, taking small hopeful steps after it." },
+      "ar": { "text": "في الصباح، رأيا طيراً أبيض جميلاً، كأن له بريقاً سحرياً. حلّق فوقهما كأنه يقول: «اتبعاني!» تبعاه بحذر بين الأشجار، وفي قلبيهما أمل صغير.", "voice": "shimmer" },
+      "en": { "text": "In the morning, they saw a beautiful white bird with a soft glow around its feathers. It flew above them as if to say, \"Follow me!\" They hurried after it through the trees, with a small hope warming their hearts.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The children stop, mouths open in delight, in front of a magnificent gingerbread cottage with candy-cane fence, frosted icing roof, peppermint windows, and gumdrop bushes. Bright morning light makes everything sparkle." },
+      "ar": { "text": "قادهم الطير إلى منظرٍ لم يصدّقاه! بيتٌ مصنوع كله من الحلوى! الجدران من الكعك، السقف من الكريمة، النوافذ من السكر الشفاف! ابتسمت جريتل: «أبيت من خبز الزنجبيل؟ هذا حلم!»", "voice": "shimmer" },
+      "en": { "text": "The bird led them to a sight they could scarcely believe — a whole cottage made of sweets! The walls were cookies, the roof was frosted icing, the windows were clear sugar! Gretel grinned, \"A house of gingerbread? It must be a dream!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Hansel breaks a small piece of cookie roof while Gretel nibbles a peppermint window-pane. Both are smiling and giggling. A door creaks open slowly behind them. The scene is bright and happy, not threatening." },
+      "ar": { "text": "كانا جوعانَين جداً، فأكلا قليلاً من جدار الكعك ونافذة السكر. ثم سمعا صوتاً حلواً من الداخل: «من يأكل بيتي؟» فُتح الباب، وخرجت عجوزٌ صغيرة مع نظّارة كبيرة، مبتسمة.", "voice": "shimmer" },
+      "en": { "text": "They were so hungry, they nibbled a corner of the cookie wall and a sugar window-pane. Then a sweet voice came from inside, \"Who is nibbling my house?\" The door creaked open, and out stepped a tiny old woman with large spectacles, smiling warmly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The kindly-seeming old woman with thick glasses and apron leads Hansel and Gretel inside a warm cozy cottage. A long table is set with pancakes, apples, milk, and cheese. The children's eyes are wide with delight. The fireplace glows." },
+      "ar": { "text": "قالت بلطف: «يا أطفالي المساكين، تعالا! لديّ طعامٌ كثير لكما.» أدخلتهما البيت، وقدّمت لهما الفطائر والتفّاح والحليب. أكل الأخوان حتى شبعا. لكن هانسل لاحظ أن العجوز تنظر إليه نظرةً غريبة.", "voice": "shimmer" },
+      "en": { "text": "She said sweetly, \"Poor little ones — come in! I have plenty for you to eat.\" She led them inside and set out pancakes, apples, and milk. The two ate until they were full. But Hansel noticed that the old woman looked at him in a very strange way.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The 'old woman' is revealed as a comically cartoonish witch with a tall pointed hat, locking Hansel inside a small wooden pen with a key, while a worried Gretel watches. A black cat sits nearby. The witch's expression is bossy, not terrifying." },
+      "ar": { "text": "في الصباح، تكشّفت الحقيقة! كانت ساحرةً مكّارة تحبّ أن تخدع الأطفال بالحلوى. وضعت هانسل في قفصٍ خشبي صغير، وأمرت جريتل أن تطبخ وتنظّف وتطعم أخاها كل يوم لتسمّنه. خافت جريتل وبكت، لكنها لم تستسلم.", "voice": "shimmer" },
+      "en": { "text": "In the morning, the truth came out! She was a sly witch who lured children with sweets. She locked Hansel in a small wooden pen and ordered Gretel to cook and clean and feed her brother every day, to fatten him up. Gretel was afraid and cried — but she did not give up.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Hansel holds a small chicken bone through a wooden pen's bars, showing it to the squinting witch with thick glasses. The witch frowns, confused. A bowl of food sits inside the pen. Gretel watches from behind a table, hiding a small smile." },
+      "ar": { "text": "كانت الساحرة ضعيفة البصر. كلّ يوم تطلب أن يمدّ هانسل إصبعه لتحسّ إن سمن. كان هانسل ذكياً: يخرج لها عظمة دجاجة بدل إصبعه! تلمسها وتقول بإحباط: «ما زال نحيفاً!»", "voice": "shimmer" },
+      "en": { "text": "The witch could barely see. Every day she asked Hansel to stick out his finger so she could feel if he had grown plump. Clever Hansel poked out a thin chicken bone instead! She felt it and grumbled, \"Still so skinny!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The witch in apron leans toward an enormous brick oven with a roaring fire inside. Gretel stands behind her, looking determined. Her eyes are focused. Hansel watches from his pen, holding his breath. The kitchen is bright and warm." },
+      "ar": { "text": "بعد أسابيع، فقدت الساحرة صبرها. قالت: «سأطبخهما اليوم!» أوقدت الفرن الكبير وقالت لجريتل: «انظري بداخله، هل النار قوية؟» لكنّ جريتل كانت قد فكّرت في خطة.", "voice": "shimmer" },
+      "en": { "text": "After weeks, the witch lost her patience. \"Today I shall cook them both!\" she snapped. She lit the great oven and said to Gretel, \"Look inside — is the fire hot enough?\" But Gretel had already thought of a plan.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Brave Gretel pretends she can't see and looks puzzled at the oven. The witch leans in to demonstrate. Gretel braces, ready to act. Light flickers from the oven onto both their faces. The action is suggested, never violent." },
+      "ar": { "text": "قالت جريتل بذكاء: «أنا صغيرة، لا أرى جيداً. أريني كيف.» مالت الساحرة بعنقها إلى الفرن. لمحت جريتل الفرصة، ودفعتها بسرعة إلى الداخل ثم أغلقت الباب بقوة! انتهت الساحرة، وانتهى خطرها.", "voice": "shimmer" },
+      "en": { "text": "Cleverly Gretel said, \"I am small — I cannot see. Show me how.\" The witch leaned her head into the oven. In a flash, Gretel gave her a firm push inside and slammed the door tight! The witch was gone, and her wickedness with her.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Gretel uses a key to unlock Hansel's small wooden pen. He rushes out, hugging her. Both children weep with joy and laugh at the same time. The black cat purrs around their feet. Sunlight pours through the cottage windows." },
+      "ar": { "text": "ركضت جريتل إلى أخيها وفتحت قفصه. عانقا بعضهما وبكيا من الفرح! قال هانسل: «أنتِ بطلتي، يا أختي!» ثم اكتشفا في بيت الساحرة كنزاً: صناديق ملأى بالجواهر والذهب!", "voice": "shimmer" },
+      "en": { "text": "Gretel ran to her brother and unlocked the pen. They hugged and wept and laughed all at once! \"You are my hero, sister!\" Hansel said. Then, in the witch's home, they found chests full of jewels and gold!", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "Hansel and Gretel walk along a forest path home, pockets full of gold coins glinting. A friendly white duck swims along a stream beside them, ready to ferry them across. Sunlight breaks through canopy in soft beams." },
+      "ar": { "text": "ملآ جيوبهما بالكنوز، وانطلقا يبحثان عن الطريق. وصلا إلى نهرٍ كبير. ساعدتهما بطّة بيضاء لطيفة على العبور، تحمل كلاً منهما على ظهرها. تذكّرا أبوهما، وزاد شوقهما للعودة.", "voice": "shimmer" },
+      "en": { "text": "They filled their pockets with treasures and set off to find the way. They came to a wide stream. A friendly white duck carried them across, one at a time, on her soft back. They thought of their father and longed to be home.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "The father runs from his cottage door, arms open, as Hansel and Gretel rush toward him along a forest path. All three embrace. Behind, the stepmother is gone. Sunset paints the sky pink and gold." },
+      "ar": { "text": "وصلا إلى البيت. ركض الأب نحوهما وعانقهما طويلاً. قال بدموعٍ: «لقد ندمتُ ندماً شديداً، يا أولادي. لن أتركَكما أبداً مرّةً أخرى.» أمّا زوجته القاسية، فقد رحلت من زمن. أراهما هانسل وجريتل الكنز.", "voice": "shimmer" },
+      "en": { "text": "They reached their home. Their father ran out and held them both for a long time. He said with tears, \"I am so very sorry, my children. I shall never leave you again.\" The unkind stepmother was no longer there. Then Hansel and Gretel showed him the treasure.", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "A cozy, well-fed family — father, Hansel, Gretel — sitting around a happy table with bread, fruit, vegetables and a stew. The cottage is bright and filled with flowers. A small white bird sits on the windowsill, looking content." },
+      "ar": { "text": "لم يعد للجوع مكان في بيتهم بعد ذلك. عاش الأب وأولاده في سلامٍ ومحبّة، يأكلون من الخير ويعتنون ببعضهم. وكان هانسل وجريتل يقولان دائماً: «لا شيء أقوى من إخوةٍ يثقون ببعضهم.»", "voice": "shimmer" },
+      "en": { "text": "Hunger never visited their cottage again. The father and his children lived in peace and love, sharing every meal and looking after one another. And Hansel and Gretel always said, \"Nothing is stronger than brother and sister who trust each other.\"", "voice": "fable" }
+    }
+  ]
+}

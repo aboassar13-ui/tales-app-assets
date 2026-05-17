@@ -1,0 +1,137 @@
+{
+  "id": "rapunzel",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, soft fairy-tale palette of gold and green, expressive gentle faces, tall stone tower in a forest, long golden braided hair, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tall round stone tower in a sunlit forest clearing. A long golden braid of hair flows out of a high window. A kind young woman with bright eyes peeks out, smiling gently. Vines and flowers climb the tower walls."
+  },
+  "i18n": {
+    "ar": { "title": "ربانزل", "subtitle": "حكاية من حكايات الإخوة جريم", "tagline": "برجٌ عالٍ، شعرٌ ذهبيّ، وحرّيةٌ مكتسبة" },
+    "en": { "title": "Rapunzel", "subtitle": "A Tale from the Brothers Grimm", "tagline": "A tall tower, golden hair, and a hard-won freedom" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A modest cottage beside a tall stone garden wall. A young couple — the wife pregnant — looks longingly over the wall at a lush enchanted garden full of greens, herbs, and especially soft purple lettuce. A high tower is visible inside the garden behind tall hedges." },
+      "ar": { "text": "في قريةٍ بعيدة، عاش زوجان طيّبان كانا ينتظران طفلهما الأول. بجوار بيتهما كان هناك بستانٌ كبير محاط بسورٍ عالٍ، ينمو فيه نباتٌ لذيذ اسمه «الرابونزل». اشتهت الزوجة هذا النبات اشتهاءً شديداً.", "voice": "shimmer" },
+      "en": { "text": "In a faraway village, a kind young couple awaited their first child. Next to their home was a great garden surrounded by a tall wall, where a delicious herb called rapunzel grew. The wife developed a deep craving for this herb.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The husband climbs the garden wall at night by moonlight, looking nervous. He has a small basket. The moon is full and clouds drift past. The forbidden garden glows mysteriously below." },
+      "ar": { "text": "ولأنّ الزوجة كانت ضعيفة، خاف الزوج عليها. تسلّق الجدار ليلاً، وقطف القليل من الرابونزل وعاد به. كانت تلك الحديقة لساحرةٍ غريبة، لكنّ الزوج ظنّ أنّها لن تلاحظ غياب القليل.", "voice": "shimmer" },
+      "en": { "text": "Because his wife was weak, the husband worried for her. He climbed the wall at night, gathered a little rapunzel, and brought it home. The garden belonged to a strange enchantress, but the husband thought she wouldn't notice such a small amount missing.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The enchantress, a tall and serious-looking woman in deep purple robes (not visually frightening but stern), confronts the husband in the moonlit garden. He looks alarmed. She has dark hair piled high and holds a wooden staff. The atmosphere is dramatic but not menacing." },
+      "ar": { "text": "في الليلة الثانية، رجع الزوج للحديقة. لكنّ الساحرة كانت تنتظره! قالت بصوتٍ صارم: «من أنت لتسرق من حديقتي؟» ارتجف الزوج وأخبرها عن زوجته. فكّرت الساحرة قليلاً ثم قالت: «خذ ما تريد. لكن عند ولادة طفلكما، يجب أن تعطياني الطفل لأربّيه أنا.» خاف الزوج لكنّه وافق.", "voice": "shimmer" },
+      "en": { "text": "The second night, the husband returned. But the enchantress was waiting! \"Who are you to steal from my garden?\" she said sternly. Trembling, he explained about his wife. The enchantress thought a moment. \"Take what you need. But when your child is born, you must give the baby to me to raise.\" Frightened, the husband agreed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A tender bedroom scene. The young mother gently holds her newborn baby girl with golden hair, tears in her eyes. The husband stands nearby, hand on his wife's shoulder, sad. The enchantress is at the door, arms held out gently." },
+      "ar": { "text": "وُلِدت طفلةٌ جميلة بشعرٍ ذهبيّ كالشمس. سمّتها الأم «رابونزل». لكنّ الساحرة جاءت كما اتّفقت مع الزوج. حملت رابونزل وأخذتها معها. بكى الأبوان كثيراً، لكنّ الساحرة كانت تحبّ الطفلة حقّاً، رغم غرابتها.", "voice": "shimmer" },
+      "en": { "text": "A lovely baby girl was born with hair as golden as the sun. Her mother named her Rapunzel. But the enchantress came, as the husband had promised. She took the baby in her arms and carried her away. The parents wept, but the enchantress truly loved the child in her strange way.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A tall stone tower stands alone in a dense forest clearing — no door visible at the bottom, only a single high window. A teenage girl with extremely long golden braided hair appears at the window, brushing her hair and singing." },
+      "ar": { "text": "كبرت رابونزل، وأصبحت في الثانية عشرة من عمرها. كانت ذكيّةً ولطيفة، وكان شعرها الذهبيّ طويلاً جداً، يصل إلى الأرض! أخذتها الساحرة إلى برجٍ عالٍ في الغابة، ليس له بابٌ — فقط نافذة صغيرة في الأعلى. هكذا حبستها.", "voice": "shimmer" },
+      "en": { "text": "Rapunzel grew, and by the age of twelve she was clever and kind. Her golden hair had become very, very long — long enough to touch the ground! The enchantress brought her to a tall tower in the forest, a tower with no door — only one small window high above. There she kept her.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The enchantress stands at the foot of the tower. Rapunzel's long golden braid drops down from the high window. The enchantress grips the braid and begins to climb up. Forest sounds are suggested with birds and rustling leaves." },
+      "ar": { "text": "كلّ يوم، كانت الساحرة تأتي وتقف تحت البرج وتنادي: «رابونزل! رابونزل! انزلي شعركِ!» فتسحب رابونزل ضفيرتها الذهبيّة من النافذة، فتتسلّق الساحرة عليها. كانت تجلب لها الطعام والكتب، وتعلّمها القراءة والغناء.", "voice": "shimmer" },
+      "en": { "text": "Each day, the enchantress would come and stand below the tower and call, \"Rapunzel! Rapunzel! Let down your hair!\" Rapunzel would lower her golden braid from the window, and the enchantress would climb up. She brought her food and books, and taught her to read and sing.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Rapunzel at her tower window, gazing wistfully at birds in flight. She holds a small handful of seeds for them. Her expression is gentle but longing, dreaming of the world beyond." },
+      "ar": { "text": "عاشت رابونزل في البرج لسنوات. كانت تتحدّث إلى الطيور، وتغنّي أغانيها الجميلة من النافذة. تمنّت لو أنّها تستطيع الخروج، رؤية النهر والأشجار والحيوانات. لكنّ صوتها كان جميلاً جداً، وكان يصل إلى أبعد الأماكن في الغابة.", "voice": "shimmer" },
+      "en": { "text": "Rapunzel lived in the tower for years. She talked to the birds, and sang lovely songs from her window. She longed to step outside — to see the river, the trees, the animals. But her voice was so beautiful, it traveled far and wide through the forest.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A young prince on a brown horse stops in the forest, head tilted to listen to a beautiful song coming from somewhere unseen. His face shows wonder and curiosity. Sunbeams filter through tall trees." },
+      "ar": { "text": "في يومٍ من الأيام، مرّ في الغابة أميرٌ شاب على حصانه. سمع صوتاً جميلاً يغنّي بين الأشجار. توقّف لحظة، يتساءل: «من يغنّي هكذا؟» تتبّع الصوت بصمت، حتى وصل إلى البرج العالي.", "voice": "shimmer" },
+      "en": { "text": "One day, a young prince was riding through the forest. He heard a beautiful voice singing among the trees. He stopped, wondering, \"Who sings so wonderfully?\" He followed the sound quietly, until at last he came to the tall tower.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The prince hides behind a tree, watching from a safe distance as the enchantress calls up to the tower and Rapunzel's golden braid descends. The enchantress begins to climb. The prince's eyes widen in amazement." },
+      "ar": { "text": "اختبأ الأمير خلف شجرة. رأى الساحرة تقف تحت البرج وتنادي: «رابونزل! رابونزل! انزلي شعركِ!» نظر بعيون مذهولة وهي تتسلّق الضفيرة الذهبيّة. عندما رحلت الساحرة، فكّر الأمير: «سأجرّب أنا أيضاً!»", "voice": "shimmer" },
+      "en": { "text": "The prince hid behind a tree. He saw the enchantress stand below the tower and call, \"Rapunzel! Rapunzel! Let down your hair!\" He watched in amazement as she climbed up the golden braid. When she had left, the prince thought, \"I shall try it too!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Rapunzel's window. She looks down with surprise at a young prince climbing up her braid. She's astonished, gentle face wide with wonder. He smiles up at her warmly." },
+      "ar": { "text": "نادى الأمير: «رابونزل! رابونزل! انزلي شعركِ!» ظنّت رابونزل أنّ الساحرة عادت، فأنزلت ضفيرتها. تسلّق الأمير. عندما رأت وجهاً جديداً، خافت قليلاً، لكنّ ابتسامته كانت لطيفة. قال: «اعذريني، لكنّ صوتكِ أحضرني. أنا أمير، ولن أؤذيكِ.»", "voice": "shimmer" },
+      "en": { "text": "The prince called out, \"Rapunzel! Rapunzel! Let down your hair!\" Thinking it was the enchantress returning, Rapunzel lowered her braid. The prince climbed up. When she saw a new face, she gasped — but his smile was kind. He said, \"Forgive me, but your voice drew me here. I am a prince, and I shall not harm you.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The prince and Rapunzel sit on the floor of the tower room, talking warmly. Rapunzel is curious and animated; the prince is gentle and attentive. Books, flowers, and a small bird in a cage decorate the room. Sunlight streams through the window." },
+      "ar": { "text": "تحدّثا طويلاً. روت رابونزل قصّتها، وروى لها الأمير عن العالم خارج الغابة. زاره الأمير كلّ يوم بعد ذهاب الساحرة، وأصبحا صديقَين، ثم أحبّ كلٌّ منهما الآخر. قال الأمير: «سأخرجكِ من البرج. أحضري معكِ كلّ يوم خيطاً من الحرير الجميل، وسنصنع سلّماً.»", "voice": "shimmer" },
+      "en": { "text": "They talked for a long while. Rapunzel told her story, and the prince told her of the world beyond the forest. He visited every day after the enchantress had left, and they grew to be dear friends — and then they came to love each other. \"I will help you leave this tower,\" said the prince. \"Bring up a strand of silk each day, and together we'll make a rope ladder.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Rapunzel innocently slips and tells the enchantress that 'the visitor climbs lighter than you'. The enchantress's eyes widen with shock and growing anger. Her grip tightens on a small basket. The atmosphere is tense." },
+      "ar": { "text": "كانت رابونزل بسيطةً جدّاً ولا تعرف الكذب. ذات يوم، قالت للساحرة دون قصد: «يا عمّتي، لمَ تتسلّقين بثقل، أمّا الأمير الشاب فيتسلّق بسرعةٍ خفيفة؟» سمعت الساحرة، وصمتت غاضبة! «هل خدعتني، يا رابونزل؟»", "voice": "shimmer" },
+      "en": { "text": "Rapunzel was very innocent and did not know how to lie. One day she said to the enchantress without thinking, \"Auntie, why is it so heavy when you climb up — while the young prince climbs ever so lightly?\" The enchantress fell silent in fury. \"Have you deceived me, Rapunzel?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The enchantress, with a sharp scissors, cuts off Rapunzel's long golden braid in a single dramatic moment. Rapunzel covers her face, sad rather than terrified. The cut hair lies on the floor. The scene is more sorrowful than violent." },
+      "ar": { "text": "أمسكت الساحرة شعر رابونزل وقصّته بمقصّ! بكت رابونزل وهي تنظر إلى شعرها الذهبيّ الطويل ملقًى على الأرض. ثم أخذتها الساحرة وأخفتها في صحراءٍ بعيدة. عادت الساحرة إلى البرج، وانتظرت الأمير بضفيرة الشعر المقصوصة.", "voice": "shimmer" },
+      "en": { "text": "The enchantress took Rapunzel's hair and snipped it off with sharp scissors! Rapunzel wept as she looked at her long golden braid lying on the floor. The enchantress then carried her far away to a quiet desert place. Then she returned to the tower, waiting for the prince — with the cut braid in her hand.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The prince, unaware of the trick, climbs up the cut braid hanging from the window. The enchantress lurks above, holding the end of the braid attached to a hook. Her face is stern but sad. The prince looks puzzled as he climbs higher." },
+      "ar": { "text": "جاء الأمير في المساء، ونادى: «رابونزل! انزلي شعركِ!» أنزلت الساحرة الضفيرة المقصوصة، وعلّقتها بخطاف. تسلّق الأمير. وعند الأعلى، رأى الساحرة لا حبيبته! صدمت قلبه. قالت بقسوة: «لقد سرقتها منّي، ولن تراها بعد اليوم!»", "voice": "shimmer" },
+      "en": { "text": "The prince came that evening and called, \"Rapunzel! Let down your hair!\" The enchantress lowered the cut braid, fastened to a hook. The prince climbed up. At the top, he saw not his beloved but the enchantress! His heart sank. She said harshly, \"You have stolen her from me, and you shall never see her again!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The prince jumps from the high tower window, falling toward thorny rose bushes below. His expression is sorrowful and resigned. The fall is suggested by motion — the moment of jumping shown safely." },
+      "ar": { "text": "حزن الأمير حزناً عميقاً. قفز من النافذة في يأسه، فسقط على شوكٍ كثيف. لم يتأذَّ كثيراً، لكنّ الأشواك جرحت عينيه، فأصبح لا يرى. تجوّل أعمى في الغابات، ولم يفقد الأمل أبداً. كان يبحث عن رابونزل لسنوات.", "voice": "shimmer" },
+      "en": { "text": "The prince's heart broke. In his sorrow, he leapt from the window and fell into a thick thorn bush below. He was not badly hurt, but the thorns scratched his eyes, and he could no longer see. He wandered blind through the forests, but never lost hope. He searched for Rapunzel for many years.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Years later, the blind prince walks slowly through a desert area, guided by his ear. He stops, hearing a distant beautiful song. His face brightens with recognition and hope." },
+      "ar": { "text": "بعد سنوات، كان الأمير يمشي في صحراءٍ بعيدة. وفجأةً، سمع صوتاً يغنّي — صوتٌ يعرفه! قلبه يتسارع. اتجه نحو الصوت بحذر، خطوة خطوة. كانت رابونزل تعيش هناك، تربّي طفلَين توأم وُلِدَا لها.", "voice": "shimmer" },
+      "en": { "text": "Years later, the prince was wandering through a distant desert. Suddenly, he heard a voice singing — a voice he knew! His heart raced. He moved toward it step by step. There Rapunzel had been living all this time, raising twin children that had been born to her.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "The reunion: Rapunzel runs to the blind prince and embraces him. Two small children watch with happy curiosity. Rapunzel's tears fall onto the prince's face. Sunlight breaks through clouds, brightening the scene." },
+      "ar": { "text": "صرخت رابونزل من الفرح! ركضت إلى الأمير وعانقته بكلّ قوّتها. سقطت دموعها على وجهه — وكانت دموعها سحرية. لمست عينيه، ففُتحتا فجأة! استعاد بصره! نظر إليها بإعجاب، ورأى طفلَيه أوّل مرّة.", "voice": "shimmer" },
+      "en": { "text": "Rapunzel cried out with joy! She rushed to the prince and held him tight. Her tears fell on his face — and her tears were magical. They touched his eyes, and suddenly they opened! His sight had been restored! He looked at her in wonder, and saw his children for the first time.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "The reunited family — Rapunzel, the prince, and their two children — walk together along a sunny forest path toward a distant castle. Rapunzel's hair has grown back, shorter but still beautiful. They look peaceful and happy." },
+      "ar": { "text": "أخذ الأمير رابانزل وأولادهما إلى مملكته. استقبلهم الناس بفرحٍ كبير. رواهم رابانزل قصّتها لكلّ من سألها، وأصبحت محبوبة. تعلّمت أنّ الحبّ والصبر يكسران أيّ سحر، وأنّ القلب الطيّب لا يهزم.", "voice": "shimmer" },
+      "en": { "text": "The prince brought Rapunzel and the children to his kingdom. The people welcomed them with great joy. Rapunzel told her story to all who asked, and she became dearly loved. She had learned that love and patience break any spell — and that a kind heart cannot be defeated.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "A peaceful scene of Rapunzel teaching the twin children to sing in a sunny castle garden full of flowers. Birds sing too, and a wide variety of plants thrive. The prince looks on with affection." },
+      "ar": { "text": "علّمت رابانزل أطفالها الغناء، كما كانت تفعل وحدها في البرج. زرعت حديقةً مليئةً بالنباتات، فيها الرابانزل التي اشتهتها أمها يوماً. وكان كل من يزورها يقول: «هذه الحديقة أجمل بستان في المملكة!»", "voice": "shimmer" },
+      "en": { "text": "Rapunzel taught her children to sing, just as she had once sung alone in the tower. She planted a garden full of all the herbs she loved — including the rapunzel her mother had craved long ago. Visitors all said, \"This is the loveliest garden in the kingdom!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "Rapunzel stands at a castle garden gate, smiling kindly, welcoming an elderly woman who looks like a humbled version of the enchantress. The enchantress brings a small bouquet of flowers, looking sorry. Rapunzel hugs her warmly." },
+      "ar": { "text": "بعد سنواتٍ، جاءت الساحرة العجوز إلى القصر. لم تكن غاضبة، بل نادمة. اعتذرت لرابانزل. سامحتها رابانزل بكلّ قلبها. قالت: «أنتِ علّمتِني الكثير. لقد كنتِ قاسية، لكنّكِ كنتِ أيضاً معلّمتي.» وعاشوا جميعاً في سلام.", "voice": "shimmer" },
+      "en": { "text": "Years later, the old enchantress came to the castle. She was no longer angry — only sorry. She apologized to Rapunzel. Rapunzel forgave her with her whole heart. \"You taught me much,\" she said. \"You were hard, but you were also my teacher.\" And they all lived in peace together.", "voice": "fable" }
+    }
+  ]
+}

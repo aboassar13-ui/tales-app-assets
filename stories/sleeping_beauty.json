@@ -1,0 +1,137 @@
+{
+  "id": "sleeping_beauty",
+  "category": "fairy_tale",
+  "source": "Charles Perrault / Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, soft pastel pink and lavender palette, expressive gentle faces, fairy-tale castle aesthetic with rose vines and tall towers, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A peaceful princess in a pale rose gown sleeps gently on an ornate canopied bed inside a vine-covered tower; soft moonlight streams in through tall windows and roses bloom on the windowsill"
+  },
+  "i18n": {
+    "ar": { "title": "الأميرة النائمة", "subtitle": "حكاية من حكايات الجنّيات", "tagline": "أميرةٌ، تعويذة، وصبرٌ ينتظره مئة عام" },
+    "en": { "title": "Sleeping Beauty", "subtitle": "A Classic Fairy Tale", "tagline": "A princess, a spell, and the patience of a hundred years" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A grand throne room in a fairy-tale castle. A king and queen, dressed in royal finery, look joyfully at a baby princess in a golden cradle. Sunbeams stream through stained-glass windows in pinks and blues." },
+      "ar": { "text": "في مملكةٍ بعيدة، انتظر الملك والملكة طفلاً طويلاً. وأخيراً، وُلِدت لهما طفلةٌ جميلة. سمّياها «الوردة». ابتهج الملك وقال: «سأقيم حفلاً كبيراً، وأدعو كل الجنّيات الطيّبات ليباركن طفلتي!»", "voice": "shimmer" },
+      "en": { "text": "In a faraway kingdom, the king and queen had longed for a child for many years. At last a beautiful baby girl was born. They named her Rose. The king said joyfully, \"I shall hold a great feast and invite every kind fairy to bless our daughter!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Twelve graceful fairies in pastel gowns of pink, blue, green, yellow, and lavender stand around a golden cradle. Each holds a small wand. They smile warmly at the baby princess. A long royal banquet table is visible behind them." },
+      "ar": { "text": "حضرت اثنتا عشرة جنّيّة. كلّ واحدة منهنّ حملت هديةً سحرية للطفلة: الأولى منحتها الجمال، والثانية اللطف، والثالثة الذكاء، وغيرهنّ منحنها صوتاً جميلاً وحبّاً للعلم. لكن كانت هناك جنّيةٌ ثالثة عشرة لم يدعها الملك!", "voice": "shimmer" },
+      "en": { "text": "Twelve fairies arrived. Each carried a magical gift for the baby: the first gave her beauty, the second kindness, the third wisdom, and so on — a lovely voice, a love of learning. But there was a thirteenth fairy whom the king had forgotten to invite!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The throne room doors burst open. An older fairy in dark purple robes sweeps in, looking offended but not truly evil — more theatrically upset. The good fairies look concerned. The baby still sleeps peacefully in her cradle." },
+      "ar": { "text": "وفجأةً، انفتح باب القاعة بقوة! دخلت الجنّيّة المنسيّة، غاضبةً. قالت بصوتٍ مرتفع: «لقد أهنتموني! لم تدعوني! إذن سأمنح هديةً أيضاً: عندما تبلغ الأميرة الخامسة عشرة من عمرها، ستوخز إصبعها بمغزل، وستنام نوماً عميقاً!»", "voice": "shimmer" },
+      "en": { "text": "Suddenly, the great doors burst open! The forgotten fairy swept in, furious. \"You have insulted me!\" she cried. \"You did not invite me! So I too shall give a gift: when the princess turns fifteen, she shall prick her finger on a spindle and fall into a long, deep sleep!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The twelfth fairy, smaller and gentler-looking than the others, steps forward and waves her tiny wand over the cradle. The dark fairy is already retreating. Soft light comes from the twelfth fairy's wand." },
+      "ar": { "text": "خرجت الجنّيّة الغاضبة بسرعة. لكنّ الجنّيّة الثانية عشرة لم تكن قد منحت هديتها بعد. اقتربت من المهد وقالت: «لا أستطيع أن أرفع التعويذة، لكنّي سألطّفها: لن تموت الأميرة، بل ستنام مئة عام، حتى يوقظها قبلةٌ صادقة.»", "voice": "shimmer" },
+      "en": { "text": "The angry fairy swept away. But the twelfth fairy had not yet given her gift. She approached the cradle and said softly, \"I cannot undo the spell, but I shall soften it: the princess will not perish — she will only sleep one hundred years, until a true and loving kiss wakes her.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Royal servants in the castle carry armfuls of spindles and spinning wheels out to a great bonfire in a stone courtyard. The king and queen look stern but worried. Townspeople watch from windows in surrounding buildings." },
+      "ar": { "text": "خاف الملك على ابنته خوفاً شديداً. أمر بجمع كل المغازل في المملكة وحرقها. لكن الزمن مرّ، والأميرة الصغيرة كبرت في حبّ الجميع. كانت طيّبة وذكيّة وجميلة، كما تنبّأت الجنّيات. لكن أحداً لم يخبرها عن التعويذة.", "voice": "shimmer" },
+      "en": { "text": "The king feared deeply for his daughter. He ordered every spindle in the kingdom collected and burned. But time passed, and the little princess grew loved by all. She was kind, clever, and beautiful, just as the fairies had foretold. Yet no one told her of the spell.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A teenage princess in a simple but lovely dress wanders curiously through dim castle corridors. A spiral staircase leads up to a small tower door. Cobwebs hint at long disuse. She holds a candle and looks excited about exploring." },
+      "ar": { "text": "في عيد ميلادها الخامس عشر، كان الملك والملكة في رحلة. تجوّلت الأميرة في القصر، حتى وصلت إلى برجٍ قديم لم تكن قد دخلته من قبل. صعدت السلّم اللولبيّ بفضول، فوجدت باباً صغيراً. وفتحته بهدوء.", "voice": "shimmer" },
+      "en": { "text": "On her fifteenth birthday, the king and queen were away on a journey. The princess wandered through the castle and came to an old tower she had never entered before. She climbed a winding staircase, full of curiosity, and found a small wooden door. Gently, she pushed it open.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A small dusty attic room with a kindly old woman sitting at a wooden spinning wheel, spinning gold thread. She smiles warmly at the princess who enters with surprise and delight. Afternoon sunlight streams through a small round window." },
+      "ar": { "text": "وجدت داخل الغرفة سيدةً عجوزاً تعمل على عجلةٍ خشبية. كانت العجوز تغزل خيطاً ذهبياً. لم تكن الأميرة قد رأت مغزلاً من قبل في حياتها! اقتربت بفضول وسألت: «ماذا تعملين؟ لم أرَ شيئاً كهذا قطّ.»", "voice": "shimmer" },
+      "en": { "text": "Inside, she found a kind old woman working at a wooden wheel. The old woman was spinning golden thread. The princess had never seen a spindle in her life! She came closer in wonder and asked, \"What are you doing? I've never seen such a thing!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The princess reaches out gently to touch the spindle. A faint sparkle suggests the spell taking effect. Her face shows surprise. The old woman has a worried, knowing expression on her face." },
+      "ar": { "text": "ابتسمت العجوز وقالت: «هذا اسمه مغزل، يا أميرتي. تعالي وجرّبي.» مدّت الأميرة يدها لتلمسه، فوخز طرفه إصبعها. صرخت بهدوء: «آه!» وفجأةً، شعرت بنعاسٍ شديد...", "voice": "shimmer" },
+      "en": { "text": "The old woman smiled. \"This is called a spindle, dear princess. Come, give it a try.\" The princess reached out — and the tip of the spindle pricked her finger. She gave a small \"Ouch!\" — and suddenly, an overwhelming sleepiness washed over her...", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The princess gently slumps back onto a small couch in the attic, eyes closing peacefully. The spindle drops from her hand. A soft magical glow spreads from her through the entire castle, visible through the window — across courtyards and gardens." },
+      "ar": { "text": "نامت الأميرة على الأريكة الصغيرة. وفي تلك اللحظة، انتشر السحر في كل القصر! ناموا كلّهم: الخدم في المطابخ، والحرّاس عند الأبواب، والملك والملكة عند رجوعهما، حتى الكلاب والخيول! ناموا جميعاً.", "voice": "shimmer" },
+      "en": { "text": "The princess sank gently onto a small couch. At that very moment, the magic spread through the entire castle! Everyone fell asleep: the servants in the kitchens, the guards at the doors, even the king and queen who had just returned. Even the dogs and the horses fell asleep too!", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The castle from outside, transformed: a vast wall of dense, thorny rose vines with red blossoms has grown around it. Birds rest on the roses. The castle towers can barely be seen. The scene is beautiful, not menacing." },
+      "ar": { "text": "حول القصر، نمت غابةٌ من أشجار الورد الكثيف. كانت أشواكها قويّة، وأزهارها حمراء وكبيرة. غطّت الأبراج والأسوار. عاش الناس قرب القصر، لكنّهم لم يجرؤوا على الاقتراب. مرّت السنوات. مرّ القرن.", "voice": "shimmer" },
+      "en": { "text": "Around the castle, a thick forest of wild roses began to grow. Their thorns were strong, and their blossoms grew big and red. They covered the towers and walls. People in nearby villages spoke of the sleeping castle, but no one dared approach. The years passed. A whole century went by.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "A century later. A young prince in simple traveling clothes rides through a sunlit meadow on a brown horse. An old shepherd points toward a distant hill where the rose-covered castle is partly visible. The prince looks intrigued and brave." },
+      "ar": { "text": "ذات يوم، مرّ في تلك الأرض أميرٌ شاب، شجاعٌ وطيّب القلب. سمع من رجلٍ عجوزٍ قصّة القصر النائم. قال: «منذ مئة عام، نامت أميرةٌ جميلة فيه. لا أحد استطاع أن يصل إليها بسبب الأشواك.» قرّر الأمير أن يحاول.", "voice": "shimmer" },
+      "en": { "text": "One day, a young prince rode through the land. He was brave and kind-hearted. An old shepherd told him the tale of the sleeping castle. \"A hundred years ago, a beautiful princess fell asleep there. No one has ever passed the thorny roses to reach her.\" The prince decided he would try.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The prince approaches the wall of rose vines. As he steps forward, the thorny branches part themselves like curtains, revealing a clear path through. He looks amazed but continues bravely. The roses bloom even more around him." },
+      "ar": { "text": "اقترب الأمير من جدار الورد. وفجأة، انفرجت الأشجار أمامه كأنها تستقبله! تفرّقت الأشواك، وانفتح طريقٌ أمامه. سار بحذر، ولكن قلبه كان مفعماً بالأمل. كانت قد حانت اللحظة التي يكتمل فيها السحر.", "voice": "shimmer" },
+      "en": { "text": "The prince approached the wall of roses. To his amazement, the thorny branches parted before him like curtains! A clear path opened ahead. He walked carefully but with great hope. The hundred years were just at their end, and the spell was ready to be broken.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Inside the castle courtyard, time seems frozen. A guard in armor sleeps standing up, leaning on his spear. A cook holds a wooden spoon over a frozen pot. Dogs sleep curled up. Dust drifts in sunbeams. The prince walks through quietly, wide-eyed." },
+      "ar": { "text": "دخل الأمير القصر. شاهد منظراً عجيباً! كان الحرّاس نائمين واقفين، والطبّاخ نائماً مع ملعقته في الهواء، والكلاب نائمة قرب الموقد. كل شيء كأنه توقّف في لحظةٍ واحدة. مشى الأمير بهدوء، يبحث عن الأميرة.", "voice": "shimmer" },
+      "en": { "text": "The prince entered the castle. What he saw was astonishing! The guards slept while standing, leaning on their spears. The cook slept with his spoon still in the air. The dogs slept by the hearth. Everything was frozen in a single moment. The prince walked quietly, searching for the princess.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The prince ascends a spiral staircase up to a tower door. Light from above casts soft shafts. He looks both nervous and determined." },
+      "ar": { "text": "بحث في كل القصر، حتى وصل إلى البرج القديم. صعد السلّم اللولبي وفتح الباب الصغير. وهناك، رأى الأميرة نائمة على الأريكة. كانت كما وصفها الناس: جميلة كأنّها مرسومة بألوان الفجر.", "voice": "shimmer" },
+      "en": { "text": "He searched through the whole castle until he came to the old tower. He climbed the winding staircase and opened the small door. There he saw the princess, sleeping on a little couch. She was just as people had described: as beautiful as if painted in the colors of dawn.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The prince kneels gently beside the sleeping princess and takes her hand, smiling kindly. Roses bloom on the windowsill behind them. A soft golden light fills the room. The mood is tender and respectful." },
+      "ar": { "text": "ركع الأمير قربها بلطف، وحملَ يدها برقّة. كان قد عرف بحق من سمعه عنها أنّ قلبها طيب وروحها جميلة. تمنّى لها أن تستيقظ، وقدّم لها قبلةً صادقة على جبينها.", "voice": "shimmer" },
+      "en": { "text": "The prince knelt gently beside her and took her hand softly. From all he had heard of her, he knew her heart was kind and her spirit gentle. He wished for her to wake — and gave her a true and tender kiss on her forehead.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The princess slowly opens her eyes, blinking gently and looking at the kind prince above her with a confused but warm smile. The sun rises through the tower windows, brightening the room. The roses outside open wider in welcome." },
+      "ar": { "text": "وفي اللحظة نفسها، فتحت الأميرة عينيها ببطء. نظرت إلى الأمير وابتسمت ابتسامةً ناعمة. قالت بصوتٍ خفيف: «من أنت؟ ولماذا الجوّ هادئٌ هكذا؟» ابتسم الأمير وأخبرها أنّها نامت مئة عام.", "voice": "shimmer" },
+      "en": { "text": "At that very moment, the princess slowly opened her eyes. She looked at the prince and smiled a soft, gentle smile. \"Who are you?\" she whispered. \"And why is everything so still?\" The prince smiled and told her she had slept for one hundred years.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Throughout the castle, sleepers wake gradually. The cook stirs his pot again, the guards yawn and stretch, the dogs wag their tails. The king and queen, much older but happy, embrace each other. Sunshine pours through every window." },
+      "ar": { "text": "في تلك اللحظة، استيقظ كلّ من في القصر! انتفض الحرّاس، وحرّك الطبّاخ ملعقته، ولعقت الكلاب وجوهها. عانق الملك زوجته وقال: «هل نمتُ طويلاً؟» ثم تذكّر ابنته، فركض ليجدها. وكانت سعيدةً جداً برؤيتهما.", "voice": "shimmer" },
+      "en": { "text": "At that moment, everyone in the castle awoke! The guards startled, the cook stirred his pot, the dogs licked their paws. The king embraced the queen and said, \"Did I sleep too long?\" Then he remembered his daughter and ran to find her. She was overjoyed to see them both.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "The roses around the castle bloom magnificently in even more colors — pink, white, yellow, red. The thorns retreat. Birds return to nest. The whole castle gleams again. People from nearby villages approach in wonder." },
+      "ar": { "text": "ذابت الأشواك حول القصر، وظلّت أزهار الورد فقط. خرج الناس من القرى يفرحون. عاد العالم إلى القصر — موسيقى، وأطعمة، وضحكٌ، ورائحة ورد. شكر الملك الأمير الذي أحضر الحياة بقلبه الطيب.", "voice": "shimmer" },
+      "en": { "text": "The thorns vanished around the castle, leaving only beautiful roses. The villagers came out rejoicing. The world returned to the castle — music, feasts, laughter, and the sweet scent of roses. The king thanked the prince for bringing life back with his kind heart.", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "A grand royal wedding in a magnificent castle garden full of roses. The princess in a flowing rose-petal gown and the prince in fine attire stand together, smiling. Twelve good fairies attend in pastel gowns, smiling proudly. Doves fly above." },
+      "ar": { "text": "بعد فترةٍ قصيرة، تزوّج الأمير والأميرة في حفلٍ كبير. حضرت الجنّيات الاثنتا عشرة الطيبات وأرسلن بركاتهن. وكانت العائلتان والمملكة كلّها في فرح. حتى الجنّيّة الثالثة عشرة ندمت وأرسلت اعتذارها وزهرةً جميلة.", "voice": "shimmer" },
+      "en": { "text": "Not long after, the prince and princess were married in a great wedding. The twelve good fairies came and gave their blessings. Both families and the whole kingdom celebrated. Even the thirteenth fairy, regretting her old anger, sent her apologies and a single beautiful flower.", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "The princess and prince walk together hand-in-hand through a sunlit rose garden, smiling and chatting warmly. Children of the kingdom run and play among the roses. The castle gleams in the background under a bright blue sky." },
+      "ar": { "text": "عاش الأمير والأميرة بسعادة، يحكمان مملكتهم بالعدل والرحمة. وأصبح الورد رمزاً للمملكة، يذكّر الجميع أنّ السحر الحقيقي هو في القلب الطيب الذي ينتظر وقته الصحيح.", "voice": "shimmer" },
+      "en": { "text": "The prince and princess lived happily, ruling their kingdom with justice and kindness. Roses became the kingdom's emblem — reminding everyone that the truest magic lies in a kind heart that waits patiently for its rightful time.", "voice": "fable" }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "aladdin",
+  "category": "arabic_classic",
+  "source": "1001 Nights (public domain)",
+  "age_range": "6-10",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, painterly textures, soft golden lighting, Middle Eastern setting, friendly expressive faces, no text in image, no watermark, no signature",
+  "cover": {
+    "prompt": "A young boy in simple tunic holds a glowing brass oil lamp in a moonlit cave full of jewels, wide-eyed wonder on his face, a faint blue mist rising from the lamp's spout"
+  },
+  "i18n": {
+    "ar": {
+      "title": "علاء الدين والمصباح السحري",
+      "subtitle": "حكاية من ألف ليلة وليلة",
+      "tagline": "صبي فقير، مارد ضخم، وثلاث أمنيات"
+    },
+    "en": {
+      "title": "Aladdin and the Magic Lamp",
+      "subtitle": "A Tale from the 1001 Nights",
+      "tagline": "A poor boy, a mighty genie, three wishes"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A bustling old Arabian marketplace at sunset, with stalls of fruits, copper pots, and colorful fabrics. A barefoot boy of about ten in a patched tunic peeks shyly from behind a barrel of dates, watching merchants haggle."
+      },
+      "ar": {
+        "text": "في مدينة بعيدة، عاش صبي فقير اسمه علاء الدين. كان يسكن مع أمه في بيت صغير، وكانا قلّما يجدان ما يأكلانه. كل يوم، يخرج علاء الدين إلى السوق ليتفرّج على العجائب، ويتمنى لو يستطيع شراء ولو رغيف خبز ساخن.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "In a faraway city, there lived a poor boy named Aladdin. He lived with his mother in a tiny house, and food was often scarce. Each day, Aladdin wandered through the bustling market, gazing at wonders he could never buy — wishing for just one warm loaf of bread.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A tall stranger in a dark embroidered robe and turban places a kind hand on a young boy's shoulder in a market alley. The stranger's smile looks gentle but his eyes are sly. The boy looks surprised and hopeful."
+      },
+      "ar": {
+        "text": "في يوم من الأيام، اقترب منه رجل غريب يلبس عباءة فاخرة. قال الرجل بصوت ناعم: «يا علاء الدين، أنا عمّك من بلاد بعيدة. تعالَ معي، فلديّ لك مفاجأة ستجعلك غنياً!» فرح علاء الدين، ولم يدرِ أن هذا الرجل ساحرٌ يبحث عن كنز قديم.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "One day, a strange man in fine robes stopped him. \"Aladdin, my boy,\" he said with a soft smile, \"I am your uncle from a faraway land. Come with me — I have a surprise that will make you rich!\" Aladdin's heart leapt with joy. He did not know the stranger was a sorcerer hunting for an ancient treasure.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A dramatic mountain pass at twilight. The sorcerer raises his arms as the ground splits open, revealing a stone staircase descending into a glowing cavern below. Aladdin stands at the edge, wind whipping his tunic, looking nervous."
+      },
+      "ar": {
+        "text": "ساروا حتى وصلا إلى جبلٍ موحش. هناك، رسم الساحر دائرةً على الأرض وتمتم بكلماتٍ غريبة. فجأة، انشقّت الأرض، وظهر سلّمٌ يهبط إلى كهف عظيم. قال الساحر: «انزل! وفي قلب الكهف، ستجد مصباحاً قديماً. أحضره لي، ولا تلمس شيئاً غيره!»",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "They walked to a lonely mountain. There, the sorcerer drew a circle on the ground and whispered strange words. Suddenly, the earth split open, and a staircase appeared, leading down into a glowing cave. \"Go down,\" said the sorcerer. \"At the heart of the cave you will find an old lamp. Bring it to me — and touch nothing else!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Inside a vast underground cavern. The walls glitter with rubies, emeralds, and heaps of gold coins. Trees made of crystal bear glowing fruit. In the center stands a small stone pedestal with a single dusty brass oil lamp. Aladdin tiptoes toward it, eyes wide."
+      },
+      "ar": {
+        "text": "نزل علاء الدين فرأى عجباً! كانت الجدران مرصّعةً بالياقوت والزمرد، والأشجار تحمل ثماراً من الكريستال البرّاق. لكنه تذكّر تحذير الساحر، فمشى مباشرةً إلى وسط الكهف، حيث رأى مصباحاً نحاسياً صغيراً فوق قاعدة من حجر. التقطه بحذر.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Aladdin went down — and gasped! The walls sparkled with rubies and emeralds, and trees bore fruits of glittering crystal. But he remembered the sorcerer's warning and walked straight to the center, where a small brass lamp rested on a stone pedestal. Carefully, he picked it up.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Aladdin clutches the brass lamp at the bottom of a stone staircase. Above, the sorcerer's furious face looms — he is closing the entrance with magic, sealing the boy inside. Aladdin looks up in terror, the cavern darkening around him."
+      },
+      "ar": {
+        "text": "عاد علاء الدين بالمصباح إلى مدخل الكهف، لكن الساحر طلب منه أن يسلّمه المصباح أولاً. خاف علاء الدين ورفض. غضب الساحر غضباً شديداً وصرخ، ثم أغلق الكهف بسحره، تاركاً علاء الدين محبوساً في الظلام!",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Aladdin climbed back to the entrance, but the sorcerer demanded the lamp first. Something felt wrong, and Aladdin refused. The sorcerer roared with rage and slammed the cave shut with his magic, trapping Aladdin in the darkness below!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "In a dark cavern, Aladdin rubs the brass lamp. A huge, friendly blue genie with billowing smoke for legs emerges from the spout, smiling warmly, his arms crossed. The genie's eyes glow gently. Aladdin stares up at him in awe."
+      },
+      "ar": {
+        "text": "جلس علاء الدين يبكي في الظلام. وبينما كان يمسح المصباح من الغبار، خرج منه دخانٌ كثيف وتشكّل منه مارد ضخم بصوتٍ مدوّ: «أنا خادم المصباح! من يملك المصباح، يأمر، وأنا أطيع. ما هي أمنيتك؟»",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Aladdin sat down and cried in the dark. As he wiped dust from the lamp, thick smoke poured out and formed an enormous genie with a booming voice. \"I am the servant of the lamp! Whoever holds it commands, and I obey. What is your wish?\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Aladdin and his mother sit at a humble wooden table in their small home, both gasping with joy as a feast appears before them: roasted meats, fresh fruit, steaming bread, all on golden dishes. The genie's gentle blue mist swirls in the corner of the room."
+      },
+      "ar": {
+        "text": "طلب علاء الدين أولاً أن يعود إلى بيت أمه. وفي لحظةٍ كان يقف عند بابها! ثم تمنّى طعاماً، فجاءه طبقٌ مليء بأطيب اللحم والخبز والفاكهة. فرحت أمه فرحاً عظيماً، وأدرك علاء الدين أن حياتهما لن تكون فقيرةً بعد اليوم.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Aladdin's first wish was simply to be home with his mother. In a flash, there he was at her door! Then he wished for a meal — and a golden tray of meats, breads, and fruits appeared before them. His mother wept with joy, and Aladdin knew their hungry days were over.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A grand palace courtyard with marble fountains and orange trees. A beautiful princess in flowing silk gown smiles at Aladdin, who now wears fine prince's robes. Servants in colorful uniforms carry trays. A peacock spreads its tail behind them."
+      },
+      "ar": {
+        "text": "مرّت السنوات، وكبر علاء الدين. ذات يوم، رأى الأميرة بدر البدور، فأحبّها من النظرة الأولى. طلب من المارد أن يبني له قصراً عظيماً وأن يجعله أميراً. وافق السلطان على زواجهما، وعاش علاء الدين وزوجته في سعادة... لكن الساحر لم ينسَ المصباح.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Years passed and Aladdin grew up. One day he saw the Princess Badroulbadour and loved her at first sight. He asked the genie to build him a grand palace and make him a prince. The Sultan agreed to their marriage, and Aladdin and the princess were truly happy. But the sorcerer had not forgotten the lamp.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "A disguised merchant with a tray of shiny new brass lamps stands at a palace window. Inside, the princess holds up the old dusty brass lamp curiously, about to swap it. The sorcerer's eyes gleam with hidden delight under his hood."
+      },
+      "ar": {
+        "text": "تنكّر الساحر في زيّ بائعٍ متجوّل، ينادي: «مصابيح جديدة بدل القديمة!» سمعته الأميرة، ولم تكن تعرف سرّ المصباح، فأخذت المصباح القديم من الرفّ وأعطته للبائع مقابل مصباحٍ جديد لامع. فرح الساحر فرحاً عظيماً، وأمر المارد أن يحمل القصر والأميرة بعيداً!",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "The sorcerer disguised himself as a peddler, calling out, \"New lamps for old!\" The princess heard him and, not knowing the lamp's secret, took the old brass lamp from a shelf and traded it for a shiny new one. The sorcerer cackled and ordered the genie to carry the palace and princess far away!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Aladdin sneaks through a moonlit garden of the sorcerer's palace. The princess hands him a small vial of sleeping potion from a balcony above. Both look brave and determined. Stars twinkle overhead."
+      },
+      "ar": {
+        "text": "حزن علاء الدين، لكنه لم ييأس. سافر طويلاً حتى وجد القصر في صحراءٍ بعيدة. تسلّل ليلاً إلى الأميرة، فاتفقا على خطة ذكية: أعدّت الأميرة شراباً للساحر وضعت فيه دواءً يجعله ينام نوماً عميقاً.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Aladdin was heartbroken, but he did not give up. He journeyed far across the desert until he found the palace. By night he climbed to the princess's window, and together they made a clever plan: she would prepare a drink for the sorcerer with a potion that would send him into a deep sleep.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Aladdin lifts the brass lamp triumphantly from the sleeping sorcerer's hand in a richly decorated chamber. The genie towers behind him, smiling and ready to obey. Golden lanterns cast a warm glow."
+      },
+      "ar": {
+        "text": "نام الساحر، فدخل علاء الدين بهدوء وأخذ المصباح من يده. فرك المصباح، فظهر المارد مبتسماً. قال علاء الدين: «أعِد القصر إلى مكانه، وأعِدنا إلى أهلنا!» وفي طرفة عين، عاد كل شيء كما كان.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "When the sorcerer was fast asleep, Aladdin slipped in and slid the lamp from his hand. He rubbed it, and the genie appeared, smiling. \"Return the palace to its place,\" said Aladdin, \"and bring us home!\" In the blink of an eye, all was as it had been.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A warm family scene at sunset on a palace balcony. Aladdin, his princess, and his elderly mother stand together, smiling, looking out over the city. The brass lamp rests safely on a velvet cushion beside them. Doves fly past."
+      },
+      "ar": {
+        "text": "عاش علاء الدين والأميرة وأمه في القصر بسعادةٍ وأمان. لم يطلب علاء الدين من المارد المال أو القصور بعد ذلك، بل تعلّم أن أعظم الكنوز هو من نحبّهم. وحفظ المصباح في مكان آمن، تذكاراً لمغامرة لن ينساها أبداً.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Aladdin, the princess, and his mother lived happily in the palace for many years. Aladdin no longer asked the genie for riches or palaces, for he had learned that the greatest treasure is the people we love. He kept the lamp in a safe place — a memory of an adventure he would never forget.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

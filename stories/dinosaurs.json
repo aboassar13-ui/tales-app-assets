@@ -1,0 +1,77 @@
+{
+  "id": "dinosaurs",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, prehistoric landscapes with friendly cartoon dinosaurs (not scary), lush ferns and tall trees, gentle colors, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A friendly green long-necked Brachiosaurus reaches up to eat leaves from a tall tree; a small triceratops grazes peacefully nearby in a lush prehistoric jungle with ferns, all under a warm sunset sky"
+  },
+  "i18n": {
+    "ar": { "title": "عالم الديناصورات", "subtitle": "حيوانات عاشت قبل ملايين السنين", "tagline": "ضخمة، عجيبة، واختفت كلها!" },
+    "en": { "title": "The World of Dinosaurs", "subtitle": "Animals That Lived Millions of Years Ago", "tagline": "Huge, amazing, and all disappeared!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A wide prehistoric landscape: lush green ferns, tall ancient trees, volcanic mountains in the distance, several friendly cartoon dinosaurs in the scene — a long-neck, a small Triceratops, a flying pterosaur in the sky." },
+      "ar": { "text": "هل تعرف أنّ الديناصورات عاشت على الأرض قبل ملايين السنين، قبل أن يكون فيها بشر؟ كانت الأرض في زمنها مختلفة جداً: نباتات عملاقة، براكين، ومخلوقات لم نرَ مثلها أبداً!", "voice": "nova" },
+      "en": { "text": "Did you know dinosaurs lived on Earth millions of years ago, long before any humans? The Earth was very different back then: giant plants, volcanoes, and creatures unlike any we have ever seen!", "voice": "nova" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A friendly massive Brachiosaurus eating leaves from a giant tree, its long neck reaching way up. A child-sized human silhouette stands next to its leg for scale comparison — the dinosaur dwarfs the human." },
+      "ar": { "text": "كان هناك ديناصورات ضخمة جداً! أكبرها «براكيوصورس»، طوله كان 25 متراً ووزنه كوزن 12 فيلاً معاً! كان يأكل أوراق الأشجار العالية. لو وقفت بجانبه، تكون أقصر من قدمه!", "voice": "nova" },
+      "en": { "text": "Some dinosaurs were enormous! The Brachiosaurus was 25 meters long and weighed as much as 12 elephants together! It ate leaves from the very top of trees. If you stood beside it, you'd be shorter than its leg!", "voice": "nova" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A friendly cartoon T-Rex with comically small arms and a big grin (not scary). It stands among ferns. Its size is large but the expression is friendly, like a children's book character." },
+      "ar": { "text": "ومن أشهرهم «تيرانوصورس ركس»، المعروف بـ T-Rex. كان طوله 12 متراً، وفي فمه أسنان كبيرة جداً، كل سنّ بحجم موزة! لكنّ يدَيه كانتا صغيرتَين جداً، أصغر من ذراعَيك!", "voice": "nova" },
+      "en": { "text": "One of the most famous was the Tyrannosaurus Rex, or T-Rex. It was 12 meters long, with huge teeth — each one the size of a banana! But its arms were tiny — smaller than yours!", "voice": "nova" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A cute friendly Triceratops with three horns (one on nose, two on head) and a large bone frill. It eats green ferns peacefully. Patterns on its skin like a colorful gentle giant." },
+      "ar": { "text": "«ترايسيراتوبس» كان يشبه وحيد القرن، لكنّ له ثلاثة قرون! واحد على أنفه، واثنان على رأسه. كان طوله 9 أمتار، ويأكل النباتات بسلام. قرنه ساعده على الدفاع عن نفسه من الأعداء.", "voice": "nova" },
+      "en": { "text": "The Triceratops looked like a rhinoceros — but with three horns! One on its nose, two on its head. It was 9 meters long and ate plants peacefully. Its horns helped it defend itself from enemies.", "voice": "nova" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A pterosaur (flying reptile) with leathery wings spread wide soars through a cloudy sky above a prehistoric coastline. Below in the water, swimming reptiles can be seen. Not technically a dinosaur but children call them flying dinosaurs." },
+      "ar": { "text": "ولا تنسى الديناصورات الطائرة! «بتيرودكتيل» كان له أجنحة كبيرة كأجنحة طائرة شراعية. كان يطير فوق البحار ويصطاد السمك. لم يكن طائراً حقيقياً، لكنّه يطير!", "voice": "nova" },
+      "en": { "text": "And don't forget the flying ones! The Pterodactyl had wings as wide as a glider plane. It flew over the seas and caught fish. It wasn't a true bird, but it soared through the air!", "voice": "nova" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A friendly mother dinosaur with several baby dinosaur hatchlings emerging from large eggs in a nest of leaves. The mother watches over them lovingly. Babies are cute and tiny." },
+      "ar": { "text": "هل تعرف؟ الديناصورات كانت تبيض مثل الطيور والسلاحف! كانت الأمّ تعتني ببيضها، ثم تخرج منه ديناصورات صغيرة. كانت الأم تعلّمها الأكل والمشي، مثل أي حيوان آخر.", "voice": "nova" },
+      "en": { "text": "Did you know? Dinosaurs laid eggs, like birds and turtles! The mother dinosaur cared for her eggs, then little baby dinosaurs hatched out. Mothers taught their babies to eat and walk, just like animals today.", "voice": "nova" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A dramatic but stylized scene showing a comet streaking across a prehistoric sky, with dinosaurs in the foreground looking up curiously. The colors are warm with hints of fire, but not violent — gentle storybook depiction of the extinction event." },
+      "ar": { "text": "ولكن... قبل 66 مليون سنة، حدث شيء مفاجئ. يعتقد العلماء أنّ نيزكاً ضخماً ضرب الأرض. تغيّر الجوّ، وقلّ الطعام، فاختفت كل الديناصورات الكبيرة عن الأرض.", "voice": "nova" },
+      "en": { "text": "But... 66 million years ago, something sudden happened. Scientists believe a giant meteor struck the Earth. The weather changed, food grew scarce, and all the big dinosaurs vanished from the world.", "voice": "nova" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A paleontologist (woman in khaki and hat) carefully brushes dirt from a large dinosaur skeleton embedded in rocky ground. Children watch with amazement. Tools and brushes are visible." },
+      "ar": { "text": "كيف نعرف عن الديناصورات؟ من العظام التي تركوها وراءهم! العظام بقيت في الصخور لملايين السنين، وتحوّلت إلى حجر. العلماء يحفرون الأرض ويكشفونها، ويبنون هياكلها في المتاحف.", "voice": "nova" },
+      "en": { "text": "How do we know about dinosaurs? From the bones they left behind! Their bones stayed in rocks for millions of years and turned to stone. Scientists dig them up and assemble them into skeletons we see in museums.", "voice": "nova" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "A modern bird (chicken or pigeon) standing next to a small dinosaur skeleton, with feathered dinosaur ancestors illustrated in the background. The connection is shown visually — both have similar leg structures." },
+      "ar": { "text": "هل تعلم؟ ليست كل الديناصورات اختفت! بعضها تطوّرت إلى... الطيور! نعم، الدجاجة والحمامة والعصفور الذي تراه كل يوم، أجدادها كانت ديناصورات صغيرة! كانت لها ريش بدل القشور.", "voice": "nova" },
+      "en": { "text": "Did you know? Not all dinosaurs vanished! Some evolved into... birds! Yes, the chickens, pigeons, and sparrows you see every day — their ancestors were small feathered dinosaurs! They had feathers instead of scales.", "voice": "nova" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Two children stand in awe inside a museum dinosaur hall, looking up at a massive T-Rex skeleton. A small Triceratops skull is on display nearby. Soft museum lighting creates warmth." },
+      "ar": { "text": "زر متحفاً قريباً، ستلتقي بهياكل ديناصورات حقيقية! يمكنك أن تقف بجانب T-Rex وتقيس طولك بطوله. عالم الديناصورات لم يزل مليئاً بأسرار، والعلماء يكتشفون أنواعاً جديدة كل سنة.", "voice": "nova" },
+      "en": { "text": "Visit a nearby museum, and you'll meet real dinosaur skeletons! You can stand beside a T-Rex and compare its size to yours. The world of dinosaurs is still full of secrets, and scientists discover new species every year.", "voice": "nova" }
+    }
+  ]
+}

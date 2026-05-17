@@ -1,0 +1,145 @@
+{
+  "id": "snow_white",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 11,
+  "style_suffix": "warm watercolor children's book illustration, soft fairy-tale forest palette, expressive gentle faces, friendly forest creatures, dwarf cottage feel, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind young princess with raven-black hair, pale skin, and red lips walks through a sunlit forest of birches; tiny forest animals — squirrels, rabbits, bluebirds — follow her trustingly"
+  },
+  "i18n": {
+    "ar": {
+      "title": "بياضة الثلج",
+      "subtitle": "حكاية من حكايات الإخوة جريم",
+      "tagline": "أميرةٌ طيبة، سبعة أقزام، ومرآةٌ غيورة"
+    },
+    "en": {
+      "title": "Snow White",
+      "subtitle": "A Tale from the Brothers Grimm",
+      "tagline": "A kind princess, seven little friends, and a jealous mirror"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A queen sits by an open window in winter, embroidering with white thread. Snowflakes drift in past frosted glass. A drop of red blood falls onto the snow on the windowsill. She gazes thoughtfully outside, smiling softly." },
+      "ar": { "text": "في يومٍ شتوي، كانت ملكةٌ طيبة تطرّز قرب النافذة. وقع الثلج خارجاً، وانزلق ثوبها قطرة دم على الثلج الأبيض. تمنّت: «ليت لي طفلة بشعرٍ كالأبنوس، وبشرةٍ كالثلج، وخدّين كالدم.»", "voice": "shimmer" },
+      "en": { "text": "On a snowy winter day, a kind queen sat embroidering by her window. As the snow fell, a drop of blood pricked onto the white snowflakes. She wished softly, \"May I have a child with hair as black as ebony, skin as fair as snow, and cheeks as red as rose.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A tender scene of a queen holding a tiny baby girl with raven-black hair in a cradle wrapped in soft blankets. Sunlight streams through tall windows. A king stands proudly beside them with a warm smile." },
+      "ar": { "text": "تحقّقت أمنيتها! وُلِدَت طفلة جميلة سمّوها بياضة الثلج. لكن الحزن جاء سريعاً، وتركتها أمها قبل أن تكبر. حزن الملك حزناً شديداً، ثم تزوّج بعد سنواتٍ من ملكةٍ جديدة.", "voice": "shimmer" },
+      "en": { "text": "Her wish came true! A beautiful baby girl was born, and they named her Snow White. But sorrow came soon, and her mother left her before she grew. The king grieved deeply, and years later he married a new queen.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A tall, elegant new queen with a cold, beautiful face stares into an ornate gilded mirror in a candlelit chamber. The mirror's surface shimmers faintly, as if it is alive. Her expression is haughty." },
+      "ar": { "text": "كانت الملكة الجديدة جميلة جداً، لكنها كانت قاسية ومغرورة. ملكت مرآة سحرية يمكنها أن تتكلم. كل صباح، تقف أمامها وتسأل: «يا مرآتي يا مرآتي، من أجمل امرأةٍ في البلاد؟»", "voice": "shimmer" },
+      "en": { "text": "The new queen was very beautiful, but she was vain and cruel. She owned a magic mirror that could speak. Each morning she stood before it and asked, \"Mirror, mirror, on the wall — who is the fairest of them all?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A small girl of about ten in simple dress sweeps the palace courtyard while smiling at a robin perched on her broom. She is barefoot but glowing with kindness. Tall castle towers rise around her." },
+      "ar": { "text": "كانت المرآة تجيب دائماً: «أنتِ يا ملكتي.» وكانت بياضة الثلج تكبر في القصر، تنظف وتعمل بسعادة، وتحدّث الطيور كأنها أصدقاؤها. كانت طيبة فلم تشكُ ظلم زوجة أبيها.", "voice": "shimmer" },
+      "en": { "text": "Each day the mirror answered, \"You, my queen, are the fairest.\" Meanwhile Snow White grew up in the castle, sweeping and working cheerfully, talking to the birds like dear friends. She was so kind that she never complained of her stepmother's hard ways.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The queen stares in shock at her glowing magic mirror, which now shows a vision of young Snow White laughing in a sunny courtyard with birds on her shoulders. The queen's face twists with jealous fury." },
+      "ar": { "text": "ذات يوم، أجابت المرآة بصوتٍ هادئ: «بياضة الثلج أصبحت أجمل منكِ، يا مولاتي.» اشتعلت الملكة غيظاً. لم تتحمّل أن يكون هناك من هو أجمل منها، حتى لو كانت ابنة زوجها.", "voice": "shimmer" },
+      "en": { "text": "One day, the mirror answered quietly, \"Snow White is fairer now, my queen.\" The queen burned with jealousy. She could not bear that anyone — even her own stepdaughter — could be more beautiful than herself.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A kind huntsman in green forest clothes kneels in a misty woodland clearing. He gently tells a young Snow White to run away. Tears are in both their eyes. Sunlight breaks through tall pines behind them." },
+      "ar": { "text": "أمرت الملكة صيّاداً أن يأخذ بياضة الثلج إلى الغابة ويخلّصها. لكن قلب الصياد رقّ لها. قال هامساً: «اهربي يا أميرتي، إلى أعماق الغابة، ولا تعودي أبداً. سأخدع الملكة بأن قد قمتُ بما طلبت.»", "voice": "shimmer" },
+      "en": { "text": "The queen ordered a huntsman to take Snow White into the forest and not bring her back. But the huntsman's heart melted when he saw her kindness. He whispered, \"Run, my princess, deep into the woods, and do not return. I will trick the queen into believing it is done.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Snow White runs frightened through a dark twisting forest at twilight. Branches reach like long arms, but small woodland animals — a deer, a fox, two rabbits, several birds — gather around her with comforting eyes, leading her gently forward." },
+      "ar": { "text": "ركضت بياضة الثلج في الغابة، خائفةً من كل شيء. وقعت أرضاً وبكت. لكن الحيوانات سمعتها — أرنبٌ وعصفورٌ وغزال — واقتربوا منها بلطف. أحسّت كأنهم يقولون: «لا تخافي، نحن سنرشدكِ.»", "voice": "shimmer" },
+      "en": { "text": "Snow White ran through the forest, frightened by every shadow. She tripped and wept. But the animals heard her — a rabbit, a robin, a small deer — and gathered around her gently. She felt as if they were saying, \"Do not be afraid. We will lead you.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Snow White discovers a tiny, charming cottage in a forest glade at dusk. Smoke curls from a small chimney, and warm yellow light spills from round windows. Tiny gardening tools rest by the door. The cottage is much smaller than a normal house." },
+      "ar": { "text": "قادتها الحيوانات إلى بيتٍ صغير عجيب في وسط الغابة. كان كل شيءٍ فيه صغيراً جداً: سبعة كراسي صغيرة حول طاولة، سبعة أطباق، سبعة أسرّة في صفّ واحد! لكنّ البيت كان مغبّراً ومرتّباً قليلاً.", "voice": "shimmer" },
+      "en": { "text": "The animals led her to a tiny, curious cottage in a forest clearing. Everything inside was small: seven little chairs around a table, seven little plates, seven beds in a single row! But the cottage was dusty and a little disordered.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Snow White, smiling and humming, sweeps a cosy cottage interior. Tiny mice and bluebirds help her — one bird carries a duster, mice push tiny brooms. Afternoon light fills the round windows." },
+      "ar": { "text": "ابتسمت بياضة الثلج وقالت: «من يعيش هنا لا بد أنهم تعبوا. سأنظّف بيتهم شكراً لهم.» كنست الأرضية وغسلت الأطباق ورتّبت الأسرّة، يساعدها الفئران والعصافير، وغنّت أغنيةً جميلة وهي تعمل.", "voice": "shimmer" },
+      "en": { "text": "Snow White smiled and said, \"Whoever lives here must be very tired. I shall tidy their home to thank them.\" She swept the floor, washed the dishes, and made the beds — with the mice and birds helping her — and she sang a lovely song as she worked.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Seven small bearded dwarfs in colorful caps and short coats walk home single-file along a forest path at dusk, carrying small pickaxes over their shoulders. They look tired but cheerful. Lanterns swing in their hands." },
+      "ar": { "text": "في وقتٍ متأخر، عاد سبعة أقزام صغار من مناجم الجبل. كانوا يحملون فؤوسهم الصغيرة ويغنّون. وعندما اقتربوا من بيتهم، قال أكبرهم: «انظروا! النور مضاء في بيتنا!»", "voice": "shimmer" },
+      "en": { "text": "Later that evening, seven little dwarfs walked home from their mountain mines. They carried tiny pickaxes and sang as they came. As they neared their cottage, the eldest said, \"Look! A light is glowing in our home!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Seven curious dwarfs gather around a single small bed where Snow White sleeps peacefully across three of them. They peer at her with surprise and gentle smiles. Candle light glows softly. One dwarf whispers to another." },
+      "ar": { "text": "دخل الأقزام بهدوء، فوجدوا الفتاة النائمة مستلقية فوق ثلاثة من أسرّتهم! نظروا إليها مذهولين. قال أصغرهم: «ما أجملها!» قال أكبرهم: «دعوها تنام. غداً سنسألها كيف وصلت إلينا.»", "voice": "shimmer" },
+      "en": { "text": "The dwarfs tiptoed in and found the young girl sleeping across three of their little beds! They stared in wonder. The smallest whispered, \"How lovely she is!\" The eldest said, \"Let her sleep. Tomorrow we shall ask how she came to us.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Snow White sits at a small table with the seven cheerful dwarfs around her, sharing porridge in tiny bowls. Sunlight streams in through round windows. Forest animals peek in from a window ledge." },
+      "ar": { "text": "في الصباح، استيقظت بياضة الثلج وفزعت قليلاً، لكنّ الأقزام كانوا لطفاء. روت لهم قصتها، فقالوا: «ابقي معنا! نحن نحبّكِ مثل أختنا.» فرحت بياضة الثلج وقبلت بسرور.", "voice": "shimmer" },
+      "en": { "text": "In the morning, Snow White awoke a little startled, but the dwarfs were so kind. She told her story, and they said, \"Stay with us! We will love you like our own sister.\" Snow White's heart leaped with joy, and she gladly agreed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The queen at her ornate mirror, robe flowing, looks horrified as the mirror reveals a vision of Snow White happily living in a tiny cottage with seven dwarfs. Her hands clench in fury, eyes narrowing." },
+      "ar": { "text": "في القصر، سألت الملكة مرآتها مرّةً أخرى. أجابت المرآة: «أنتِ جميلة، لكنّ بياضة الثلج، خلف الجبال السبعة، مع الأقزام السبعة، أجمل منكِ بألف مرة.» صرخت الملكة من الغضب: «إنها حيّة! يجب أن أنهي هذا بنفسي!»", "voice": "shimmer" },
+      "en": { "text": "At the palace, the queen asked her mirror again. It answered, \"You are fair, my queen — but beyond the seven hills, in the cottage of the seven dwarfs, Snow White is a thousand times fairer.\" The queen screamed in fury, \"She lives! I must end this myself!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The queen in her workshop full of bottles and books mixes a glowing potion into a shiny red apple. The apple is half-red, half-bright. Her shadow looms large on the wall. Owls and bats decorate the rafters." },
+      "ar": { "text": "تنكّرت الملكة في صورة عجوزٍ تبيع التفاح. وصنعت تفاحةً مسحورة، نصفها أحمرُ شهيٌّ، ونصفها فيه شراب يجعل من يأكله ينام نوماً طويلاً جداً. حملت السلّة وانطلقت إلى الغابة.", "voice": "shimmer" },
+      "en": { "text": "The queen disguised herself as an old apple-seller. She enchanted an apple — half ripe and red, half mixed with a sleeping draught so deep that whoever ate it would fall into a slumber for ages. She picked up her basket and headed to the forest.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "A disguised old peddler woman in a hooded cloak offers a shiny red apple at the cottage doorway. Snow White stands smiling at the threshold, hand half-raised to accept. A worried bluebird tugs at her sleeve, but Snow White doesn't notice." },
+      "ar": { "text": "وصلت الملكة المتنكّرة إلى البيت بينما كان الأقزام في المنجم. حذّر الأقزام بياضة الثلج: «لا تفتحي الباب لأحد!» لكن العجوز قالت بلطف: «خذي تفاحةً يا صغيرتي، إنها أحلى ما في البستان.» وقدّمت لها الجانب الأحمر.", "voice": "shimmer" },
+      "en": { "text": "The disguised queen reached the cottage while the dwarfs were away at the mine. They had warned Snow White not to open the door. But the old peddler said sweetly, \"Take an apple, dear child — the sweetest in the orchard.\" She held out the bright red side.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Snow White lying peacefully as if asleep on a bed of moss and flowers; her hands hold a single bitten red apple. Seven dwarfs gather around her in grief, tiny tears in their eyes. A robin and a fawn watch sadly." },
+      "ar": { "text": "أخذت بياضة الثلج التفاحة وعضّتها. وفي لحظة، شعرت بدوخةٍ شديدة، وسقطت على الأرض كأنها نائمة. ضحكت الملكة في الغابة وعادت إلى قصرها. وعندما رجع الأقزام، وجدوها لا تتحرّك.", "voice": "shimmer" },
+      "en": { "text": "Snow White took the apple and bit into it. In a moment, a deep dizziness overcame her, and she sank gently to the floor as if asleep. The disguised queen cackled and slipped away. When the dwarfs returned, they found her lying still.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "Seven dwarfs lift a small crystal coffin covered in white flowers into a sunlit forest glade. Inside, Snow White appears peaceful as if sleeping. Forest animals stand in silent witness. Lilies and forget-me-nots bloom around." },
+      "ar": { "text": "بكى الأقزام كثيراً. صنعوا لها صندوقاً من البلور وغطّوه بالزهور البيضاء. وضعوها فيه ليبقى وجهها أمامهم في الغابة. ومرّ يومٌ، وأسبوع، وشهر، وهي لا تستيقظ، لكنّها لم تتغيّر أبداً.", "voice": "shimmer" },
+      "en": { "text": "The dwarfs wept long and hard. They built a coffin of clear crystal and covered it in white flowers. They placed Snow White inside so they could still see her face in the forest. Days passed, then weeks, then months — but she did not wake, and yet she never changed at all.", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": { "prompt": "A young prince on a white horse pauses in the forest glade at sunset, his eyes wide with wonder as he sees the crystal coffin with Snow White inside. The seven dwarfs stand respectfully beside it. Golden light glows around the scene." },
+      "ar": { "text": "في يومٍ من الأيام، مرّ في الغابة أميرٌ شاب. توقّف فجأة عندما رأى بياضة الثلج. قال للأقزام: «من تكون؟ كأنّها نائمة فقط!» روى الأقزام له القصة. توسّل: «دعوني أحملها إلى قصري، لأعتني بها.»", "voice": "shimmer" },
+      "en": { "text": "One day, a young prince rode through the forest. He stopped, struck still, when he saw Snow White. He asked the dwarfs, \"Who is she? She looks only as if asleep.\" The dwarfs told him her story. The prince begged, \"Please, let me take her to my palace and care for her.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": { "prompt": "While the prince's servants carefully lift the crystal coffin, one stumbles on a tree root. A small piece of apple falls from Snow White's lips. Her eyes flutter open with surprise and a smile begins. The dwarfs cheer with arms raised, animals leap with joy." },
+      "ar": { "text": "وافق الأقزام بحزن. وبينما يحملون الصندوق، تعثّر أحد الجنود في جذر شجرة. اهتزّ الصندوق، فسقطت قطعة التفاحة المسحورة من فم بياضة الثلج! فتحت عينيها مدهوشة: «أين أنا؟» فرح الأقزام والأمير والحيوانات كلها!", "voice": "shimmer" },
+      "en": { "text": "The dwarfs agreed, with sorrow in their hearts. As the servants lifted the coffin, one of them tripped on a tree root. The coffin gave a sudden jolt, and the piece of poisoned apple fell from Snow White's lips! Her eyes fluttered open. \"Where am I?\" she gasped. The dwarfs, the prince, and even the animals leapt for joy!", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": { "prompt": "Snow White, radiant in a pale blue gown, stands hand in hand with the prince at a grand woodland celebration. The seven dwarfs dance happily nearby with garlands of flowers. Forest animals bring gifts. Sunlight fills the meadow with golden warmth." },
+      "ar": { "text": "أحبّ الأمير بياضة الثلج، وأحبّته. تزوّجا في احتفالٍ كبير في الغابة، رقص فيه الأقزام والحيوانات. أما الملكة، فلم ترَ نفسها في المرآة بعد ذلك. وعاشت بياضة الثلج مع الأمير والأقزام السبعة، تزورهم كلّ أسبوع، حياةً مليئةً بالحب.", "voice": "shimmer" },
+      "en": { "text": "The prince loved Snow White, and she loved him in return. They were married in a great celebration in the forest, where the seven dwarfs and the animals danced together. The wicked queen never looked into her mirror again. Snow White lived happily with her prince and visited the seven dwarfs every week — a life full of love, just as a kind heart deserves.", "voice": "fable" }
+    }
+  ]
+}

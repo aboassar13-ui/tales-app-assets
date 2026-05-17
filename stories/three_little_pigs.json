@@ -1,0 +1,151 @@
+{
+  "id": "three_little_pigs",
+  "category": "fairy_tale",
+  "source": "English folk tale (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, bright cheerful palette, three friendly cartoon pig brothers with distinct outfits, gentle storybook mood, wolf depicted as comical not scary, no text in image, no watermark",
+  "cover": {
+    "prompt": "Three cheerful pig brothers in colorful overalls stand in front of three houses — one of straw, one of sticks, one of brick — under a bright blue sky with puffy clouds"
+  },
+  "i18n": {
+    "ar": {
+      "title": "الخنازير الثلاثة الصغيرة",
+      "subtitle": "حكاية شعبية إنجليزية",
+      "tagline": "ثلاثة إخوة، ثلاثة بيوت، وذئبٌ جائع"
+    },
+    "en": {
+      "title": "The Three Little Pigs",
+      "subtitle": "An English Folk Tale",
+      "tagline": "Three brothers, three houses, one hungry wolf"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A kind mother pig in an apron stands at her cottage doorway, waving goodbye to her three pig sons who walk down a dirt path with little bundles slung over their shoulders. The sun is rising over green hills."
+      },
+      "ar": {
+        "text": "ذات يوم، قالت أمّ الخنازير لأولادها الثلاثة: «لقد كبرتم يا أبنائي، وحان الوقت لتبنوا بيوتكم.» قبّلتهم وودّعتهم، فخرج كل خنزيرٍ ليبني بيته الخاص.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "One sunny morning, mother pig said to her three sons, \"You are grown up now, dears. It is time to build your own homes.\" She kissed each one goodbye, and off they went to build their houses.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The first little pig, in a yellow shirt, happily ties bundles of golden straw together to form a simple house. He whistles as he works. A pile of straw and a bunch of wildflowers sit nearby."
+      },
+      "ar": {
+        "text": "أراد الخنزير الأول أن ينتهي بسرعة ليلعب. فجمع قشّاً كثيراً، وبنى منه بيتاً صغيراً في لحظات. قال فرحاً: «انتهيت! الآن أستطيع اللعب طوال اليوم!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The first little pig wanted to finish quickly so he could play. He gathered a great pile of straw and built a small house in no time at all. \"Done!\" he cheered. \"Now I can play all day!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The second little pig, in a blue shirt, busily ties wooden sticks together to make a house. He's sweating just a bit, but smiles. The first pig's straw house is in the background."
+      },
+      "ar": {
+        "text": "أما الخنزير الثاني، فقرّر أن يبني بيته من العصيّ الخشبية. عمل قليلاً أكثر من أخيه، ثم انتهى وقال: «بيتي أقوى! هيا نلعب!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The second little pig decided to build with wooden sticks. He worked a bit longer than his brother, then finished and said, \"My house is stronger! Now let's play!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The third little pig, in a red shirt, lays bricks carefully with a small trowel, building a sturdy red brick house. He looks focused and proud. His two brothers in the distance play tag in a meadow."
+      },
+      "ar": {
+        "text": "أما الخنزير الثالث، فكان أحكم إخوته. جلب الطوب الأحمر والإسمنت، وبدأ يبني بيته بصبر. قال: «سأبني بيتاً قوياً، حتى ولو أخذ ذلك وقتاً طويلاً.» وضحك إخوته منه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The third little pig was the wisest. He gathered red bricks and mortar and began building patiently, one brick at a time. \"I want a strong house,\" he said, \"even if it takes a long while.\" His brothers laughed at him for working so hard.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A skinny, comical big bad wolf — tall, gray, with floppy ears — stands at the door of the straw house, his cheeks puffed huge with a deep breath, about to blow. The first pig peeks out a window in alarm."
+      },
+      "ar": {
+        "text": "في تلك الليلة، جاء ذئبٌ جائع وقرع باب بيت القش. قال: «أيها الخنزير الصغير، دعني أدخل!» أجاب الخنزير: «لا، لا، لا!» قال الذئب: «إذن سأنفخ وأنفخ، حتى يطير بيتك!» نفخ نفخةً قوية، فطار بيت القش، وهرب الخنزير الأول إلى بيت أخيه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "That very night, a hungry wolf came knocking at the straw house. \"Little pig, little pig, let me in!\" \"Not by the hair of my chinny-chin-chin!\" said the pig. \"Then I'll huff, and I'll puff, and I'll blow your house in!\" The wolf blew with all his might, and whoosh — the straw house flew away! The first pig ran to his brother's house of sticks.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The wolf, even more puffed up, blows hard at the stick house, which is starting to fall apart, sticks flying everywhere. Two scared pigs hold each other inside, peeking out a window."
+      },
+      "ar": {
+        "text": "ركض الذئب خلفهما إلى بيت العصيّ. قرع الباب وقال: «دعاني أدخل!» قالا: «لا، لا، لا!» نفخ الذئب مرةً، ومرّتين، وثلاث مرّات، فطار بيت العصيّ أيضاً! ركض الخنزيران مذعورَين إلى بيت أخيهما الثالث.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The wolf chased them to the stick house. He knocked and demanded, \"Let me in!\" \"Not by the hairs of our chinny-chin-chins!\" the pigs squealed. The wolf huffed once, twice, three times — and away flew the stick house! The two terrified pigs raced to their brother's brick house.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The brick house stands solid. The wolf puffs his cheeks dramatically, face turning purple, but the bricks don't budge. The three pigs peek smiling from the window, hugging each other."
+      },
+      "ar": {
+        "text": "وصل الذئب إلى البيت الطوبي. قرع الباب: «دعوني أدخل!» قال الخنازير الثلاثة معاً: «لا، لا، لا!» نفخ الذئب وأطال النفخ حتى احمرّ وجهه، لكن البيت الطوبي لم يتحرّك ولا بمقدار شعرة!",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "At the brick house, the wolf knocked. \"Let me in!\" \"Not by the hairs of our chinny-chin-chins!\" all three pigs called together. The wolf huffed and puffed until his face turned bright red — but the brick house did not move a single inch!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Inside the cozy brick house, the three pig brothers laugh around a steaming pot of soup over a fireplace. Through a tiny window we can see the wolf running away into the distance with steam coming out of his ears, comical and not frightening."
+      },
+      "ar": {
+        "text": "تعب الذئب من النفخ، فحاول النزول من المدخنة. لكن الخنزير الأكبر كان قد أشعل النار تحت قدرٍ كبير، فأحسّ الذئب بالحرارة وقفز هارباً، ولم يعد أبداً! جلس الإخوة الثلاثة يضحكون ويأكلون، وتعلّم الخنزيران الصغيران درساً مهماً.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Exhausted, the wolf tried to slip down the chimney. But the wise third pig had set a big pot of bubbling soup on the fire below! The wolf felt the heat, leapt out, and ran far, far away — never to return! The three brothers sat down, laughed, and enjoyed their dinner. The two younger pigs had learned a most important lesson.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The three pig brothers stand together in front of the brick house, smiling and dressed in matching builder's overalls, holding bricks and trowels. The sun shines warmly over green rolling hills."
+      },
+      "ar": {
+        "text": "في اليوم التالي، ساعد الخنزير الثالث إخوته في بناء بيوتهم من الطوب القوي. ومنذ ذلك اليوم، عاشوا في أمانٍ وسعادة، وعرفوا أن العمل بجدٍّ وصبرٍ يحمي من كل خطر.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The next day, the third pig helped his brothers build sturdy brick houses of their own. From that day on, the three pigs lived safely and happily — and they always remembered that careful work and patience can keep you safe from any wolf at the door.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

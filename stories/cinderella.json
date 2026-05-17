@@ -1,0 +1,185 @@
+{
+  "id": "cinderella",
+  "category": "fairy_tale",
+  "source": "Charles Perrault / Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 11,
+  "style_suffix": "warm watercolor children's book illustration, soft pastel palette, gentle storybook mood, expressive friendly faces, classic European fairy-tale setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind young woman in a tattered apron sweeps beside a fireplace, while a tiny mouse and a cheerful bluebird watch her affectionately; a glimmer of pale moonlight through a small window"
+  },
+  "i18n": {
+    "ar": {
+      "title": "سندريلا",
+      "subtitle": "حكاية الحذاء الزجاجي",
+      "tagline": "فتاة لطيفة، حلم بسيط، وليلة سحرية"
+    },
+    "en": {
+      "title": "Cinderella",
+      "subtitle": "The Tale of the Glass Slipper",
+      "tagline": "A kind girl, a simple dream, and a magical night"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A loving father gently lifts a little girl onto a wooden swing in a sunny garden full of pink and white blossoms. The mother watches happily from a stone bench, holding a small bouquet."
+      },
+      "ar": { "text": "في بلدةٍ بعيدة، عاشت طفلةٌ لطيفة مع أبيها وأمها في بيتٍ صغيرٍ بحديقة. كانت أمها تغني لها كل ليلة، وأبوها يعلّمها أسماء الزهور. كانت أيامها مليئة بالحب والضحك.", "voice": "shimmer" },
+      "en": { "text": "In a town far away, a kind little girl lived with her father and mother in a small cottage with a garden. Her mother would sing to her every night, and her father would teach her the names of all the flowers. Her days were full of love and laughter.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A sad young girl in mourning clothes stands in a quiet garden by a small tombstone. A single white dove perches on the stone. The garden is fading from summer to autumn, with leaves drifting down."
+      },
+      "ar": { "text": "لكن الأيام الجميلة لم تدم. مرضت الأم ثم تركتهم. حزن الأب وابنته حزناً شديداً، وكانت الفتاة تجلس كل يوم بقرب الحديقة، تتحدّث مع طيرٍ صغير كأنه يفهمها.", "voice": "shimmer" },
+      "en": { "text": "But the happy days did not last. The mother fell ill and was gone. The father and daughter grieved deeply, and the girl would sit each day by the garden, whispering to a little bird as if it understood every word.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A stern, well-dressed woman with two haughty teenage daughters arrives at a manor doorway. A kind father introduces them to his quiet, hopeful young daughter. The new family looks cold and unwelcoming."
+      },
+      "ar": { "text": "بعد سنوات، تزوّج الأب من امرأة لها بنتان كبيرتان. ظنّ أنه يقدم لابنته عائلةً جديدة. لكن زوجة الأب كانت قاسية، وبنتاها كانتا متكبّرتَين، تنظران إلى الفتاة كأنها خادمة لا أخت.", "voice": "shimmer" },
+      "en": { "text": "Years later, the father married a woman who had two grown daughters of her own. He hoped he was giving his child a new family. But the stepmother was cold, and her daughters were proud and unkind — looking at the girl as if she were a servant, not a sister.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A girl in a faded dress kneels at a stone hearth, sweeping ashes into a small pile. Soot has darkened her cheek. Three mice and a tiny robin watch from a corner with gentle, sympathetic faces."
+      },
+      "ar": { "text": "بعد مرض الأب وموته، أصبحت الفتاة وحيدةً تماماً. أخذتها زوجة الأب لتعمل في المطبخ، تنظّف الرماد من الموقد كل يوم. ومن كثرة الرماد على وجهها، نادتها أخواتها بسخريةٍ «سندريلا»، أي فتاة الرماد.", "voice": "shimmer" },
+      "en": { "text": "After her father grew ill and passed away, the girl was all alone. The stepmother made her work in the kitchen, sweeping ashes from the hearth each day. Because of the soot that smudged her face, her stepsisters mockingly called her \"Cinderella\" — meaning the girl of cinders.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Cinderella patches a torn apron by candlelight in a tiny attic room. A bowl of crusty bread sits beside her. Mice gather around her feet, and a sparrow rests on her shoulder, as if keeping her company."
+      },
+      "ar": { "text": "كانت سندريلا تنام في غرفةٍ صغيرة في العلّية، وتأكل بقايا الطعام. لكنها لم تفقد لطفها أبداً. كانت تتحدّث مع الفئران والعصافير، وتغني لهم وهي تعمل، فأصبحوا أعزّ أصدقائها.", "voice": "shimmer" },
+      "en": { "text": "Cinderella slept in a tiny attic room and ate scraps of food. Yet she never lost her kindness. She talked to the mice and birds and sang as she worked, until they became her dearest friends.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A royal messenger in fine livery hands a gold-bordered invitation to a haughty stepmother at the manor door. Inside, two stepsisters squeal with excitement. Cinderella watches quietly from the staircase."
+      },
+      "ar": { "text": "في يومٍ من الأيام، جاء رسولٌ من القصر يحمل دعوةً ذهبية. كان الأمير الشاب سيقيم حفلاً عظيماً، ودعا كل بنات المملكة. صرخت الأختان من الفرح، وبدأتا تخطّطان لفساتينهما الفاخرة.", "voice": "shimmer" },
+      "en": { "text": "One day, a royal messenger arrived with a gold-edged invitation. The young prince was to hold a grand ball, and every young woman in the kingdom was invited. The stepsisters squealed with delight and began planning their fanciest gowns.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Cinderella holds up a simple, faded dress next to a flickering candle, looking at it with quiet longing. Through a tiny attic window, fireworks bloom in the night sky over a distant castle."
+      },
+      "ar": { "text": "تجرّأت سندريلا وسألت: «هل أستطيع الذهاب أيضاً؟» سخرت منها أختاها وقالت زوجة أبيها: «إن انتهيتِ من كل أعمال البيت وكان لديكِ فستان مناسب.» ابتسمت سندريلا بأمل، وأخرجت فستاناً قديماً لأمها.", "voice": "shimmer" },
+      "en": { "text": "Cinderella took a deep breath and asked, \"May I go too?\" Her stepsisters laughed, and the stepmother said, \"If you finish every chore in the house and have a fine dress to wear.\" Cinderella smiled hopefully and pulled out an old dress that had belonged to her mother.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Mice and birds carry a thimble, a ribbon, lace, and buttons; together they help mend an old dress on a small wooden stool. Cinderella looks at them in wonder, hands clasped in gratitude. Warm afternoon light."
+      },
+      "ar": { "text": "ساعد الفئران والعصافير سندريلا. حملوا الإبر والخيوط، وخاطوا الفستان معاً. ضحكت سندريلا فرحاً، وقالت: «أنتم أعز أصدقائي في الدنيا!» وعندما انتهت، أصبح الفستان جميلاً جداً.", "voice": "shimmer" },
+      "en": { "text": "The mice and birds came to help. They carried needles and thread and stitched her dress together, working as a tiny team. Cinderella laughed with joy and whispered, \"You are the dearest friends in the world.\" When at last they finished, the dress had become quite lovely.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Two angry stepsisters in extravagant ball gowns tear at a simple mended dress on Cinderella, ripping a ribbon and a sleeve, while the stepmother watches coldly with crossed arms. Cinderella's eyes fill with tears."
+      },
+      "ar": { "text": "لكن عندما رأت زوجة الأب فستان سندريلا، اشتعلت بالغيرة. مزّقت الأختان الفستان بأيديهما، ثم سحبتاها زوجة الأب وقالت: «لن تذهبي إلى الحفل. لا فستان لديكِ.» جلست سندريلا في الحديقة تبكي.", "voice": "shimmer" },
+      "en": { "text": "But when the stepmother saw the dress, she burned with jealousy. The stepsisters tore the ribbons and sleeves, and the stepmother snapped, \"You shall not go to the ball — you have no gown.\" Cinderella stumbled into the garden and wept into her hands.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "A glowing fairy godmother in soft blue and silver robes appears in a moonlit garden, twirling a sparkling wand. Cinderella looks up in amazement, tears still on her cheeks. Fireflies and gentle light swirl around them."
+      },
+      "ar": { "text": "وفجأةً، ظهر ضوءٌ ناعم! وقفت أمامها سيدةٌ لطيفة بثوبٍ فضي تحمل عصاً سحرية. قالت بابتسامة: «لا تبكي يا عزيزتي. أنا عرّابتك السحرية. ستذهبين إلى الحفل.»", "voice": "shimmer" },
+      "en": { "text": "Suddenly, a soft glow filled the garden! A gentle lady in silver robes stood before her, holding a sparkling wand. She smiled and said, \"Do not cry, dear one. I am your fairy godmother. To the ball you shall go.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The fairy godmother taps a large round pumpkin in a vegetable patch with her wand; it shimmers with stars and transforms into an elegant golden carriage with crystal windows. Cinderella watches with wide, joyful eyes."
+      },
+      "ar": { "text": "لمست العرّابة قرعةً كبيرة بعصاها، فتحوّلت إلى عربةٍ ذهبية متلألئة! ثم لمست أربعة فئران، فأصبحوا خيولاً بيضاء جميلة. ولمست ضفدعاً، فصار سائقاً مهذّباً!", "voice": "shimmer" },
+      "en": { "text": "The godmother tapped a large pumpkin with her wand, and it became a sparkling golden carriage! She touched four little mice, and they became four white horses. She tapped a frog, and he became a polite, smiling coachman!", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Cinderella spins in delight in a stunning blue ball gown that shimmers like starlight; tiny crystal slippers gleam on her feet. The fairy godmother smiles proudly, and the magical carriage waits in the moonlight behind them."
+      },
+      "ar": { "text": "ثم لوّحت بعصاها فوق سندريلا، فتحوّل ثوبها البالي إلى فستانٍ زرقاءَ كنجوم السماء، وظهر في قدميها حذاءان من البلور. صرخت سندريلا فرحاً: «إنه كالحلم!»", "voice": "shimmer" },
+      "en": { "text": "Then the godmother waved her wand over Cinderella herself. Her tattered dress shimmered into a flowing gown of starlight blue, and on her feet appeared two slippers of pure glass. Cinderella gasped, \"It is like a dream!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The fairy godmother holds Cinderella's hands with a serious, kind expression. A round moon is partly visible behind a clock tower in the background. The fairy raises one finger as if giving a warning."
+      },
+      "ar": { "text": "قالت العرّابة بصوتٍ جدّي: «لكن انتبهي، يا عزيزتي. عند الساعة الثانية عشرة منتصف الليل، ينتهي السحر. كل شيءٍ سيعود إلى ما كان. فعودي قبل دقّات الساعة!»", "voice": "shimmer" },
+      "en": { "text": "The godmother held Cinderella's hands and spoke seriously, \"But take care, my dear. At the stroke of twelve, the magic will end. Everything will return to what it was. Be home before the clock chimes midnight.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "A grand royal ballroom filled with elegant dancers under glittering chandeliers. Cinderella enters quietly through tall double doors, and every head turns toward her in admiration. The young prince, in a blue coat, stares with wonder."
+      },
+      "ar": { "text": "وصلت سندريلا إلى القصر. لم يعرفها أحد، حتى أختاها وأمّها لم تتعرّفا عليها! توقّفت الموسيقى للحظة عندما دخلت، فقد كانت أجمل فتاة في الحفل. اقترب الأمير وانحنى لها قائلاً: «هل ترقصين معي؟»", "voice": "shimmer" },
+      "en": { "text": "Cinderella arrived at the palace. No one recognized her — not even her stepsisters or stepmother! The music almost paused as she entered, for she was the loveliest at the ball. The prince crossed the room, bowed, and said, \"May I have this dance?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Cinderella and the young prince dance gracefully in the center of a magnificent ballroom. Light glints off her glass slippers. Other guests blur around them, mesmerized. The two smile shyly at each other."
+      },
+      "ar": { "text": "رقصت سندريلا مع الأمير طوال الليل. تحدّثا وضحكا، ولم يلاحظا مرور الوقت. كان الأمير قد وجد فتاةً تحبّ الحديقة والنجوم مثله تماماً. وكانت سندريلا قد نسيت كل أحزانها.", "voice": "shimmer" },
+      "en": { "text": "Cinderella danced with the prince through the entire evening. They talked and laughed and did not notice the hours slipping by. The prince had found a young woman who loved gardens and stars just as he did — and Cinderella had forgotten every sorrow in her heart.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": {
+        "prompt": "Cinderella runs down the palace's grand marble staircase in panic, one glass slipper coming off and tumbling on a step. Behind her, a great clock tower shows the time striking twelve. The prince runs after her, hand outstretched."
+      },
+      "ar": { "text": "وفجأةً، دقّت الساعة! واحد... اثنان... ثلاثة! تذكّرت سندريلا تحذير العرّابة. هرعت إلى الباب دون أن تلتفت! نزلت السلّم بسرعة، وفي عجلتها سقط أحد حذائها البلوريَّين على الدرج.", "voice": "shimmer" },
+      "en": { "text": "Suddenly, the great clock began to strike! One... two... three! Cinderella remembered the godmother's warning. She rushed for the door without a glance back! As she flew down the marble staircase, one tiny glass slipper slipped from her foot and tumbled onto the step.", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": {
+        "prompt": "The young prince crouches on a moonlit staircase, holding up a single glass slipper that sparkles in the moonlight. He looks longingly toward an empty road where a carriage has just vanished, with autumn leaves swirling."
+      },
+      "ar": { "text": "اختفت سندريلا في الظلام، وعادت العربة قرعةً، والخيول فئراناً، وثوبها إلى أسماله القديمة. وقف الأمير على الدرج وحيداً، يحمل الحذاء البلوري ويفكّر: «من هي تلك الفتاة؟»", "voice": "shimmer" },
+      "en": { "text": "Cinderella vanished into the night. The carriage became a pumpkin again, the horses turned back into mice, and her gown returned to its old rags. The prince stood on the stairs alone, holding the glass slipper, wondering, \"Who was that wonderful girl?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_18",
+      "image": {
+        "prompt": "A royal herald with a satin cushion bearing a single glass slipper rides through a village on a white horse. Stepsisters in fancy clothes squeeze their feet into the slipper unsuccessfully on a velvet stool, looking frustrated."
+      },
+      "ar": { "text": "في اليوم التالي، أعلن الأمير: «من تناسبها هذه الحذاء، أتزوّجها!» جاب الجنود كل البيوت. حاولت الأختان أن يلبسا الحذاء، لكن أقدامهما كانت كبيرة جداً عليه!", "voice": "shimmer" },
+      "en": { "text": "The next day, the prince declared, \"Whoever this slipper fits, I shall marry her!\" His soldiers carried the slipper from house to house. The stepsisters tried with all their might to squeeze their feet into the tiny shoe — but their feet were far too big!", "voice": "fable" }
+    },
+    {
+      "id": "scene_19",
+      "image": {
+        "prompt": "Cinderella, still in her work clothes, sits on a wooden stool while a royal soldier kneels and gently slips a perfectly fitting glass slipper onto her foot. The stepmother and stepsisters watch in shock from the doorway."
+      },
+      "ar": { "text": "ثم جاء دور سندريلا. حاولت زوجة الأب أن تخفيها، لكن الجندي أصرّ على أن تجرّب. وضع الحذاء في قدمها، فدخل بسهولة، وكان مقاسها تماماً! ثم أخرجت سندريلا الحذاء الثاني من جيبها!", "voice": "shimmer" },
+      "en": { "text": "Then it was Cinderella's turn. The stepmother tried to hide her, but the soldier insisted. He slipped the shoe onto her foot, and it fit perfectly! Then Cinderella reached into her apron pocket and pulled out the matching slipper!", "voice": "fable" }
+    },
+    {
+      "id": "scene_20",
+      "image": {
+        "prompt": "Cinderella and the prince stand together in a sunlit palace garden full of flowers and white doves. Cinderella wears a simple, beautiful dress with a flower crown. They smile warmly at each other, hands clasped. The mice and birds peek joyfully from a hedge."
+      },
+      "ar": { "text": "ابتسم الأمير وأخذ يدها بلطف. عاد بها إلى القصر، وعاش معها حياةً مليئة بالحب والضحك، تماماً كحياة طفولتها. وعفت سندريلا عن أختيها، فعرفت أن اللطف أقوى من كل شيء.", "voice": "shimmer" },
+      "en": { "text": "The prince smiled and gently took her hand. He brought her to the palace, and together they lived a life full of love and laughter — just like the one she had known as a little girl. Cinderella forgave her stepsisters too, for she had learned that kindness is the greatest magic of all.", "voice": "fable" }
+    }
+  ]
+}

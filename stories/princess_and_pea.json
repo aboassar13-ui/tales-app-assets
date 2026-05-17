@@ -1,0 +1,89 @@
+{
+  "id": "princess_and_pea",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 4,
+  "style_suffix": "warm watercolor children's book illustration, royal palace palette with elegant beds and storm clouds, expressive friendly faces with comedic timing, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A drenched, bedraggled but smiling young princess stands at a grand castle door during a thunderstorm; the queen peeks out, holding a candle, looking skeptical but curious"
+  },
+  "i18n": {
+    "ar": { "title": "الأميرة وحبّة البازلاء", "subtitle": "حكاية من حكايات أندرسن", "tagline": "كيف تعرف أميرة حقيقية؟ حبّةٌ صغيرةٌ تخبرك!" },
+    "en": { "title": "The Princess and the Pea", "subtitle": "A Tale by Hans Christian Andersen", "tagline": "How do you find a true princess? One tiny pea tells all!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A young handsome prince sits looking thoughtfully at a globe in a grand royal library. Many maps and books are scattered around. He looks slightly worried, as if facing a problem." },
+      "ar": { "text": "كان هناك أميرٌ يحلم بالزواج. لكنّه كان يريد أميرةً حقيقية — لا تشبهها أيّة أخرى. سافر في كلّ مكان، رأى أميراتٍ كثيرات، لكنّ شيئاً ما لم يكن صحيحاً في أيٍّ منهن. عاد إلى قصره حزيناً.", "voice": "fable" },
+      "en": { "text": "There was once a prince who dreamed of marriage. But he wanted a true princess — one like no other. He traveled everywhere and met many princesses, but something wasn't quite right with any of them. He returned home sadly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A massive thunderstorm rages outside a castle. Rain pours, lightning flashes, wind whips trees. The castle's small lit windows glow in the dark night." },
+      "ar": { "text": "في ليلةٍ ممطرة، هطل المطر بشدّة. كانت الرياح عاتية، والبرق يضيء السماء. كان الأمير والملكة (أمه) في القصر حين سمعوا طرقاً على الباب الكبير.", "voice": "fable" },
+      "en": { "text": "On a stormy night, rain poured heavily. The wind howled, and lightning lit the sky. The prince and the queen (his mother) were in the castle when they heard a knocking at the great door.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A drenched, soaked young woman in a ruined dress stands at the castle door. She's wet from head to toe, water dripping everywhere. But she stands politely, smiling, with kind eyes. A guard opens the door, looking surprised." },
+      "ar": { "text": "فتح الحارس الباب، فوجد فتاةً مبلّلة بالكامل! كانت ثيابها يتدفّق منها الماء، وشعرها متبلّل. لكنّها وقفت بأدبٍ وابتسامة، وقالت: «أنا أميرة، تائهة في العاصفة. هل تستضيفونني؟»", "voice": "fable" },
+      "en": { "text": "The guard opened the door and found a thoroughly drenched young woman! Water poured from her clothes, her hair dripping wet. But she stood politely, smiling, and said, \"I am a princess, lost in the storm. Will you take me in?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The queen examines the soaked young woman skeptically. She is fine-featured and polite despite her drenched state. The queen's expression is one of thoughtful suspicion. The prince watches kindly from the side." },
+      "ar": { "text": "نظرت الملكة إلى الفتاة. كانت لطيفة، لكن هل هي أميرةٌ حقاً؟ ابتسمت الملكة وقالت: «بالطبع! ندخلكِ.» لكنها فكّرت في سرّها: «سأمتحنها بطريقةٍ ذكية. سأرى إن كانت أميرةً حقيقية.»", "voice": "fable" },
+      "en": { "text": "The queen looked at the young woman. She was polite, but was she really a princess? The queen smiled and said, \"Of course! Come in.\" But she thought to herself, \"I shall test her cleverly. I'll see if she's truly a princess.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The queen, in a luxurious bedroom, secretly places a single tiny green pea on a wooden bed frame. The bed is empty — no mattress yet. The queen has a small mischievous smile, looking sneaky." },
+      "ar": { "text": "ذهبت الملكة إلى غرفة الضيوف. أخذت حبّة بازلاء صغيرة جداً، ووضعتها على إطار السرير. ابتسمت في سرّها — كان عندها فكرة عجيبة!", "voice": "fable" },
+      "en": { "text": "The queen went to the guest bedroom. She took one very tiny green pea and placed it on the wooden bed frame. She smiled to herself — she had quite a curious idea!", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Servants pile mattresses one after another on top of the pea, building a towering stack of twenty mattresses on the bed. The bed reaches up to the ceiling! A ladder leans against it. The queen supervises with crossed arms." },
+      "ar": { "text": "بعد ذلك، أمرت الخدم بأن يضعوا فوق البازلاء عشرين فراشاً، الواحدة فوق الأخرى! كان السرير عالياً جداً، يكاد يصل إلى السقف! ثم أضافت عشرين لحافاً ريشياً ناعماً فوقها أيضاً.", "voice": "fable" },
+      "en": { "text": "Then she ordered the servants to pile twenty mattresses on top of the pea, one over the other! The bed became so tall it nearly touched the ceiling! Then she added twenty soft eiderdown quilts on top.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The young woman, now dried and in a borrowed nightgown, climbs the ladder up to the towering bed. She looks puzzled but polite. She tucks herself in at the very top. The room is grand and warm." },
+      "ar": { "text": "تغيّرت ملابس الفتاة، فأصبحت دافئة وجافّة. صعدت السلّم إلى السرير العالي. كان وضع غريب! ابتسمت بأدب، ودخلت تحت الأغطية. تمنّت الملكة لها ليلةً سعيدة، وأطفأت الشموع.", "voice": "fable" },
+      "en": { "text": "The young woman changed into dry warm clothes. She climbed the ladder up to the very tall bed. It was a strange sight! She smiled politely and slipped under the covers. The queen wished her good night and blew out the candles.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The young woman tosses and turns uncomfortably on the towering bed. She rolls left, then right, then sits up sleeplessly. Her expression shows mild discomfort and frustration. The room is dark, only moonlight." },
+      "ar": { "text": "حاولت الفتاة أن تنام. تقلّبت يميناً، ثم يساراً. شعرت بشيءٍ صلب يضغط على ظهرها! حاولت مرّةً، مرّتين، عشرات المرّات — لم تستطع! بقيت مستيقظة طوال الليل.", "voice": "fable" },
+      "en": { "text": "The young woman tried to sleep. She turned to the right, then to the left. She felt something hard pressing on her back! She tried once, twice, dozens of times — she couldn't sleep! She lay awake all night.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Morning. The young princess, looking exhausted with dark circles under her eyes, sits at a breakfast table. The queen leans forward eagerly to hear her response. The prince waits with quiet interest." },
+      "ar": { "text": "في الصباح، نزلت الفتاة إلى الإفطار، وعيناها متعبتان جداً. سألتها الملكة بلطف: «كيف كانت ليلتكِ، يا عزيزتي؟» تنهّدت الفتاة: «أعذريني، يا سيدتي، لم أنم! شعرتُ بشيءٍ قاسٍ في الفراش، وآلمني ظهري كثيراً!»", "voice": "fable" },
+      "en": { "text": "In the morning, the young woman came down to breakfast, her eyes very tired. The queen asked kindly, \"How did you sleep, my dear?\" The young woman sighed, \"Forgive me, madam — I didn't sleep at all! Something hard was in the bed, and my back hurts so!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The queen smiles triumphantly, holding up the tiny pea between her fingers — proof of the princess's sensitive nature. The prince beams with delight at the young woman, who finally smiles in understanding." },
+      "ar": { "text": "ابتسمت الملكة ابتسامةً كبيرة. قالت: «الحمد لله! أنتِ أميرةٌ حقيقية بكلّ تأكيد!» شرحت لها الاختبار. ضحكت الفتاة من المفاجأة. فقط أميرةٌ حقيقية تستطيع أن تشعر بحبّة بازلاء تحت عشرين فراشاً وعشرين لحافاً!", "voice": "fable" },
+      "en": { "text": "The queen smiled a great smile. She said, \"Wonderful! You are a true princess indeed!\" She explained the test. The young woman laughed in surprise. Only a true princess could feel a single pea beneath twenty mattresses and twenty quilts!", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The prince and the young princess sit together in a sunny garden, both smiling warmly. They have just been introduced properly. Birds and flowers surround them. They look happy to have found each other." },
+      "ar": { "text": "تعرّفت الأميرة على الأمير. كانا متشابهَين في اللطف والحبّ. وقع كلّ منهما في حبّ الآخر. وافق الجميع على زواجهما. أصبحا أميراً وأميرة، عاشا في سعادةٍ ومحبّة.", "voice": "fable" },
+      "en": { "text": "The princess met the prince. They were so alike in kindness and warmth. Each fell in love with the other. All agreed to their marriage. They became prince and princess together, living in love and happiness.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The same tiny pea sits on display in a glass case in a royal museum hallway, with a small label beneath it. A few visitors look at it with curiosity and amusement. The atmosphere is bright and museum-like." },
+      "ar": { "text": "أمّا حبّة البازلاء، فقد وضعوها في متحف القصر، تحت زجاجةٍ مغلقة. ومرّ كلّ زائرٍ يقرأ عنها، ويعجب من أنّ شيئاً صغيراً يمكن أن يكون مفتاحاً لقصّة كبيرة. وحتى اليوم، نقول عن أيّ شخص حسّاسٍ جداً: «إنه يشعر بحبّة البازلاء تحت عشرين فراشاً!»", "voice": "fable" },
+      "en": { "text": "As for the pea, they placed it in the palace museum, in a glass case. Every visitor read about it, marveling that something so small could be the key to such a big story. To this day, we say about anyone very sensitive, \"They can feel a pea under twenty mattresses!\"", "voice": "fable" }
+    }
+  ]
+}

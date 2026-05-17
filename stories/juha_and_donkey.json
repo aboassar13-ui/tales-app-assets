@@ -1,0 +1,71 @@
+{
+  "id": "juha_and_donkey",
+  "category": "arabic_classic",
+  "source": "Juha / Nasreddin folk tradition (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, Middle Eastern village palette, expressive funny Juha character with beard and turban, small donkey, traditional clothing, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Juha, an elderly Middle Eastern man with white beard and red turban, walks beside a small gray donkey through a sunny village. His young son walks beside him. Both look thoughtful. Traditional adobe houses line the road."
+  },
+  "i18n": {
+    "ar": { "title": "جحا وحماره", "subtitle": "من حكايات جحا الشعبية", "tagline": "لا تستطيع أن ترضي كلّ الناس، وعندك حمار واحد!" },
+    "en": { "title": "Juha and His Donkey", "subtitle": "From the Juha Folk Tradition", "tagline": "You can't please everyone — especially with only one donkey!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "Juha, an elderly man with a white beard and red turban, prepares to leave on a journey from his small adobe home. His young son holds the rope of a small gray donkey. The sun rises over a village." },
+      "ar": { "text": "ذات يوم، قرّر جحا الذهاب إلى السوق مع ابنه الصغير. كان معهما حمارٌ واحد فقط. خرجا من قريتهما في الصباح الباكر، يفكّران من سيركب الحمار.", "voice": "onyx" },
+      "en": { "text": "One day, Juha decided to go to the market with his young son. They had only one donkey. They set out from their village in the early morning, wondering who should ride.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Juha walks on foot beside the donkey while his small son rides on the donkey's back, looking comfortable. They pass a group of villagers who are watching critically. One man frowns and points." },
+      "ar": { "text": "قال جحا: «أنا كبير، أمشي. اركب أنت يا بُنيّ.» ركب الابن الحمار، ومشى الأب بجانبه. مرّوا بقومٍ في الطريق، فقال أحدهم بصوتٍ عالٍ: «انظروا! ولدٌ صغير يركب، وأبوه العجوز يمشي! أين الاحترام؟»", "voice": "onyx" },
+      "en": { "text": "Juha said, \"I am old, I will walk. You ride, my son.\" The son rode the donkey, while the father walked beside him. They passed some people on the road. One said loudly, \"Look! A young boy rides while his old father walks! Where is the respect?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Juha and son switch positions. Now Juha rides on the donkey, looking thoughtful, while his small son walks alongside, looking tired in the dusty road. They pass new bystanders looking displeased." },
+      "ar": { "text": "ارتبك جحا، وقال لابنه: «انزل، فلأركب أنا.» ركب جحا، ومشى ابنه. لكن، عند القرية التالية، صاحت امرأة: «يا للأنانية! أبٌ ضخم يركب الحمار، وابنه الصغير الضعيف يمشي وراءه؟ ألا تخاف الله؟»", "voice": "onyx" },
+      "en": { "text": "Juha grew uncertain and told his son, \"Get down, let me ride.\" Juha rode, the son walked. But at the next village, a woman shouted, \"Selfishness! A big man rides while his small weak son walks behind! Have you no shame?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Both Juha and his son ride the donkey together. The poor donkey looks overburdened, his back sagging. They pass yet more people, who shake their heads disapprovingly. One man points sympathetically at the donkey." },
+      "ar": { "text": "أحسّ جحا بالحرج. قال لابنه: «اركب معي.» ركبا الحمار معاً. ولكنّ الحمار بدأ يتعب! وفي القرية التالية، قال رجلٌ: «لا حول ولا قوّة! اثنان كبيران يركبان حماراً صغيراً مسكيناً! ستكسرون ظهره!»", "voice": "onyx" },
+      "en": { "text": "Juha grew embarrassed. He said to his son, \"Ride with me.\" They both got on the donkey. But the donkey began to tire! In the next village, a man said, \"For shame! Two people on one little donkey! You'll break his back!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Juha and his son walk on either side of the donkey, both on foot. The donkey trots happily, unburdened. But more bystanders watch from the road, looking confused. One man scratches his head." },
+      "ar": { "text": "نزلا الاثنان، ومشى كلّ منهما بجانب الحمار. لكن قبل أن يصلا للسوق، قال شخصٌ آخر: «انظروا! ثلاثة يمشون، حمارٌ فارغ! حماقة! من يملك حماراً ولا يركبه؟»", "voice": "onyx" },
+      "en": { "text": "They both got down and walked beside the donkey. But before they reached the market, someone else said, \"Look! Three walking, an empty donkey! Foolishness! Who owns a donkey and doesn't ride it?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "In a hilarious moment, Juha and his son have tied the donkey's legs to a long pole and are carrying him on their shoulders. The donkey looks comically confused. Onlookers in the marketplace are laughing." },
+      "ar": { "text": "تنهّد جحا، ثم ابتسم بفكرةٍ غريبة! ربط أرجل الحمار بعصا طويلة، وحمل هو وابنه الحمار على أكتافهما! دخلوا السوق بهذا الشكل! تجمّع الناس يضحكون.", "voice": "onyx" },
+      "en": { "text": "Juha sighed, then smiled with a strange idea! He tied the donkey's legs to a long pole, and he and his son carried the donkey on their shoulders! They entered the market like this! People gathered and laughed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Juha sets the donkey down in the busy marketplace. He addresses the crowd around him with a wide gesture, smiling wisely. His son listens with admiration. The donkey looks relieved." },
+      "ar": { "text": "وضع جحا الحمار في وسط السوق. التفت إلى الناس وقال بضحك: «يا قوم! انظروا — مهما فعلتُ، يقول الناس إنّ ذلك خطأ. ركبتُ — قلتم لي ظالم. نزل ابني — قلتم لي بخيل. ركبنا معاً — قلتم لي قاسٍ. مشينا معاً — قلتم لي أحمق. الآن، نحملُ الحمار! ماذا تقولون الآن؟»", "voice": "onyx" },
+      "en": { "text": "Juha set the donkey down in the middle of the market. He turned to the people and said with a chuckle, \"People! Look — no matter what I do, you say it's wrong. I rode — you called me unjust. My son got down — you called me selfish. We rode together — you called me cruel. We walked together — you called me foolish. Now we carry the donkey! What do you say now?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The marketplace crowd laughs heartily, some nodding in agreement. An old wise man smiles at Juha approvingly. Children watch in delight. Juha looks satisfied and is sharing a final lesson." },
+      "ar": { "text": "ضحك الناس كثيراً. ابتسم جحا وقال بحكمة: «هذا الدرس لكم ولي: لو حاولت أن ترضي كلّ الناس، فلن ترضي أحداً، وستضيع نفسك. افعل ما تظنّه صواباً، واتركهم يقولون ما يشاؤون.»", "voice": "onyx" },
+      "en": { "text": "The people laughed heartily. Juha smiled and said wisely, \"This lesson is for you and for me: if you try to please everyone, you'll please no one — and lose yourself in the process. Do what you think is right, and let people say what they will.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Juha and his son ride together on the donkey, both relaxed and laughing. They are heading home from the market with their bag of goods. The setting sun paints the village golden. No more critical onlookers." },
+      "ar": { "text": "ركب جحا وابنه الحمار معاً، واشتريا ما يحتاجاه من السوق. عادا إلى البيت سعيدَين. ولم يلتفتا إلى كلام الناس بعد ذلك. كان الحمار سعيداً أيضاً، فقد عرف الطريق إلى البيت!", "voice": "onyx" },
+      "en": { "text": "Juha and his son rode the donkey together and bought what they needed from the market. They went home happy. They paid no mind to people's talk anymore. The donkey was happy too — he knew the way home!", "voice": "fable" }
+    }
+  ]
+}

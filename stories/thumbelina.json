@@ -1,0 +1,113 @@
+{
+  "id": "thumbelina",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "warm watercolor children's book illustration, dreamy garden palette with oversized flowers, tiny princess with butterfly companions, gentle pastel colors, fairy-tale meadow mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tiny princess no bigger than a thumb stands on a giant tulip's center, surrounded by oversized flowers and friendly butterflies; she has long golden hair and wears a dress made of flower petals"
+  },
+  "i18n": {
+    "ar": { "title": "إصبعية الصغيرة", "subtitle": "حكاية من حكايات أندرسن", "tagline": "أصغر فتاة في العالم، أكبر مغامرة" },
+    "en": { "title": "Thumbelina", "subtitle": "A Tale by Hans Christian Andersen", "tagline": "The world's smallest girl, the world's biggest adventure" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A kind woman in a small cottage gazes at a single magical flower bud growing in a pot on her windowsill. The bud is glowing faintly. Her expression is filled with longing and hope." },
+      "ar": { "text": "كانت هناك امرأة طيّبة تعيش وحيدة، وتتمنى طفلةً صغيرة. ذهبت إلى ساحرةٍ طيبة، وطلبت منها مساعدتها. أعطتها الساحرة حبّة شعير عجيبة، وقالت: «ازرعيها في إناء، وسترين عجباً.»", "voice": "shimmer" },
+      "en": { "text": "There once was a kind woman who lived alone, longing for a little daughter. She went to a kindly witch and asked for help. The witch gave her a magical barley seed and said, \"Plant it in a pot, and you shall see a wonder.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A large tulip blossom opens on the windowsill, revealing a tiny perfect princess no bigger than a thumb at its heart. She has bright eyes, golden hair, and wears a dress of flower petals. The woman's mouth opens in delight." },
+      "ar": { "text": "زرعت المرأة الحبّة، فنمت زهرة جميلة. وفي يومٍ، انفتحت الزهرة، فظهرت فيها طفلةٌ صغيرة جداً، ليس أكبر من إبهامٍ! سمّتها المرأة «إصبعية» من شدّة صغرها. كانت أجمل ما رأت!", "voice": "shimmer" },
+      "en": { "text": "The woman planted the seed, and a beautiful flower grew. One day, the flower opened, and inside was a tiny child — no bigger than a thumb! The woman called her Thumbelina, for her smallness. She was the loveliest thing she had ever seen!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Thumbelina sleeps peacefully in a polished walnut shell with petal blankets on a bedside table. Moonlight streams in through a cottage window. The night is cozy and quiet." },
+      "ar": { "text": "كانت إصبعية تنام في قشرة جوزٍ مصقولة، وتلتفّ بأوراق الزهور. كانت تغنّي بصوتٍ جميل كأجمل الطيور. كان قلب المرأة يمتلئ سعادةً كل صباح.", "voice": "shimmer" },
+      "en": { "text": "Thumbelina slept in a polished walnut shell, wrapped in flower petals. She sang in a voice as beautiful as the finest birds. The woman's heart filled with joy every morning.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "A large brown toad reaches through an open window at night, grabbing Thumbelina's walnut-shell cradle. She's sleeping. The toad's expression is greedy but cartoonishly silly. The moon outside is full." },
+      "ar": { "text": "في ليلةٍ من الليالي، رأت إصبعيةَ ضفدعةٌ كبيرة من النافذة. فكّرت: «أيّ زوجةٍ جميلة لابني!» تسلّقت إلى الغرفة، وأخذت إصبعية من سريرها وهي نائمة.", "voice": "shimmer" },
+      "en": { "text": "One night, a big toad spotted Thumbelina through the window. She thought, \"What a lovely bride for my son!\" She climbed into the room and took Thumbelina, still asleep, from her bed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "Thumbelina sits on a lily pad in the middle of a pond, surrounded by water. The toad mother and her clumsy son are on the shore. Thumbelina looks worried, tiny on the green leaf. Friendly minnows swim below." },
+      "ar": { "text": "وضعتها الضفدعة على ورقة نيلوفر في وسط البركة. عندما استيقظت إصبعية ورأت نفسها على البركة، بكت بمرارة. كانت بعيدة عن أمها! لكنّ أسماكاً صغيرة سمعتها، فاجتمعت تحت الورقة.", "voice": "shimmer" },
+      "en": { "text": "The toad placed her on a water-lily leaf in the middle of the pond. When Thumbelina woke and found herself on the water, she wept bitterly. She was far from her mother! But little fish heard her, and gathered beneath the leaf.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "A school of friendly minnows nibble at the stem of the lily pad underwater. The pad begins to drift down the stream. Thumbelina sits on top, looking grateful as the leaf floats away from the toad." },
+      "ar": { "text": "نظرت الأسماك بشفقة. قضمت ساق الورقة بأسنانها، حتى انقطعت! بدأت الورقة تطفو بإصبعية بعيداً عن الضفدعة، عبر النهر. شكرت الأسماك بقلبها.", "voice": "shimmer" },
+      "en": { "text": "The fish looked at her with pity. They nibbled the stem of the leaf with their teeth until it broke! The leaf floated away with Thumbelina, far from the toad, down the stream. She thanked the fish in her heart.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A friendly butterfly flutters next to the leaf, attaching a silken thread to help pull it along the stream. Thumbelina holds the other end, looking delighted at her new friend. Lily flowers bloom around." },
+      "ar": { "text": "جاءت فراشة بيضاء جميلة، وحطّت على الورقة. ربطت إصبعيةُ خيطاً حريرياً من حزامها بالفراشة، فطارت الفراشة وسحبت الورقة بسرعة! ضحكت إصبعية، كانت أوّل مرّة تطير بهذا الشكل.", "voice": "shimmer" },
+      "en": { "text": "A beautiful white butterfly came and landed on the leaf. Thumbelina tied a silk thread from her sash to the butterfly, and the butterfly flew, pulling the leaf along faster! Thumbelina laughed — it was her first time \"flying.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A large beetle swoops down and lifts Thumbelina off the leaf with his front legs. Her butterfly companion is left behind. She looks startled but unhurt. The beetle has a curious, well-dressed look." },
+      "ar": { "text": "لكنّ في تلك اللحظة، انقضّ خنفسٌ ذهبيّ كبير من الجو! حمل إصبعية وطار بها إلى الشجرة. كان يقول: «يا لها من فتاةٍ غريبة! سأقدّمها لأصدقائي.» تركت الفراشة وحدها مع الورقة العائمة.", "voice": "shimmer" },
+      "en": { "text": "But at that moment, a large gold beetle swooped down from the air! He carried Thumbelina up into a tree. \"What a strange little creature! I'll show her to my friends,\" he said. He left the butterfly alone with the floating leaf.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Thumbelina sits on a leaf high in a tree, looking small and alone. The seasons are visibly changing — yellow and orange leaves drift around her. A few weeks pass, and she shivers in growing cold. Snow begins to fall." },
+      "ar": { "text": "تركها الخنفس مع زمرته من الخنافس. لكنّهم لم يعجبهم شكلها. فطرحوها وحدها على الأرض. عاشت إصبعية في المرج طوال الصيف، تأكل من العسل وتشرب من النّدى. ثمّ جاء الخريف، ثمّ الشتاء. شعرت بالبرد.", "voice": "shimmer" },
+      "en": { "text": "The beetle showed her to his beetle friends. But they didn't like the way she looked, and left her alone on the ground. Thumbelina lived in the meadow through the summer, eating honey and drinking dewdrops. Then autumn came, then winter. She felt the cold.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Tiny Thumbelina, shivering in the snow, knocks on the door of a small hole in the ground — the home of a kind field mouse. The field mouse, wearing a small apron, opens the door warmly." },
+      "ar": { "text": "كانت تمشي على الثلج، حتى وجدت بيت فأرة حقل صغيرة. طرقت الباب. فتحت لها الفأرة: «يا صغيرتي، تعالي إلى الدفء!» أدخلتها وأطعمتها. عاشت إصبعية مع الفأرة في الشتاء.", "voice": "shimmer" },
+      "en": { "text": "She walked across the snow until she found a small field mouse's home. She knocked. The mouse opened, \"Come in to the warmth, little one!\" She brought her in and fed her. Thumbelina stayed with the field mouse through the winter.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Thumbelina and the field mouse walk down a small earthen tunnel. They come upon a sleeping swallow lying on the ground — clearly cold and starving but still alive. Thumbelina gasps and kneels beside the bird." },
+      "ar": { "text": "في يومٍ من الأيام، سارت إصبعية في نفقٍ تحت الأرض. وجدت سنونوّاً صغيراً نائماً — كان متجمّداً ومتعباً. اعتقدت الفأرة أنه ميّت، لكنّ إصبعية لمست قلبه — كان ينبض! اعتنت به في السرّ.", "voice": "shimmer" },
+      "en": { "text": "One day, Thumbelina walked through an underground tunnel. She found a small swallow lying on the ground — frozen and weak. The mouse thought he was dead, but Thumbelina felt his heart — it still beat! She secretly cared for him.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "Thumbelina feeds the swallow seeds and water, gently warming him with her tiny hands. Each day passes and the swallow begins to revive. By spring, he is alert and grateful, looking at her tenderly." },
+      "ar": { "text": "كلّ يومٍ كانت إصبعية تجلب له بذوراً وماءً، وتدفّئه. شيئاً فشيئاً، استعاد السنونو قوّته. وعندما جاء الربيع، كان قد شُفي تماماً. شكرها كثيراً، وقال: «هل ترغبين بالطيران معي إلى الدفء؟»", "voice": "shimmer" },
+      "en": { "text": "Each day Thumbelina brought him seeds and water, and kept him warm. Little by little, the swallow recovered his strength. By spring, he was completely well. He thanked her deeply and said, \"Would you fly with me to warmer lands?\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Thumbelina rides on the swallow's back as he soars through bright blue skies, far from snow, toward sunny tropical lands. She laughs with joy, the wind in her hair. Below, mountains and oceans pass." },
+      "ar": { "text": "ركبت إصبعية على ظهر السنونو، وطارا معاً فوق الجبال والأنهار. وصلا إلى بلادٍ دافئة، مليئة بالزهور الكبيرة. سعدت إصبعية كأنها لم تسعد من قبل!", "voice": "shimmer" },
+      "en": { "text": "Thumbelina rode on the swallow's back, and together they flew over mountains and rivers. They reached warm lands full of huge flowers. Thumbelina was happier than she had ever been!", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "Thumbelina stands on top of a magnificent open flower. Inside the flower, a tiny prince emerges — a young man no bigger than her, with translucent wings, wearing a crown of petals. They look at each other in wonder." },
+      "ar": { "text": "نزلت من ظهر السنونو، ودخلت أكبر زهرة في الحديقة. وفجأة، رأت أميراً صغيراً، بحجمها تماماً! كان له تاجٌ من بتلات الورد، وجناحان شفّافان كالشمس. ابتسم لها: «أهلاً بأميرتي!»", "voice": "shimmer" },
+      "en": { "text": "She got down from the swallow and walked into the largest flower in the garden. Suddenly, she saw a tiny prince, no bigger than herself! He had a crown of rose petals and translucent wings like sunlight. He smiled at her, \"Welcome, my princess!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "Many tiny flower-people emerge from surrounding blossoms — fairies of all colors, each from their own flower. They gather around Thumbelina and the prince, smiling and welcoming. The flower-people have small wings of various pastel hues." },
+      "ar": { "text": "كان الأمير ملك حكاية الزهور، وكلّ زهرة فيها فردٌ منهم! اجتمعوا حول إصبعية، وقدّموا لها هدايا: زوجاً من الأجنحة الجميلة الشفّافة، وتاجاً من زهور صغيرة، واسماً جديداً: «مايا».", "voice": "shimmer" },
+      "en": { "text": "The prince was the king of the flower folk, and each blossom held one of his people! They gathered around Thumbelina and brought gifts: a pair of beautiful transparent wings, a small flower crown, and a new name — \"Maia.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "Thumbelina/Maia, now with shimmering wings, flies among the flowers with the prince and other flower-fairies in a magical celebration. Butterflies and tiny fireflies dance around them. The garden is bursting with light." },
+      "ar": { "text": "احتفلوا بزفاف إصبعية والأمير في كلّ أرجاء الحديقة. غنّت الطيور، ورقصت الفراشات. أرسل السنونو يحييهم من السماء، ووعد أن يعود في كلّ صيف. عاشت إصبعية ملكةً للزهور بسعادة.", "voice": "shimmer" },
+      "en": { "text": "They celebrated Thumbelina's wedding to the prince throughout the garden. Birds sang and butterflies danced. The swallow flew overhead, calling his greetings, promising to return every summer. Thumbelina lived as queen of the flowers, happily ever after.", "voice": "fable" }
+    }
+  ]
+}

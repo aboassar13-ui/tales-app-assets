@@ -1,0 +1,445 @@
+{
+  "version": "1.0.0",
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "categories": {
+    "fairy_tale": {
+      "ar": "حكايات خرافية",
+      "en": "Fairy Tales"
+    },
+    "fable": {
+      "ar": "حكايات على ألسنة الحيوانات",
+      "en": "Fables"
+    },
+    "adventure": {
+      "ar": "مغامرات",
+      "en": "Adventures"
+    },
+    "arabic_classic": {
+      "ar": "كلاسيكيات عربية",
+      "en": "Arabic Classics"
+    },
+    "nonfiction": {
+      "ar": "كتب معلومات",
+      "en": "Learning Books"
+    }
+  },
+  "stories": [
+    {
+      "id": "aladdin",
+      "category": "arabic_classic",
+      "order": 1,
+      "ar_title": "علاء الدين والمصباح السحري",
+      "en_title": "Aladdin and the Magic Lamp",
+      "scenes": 12,
+      "duration_minutes": 9
+    },
+    {
+      "id": "ali_baba",
+      "category": "arabic_classic",
+      "order": 2,
+      "ar_title": "علي بابا والأربعون لصاً",
+      "en_title": "Ali Baba and the Forty Thieves",
+      "scenes": 20,
+      "duration_minutes": 11
+    },
+    {
+      "id": "sinbad_first_voyage",
+      "category": "arabic_classic",
+      "order": 3,
+      "ar_title": "السندباد البحري — الرحلة الأولى",
+      "en_title": "Sinbad the Sailor — First Voyage",
+      "scenes": 20,
+      "duration_minutes": 10
+    },
+    {
+      "id": "fisherman_and_jinni",
+      "category": "arabic_classic",
+      "order": 4,
+      "ar_title": "الصياد والجني",
+      "en_title": "The Fisherman and the Jinni",
+      "scenes": 20,
+      "duration_minutes": 8
+    },
+    {
+      "id": "juha_and_donkey",
+      "category": "arabic_classic",
+      "order": 5,
+      "ar_title": "جحا وحماره",
+      "en_title": "Juha and His Donkey",
+      "scenes": 9,
+      "duration_minutes": 5
+    },
+    {
+      "id": "red_riding_hood",
+      "category": "fairy_tale",
+      "order": 10,
+      "ar_title": "ليلى والذئب",
+      "en_title": "Little Red Riding Hood",
+      "scenes": 9,
+      "duration_minutes": 6
+    },
+    {
+      "id": "cinderella",
+      "category": "fairy_tale",
+      "order": 11,
+      "ar_title": "سندريلا",
+      "en_title": "Cinderella",
+      "scenes": 20,
+      "duration_minutes": 11
+    },
+    {
+      "id": "snow_white",
+      "category": "fairy_tale",
+      "order": 12,
+      "ar_title": "بياضة الثلج",
+      "en_title": "Snow White",
+      "scenes": 20,
+      "duration_minutes": 11
+    },
+    {
+      "id": "sleeping_beauty",
+      "category": "fairy_tale",
+      "order": 13,
+      "ar_title": "الأميرة النائمة",
+      "en_title": "Sleeping Beauty",
+      "scenes": 20,
+      "duration_minutes": 9
+    },
+    {
+      "id": "three_little_pigs",
+      "category": "fairy_tale",
+      "order": 14,
+      "ar_title": "الخنازير الثلاثة الصغيرة",
+      "en_title": "The Three Little Pigs",
+      "scenes": 9,
+      "duration_minutes": 6
+    },
+    {
+      "id": "goldilocks",
+      "category": "fairy_tale",
+      "order": 15,
+      "ar_title": "الذهبية والدببة الثلاثة",
+      "en_title": "Goldilocks and the Three Bears",
+      "scenes": 20,
+      "duration_minutes": 7
+    },
+    {
+      "id": "hansel_and_gretel",
+      "category": "fairy_tale",
+      "order": 16,
+      "ar_title": "هانسل وجريتل",
+      "en_title": "Hansel and Gretel",
+      "scenes": 20,
+      "duration_minutes": 10
+    },
+    {
+      "id": "ugly_duckling",
+      "category": "fairy_tale",
+      "order": 17,
+      "ar_title": "البطة القبيحة",
+      "en_title": "The Ugly Duckling",
+      "scenes": 20,
+      "duration_minutes": 8
+    },
+    {
+      "id": "princess_and_pea",
+      "category": "fairy_tale",
+      "order": 18,
+      "ar_title": "الأميرة وحبّة البازلاء",
+      "en_title": "The Princess and the Pea",
+      "scenes": 12,
+      "duration_minutes": 4
+    },
+    {
+      "id": "thumbelina",
+      "category": "fairy_tale",
+      "order": 19,
+      "ar_title": "إصبعية الصغيرة",
+      "en_title": "Thumbelina",
+      "scenes": 16,
+      "duration_minutes": 9
+    },
+    {
+      "id": "bremen_town_musicians",
+      "category": "fairy_tale",
+      "order": 19,
+      "ar_title": "موسيقيو مدينة بريمن",
+      "en_title": "The Bremen Town Musicians",
+      "scenes": 18,
+      "duration_minutes": 8
+    },
+    {
+      "id": "rapunzel",
+      "category": "fairy_tale",
+      "order": 20,
+      "ar_title": "ربانزل",
+      "en_title": "Rapunzel",
+      "scenes": 20,
+      "duration_minutes": 9
+    },
+    {
+      "id": "rumpelstiltskin",
+      "category": "fairy_tale",
+      "order": 21,
+      "ar_title": "روملستيلتسكين",
+      "en_title": "Rumpelstiltskin",
+      "scenes": 16,
+      "duration_minutes": 8
+    },
+    {
+      "id": "jack_and_beanstalk",
+      "category": "fairy_tale",
+      "order": 22,
+      "ar_title": "جاك وساق الفاصوليا",
+      "en_title": "Jack and the Beanstalk",
+      "scenes": 20,
+      "duration_minutes": 9
+    },
+    {
+      "id": "frog_prince",
+      "category": "fairy_tale",
+      "order": 23,
+      "ar_title": "الأمير الضفدع",
+      "en_title": "The Frog Prince",
+      "scenes": 15,
+      "duration_minutes": 7
+    },
+    {
+      "id": "puss_in_boots",
+      "category": "fairy_tale",
+      "order": 24,
+      "ar_title": "القط ذو الحذاء",
+      "en_title": "Puss in Boots",
+      "scenes": 17,
+      "duration_minutes": 8
+    },
+    {
+      "id": "emperors_new_clothes",
+      "category": "fairy_tale",
+      "order": 25,
+      "ar_title": "ملابس الإمبراطور الجديدة",
+      "en_title": "The Emperor's New Clothes",
+      "scenes": 18,
+      "duration_minutes": 7
+    },
+    {
+      "id": "three_billy_goats_gruff",
+      "category": "fairy_tale",
+      "order": 26,
+      "ar_title": "التيوس الثلاثة الجريئة",
+      "en_title": "The Three Billy Goats Gruff",
+      "scenes": 12,
+      "duration_minutes": 6
+    },
+    {
+      "id": "beauty_and_beast",
+      "category": "fairy_tale",
+      "order": 27,
+      "ar_title": "الجميلة والوحش",
+      "en_title": "Beauty and the Beast",
+      "scenes": 15,
+      "duration_minutes": 10
+    },
+    {
+      "id": "peter_rabbit",
+      "category": "fairy_tale",
+      "order": 28,
+      "ar_title": "حكاية الأرنب بيتر",
+      "en_title": "The Tale of Peter Rabbit",
+      "scenes": 12,
+      "duration_minutes": 6
+    },
+    {
+      "id": "gingerbread_man",
+      "category": "fairy_tale",
+      "order": 29,
+      "ar_title": "رجل خبز الزنجبيل",
+      "en_title": "The Gingerbread Man",
+      "scenes": 13,
+      "duration_minutes": 5
+    },
+    {
+      "id": "stone_soup",
+      "category": "fairy_tale",
+      "order": 30,
+      "ar_title": "حساء الحجر",
+      "en_title": "Stone Soup",
+      "scenes": 11,
+      "duration_minutes": 6
+    },
+    {
+      "id": "wolf_and_seven_kids",
+      "category": "fairy_tale",
+      "order": 31,
+      "ar_title": "الذئب والجديان السبعة",
+      "en_title": "The Wolf and the Seven Young Kids",
+      "scenes": 13,
+      "duration_minutes": 6
+    },
+    {
+      "id": "tortoise_and_hare",
+      "category": "fable",
+      "order": 40,
+      "ar_title": "السلحفاة والأرنب",
+      "en_title": "The Tortoise and the Hare",
+      "scenes": 8,
+      "duration_minutes": 4
+    },
+    {
+      "id": "ant_and_grasshopper",
+      "category": "fable",
+      "order": 41,
+      "ar_title": "النملة والجندب",
+      "en_title": "The Ant and the Grasshopper",
+      "scenes": 15,
+      "duration_minutes": 5
+    },
+    {
+      "id": "lion_and_mouse",
+      "category": "fable",
+      "order": 42,
+      "ar_title": "الأسد والفأر",
+      "en_title": "The Lion and the Mouse",
+      "scenes": 15,
+      "duration_minutes": 5
+    },
+    {
+      "id": "fox_and_grapes",
+      "category": "fable",
+      "order": 43,
+      "ar_title": "الثعلب والعنب",
+      "en_title": "The Fox and the Grapes",
+      "scenes": 8,
+      "duration_minutes": 3
+    },
+    {
+      "id": "boy_who_cried_wolf",
+      "category": "fable",
+      "order": 44,
+      "ar_title": "الراعي الكاذب",
+      "en_title": "The Boy Who Cried Wolf",
+      "scenes": 8,
+      "duration_minutes": 4
+    },
+    {
+      "id": "town_and_country_mouse",
+      "category": "fable",
+      "order": 45,
+      "ar_title": "فأر المدينة وفأر الريف",
+      "en_title": "The Town Mouse and the Country Mouse",
+      "scenes": 10,
+      "duration_minutes": 5
+    },
+    {
+      "id": "dog_and_reflection",
+      "category": "fable",
+      "order": 46,
+      "ar_title": "الكلب وانعكاسه",
+      "en_title": "The Dog and His Reflection",
+      "scenes": 6,
+      "duration_minutes": 3
+    },
+    {
+      "id": "crow_and_pitcher",
+      "category": "fable",
+      "order": 47,
+      "ar_title": "الغراب والإبريق",
+      "en_title": "The Crow and the Pitcher",
+      "scenes": 8,
+      "duration_minutes": 3
+    },
+    {
+      "id": "north_wind_and_sun",
+      "category": "fable",
+      "order": 48,
+      "ar_title": "الريح والشمس",
+      "en_title": "The North Wind and the Sun",
+      "scenes": 8,
+      "duration_minutes": 4
+    },
+    {
+      "id": "golden_goose",
+      "category": "fable",
+      "order": 50,
+      "ar_title": "الإوزة التي تبيض الذهب",
+      "en_title": "The Goose That Laid Golden Eggs",
+      "scenes": 6,
+      "duration_minutes": 4
+    },
+    {
+      "id": "anansi_spider",
+      "category": "fable",
+      "order": 51,
+      "ar_title": "أنانسي العنكبوت",
+      "en_title": "Anansi the Spider",
+      "scenes": 11,
+      "duration_minutes": 6
+    },
+    {
+      "id": "monkey_and_crocodile",
+      "category": "fable",
+      "order": 52,
+      "ar_title": "القرد والتمساح",
+      "en_title": "The Monkey and the Crocodile",
+      "scenes": 12,
+      "duration_minutes": 6
+    },
+    {
+      "id": "henny_penny",
+      "category": "fable",
+      "order": 53,
+      "ar_title": "الدجاجة المذعورة",
+      "en_title": "Henny Penny",
+      "scenes": 8,
+      "duration_minutes": 4
+    },
+    {
+      "id": "pinocchio",
+      "category": "adventure",
+      "order": 60,
+      "ar_title": "بينوكيو",
+      "en_title": "Pinocchio",
+      "scenes": 15,
+      "duration_minutes": 9
+    },
+    {
+      "id": "lions",
+      "category": "nonfiction",
+      "order": 81,
+      "ar_title": "عجائب الأسود",
+      "en_title": "Amazing Lions",
+      "scenes": 9,
+      "duration_minutes": 5
+    },
+    {
+      "id": "dinosaurs",
+      "category": "nonfiction",
+      "order": 82,
+      "ar_title": "عالم الديناصورات",
+      "en_title": "The World of Dinosaurs",
+      "scenes": 10,
+      "duration_minutes": 6
+    },
+    {
+      "id": "space_planets",
+      "category": "nonfiction",
+      "order": 83,
+      "ar_title": "رحلة في الفضاء",
+      "en_title": "A Journey Through Space",
+      "scenes": 9,
+      "duration_minutes": 6
+    },
+    {
+      "id": "elephants",
+      "category": "nonfiction",
+      "order": 80,
+      "ar_title": "عجائب الفيلة",
+      "en_title": "Amazing Elephants",
+      "scenes": 8,
+      "duration_minutes": 5
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "henny_penny",
+  "category": "fable",
+  "source": "English folk tale, Joseph Jacobs (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 4,
+  "style_suffix": "warm watercolor children's book illustration, country lane and farmyard palette, expressive friendly cartoon hen and other farm birds, comical farmyard procession, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A panicked cartoon hen runs down a country lane, looking up at the sky; a single acorn is visible on her head where it has fallen. Other farm birds follow her in alarm — a rooster, a duck, a goose"
+  },
+  "i18n": {
+    "ar": { "title": "الدجاجة المذعورة", "subtitle": "حكاية شعبية إنجليزية", "tagline": "حبّة بلوط، دجاجةٌ مذعورة، وحكاية لا تنسى!" },
+    "en": { "title": "Henny Penny", "subtitle": "An English Folk Tale", "tagline": "One acorn, one panicked hen, an unforgettable tale!" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A small brown hen named Henny Penny scratches happily in a barnyard. Suddenly, a single acorn falls from a tree branch above and lands on her head. She looks startled and confused." },
+      "ar": { "text": "في صباحٍ هادئ، كانت دجاجةٌ صغيرة اسمها بِنّي تنبش في فناء المزرعة. وفجأة، سقطت من شجرة حبّة بلوط على رأسها! «طوب!»", "voice": "fable" },
+      "en": { "text": "One quiet morning, a little hen named Henny Penny was pecking in the barnyard. Suddenly, an acorn fell from a tree onto her head — \"thump!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Henny Penny looks up at the sky in alarm, her eyes wide. She doesn't see the acorn — only the sky. Her wings flap in panic. She begins running with comical urgency." },
+      "ar": { "text": "صرخت بِنّي بفزع: «السماء تسقط! يجب أن أخبر الملك!» ركضت بأسرع ما تستطيع! لم تفهم أنّها مجرّد حبّة بلوط.", "voice": "fable" },
+      "en": { "text": "Henny Penny cried out in panic, \"The sky is falling! I must tell the king!\" She ran as fast as she could! She didn't realize it was just an acorn.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "Henny Penny runs and meets a rooster named Cocky Locky on the country lane. She's flapping her wings dramatically. The rooster looks concerned and confused, listening to her urgent message." },
+      "ar": { "text": "ركضت بِنّي ولقيت ديكاً اسمه كوكي. سألها: «إلى أين أنت ذاهبة بهذه السرعة؟» قالت لاهثة: «السماء تسقط! أنا ذاهبة لأخبر الملك!» قال الديك: «أنا قادم معك!»", "voice": "fable" },
+      "en": { "text": "Henny Penny ran and met a rooster named Cocky Locky. He asked, \"Where are you off to in such a hurry?\" She panted, \"The sky is falling! I'm going to tell the king!\" The rooster said, \"I'm coming with you!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Henny Penny and Cocky Locky meet a duck named Ducky Lucky and a goose named Goosey Loosey beside a small pond. All four birds gather, looking serious and ready to march. They begin walking together." },
+      "ar": { "text": "قابلا في الطريق بطّةً ووزّةً. سألا: «إلى أين؟» قالت بِنّي: «السماء تسقط! نخبر الملك!» قالت البطّة والوزّة معاً: «نحن نأتي أيضاً!» سارت الأربعة معاً.", "voice": "fable" },
+      "en": { "text": "Along the way they met a duck and a goose. They asked, \"Where are you going?\" Henny Penny said, \"The sky is falling! We're telling the king!\" The duck and goose said together, \"We're coming too!\" The four walked on together.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The four farmyard birds (hen, rooster, duck, goose) march in a procession along the country lane, all looking determined. A sly red fox watches from behind a tree with a cunning smile, considering them as a tasty group." },
+      "ar": { "text": "سارت الحيوانات الأربعة. لكنّ ثعلباً ماكراً كان يراقبهم من خلف شجرة! ابتسم بمكر، وفكّر: «يا له من عشاءٍ لذيذ! سأخدعهم.» خرج من مخبئه بابتسامةٍ ودودة.", "voice": "fable" },
+      "en": { "text": "The four animals walked on. But a sly fox was watching from behind a tree! He smiled with cunning and thought, \"What a delicious supper! I'll trick them.\" He came out with a friendly smile.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The fox stands politely in the road, pointing toward a dark cave behind some bushes. The four birds look at him trustingly. The cave is shadowy and ominous, but the birds don't notice." },
+      "ar": { "text": "قال الثعلب: «أهلاً يا أصدقاء! إلى أين؟» قالوا: «نخبر الملك أنّ السماء تسقط!» قال بمكر: «أنا أعرف طريقاً مختصراً للقصر. اتبعوني!» تبعه الجميع بثقة.", "voice": "fable" },
+      "en": { "text": "The fox said, \"Hello, friends! Where are you headed?\" They said, \"We're telling the king the sky is falling!\" He said cunningly, \"I know a shortcut to the palace. Follow me!\" They all followed him trustingly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The fox leads the four birds toward his dark cave entrance. As they approach, an old wise owl perched on a nearby branch speaks up loudly, warning them. The birds pause, looking up at the owl." },
+      "ar": { "text": "ولكن، قبل أن يدخلوا الكهف، صاح بومٌ حكيمٌ من شجرةٍ قريبة: «انتبهوا! إنّه ليس طريقاً مختصراً! إنّه كهف الثعلب! وحبّة البلوط على رأسك يا بِنّي، ليست السماء!»", "voice": "fable" },
+      "en": { "text": "But before they entered the cave, a wise owl called out from a nearby tree, \"Beware! It's no shortcut! It's the fox's cave! And the acorn on your head, Henny Penny — it's not the sky!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "Henny Penny touches her head and finds the acorn, looking surprised. The fox is shown running away in the distance, his trick exposed. The four birds laugh together, relieved. The wise owl watches with a knowing smile from his branch." },
+      "ar": { "text": "نظرت بِنّي إلى رأسها، فوجدت حبّة البلوط! ضحكت من نفسها. هرب الثعلب لمّا اكتشفت خدعته. شكرت الحيوانات البوم، وعادت إلى المزرعة. تعلّمت بِنّي: قبل أن تصدّق إنذاراً، تأكّد منه! وثق بالحكماء، لا بالمكّارين.", "voice": "fable" },
+      "en": { "text": "Henny Penny touched her head and found the acorn! She laughed at herself. The fox ran away once his trick was exposed. The animals thanked the owl, and went back to the farm. Henny Penny learned: before believing an alarm, check it! And trust the wise — not the cunning.", "voice": "fable" }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "fox_and_grapes",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 3,
+  "style_suffix": "warm watercolor children's book illustration, sunlit vineyard palette with green leaves and purple grapes, expressive cartoon fox with rusty orange fur, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A red fox stands on his hind legs, stretching upward toward a cluster of plump purple grapes hanging just out of reach from a leafy vine; the fox looks determined but frustrated"
+  },
+  "i18n": {
+    "ar": { "title": "الثعلب والعنب", "subtitle": "حكاية من حكايات إيسوب", "tagline": "أحياناً، الأشياء التي لا نستطيع الوصول إليها نقول عنها سيئة" },
+    "en": { "title": "The Fox and the Grapes", "subtitle": "An Aesop's Fable", "tagline": "Sometimes we call things bad when we cannot have them" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A red fox walks through a sunlit countryside, looking thirsty. He glances around longingly at the dry grass. His tongue lolls slightly. Wildflowers and a distant hill complete the scene." },
+      "ar": { "text": "في يومٍ صيفيّ حار، كان ثعلبٌ يمشي في الحقول. كان عطشاناً وجائعاً. بحث في كلّ مكانٍ عن طعام، لكنّه لم يجد شيئاً. تنهّد وقال: «لا بدّ أن أجد شيئاً قبل أن يحلّ المساء!»", "voice": "fable" },
+      "en": { "text": "On a hot summer day, a fox was walking through the fields. He was thirsty and hungry. He searched everywhere for food, but found nothing. He sighed, \"I must find something before evening!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The fox stops in front of a beautiful vineyard. Lush green vines are heavy with juicy purple grape clusters hanging at varying heights. His eyes light up with delight." },
+      "ar": { "text": "وفجأةً، رأى منظراً جميلاً! كرمةُ عنبٍ كبيرة، والعنقود الأحلى يتدلّى منها. كان العنب أرجوانياً مكتنزاً، يلمع تحت الشمس. ابتسم الثعلب: «وجدتُ غدائي!»", "voice": "fable" },
+      "en": { "text": "Suddenly, he saw a beautiful sight! A great grape vine, with the sweetest clusters hanging from it. The grapes were plump and purple, glistening in the sun. The fox smiled, \"I've found my lunch!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The fox stands up on his hind legs and stretches his front paws as high as he can toward the grapes. The grapes are still well above his reach. His face shows determination and effort." },
+      "ar": { "text": "وقف الثعلب على قدميه الخلفيتين، ومدّ يديه نحو العنب. لكنّه لم يصل! كان العنقود أعلى ممّا توقّع. قال: «لا بأس، سأقفز.» قفز عالياً، لكنه ما زال بعيداً.", "voice": "fable" },
+      "en": { "text": "The fox stood on his hind legs and stretched his paws toward the grapes. But he couldn't reach! The cluster was higher than he had thought. \"No matter — I'll jump,\" he said. He leaped high, but still missed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The fox takes a running start and leaps upward with all his might, his paws stretched toward the grapes. His expression is intense. The grapes hang tantalizingly close but still out of reach. Leaves rustle." },
+      "ar": { "text": "أخذ الثعلب نفساً عميقاً، وركض، ثم قفز! «الآن سأمسكك!» لكنّ يديه مرّتا تحت العنب فقط. ضحك بنفسه قليلاً، وقال: «حسناً، مرّةً أخرى.»", "voice": "fable" },
+      "en": { "text": "The fox took a deep breath, ran, and jumped! \"Now I'll catch you!\" But his paws passed just below the grapes. He chuckled at himself, \"All right — once more.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The fox tries again and again, jumping repeatedly from different angles. He's getting tired. Sweat beads on his fur. His tongue lolls more. Leaves on the vine rustle from his attempts." },
+      "ar": { "text": "حاول مرّةً وثانية وثالثة. قفز من اليمين، ومن اليسار، ومن الخلف! كان كلّ قفزة أصعب، وكان يتعب أكثر. أصبح وجهه أحمر، ولسانه خارج فمه من التعب.", "voice": "fable" },
+      "en": { "text": "He tried again and again. He jumped from the right, from the left, from behind! Each jump grew harder, and he grew more tired. His face flushed, and his tongue hung out from weariness.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The fox sits down beside the vineyard, panting heavily, his fur slightly disheveled. He gazes up at the grapes one final time. His expression slowly changes from longing to feigned dismissiveness." },
+      "ar": { "text": "أخيراً، استسلم. جلس الثعلب يلهث، ينظر إلى العنب. كان قلبه ما زال يشتهيه. لكنّه لم يستطع الاعتراف بأنّه ضعيف.", "voice": "fable" },
+      "en": { "text": "At last, he gave up. The fox sat down panting, gazing at the grapes. His heart still longed for them. But he could not admit that he was beaten.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The fox stands up and turns his nose up disdainfully at the grapes, walking away with deliberate dignity. He shrugs his shoulders. In the corner of the image, a small bird perched on the vine watches with a knowing smile." },
+      "ar": { "text": "نهض، ورفع أنفه عالياً، وقال بكبرياءٍ زائفة: «على كلّ حال، هذا العنب ليس ناضجاً! إنه حامضٌ جداً، لا أحبّه. لن أتعب نفسي من أجل عنبٍ سيّئ.» وانصرف.", "voice": "fable" },
+      "en": { "text": "He stood up, lifted his nose high, and said with fake pride, \"In any case, those grapes aren't ripe! They are too sour. I shall not bother myself for bad grapes.\" And off he walked.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "A small chickadee bird on the grape vine watches the fox walking away. The bird is gently smiling, with the unspoken lesson in his eye. Above, the grapes still hang ripe and sweet." },
+      "ar": { "text": "ابتسم العصفور الصغير الذي كان يراقب من فوق الكرمة. هزّ رأسه قائلاً لنفسه: «العنب ليس حامضاً. الثعلب فقط لم يستطع الوصول إليه!» وهكذا تعلّمنا درساً مهماً: «من السهل أن نقول إنّ شيئاً لا نريده، عندما لا نستطيع الحصول عليه.»", "voice": "fable" },
+      "en": { "text": "A small bird perched on the vine smiled. He shook his head, thinking, \"The grapes aren't sour. The fox just couldn't reach them!\" And so we learn a wise lesson, \"It's easy to say we don't want a thing — when we can't have it.\"", "voice": "fable" }
+    }
+  ]
+}

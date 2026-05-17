@@ -1,0 +1,83 @@
+{
+  "id": "anansi_spider",
+  "category": "fable",
+  "source": "West African folk tale (public domain)",
+  "age_range": "4-9",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, tropical West African palette, colorful spider character with kind eyes and bright stripes, lush trees and savanna, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful red and yellow striped spider with friendly eyes hangs from a leafy tree branch by a single thread, holding a small calabash (gourd) in his front legs; African sun and acacia trees in background"
+  },
+  "i18n": {
+    "ar": { "title": "أنانسي العنكبوت", "subtitle": "حكاية شعبية من غرب أفريقيا", "tagline": "عنكبوتٌ ذكي، قصصٌ في صندوقٍ، ودرسٌ في المشاركة" },
+    "en": { "title": "Anansi the Spider", "subtitle": "A West African Folk Tale", "tagline": "A clever spider, stories in a box, a lesson in sharing" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A small colorful spider with friendly eyes sits on a leaf, looking up at the sky. The sky is bright blue. The spider's body has bright orange and yellow stripes. He looks thoughtful." },
+      "ar": { "text": "في زمنٍ بعيد، لم تكن في العالم قصص! كانت كل القصص في صندوقٍ ذهبيٍّ كبير عند نياما، إله السماء. كان أنانسي العنكبوت يحبّ القصص، وأراد أن يحضرها للناس على الأرض.", "voice": "fable" },
+      "en": { "text": "Long ago, there were no stories in the world! All the stories were in a golden box belonging to Nyame, the sky god. Anansi the spider loved stories, and he wanted to bring them to the people on earth.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Anansi the spider climbs a thin spider thread up into the bright sky, ascending toward the clouds. The thread shimmers in the sun. The earth below is small. Anansi looks determined." },
+      "ar": { "text": "نسج أنانسي خيطاً طويلاً، وصعد إلى السماء. عندما وصل، انحنى أمام نياما وقال: «يا سيّد السماء، أعطني قصصك، لأشاركها مع كلّ الناس.»", "voice": "fable" },
+      "en": { "text": "Anansi wove a long thread and climbed up to the sky. When he arrived, he bowed before Nyame and said, \"Sky lord, give me your stories, so I may share them with all the people.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The Sky God Nyame, a majestic regal figure seated on a cloud throne, looks down at the tiny spider with a kind but skeptical expression. He gestures to a glowing box of stories beside him." },
+      "ar": { "text": "ضحك نياما: «أنت عنكبوتٌ صغير! كيف ستأخذ قصصي؟» ثم قال: «لكن، إن أحضرتَ لي ثلاثة أشياء صعبة، سأعطيك القصص: ثعبان أزرق طويل، وأسد بشعرٍ ذهبي، ودبور قاسٍ. أحضرهم جميعاً!»", "voice": "fable" },
+      "en": { "text": "Nyame laughed, \"You are a small spider! How will you take my stories?\" Then he said, \"But if you bring me three difficult things, I shall give you the stories: a long blue snake, a lion with golden mane, and a fierce hornet. Bring them all!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "Anansi the spider stands beside a long blue snake. He shows the snake a long bamboo stick, gesturing as if measuring. The snake looks intrigued and slightly competitive." },
+      "ar": { "text": "نزل أنانسي إلى الأرض، وفكّر. ذهب إلى الثعبان الأزرق، يحمل عصا طويلة. قال: «أيها الثعبان! أنا والآخرون نتجادل — هل أنت أطول من هذه العصا؟» قال الثعبان بفخر: «طبعاً!»", "voice": "fable" },
+      "en": { "text": "Anansi came down and thought. He went to the blue snake, carrying a long stick. He said, \"Snake! I and others are debating — are you longer than this stick?\" The snake said proudly, \"Of course!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The blue snake stretches out along the bamboo stick to prove his length. Anansi quickly weaves silk webs to tie the snake gently along the stick. The snake looks confused as he's secured." },
+      "ar": { "text": "قال أنانسي: «إذن، تمدّد بجانب العصا لأقيسك!» تمدّد الثعبان. ربطه أنانسي بسرعة بخيوطٍ من حريرٍ ناعم! حمله إلى السماء. ضحك نياما: «هذا واحد!»", "voice": "fable" },
+      "en": { "text": "Anansi said, \"Then stretch out beside the stick, so I can measure!\" The snake stretched. Quickly, Anansi tied him with soft silk threads! He carried him to the sky. Nyame laughed, \"That's one!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "Anansi the spider stands beside a deep, narrow pit he's dug in the savanna. The pit is camouflaged with leaves. A handsome golden-maned lion approaches curiously. Anansi waves him over with friendly gestures." },
+      "ar": { "text": "ثم ذهب أنانسي إلى الأسد. حفر حفرةً عميقة في الطريق، وغطّاها بالأوراق. قال للأسد: «يا سيّد الغابة، تعال شاهد عجائب!» اقترب الأسد بفخر — ووقع في الحفرة! ربطه أنانسي وحمله للسماء.", "voice": "fable" },
+      "en": { "text": "Then Anansi went to the lion. He dug a deep pit on the path and covered it with leaves. He told the lion, \"Lord of the jungle, come see wonders!\" The lion approached proudly — and fell into the pit! Anansi tied him and carried him to the sky.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "Anansi the spider stands beside a large gourd (calabash) full of water, near a hornet's nest in a tree. Anansi is pouring some water from the gourd onto the hornet's nest. Hornets fly around confused, looking up." },
+      "ar": { "text": "بقي الدبور. ذهب أنانسي إلى عشّ الدبابير، يحمل قرعةً مليئة بالماء. صبّ الماء على العش! خرجت الدبابير غاضبةً: «ماذا يحدث؟» قال أنانسي: «أنزلت السماء عليكم مطراً! ادخلوا في قرعتي حتى لا تبتلّوا!»", "voice": "fable" },
+      "en": { "text": "The hornet remained. Anansi went to the hornets' nest, carrying a gourd full of water. He poured water on the nest! The hornets flew out angrily, \"What's happening?\" Anansi said, \"The sky has rained on you! Enter my gourd so you don't get wet!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The hornets all fly into the gourd one by one. Anansi quickly puts a stopper on top. He carries the sealed gourd up to the sky. The clever spider has a satisfied expression." },
+      "ar": { "text": "دخلت الدبابير القرعة بسرعة! أغلق أنانسي القرعة بسدّادة. ضحك في سرّه، وحمل القرعة إلى السماء. أعطاها لنياما. قال: «هذه ثلاثة!»", "voice": "fable" },
+      "en": { "text": "The hornets all flew into the gourd quickly! Anansi sealed the gourd with a stopper. He laughed to himself and carried the gourd to the sky. He gave it to Nyame. He said, \"That's three!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Nyame, the sky god, looks impressed and amused. He holds out the golden box of stories to Anansi, who reaches up eagerly with his tiny spider legs. The box glows magically." },
+      "ar": { "text": "اندهش نياما من ذكاء أنانسي. قال: «أنت قد كسبتَ القصص! لكنّ، تذكّر: شاركها مع الجميع، لا تحتفظ بها لنفسك.» أعطاه الصندوق الذهبي. شكر أنانسي وعاد إلى الأرض.", "voice": "fable" },
+      "en": { "text": "Nyame was amazed by Anansi's cleverness. He said, \"You have won the stories! But remember: share them with everyone, do not keep them to yourself.\" He gave him the golden box. Anansi thanked him and returned to earth.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Anansi at the base of a giant baobab tree, opening the golden box. Magical stories fly out as colorful birds or scrolls, scattering across the African landscape. Children and adults from a nearby village gather around in wonder." },
+      "ar": { "text": "وصل أنانسي إلى الأرض، ودعا الناس كلّهم. فتح الصندوق الذهبي، فطارت منه القصص في كلّ مكان! وصلت القصص إلى كلّ القرى، وكلّ اللغات. عرفها كلّ شخص.", "voice": "fable" },
+      "en": { "text": "Anansi reached the earth and called all the people. He opened the golden box, and the stories flew out everywhere! They reached every village, every language. Every person came to know them.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "A group of African children sit in a circle under a tree at dusk, listening intently as an elder tells a story by firelight. Anansi the spider hangs from his thread above the scene, smiling warmly. Fireflies dance." },
+      "ar": { "text": "ومن ذلك اليوم، اجتمع الناس حول النار في الأمسيات، يحكون قصصاً جميلة. ويذكرون أنانسي العنكبوت دائماً. ويعرفون: أنّ القصص أعظم كنزٍ في الدنيا، وأنّ الذكاء يستطيع ما لا تستطيعه القوّة.", "voice": "fable" },
+      "en": { "text": "From that day, people gathered around the fire in the evenings, telling beautiful stories. They always remembered Anansi the spider. And they knew: stories are the greatest treasure in the world, and cleverness can do what strength cannot.", "voice": "fable" }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "puss_in_boots",
+  "category": "fairy_tale",
+  "source": "Charles Perrault (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, French countryside palette, expressive clever cat wearing tall feathered hat and red boots, royal castle and forest landscapes, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A clever orange tabby cat stands upright wearing red leather boots, a wide-brimmed feathered hat, and a small belt with a tiny sack; he tips his hat in greeting with a sly knowing smile in a meadow"
+  },
+  "i18n": {
+    "ar": { "title": "القط ذو الحذاء", "subtitle": "حكاية من حكايات بيرّو", "tagline": "قطٌّ ذكي، أحذية حمراء، وحظٌّ غير متوقع" },
+    "en": { "title": "Puss in Boots", "subtitle": "A Tale by Charles Perrault", "tagline": "A clever cat, red boots, and unexpected fortune" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "Three brothers gathered around their father's old mill at sunset. The eldest gets papers (the mill), the middle gets a donkey, and the youngest receives a small orange tabby cat from his elderly father, who looks frail. The youngest looks disappointed." },
+      "ar": { "text": "كان هناك طحّان فقيرٌ ترك لأبنائه الثلاثة ميراثاً بسيطاً. أخذ الكبيرُ الطاحونة، والأوسط الحمار، أمّا الصغير، فلم يبقَ له شيءٌ إلّا قطّ! قال الأخ الصغير بحزن: «ما أصنع بقطّ؟ أنا فقير الآن!»", "voice": "fable" },
+      "en": { "text": "A poor miller left a small inheritance to his three sons. The eldest received the mill, the middle the donkey — but the youngest got only a cat! He said sadly, \"What shall I do with a cat? I'm poor now!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The cat, sitting elegantly upright, looks at his disappointed young master and speaks. The master is wide-eyed at the sight of a talking cat. The two are in a humble cottage interior." },
+      "ar": { "text": "ولدهشة الأخ الصغير، نظر إليه القطّ وتكلّم! «يا سيدي، لا تحزن. أعطني فقط زوجاً من الأحذية وكيساً صغيراً، وستندهش مما أصنع لك. أنا قطٌّ ذكي!»", "voice": "fable" },
+      "en": { "text": "To the youngest brother's astonishment, the cat looked up at him and spoke! \"Master, do not grieve. Give me only a pair of boots and a small sack, and you'll be astonished by what I can do. I am a very clever cat!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The cat, now wearing red leather boots and carrying a small empty sack, walks confidently through a wheat field. He's catching small partridges and rabbits with clever traps. He looks like a tiny well-dressed gentleman." },
+      "ar": { "text": "فرح القطّ بحذائيه الجديدَين. ذهب إلى الحقول والغابات. كان يضع حبوباً في كيسه، ويفتحه ويختبئ. عندما تأتي الأرانب أو الطيور لتأكل، يمسكها بسرعة!", "voice": "fable" },
+      "en": { "text": "The cat was delighted with his new boots. He went out to the fields and forests. He put grains in his sack, opened it, and hid nearby. When rabbits or birds came to eat, he caught them swiftly!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The cat in boots stands at the threshold of a grand throne room, presenting a sack of partridges and rabbits to a kind-looking king on his throne. The king smiles warmly. Courtiers watch with approval." },
+      "ar": { "text": "حمل القطّ صيده، وذهب إلى قصر الملك. قال للملك: «هذه هدية من سيدي، ماركيز كاراباس!» (وكان اسماً اخترعه القطّ.) فرح الملك، وشكر القطّ على الهدية الكريمة.", "voice": "fable" },
+      "en": { "text": "The cat carried his catch to the king's palace. He said, \"This is a gift from my master, the Marquis of Carabas!\" (a name the cat had invented). The king was pleased and thanked the cat for the generous gift.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The cat repeats this practice over time, presenting different gifts (rabbits, partridges, fish) at the palace. The king begins to look forward to the visits. The cat is shown growing in confidence and prestige in the court." },
+      "ar": { "text": "أتى القطّ بهديةٍ كلّ أسبوع — أرانب، طيوراً، أسماكاً — وكلّها باسم «ماركيز كاراباس». بدأ الملك يحبّ هذا الماركيز الكريم الذي لم يره، ويسأل عنه.", "voice": "fable" },
+      "en": { "text": "Every week the cat brought a fresh gift — rabbits, partridges, fish — all in the name of \"the Marquis of Carabas.\" The king began to love this generous Marquis he had never met, and to ask about him.", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The cat sneaks into the young miller's son's modest cottage at dawn. He's whispering a plan. The miller's son listens, looking somewhat surprised but trusting. The cat gestures with both paws toward a clear river outside." },
+      "ar": { "text": "في يومٍ من الأيام، سمع القطّ أنّ الملك سيمرّ في موكبه قرب النهر. خطّط فوراً! ركض إلى سيده وقال: «هيا بسرعة! انزل واغتسل في النهر، ولا تخف! ثقْ بي.»", "voice": "fable" },
+      "en": { "text": "One day, the cat heard the king's procession would pass by the river. He hatched a plan! He ran to his master and said, \"Hurry! Go bathe in the river. Do not be afraid. Trust me!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The young miller's son swims in a river (only his head visible), while the cat in boots hides the man's tattered clothes behind some bushes. The royal carriage approaches in the distance." },
+      "ar": { "text": "خلع الأخ الصغير ثيابه، وغطس في النهر. أخفى القطّ ثيابه القديمة المهلهلة في الشجيرات. ثم وقف على طرف الطريق، وانتظر موكب الملك القادم.", "voice": "fable" },
+      "en": { "text": "The young man took off his clothes and dove into the river. The cat hid his old tattered clothes in the bushes. Then he stood at the edge of the road and waited for the king's procession to approach.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The cat in boots dashes to the edge of the road, waving frantically at the approaching royal carriage. He shouts dramatically for help. The king's beautiful daughter peers from the carriage window with concern." },
+      "ar": { "text": "صرخ القطّ: «النجدة! النجدة! سيدي ماركيز كاراباس وقع في النهر، وسرق اللصوص ثيابه!» توقّفت العربة. قال الملك: «هذا الماركيز الكريم! ساعدوه فوراً!» أمر بإحضار أجود ثياب لسيد القطّ.", "voice": "fable" },
+      "en": { "text": "The cat cried out, \"Help! Help! My master, the Marquis of Carabas, has fallen into the river, and thieves stole his clothes!\" The carriage stopped. The king said, \"That generous Marquis! Help him at once!\" He ordered the finest clothes brought for the cat's master.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The young miller's son emerges from the river, now dressed in fine borrowed royal robes. The king and his daughter look impressed. The young man looks handsome and confident. The princess seems particularly interested." },
+      "ar": { "text": "خرج الأخ الصغير من النهر، فألبسوه ثياباً ملكية فاخرة. بدا وسيماً وأنيقاً. ركب مع الملك في العربة، وجلست الأميرة الجميلة بجواره. أحبّته من النظرة الأولى — لم تكن تعرف أنّه فقيرٌ في الحقيقة!", "voice": "fable" },
+      "en": { "text": "The young man emerged from the river, now dressed in fine royal robes. He looked handsome and noble. He rode in the carriage with the king, and the beautiful princess sat beside him. She fell in love at first sight — for she had no idea he was truly poor!", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The cat in boots runs ahead of the procession through fields. He encounters peasant farmers tending to vast wheat fields and meadows. The cat is pointing back and giving them quiet instructions." },
+      "ar": { "text": "ركض القطّ أمام الموكب. قابل فلّاحين في الحقول، فقال لهم: «إذا سألكم الملك من أصحاب هذه الحقول، قولوا: مولاي ماركيز كاراباس! وإلّا...» وأخافهم قليلاً. فوافقوا.", "voice": "fable" },
+      "en": { "text": "The cat ran ahead of the procession. He met farmers in the fields and said, \"If the king asks who owns these lands, say: my lord, the Marquis of Carabas! Otherwise...\" He gave them a little fright. They agreed.", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The king's carriage stops by a wheat field. The king leans out the window asking the farmers a question. The farmers respectfully gesture and announce the field belongs to the Marquis. The cat in boots peeks proudly from a bush." },
+      "ar": { "text": "مرّ الملك بالحقول، وسأل الفلّاحين: «لمن هذه الأراضي؟» أجابوا: «لماركيز كاراباس!» اندهش الملك. كرّر السؤال في كلّ حقل وأرض، وكانت الإجابة دائماً: «لماركيز كاراباس!»", "voice": "fable" },
+      "en": { "text": "The king passed the fields and asked the farmers, \"Who owns these lands?\" They answered, \"The Marquis of Carabas!\" The king was astonished. He repeated the question at every field, and the answer was always the same: \"The Marquis of Carabas!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The cat in boots arrives at the gate of a magnificent ogre's castle. The castle is grand but slightly menacing, with high walls. The cat looks small but determined as he knocks on the large door." },
+      "ar": { "text": "وصل القطّ إلى قصر ضخمٍ، يعيش فيه عملاقٌ شرّير. كان العملاق هو المالك الحقيقي لكلّ تلك الأراضي. طرق القطّ الباب بثقة. فتح العملاق، فابتسم القطّ ودخل بهدوء.", "voice": "fable" },
+      "en": { "text": "The cat reached a magnificent castle, owned by a wicked ogre. The ogre was the true owner of all those lands. The cat knocked confidently. The ogre opened the door, and the cat smiled and walked in calmly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Inside the castle, the cat speaks with the comically large ogre. The cat looks tiny in comparison, but he speaks with grand confidence, gesturing with one paw. The ogre is intrigued and proud." },
+      "ar": { "text": "قال القطّ: «سمعتُ أنّك عملاقٌ ساحر، يمكنك أن تتحوّل إلى حيوانٍ ضخم. هذا غير معقول!» قال العملاق بكبرياء: «بل صحيح!» وفي لحظة، تحوّل إلى أسدٍ كبير مُخيف! خاف القطّ، لكنه ظلّ هادئاً.", "voice": "fable" },
+      "en": { "text": "The cat said, \"I heard you are a magical ogre, able to transform into a huge animal. That can't be true!\" The ogre said proudly, \"It is true!\" In an instant, he transformed into a huge fearsome lion! The cat was startled, but stayed calm.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The lion (transformed ogre) shrinks back into the ogre form. The cat looks impressed but skeptical. He's gesturing toward the ground, suggesting another challenge." },
+      "ar": { "text": "هدّأ القطّ نفسه، وقال: «هذا مذهل! لكن، أيمكنك التحوّل إلى شيءٍ صغير جداً؟ مثل فأرٍ صغير؟ لا، أعتقد ذلك صعبٌ جداً عليك!» غضب العملاق، وقال: «صعب؟ سترى!» وتحوّل إلى فأرٍ صغير.", "voice": "fable" },
+      "en": { "text": "The cat steadied himself and said, \"Impressive! But — can you transform into something very small? Like a little mouse? No, I think that would be too hard for you!\" The ogre was offended, and said, \"Too hard? Watch!\" And he turned into a tiny mouse.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "The cat, in a flash, catches the small mouse (the transformed ogre) with a triumphant pounce. The mouse is just a tiny dot in his paws. The cat looks pleased with his cleverness. The castle is now empty of the ogre forever." },
+      "ar": { "text": "في تلك اللحظة، انقضّ القطّ على الفأر بسرعة كالبرق! اختفى العملاق الشرّير إلى الأبد. أصبح القصر فارغاً، وكلّ الأراضي بلا مالك! انتظر القطّ الموكب الملكي.", "voice": "fable" },
+      "en": { "text": "In that instant, the cat pounced on the mouse like lightning! The wicked ogre was gone forever. The castle stood empty, all the lands were without an owner! The cat waited for the royal procession.", "voice": "fable" }
+    },
+    {
+      "id": "scene_16",
+      "image": { "prompt": "The king's procession arrives at the magnificent castle. The cat in boots greets them at the gate, bowing and welcoming them into 'the Marquis of Carabas's home'. The young miller's son and princess look amazed." },
+      "ar": { "text": "وصل الموكب. خرج القطّ ينحني للملك: «أهلاً بكم في قصر مولاي ماركيز كاراباس!» نظر الملك مذهولاً. دخلوا القصر، فوجدوه فاخراً، وفيه طعامٌ كثير! فرح الملك. قرّر تزويج ابنته الأميرة من «الماركيز»!", "voice": "fable" },
+      "en": { "text": "The procession arrived. The cat bowed to the king, \"Welcome to my master the Marquis of Carabas's castle!\" The king looked astonished. They entered the castle, which was grand and full of food! The king was delighted, and decided to marry his daughter the princess to \"the Marquis\"!", "voice": "fable" }
+    },
+    {
+      "id": "scene_17",
+      "image": { "prompt": "A grand wedding in the castle. The young man, now actually a lord, and the princess stand together. The cat in boots stands beside them as guest of honor, wearing his fanciest red boots and a small crown. People celebrate." },
+      "ar": { "text": "تزوّج الأخ الصغير من الأميرة في حفلٍ كبير. أصبح فعلاً ماركيز كاراباس، مالكاً لأراضٍ شاسعة. أما القطّ، فأصبح الوزير الأكثر ذكاءً في المملكة، يلبس أحذيته الحمراء بفخر، ويعيش بسعادةٍ تامّة.", "voice": "fable" },
+      "en": { "text": "The young man married the princess in a great celebration. He truly became the Marquis of Carabas, owner of vast lands. As for the cat, he became the cleverest minister in the kingdom, wearing his red boots with pride, living happily ever after.", "voice": "fable" }
+    }
+  ]
+}

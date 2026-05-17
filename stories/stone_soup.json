@@ -1,0 +1,83 @@
+{
+  "id": "stone_soup",
+  "category": "fairy_tale",
+  "source": "European folk tale (public domain)",
+  "age_range": "4-9",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, medieval European village palette, expressive friendly traveler with backpack, cozy cottage interiors, large bubbling cauldron, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A traveling stranger in a tattered cloak smiles warmly as he stirs a large iron cauldron over a wood fire in a village square; villagers gather curiously, some bringing vegetables. A single smooth stone is visible in the pot"
+  },
+  "i18n": {
+    "ar": { "title": "حساء الحجر", "subtitle": "حكاية شعبية أوروبية", "tagline": "غريبٌ ذكي، قرية بخيلة، وقصّةُ مشاركة عجيبة" },
+    "en": { "title": "Stone Soup", "subtitle": "A European Folk Tale", "tagline": "A clever stranger, a stingy village, a tale of sharing" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A tired traveler in a long worn cloak walks down a dirt road toward a small medieval village. He has a wooden walking stick and a small backpack. The village sits among rolling hills." },
+      "ar": { "text": "كان هناك مسافرٌ غريب، يمشي طويلاً في الطريق. شعر بالجوع، ورأى قريةً صغيرة في وسط الوادي. ابتسم وقال: «سأطرق الأبواب، وأطلب طعاماً.»", "voice": "fable" },
+      "en": { "text": "There once was a wandering traveler who had walked a long way. He was hungry, and he saw a small village in a valley. He smiled and said, \"I'll knock on doors and ask for some food.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "The traveler knocks on the door of a small cottage. A skeptical-looking villager opens it just slightly, frowning. The villager looks at him with distrust, clearly hesitant to share." },
+      "ar": { "text": "طرق أوّل بيت. فتحت سيدةٌ بحذر. قالت: «طعام؟ ليس عندي طعام! يا للحظ السيّء، السنة كانت قاسية.» وأغلقت الباب! ذهب لبيتٍ آخر — والنتيجة نفسها!", "voice": "fable" },
+      "en": { "text": "He knocked at the first house. A woman opened cautiously. \"Food? I have no food! What hard luck — this year has been harsh.\" She closed the door! He went to another house — same answer!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The traveler walks through the village frowning. Every door he passes is firmly shut. Villagers peek through windows distrustfully. Even the village pump looks dry. The scene shows a stingy, suspicious community." },
+      "ar": { "text": "ظنّ المسافر: «هذه القرية ليست فقيرة، بل بخيلة! يحبّ أهلها أن يبقى كلّ شيء لهم. لكنّي ذكي — سأعلّمهم درساً جميلاً عن المشاركة!»", "voice": "fable" },
+      "en": { "text": "The traveler thought, \"This village isn't poor — it's stingy! They like to keep everything for themselves. But I'm clever — I'll teach them a beautiful lesson about sharing!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The traveler stands in the village square. He places a large iron cauldron on a fire he's built. Then he ceremoniously holds up a small smooth round stone and places it carefully in the pot. Curious villagers peek out from doorways and windows." },
+      "ar": { "text": "وقف المسافر في وسط القرية. أوقد ناراً، ووضع عليها قدراً كبيراً مليئاً بالماء. ثم — أخرج من جيبه حجراً ناعماً، وألقاه في الماء! بدأ يحرّك بهدوء، وكأنّه يطبخ شيئاً ثميناً.", "voice": "fable" },
+      "en": { "text": "The traveler stood in the village square. He lit a fire and put a large pot of water over it. Then — he pulled a smooth stone from his pocket and dropped it into the water! He began stirring gently, as if cooking something precious.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "A villager approaches curiously, peering into the pot. The traveler smiles, looking very pleased. He continues stirring with theatrical flair." },
+      "ar": { "text": "اقتربت طفلةٌ من القرية بفضول. سألت: «ماذا تطبخ؟» ابتسم المسافر: «حساء الحجر! إنه ألذّ حساءٍ في العالم! لكنّه يكون أحسن بكثير لو معه قليلٌ من الملح. للأسف، ليس معي.»", "voice": "fable" },
+      "en": { "text": "A village child approached curiously. She asked, \"What are you cooking?\" The traveler smiled, \"Stone soup! The most delicious soup in the world! Though, it would be even better with a little salt. Sadly, I have none.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The little girl runs back to her mother and returns with a small wooden box of salt, handing it eagerly to the traveler. The traveler thanks her with a bow and sprinkles salt into the pot, looking pleased." },
+      "ar": { "text": "ركضت الطفلة إلى أمّها: «أمّي! المسافر يطبخ حساء حجر! يحتاج لملح!» قالت الأم بفضول: «خذي ملحاً!» جاءت الطفلة بملحٍ، فشكرها المسافر ووضعه في القدر.", "voice": "fable" },
+      "en": { "text": "The girl ran to her mother, \"Mama! The traveler is making stone soup! He needs salt!\" Her mother said curiously, \"Take some!\" The girl brought salt, and the traveler thanked her and put it in the pot.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "More villagers gather around the cauldron, now genuinely curious. The traveler tastes the soup with a wooden spoon and makes appreciative sounds. The villagers lean forward eagerly to hear his next thought." },
+      "ar": { "text": "ذاق المسافر الحساء. قال: «طيّب! لكنّه سيكون أحلى بكثير لو فيه جزرٌ أحمر... للأسف، ليس عندي.» قال رجل: «عندي جزر! سأحضره.» جاء بحفنة جزر.", "voice": "fable" },
+      "en": { "text": "The traveler tasted the soup. He said, \"Good! But it would be much better with a red carrot... sadly I have none.\" A man said, \"I have carrots! I'll bring some.\" He came back with a handful.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The crowd grows. Various villagers carry vegetables (carrots, onions, potatoes, beans, a small bone for broth) toward the cauldron. The pot is now bubbling and full of color. The traveler stirs joyfully." },
+      "ar": { "text": "وكلّما ذاق المسافر، ذكر شيئاً يحتاجه. وكلّ مرة، تطوّع شخصٌ من القرية بشيءٍ من بيته. جاء البطاطس، والبصل، والملفوف، والفول، وحتى عظمةً للمرق! ثم بهارات وزعتر!", "voice": "fable" },
+      "en": { "text": "And every time the traveler tasted, he mentioned something else he needed. Every time, someone from the village brought it from home. Potatoes came, onions, cabbage, beans, even a soup bone! Then spices and thyme!", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The whole village is now gathered around the cauldron, which is bubbling with a rich, hearty, colorful soup. The traveler ladles it out into wooden bowls. Everyone — young and old — accepts a bowl with bright smiles. Tables are set up nearby." },
+      "ar": { "text": "أصبح الحساء غنياً ولذيذاً. أحضر الناس موائد، وأطباقاً، وخبزاً. جلسوا حول القدر الكبير، يأكلون معاً. كان أوّل أكلةٍ مشتركة في القرية منذ سنوات!", "voice": "fable" },
+      "en": { "text": "The soup became rich and delicious. The people brought tables, bowls, and bread. They sat around the great pot, eating together. It was the first shared meal in the village in years!", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The village is full of warmth and laughter now. People share food, smile, sing. The traveler reaches into the pot and pulls out the smooth stone, polishing it and putting it back in his pocket with a wink." },
+      "ar": { "text": "بعد العشاء، ابتسم المسافر للناس. أخرج الحجر من القدر، ومسحه، ووضعه في جيبه. سأله رجلٌ: «ما هذا الحجر السحري؟» ضحك المسافر وقال: «إنه حجرٌ عادي! السحر كان فيكم. عندما تجمعون ما عندكم، تصنعون شيئاً عظيماً!»", "voice": "fable" },
+      "en": { "text": "After supper, the traveler smiled at the people. He pulled the stone from the pot, wiped it, and put it back in his pocket. A man asked, \"What is that magical stone?\" The traveler laughed, \"It's just a stone! The magic was in you. When you bring what you have, together you make something wonderful!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The traveler waves goodbye and walks down the road as the sun sets. The villagers wave back happily from their now-bustling village square, which now has tables, lights, and a sense of community. Children chase the traveler briefly, laughing." },
+      "ar": { "text": "فهم القرويون. شكروه ووعدوا أن يجتمعوا كلّ أسبوعٍ على عشاء مشترك. ودّع المسافر القرية وسار في طريقه، وفي قلبه فرحٌ كبير: لقد أهدى لهم درساً سيبقى معهم طول العمر.", "voice": "fable" },
+      "en": { "text": "The villagers understood. They thanked him and promised to gather each week for a shared supper. The traveler bid farewell and walked on his way, his heart full of joy: he had given them a lesson that would stay with them all their lives.", "voice": "fable" }
+    }
+  ]
+}

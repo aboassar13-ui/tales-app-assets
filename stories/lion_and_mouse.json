@@ -1,0 +1,107 @@
+{
+  "id": "lion_and_mouse",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "3-7",
+  "duration_minutes": 5,
+  "style_suffix": "warm watercolor children's book illustration, savanna and jungle palette, friendly large-faced cartoon lion, tiny expressive mouse, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A majestic but kind-eyed lion lies in tall savanna grass while a tiny gray mouse stands bravely on his huge paw, both looking at each other with surprised but gentle expressions"
+  },
+  "i18n": {
+    "ar": { "title": "الأسد والفأر", "subtitle": "حكاية من حكايات إيسوب", "tagline": "الصداقة تكبر الصغير، والكبير يحتاج الصغير" },
+    "en": { "title": "The Lion and the Mouse", "subtitle": "An Aesop's Fable", "tagline": "Even small friends can do great things" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "A large lion with a magnificent golden mane sleeps peacefully in tall savanna grass under a shady acacia tree. His breathing is slow and gentle. Sunbeams filter through leaves." },
+      "ar": { "text": "في يومٍ حارّ، كان أسدٌ كبير ينام تحت شجرةٍ في الغابة. كان ملك الغابة، ضخماً وقوياً، يخاف منه كلّ الحيوانات. كان شعره الذهبي يلمع تحت الشمس.", "voice": "fable" },
+      "en": { "text": "One hot afternoon, a large lion was sleeping under a shady tree in the forest. He was the king of the jungle — huge and strong, and every animal feared him. His golden mane gleamed in the sunlight.", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "A tiny gray mouse with bright eyes scampers cheerfully through tall grass, unaware that he is about to climb over a sleeping lion's enormous paw. The mouse carries a tiny seed in his mouth." },
+      "ar": { "text": "في تلك اللحظة، كان فأرٌ صغير يلهو في العشب. كان فضوليّاً ومرحاً. لم يلاحظ أنّه يقترب من الأسد. فجأة، تسلّق على شيءٍ ناعم وكبير — كان مخلب الأسد!", "voice": "fable" },
+      "en": { "text": "At that very moment, a tiny mouse was playing in the grass. He was cheerful and curious. He did not notice he was approaching the lion. Suddenly, he scampered onto something big and soft — the lion's huge paw!", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "The lion's eyes open suddenly, focusing on the tiny mouse on his paw. The mouse freezes, eyes wide. The lion does not look angry, just startled and curious. They stare at each other comically." },
+      "ar": { "text": "استيقظ الأسد فجأة! نظر إلى أسفل فرأى الفأر الصغير. زمجر الأسد قائلاً: «من جرؤ على إيقاظ الملك من نومه؟» جمد الفأر من الخوف!", "voice": "fable" },
+      "en": { "text": "The lion's eyes flew open! He looked down and saw the tiny mouse. The lion growled, \"Who dares to wake the king from his sleep?\" The little mouse froze with fright!", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The lion holds the trembling tiny mouse gently between his huge paw and the ground, looking down with a stern but not cruel expression. The mouse's tiny hands are clasped together pleadingly. The lion looks thoughtful." },
+      "ar": { "text": "وضع الأسد كفّه فوق الفأر بلطف. قال: «سأكلك يا فأرٌ صغير!» ارتجف الفأر وقال بصوتٍ ضعيف: «أرجوك يا ملك الغابة، اعفُ عني! أنا صغيرٌ جداً، ولن أشبعك. وأعدك أنّني يوماً ما سأردّ لك الجميل!»", "voice": "fable" },
+      "en": { "text": "The lion placed his paw gently over the mouse. \"I shall eat you, little mouse!\" Trembling, the mouse squeaked, \"Please, king of the jungle, spare me! I am too small to fill you up. And I promise — one day I shall repay your kindness!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The lion throws his great head back, laughing heartily — his mouth wide open in a kind, amused laugh. The mouse below looks up earnestly, paws clasped, eyes hopeful and sincere." },
+      "ar": { "text": "ضحك الأسد ضحكةً عظيمة هزّت الغابة! «أنت! فأرٌ صغير... ترُدّ الجميل لي، أنا الأسد؟ هذه أعظم نكتةٍ سمعتها!» لكنّ قلب الأسد كان أكبر من غضبه. قال: «اذهب! أنت صغيرٌ ولطيف، فلن آكلك اليوم.»", "voice": "fable" },
+      "en": { "text": "The lion threw back his head and laughed a roar that shook the whole jungle! \"You — a tiny mouse — repay me, the lion? That is the funniest thing I have ever heard!\" But the lion's heart was bigger than his pride. \"Off you go! You're small and sweet, so I'll spare you today.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The mouse runs away through the grass, bowing repeatedly in gratitude. The lion watches him go with an amused, fond expression. Sunbeams cross the path." },
+      "ar": { "text": "شكره الفأر مرّاتٍ كثيرة، وقال: «لن أنسى لطفك أبداً يا سيدي الأسد!» ركض بعيداً بسرعة، فرحاً بأنّه ما زال حيّاً. عاد الأسد إلى نومه مبتسماً قليلاً من فكرة فأرٍ يساعد أسداً.", "voice": "fable" },
+      "en": { "text": "The mouse thanked him many times. \"I will never forget your kindness, sir lion!\" He scurried away quickly, joyful to be alive. The lion went back to his nap, smiling slightly at the idea of a mouse helping a lion someday.", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "A few days later. The lion strides confidently through the jungle, head held high. The jungle is dense with vines, palms, and tall ferns. The lion has no idea hunters have set traps in his path." },
+      "ar": { "text": "مرّت أيامٌ قليلة. كان الأسد يتجوّل في الغابة وحده، يفتش عن طعام. لم يكن يعرف أنّ صيّادين قد جاءوا، ووضعوا فخّاً كبيراً من الحبال السميكة بين الأشجار.", "voice": "fable" },
+      "en": { "text": "A few days later, the lion was wandering through the forest, searching for food. He did not know that hunters had come and set a great net of thick ropes between the trees.", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The lion is caught in a thick rope net suspended from a tree. He struggles, trying to chew through the ropes, looking frustrated and increasingly tired. The forest is quiet around him." },
+      "ar": { "text": "خطا الأسد خطوةً، فإذا بشبكةٍ ضخمة تسقط فوقه! حاول الإفلات بقوّته الهائلة، لكن الحبال كانت قوية جداً. زمجر وعضّ الحبال، ولكن دون فائدة. تعب كثيراً.", "voice": "fable" },
+      "en": { "text": "The lion took a single step — and a huge net dropped over him! He struggled with all his mighty strength, but the ropes were strong. He roared and bit at them, but it was no use. He grew very tired.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "The trapped lion roars loudly, his head visible through the net. His roar is shown by motion lines and shaking leaves around him. In the distance, the tiny mouse pauses in alarm, ears perked." },
+      "ar": { "text": "زأر الأسد زئيراً عالياً يصل بعيداً في الغابة. كان غاضباً وخائفاً. وعلى مسافةٍ بعيدة، سمع الفأر الصغير الصوت. قال لنفسه: «ذلك صوت الأسد الطيب الذي أنقذني!» فركض بأقصى سرعة نحو مصدر الصوت.", "voice": "fable" },
+      "en": { "text": "The lion roared a great roar that echoed through the forest. He was angry and afraid. Far away, the little mouse heard the cry. \"That's the kind lion who spared me!\" He scampered toward the sound as fast as his tiny feet could carry him.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "The mouse arrives at the trapped lion and stops in shock. The lion looks at him with surprise and a flicker of hope. The net is huge and complex, but the mouse looks at it determinedly, like a problem to solve." },
+      "ar": { "text": "وصل الفأر إلى المكان، فوجد الأسد محبوساً في الشبكة. اقترب وقال: «لا تخف يا صديقي! سأنقذك!» نظر إليه الأسد بدهشة. قال بحزن: «لا تستطيع، أنت صغيرٌ جداً والحبال سميكة.»", "voice": "fable" },
+      "en": { "text": "The mouse arrived and found the lion tangled in the net. He squeaked, \"Don't worry, my friend! I'll save you!\" The lion looked at him in surprise. He said sadly, \"You can't — you're too small, and the ropes are too thick.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "The tiny mouse begins gnawing on a thick rope with his sharp teeth, focused and determined. The lion watches with growing amazement. Bits of rope fiber float in the air. The mouse's whiskers tremble with effort." },
+      "ar": { "text": "ابتسم الفأر وقال: «صحيحٌ أنّني صغير، لكن أسناني حادّة وقوية!» بدأ يقضم الحبال واحداً تلو الآخر. كان يعمل بسرعة. اندهش الأسد كثيراً ولم يقاطعه. كان كلّ حبلٍ يُقطع يجلب أملاً أكبر.", "voice": "fable" },
+      "en": { "text": "The mouse smiled and replied, \"True, I am small — but my teeth are sharp and strong!\" He began to gnaw on the ropes, one by one. He worked quickly. The lion watched in astonishment, holding still. Each rope cut brought greater hope.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The lion bursts free from the now-shredded net, shaking pieces of rope off his mane and roaring triumphantly. The mouse stands proudly nearby, paws on hips. The jungle is bright around them." },
+      "ar": { "text": "أخيراً، انقطع آخر حبل! خرج الأسد حرّاً، ينفض بقايا الحبال عن شعره. زأر فرحاً، ثم نظر إلى الفأر الصغير. قال بصوتٍ منخفض: «لقد كنتُ مخطئاً يا صديقي. لقد أنقذتني حقّاً.»", "voice": "fable" },
+      "en": { "text": "At last, the final rope snapped! The lion sprang free, shaking the shreds of net from his mane. He roared with joy, then looked down at the tiny mouse. He said softly, \"I was wrong, my friend. You truly have saved me.\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "The lion lowers his head gently, and the tiny mouse touches his huge nose with his tiny paws — a moment of friendship between very different sizes. Sun rays light the scene warmly." },
+      "ar": { "text": "خفض الأسد رأسه، فاقترب الفأر ولمس أنفه بيده الصغيرة. ضحكا معاً. قال الفأر: «الصديق الحقيقي لا يُقاس بالحجم، بل بالقلب.» وافق الأسد بكل قلبه.", "voice": "fable" },
+      "en": { "text": "The lion lowered his head, and the mouse reached up and touched his big nose with a tiny paw. They both laughed. The mouse said, \"A true friend is not measured by size, but by heart.\" The lion agreed with all his heart.", "voice": "fable" }
+    },
+    {
+      "id": "scene_14",
+      "image": { "prompt": "The lion walks beside the mouse, who rides comfortably on his head between his ears. They travel along a sun-dappled forest path, both with content expressions. Birds sing and butterflies float around them." },
+      "ar": { "text": "ومنذ ذلك اليوم، صار الأسد والفأر صديقَين. كان الأسد يحمي الفأر من الطيور الجارحة، والفأر يجلب للأسد أخباراً من أنحاء الغابة. وكان الفأر أحياناً يركب على رأس الأسد ليتجوّلا معاً.", "voice": "fable" },
+      "en": { "text": "From that day on, the lion and the mouse became dear friends. The lion protected the mouse from hawks, and the mouse brought the lion news from all corners of the jungle. Sometimes the mouse even rode atop the lion's head as they traveled together.", "voice": "fable" }
+    },
+    {
+      "id": "scene_15",
+      "image": { "prompt": "A wide forest scene with many animals — monkeys, deer, parrots, rabbits — watching the lion and mouse together with admiration. The animals look surprised but pleased. Tall trees and lush vegetation surround them." },
+      "ar": { "text": "تعلّمت حيوانات الغابة درساً جديداً عندما رأت صداقة الأسد والفأر. ولم يعد أحدٌ يستهين بالصغار بعد ذلك. كان الفأر يقول لكلّ من سأله: «الكبير يحتاج الصغير، والصغير يحبّ أن يساعد.»", "voice": "fable" },
+      "en": { "text": "The animals of the jungle learned a new lesson when they saw the friendship of the lion and the mouse. No one looked down on small creatures anymore. The mouse said to all who asked, \"The big need the small, and the small love to help.\"", "voice": "fable" }
+    }
+  ]
+}

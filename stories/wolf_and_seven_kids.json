@@ -1,0 +1,95 @@
+{
+  "id": "wolf_and_seven_kids",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "4-8",
+  "duration_minutes": 6,
+  "style_suffix": "warm watercolor children's book illustration, cozy cottage and forest palette, seven friendly cartoon baby goats with curious eyes, wolf depicted comically (silly not scary), gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Seven small white kid goats peek out of a cottage window in a forest clearing; their mother goat in an apron stands at the door waving goodbye, going to market. A wolf hides comically behind a tree in the distance"
+  },
+  "i18n": {
+    "ar": { "title": "الذئب والجديان السبعة", "subtitle": "حكاية من حكايات الإخوة جريم", "tagline": "تحذيرات الأم، حيلة الذئب، وذكاء الصغار" },
+    "en": { "title": "The Wolf and the Seven Young Kids", "subtitle": "A Tale from the Brothers Grimm", "tagline": "A mother's warnings, a wolf's tricks, and clever little kids" }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": { "prompt": "Mama Goat in an apron and bonnet stands at the door of a small cottage. Behind her, seven small white kids peek out, all with bright innocent eyes. The forest surrounds the cottage. Mama Goat carries a small basket." },
+      "ar": { "text": "كانت هناك أم ماعزة، تعيش في كوخٍ صغير في الغابة مع جدائها السبعة. أرادت أن تذهب إلى السوق. قالت لهم بحزم: «أحذّركم! لا تفتحوا الباب لأحد. الذئب الشرّير قد يأتي وهو يخدعكم!»", "voice": "shimmer" },
+      "en": { "text": "There was once a mother goat who lived in a small cottage in the forest with her seven young kids. She wanted to go to market. She told them firmly, \"I warn you! Don't open the door for anyone. The wicked wolf might come and try to trick you!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_02",
+      "image": { "prompt": "Mama Goat in front of her seven kids, demonstrating: she holds out her hoof (showing white fur), then opens her mouth (showing a gentle pink voice). The kids listen attentively." },
+      "ar": { "text": "علّمتهم أن يعرفوها بصوتها الناعم وقدمها البيضاء. قالت: «الذئب صوته أجش وقدمه سوداء. كونوا حذرين!» قبّلتهم وخرجت من البيت، وأغلقت الباب جيداً.", "voice": "shimmer" },
+      "en": { "text": "She taught them to know her by her soft voice and her white hoof. \"The wolf has a rough voice and a black paw. Be careful!\" She kissed them and went out, shutting the door tightly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_03",
+      "image": { "prompt": "A comical wolf with messy fur stands at the door of the cottage. He raises his front paw to knock, his mouth twisted in a sneaky expression. The seven kids inside peek out the window curiously." },
+      "ar": { "text": "بعد قليلٍ، جاء الذئب! طرق الباب بقوّة. قال بصوتٍ أجش: «افتحوا، يا صغار! أنا أمّكم. عدتُ بالطعام!» قال الجديان: «لا! صوتك أجش. أنتَ الذئب! لن نفتح!»", "voice": "shimmer" },
+      "en": { "text": "Soon, the wolf came! He knocked at the door loudly. He said in a rough voice, \"Open up, little ones! I'm your mother. I've come back with food!\" The kids said, \"No! Your voice is rough. You are the wolf! We won't open!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_04",
+      "image": { "prompt": "The wolf at a shop counter, holding a piece of white chalk. The shopkeeper looks at him with mild suspicion. The wolf has paid with coins. He plans to eat the chalk to soften his voice." },
+      "ar": { "text": "ذهب الذئب إلى البقّال، واشترى طبشورة بيضاء! أكلها كلّها لكي ينعم صوته. عاد إلى الكوخ وطرق الباب بصوتٍ ناعم: «افتحوا، يا أولادي! أنا أمّكم!» تردّد الجديان.", "voice": "shimmer" },
+      "en": { "text": "The wolf went to the shop and bought a piece of white chalk! He ate it all to soften his voice. He returned to the cottage and knocked gently, \"Open, my children! I am your mother!\" The kids hesitated.", "voice": "fable" }
+    },
+    {
+      "id": "scene_05",
+      "image": { "prompt": "The wolf at the door, with his black-furred paw clearly visible to the kids peeking through a small window. The seven kids spot the black paw and immediately recognize the trick. They are wide-eyed." },
+      "ar": { "text": "أراد الذئب أن يثبت أنّه الأم. وضع قدمه على عتبة النافذة. نظر الجديان — كانت قدمه سوداء! صرخوا: «أنتَ الذئب! قدمك سوداء، أمّنا قدمها بيضاء! اذهب!»", "voice": "shimmer" },
+      "en": { "text": "The wolf tried to prove he was the mother. He put his paw on the window sill. The kids looked — his paw was black! They cried, \"You are the wolf! Your paw is black, our mother's paw is white! Go away!\"", "voice": "fable" }
+    },
+    {
+      "id": "scene_06",
+      "image": { "prompt": "The wolf at a bakery, dipping his paw into a bowl of white flour. The baker watches with confusion. The wolf's paw becomes white with flour, comically dusty." },
+      "ar": { "text": "ذهب الذئب إلى المخبز، وغمس قدمه في الدقيق الأبيض. صارت قدمه بيضاء! عاد إلى الكوخ، طرق الباب بصوتٍ ناعم، وأظهر قدمه البيضاء من النافذة. ظنّ الجديان أنّها أمّهم. فتحوا الباب!", "voice": "shimmer" },
+      "en": { "text": "The wolf went to the bakery and dipped his paw in white flour. His paw became white! He went back to the cottage, knocked gently, and showed his white paw at the window. The kids thought it was their mother. They opened the door!", "voice": "fable" }
+    },
+    {
+      "id": "scene_07",
+      "image": { "prompt": "The wolf bursts into the cottage. The seven kids scatter quickly in panic, each finding a hiding spot. One hides in a cupboard, one in a chest, one in the oven, etc. The smallest kid hides in the grandfather clock." },
+      "ar": { "text": "دخل الذئب! ركض الجديان السبعة، واختبأ كلّ واحدٍ في مكان: الأول في الخزانة، والثاني تحت السرير، والثالث في الموقد، والرابع في صندوق الحطب، والخامس في درج، والسادس في إناءٍ كبير، والسابع — الأصغر — اختبأ في الساعة الكبيرة!", "voice": "shimmer" },
+      "en": { "text": "The wolf came in! The seven kids scattered. Each hid somewhere: the first in a cupboard, the second under the bed, the third in the oven, the fourth in the wood box, the fifth in a drawer, the sixth in a big pot, and the seventh — the smallest — hid in the grandfather clock!", "voice": "fable" }
+    },
+    {
+      "id": "scene_08",
+      "image": { "prompt": "The wolf, looking very full and sleepy, has eaten the six kids (depicted symbolically — his belly is round) and lies down outside under a tree to nap. He starts to snore loudly. The smallest kid peeks out from the clock in the cottage." },
+      "ar": { "text": "وجد الذئب ستّةً، لكنّه لم يجد الأصغر في الساعة. ابتلعهم! خرج إلى الحديقة، شعر بشبعٍ شديد، وغفا تحت شجرة كبيرة. كان يشخر بصوتٍ مرتفع.", "voice": "shimmer" },
+      "en": { "text": "The wolf found six of them, but not the smallest in the clock. He swallowed them! He went outside, felt very full, and fell asleep under a great tree. He snored loudly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_09",
+      "image": { "prompt": "Mama Goat returns home with her basket, finds the cottage door open and her smallest kid running out crying. The mother hugs the little kid. The smallest kid points toward the sleeping wolf outside." },
+      "ar": { "text": "في تلك اللحظة، عادت الأم. فتحت الباب، فرأت الفوضى! خرج الجدي الصغير من الساعة، ركض إليها يبكي: «أمّي! الذئب جاء! ابتلع إخوتي!» احتضنت الأم الجدي، وفكّرت بسرعة.", "voice": "shimmer" },
+      "en": { "text": "At that moment, the mother returned. She opened the door and saw the chaos! The smallest kid came out of the clock and ran to her, crying, \"Mother! The wolf came! He swallowed my brothers and sisters!\" The mother hugged him and thought quickly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_10",
+      "image": { "prompt": "Mama Goat with a small pair of scissors and a needle and thread, sneaking up to the sleeping wolf. Her smallest kid watches from a safe distance. The wolf is in deep sleep, mouth open and snoring." },
+      "ar": { "text": "خرجت الأم بحذر، وأخذت مقصاً وإبرةً وخيطاً. اقتربت من الذئب النائم. كان ينام نوماً عميقاً، تتحرّك بطنه. سمعت أصواتاً صغيرة من داخلها!", "voice": "shimmer" },
+      "en": { "text": "The mother went out carefully, with scissors, needle and thread. She crept up to the sleeping wolf. He was in a deep sleep, his belly rising and falling. She heard tiny voices inside!", "voice": "fable" }
+    },
+    {
+      "id": "scene_11",
+      "image": { "prompt": "Mama Goat carefully snips the wolf's belly while he sleeps (depicted gently). One by one, the six kids emerge unharmed, looking happy and relieved. The mother stuffs the wolf's belly with stones (visible nearby). The wolf snores on, oblivious." },
+      "ar": { "text": "بحذرٍ شديد، قصّت الأم بطن الذئب! خرج كلّ الجدايا — حيين وسالمين! كانوا قد ابتُلعوا كاملين. ضحكت الأم. ثم ملأت بطن الذئب بالحجارة، وخاطته من جديد بهدوء.", "voice": "shimmer" },
+      "en": { "text": "Very carefully, the mother snipped open the wolf's belly! All the kids came out — alive and unharmed! They had been swallowed whole. The mother laughed. Then she filled the wolf's belly with stones and sewed it shut quietly.", "voice": "fable" }
+    },
+    {
+      "id": "scene_12",
+      "image": { "prompt": "The wolf wakes, stumbles to a nearby well looking thirsty. His belly is comically heavy with stones, making him waddle. The mother and seven kids watch with quiet smiles from behind a tree as the wolf falls into the well comically." },
+      "ar": { "text": "استيقظ الذئب. شعر بعطشٍ شديد من ثقل الحجارة. مشى إلى البئر بصعوبة، وانحنى ليشرب. لكنّ الحجارة كانت ثقيلة جداً... سقط في البئر بلوب! خرج مبتلّاً وهرب بعيداً، ولم يعد إلى الغابة أبداً!", "voice": "shimmer" },
+      "en": { "text": "The wolf woke up. He felt very thirsty from the weight of the stones. He walked to the well with difficulty and leaned over to drink. But the stones were so heavy... he tumbled into the well — SPLASH! He climbed out soaking wet and ran far away, never to return to the forest!", "voice": "fable" }
+    },
+    {
+      "id": "scene_13",
+      "image": { "prompt": "Mama Goat and her seven kids dance happily in front of their cottage. They form a circle, holding hooves, smiling and laughing. The forest is bright and peaceful. The sun shines warmly." },
+      "ar": { "text": "احتضنت الأم جديا واحداً واحداً. رقصوا في الحديقة فرحاً بالنجاة. وتعلّم الجديان درساً مهماً: استمعوا دائماً لأمّهم، ولا يفتحوا الباب لغريب، حتى لو خدعهم بحلوى الكلام.", "voice": "shimmer" },
+      "en": { "text": "Mama Goat hugged each of her kids. They danced in the garden, joyful at their survival. The kids learned a most important lesson: always listen to mother, and never open the door to a stranger — no matter how sweet his words may sound.", "voice": "fable" }
+    }
+  ]
+}
