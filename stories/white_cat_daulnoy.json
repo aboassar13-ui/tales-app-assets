@@ -1,0 +1,221 @@
+{
+  "id": "white_cat_daulnoy",
+  "category": "fairy_tale",
+  "source": "Madame d'Aulnoy (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "enchanting watercolor children's book illustration, jewel-toned palette (sapphire, emerald, gold), magical castle setting, gentle storybook mood, expressive friendly faces, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A handsome young prince on a white horse gazes up at a shimmering, magical castle with tall spires. A graceful white cat with intelligent eyes sits on the castle wall, watching him. Golden sunlight filters through the enchanted forest."
+  },
+  "i18n": {
+    "ar": {
+      "title": "القطة البيضاء",
+      "subtitle": "أميرة في قصر مسحور",
+      "tagline": "مغامرة، سحر، وقلبٌ شجاع"
+    },
+    "en": {
+      "title": "The White Cat",
+      "subtitle": "Princess in an Enchanted Castle",
+      "tagline": "Adventure, magic, and a brave heart"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A noble prince with kind eyes rides a white horse through a dense, sun-dappled forest. He looks determined but a little lost. Ancient trees with glowing moss surround him. Soft, magical light."
+      },
+      "ar": {
+        "text": "في مملكةٍ بعيدة، انطلق أميرٌ شجاعٌ في رحلةٍ شاقة. سمع عن أميرةٍ جميلةٍ محتجزةٍ في قصرٍ سحري، وقرر أن ينقذها. سافر لأيامٍ عبر غاباتٍ كثيفةٍ وأراضٍ مجهولة، وقلبه مليءٌ بالأمل.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "In a faraway kingdom, a brave prince set out on a challenging quest. He had heard tales of a beautiful princess held captive in a magical castle, and he was determined to rescue her. He traveled for days through deep forests and unknown lands, his heart full of hope.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The prince's horse stops before a magnificent, shimmering castle made of crystal and moonlight. The castle seems to float amidst swirling mist and glowing flora. The prince looks up in awe. Warm, wondrous mood."
+      },
+      "ar": {
+        "text": "وصل الأمير أخيراً إلى قصرٍ لم يرَ مثله قط. كان القصر يتلألأ كأنه مصنوعٌ من الكريستال والضوء، ويقع في وسط غابةٍ غريبةٍ مليئةٍ بالأزهار المتوهجة. بدا القصر مهيباً وغامضاً.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "At last, the prince arrived before a castle unlike any he had ever seen. It shimmered as if made of crystal and light, nestled in a strange forest filled with glowing flowers. The castle seemed both magnificent and mysterious.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A beautiful white cat with intelligent, sapphire eyes sits elegantly on a velvet cushion on a balcony of the crystal castle. She watches the prince approach with a calm, knowing gaze. Soft, ethereal lighting."
+      },
+      "ar": {
+        "text": "بينما كان الأمير يتأمّل القصر، ظهرت قطةٌ بيضاءُ جميلةٌ على الشرفة. كانت عيناها زرقاوين كالياقوت، ونظرتها ذكيةً وحكيمة. لم تكن قطةً عادية، بل كانت تملك هالةً من السحر.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "As the prince gazed at the castle, a beautiful white cat appeared on a balcony. Her eyes were like blue sapphires, and her gaze was intelligent and wise. She was no ordinary cat, but one who carried an aura of magic.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The white cat speaks to the prince, her mouth moving as if in speech, though her form is feline. The prince listens intently, his expression a mixture of surprise and curiosity. They are on the castle's grand entrance steps. Magical atmosphere."
+      },
+      "ar": {
+        "text": "فوجئ الأمير عندما تحدثت القطة بصوتٍ ناعم: «أهلاً بك أيها الأمير. أعرف سبب مجيئك. أنا لستُ مجرد قطة، بل أميرةٌ وقعت تحت تعويذةٍ شريرة.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The prince was astonished when the cat spoke in a soft voice, \"Welcome, Prince. I know why you have come. I am not just a cat, but a princess under an evil enchantment.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The prince gently strokes the white cat's head. The cat purrs and rubs against his hand, showing trust. The prince's face shows compassion and determination to help. The crystal castle glows softly behind them."
+      },
+      "ar": {
+        "text": "شعر الأمير بالأسف للأميرة. قال لها بلطف: «لا تخافي، سأبذل قصارى جهدي لكسر هذه التعويذة. أخبريني ماذا يجب أن أفعل.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The prince felt a deep sympathy for the princess. He said gently, \"Do not fear, for I will do everything in my power to break this spell. Tell me what I must do.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The white cat leads the prince through a grand hall of the castle filled with shimmering tapestries and glowing furniture. The cat walks with regal grace, and the prince follows, looking around with wonder. Ethereal, magical interior."
+      },
+      "ar": {
+        "text": "أوضحت القطة أن ساحراً قديماً حولها إلى قطة، وأن التعويذة لن تنتهي إلا إذا أظهر الأمير شجاعةً حقيقية وقلباً طيباً. قادته عبر ممرات القصر المتلألئة، وأخبرته عن التحديات التي تنتظره.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The cat explained that an old sorcerer had transformed her, and the spell could only be broken by a prince showing true courage and a kind heart. She led him through the castle's shimmering halls, telling him of the trials that lay ahead.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The prince faces a gentle, playful guardian creature (like a winged lion or a griffin) in a castle courtyard. The creature is not menacing, but tests the prince's bravery. The white cat watches from a safe distance. Sunny courtyard."
+      },
+      "ar": {
+        "text": "واجه الأمير مخلوقاً أسطورياً يحرس القصر. لم يكن المخلوق شريراً، بل كان يختبر شجاعة الأمير وقلبه. أظهر الأمير رباطة جأشٍ ولطفاً، فسمح له المخلوق بالمرور.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The prince encountered a mythical guardian in the castle courtyard. The creature was not fierce, but tested the prince's bravery and heart. The prince showed calm courage and kindness, and the guardian allowed him to pass.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The prince solves a riddle presented by a magical, talking fountain in an ornate castle garden. The fountain has a kindly face carved into it. The white cat sits nearby, looking pleased. Lush, enchanted garden."
+      },
+      "ar": {
+        "text": "ثم وصل إلى حديقةٍ ساحرةٍ حيث كانت هناك نافورةٌ تتكلم. طرحت عليه لغزاً صعباً. فكر الأمير ملياً، وبمساعدة القطة التي همست له ببعض الكلمات، وجد الإجابة الصحيحة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Next, he reached an enchanted garden where a talking fountain posed a difficult riddle. The prince thought very hard, and with a little whispered help from the cat, he found the correct answer.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The prince offers a small, glowing flower he picked to the white cat. The cat nuzzles his hand, purring contentedly. The prince's face shows genuine affection and care. The background is a beautiful, enchanted library."
+      },
+      "ar": {
+        "text": "في كل تحدٍ، أظهر الأمير لطفه وشجاعته. لم يؤذِ أحداً، بل حاول فهم كل مخلوقٍ قابله. كانت القطة البيضاء تراقبه، وتشعر بأن قلبه النقي هو المفتاح لكسر التعويذة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "With each challenge, the prince showed his kindness and courage. He harmed no one, but sought to understand every creature he met. The white cat watched him, sensing that his pure heart was the key to breaking the spell.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The white cat stands on a pedestal in a grand hall. The prince approaches her, holding a sparkling crystal. The hall is filled with soft, magical light. The cat looks expectantly at the prince. Climax scene."
+      },
+      "ar": {
+        "text": "أخيراً، وقفت القطة أمامه في قاعةٍ كبيرة، وقالت: «لقد أثبتّ جدارتك أيها الأمير. أنت طيبٌ وشجاع. الآن، المسني بهذا الكريستال السحري.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Finally, the cat stood before him in a grand hall and said, \"You have proven yourself worthy, Prince. You are kind and brave. Now, touch me with this magical crystal.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "As the prince touches the white cat with the crystal, a brilliant light envelops them. The cat's form begins to shimmer and transform. The prince watches, amazed and hopeful. Swirling magical energy."
+      },
+      "ar": {
+        "text": "لمس الأمير القطة بالكريستال، فانفجر نورٌ ساطعٌ ملأ القاعة. بدأت القطة تتغير، وشعرها الأبيض يذوب ليصبح ثوباً لامعاً. وقف الأمير مذهولاً وهو يرى السحر يحدث.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The prince touched the cat with the crystal, and a brilliant light filled the hall. The cat began to change, her white fur melting away into a shimmering gown. The prince watched in amazement as the magic unfolded.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A beautiful princess, with hair as white as snow and eyes like sapphires, stands where the cat was. She wears an elegant gown. The prince looks at her with wonder and admiration. A soft, triumphant glow surrounds them."
+      },
+      "ar": {
+        "text": "في لحظات، وقفت أمامه أميرةٌ فاتنةٌ بجمالٍ لا يوصف، شعرها أبيض كالثلج وعيناها زرقاوان كالسماء. كانت هي الأميرة التي سمع عنها، وقد تحررت من السحر.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "In moments, a stunning princess stood before him, with hair as white as snow and eyes like the sky. She was the very princess he had heard of, now freed from the enchantment.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The prince and princess smile warmly at each other in the magical castle hall. They hold hands, their connection clear. The crystal castle glows around them, now a place of joy and freedom. Warm, romantic lighting."
+      },
+      "ar": {
+        "text": "ابتسم الأمير للأميرة قائلاً: «لقد نجحتُ! أنتِ حرةٌ الآن.» ابتسمت الأميرة وشكرته من كل قلبها. لقد وجد كل منهما سعادته الحقيقية.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The prince smiled at the princess, saying, \"I have succeeded! You are free now.\" The princess smiled back, thanking him with all her heart. Each had found their true happiness.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The prince and princess ride together on the white horse, leaving the magical castle behind. The castle shimmers in the distance, now a symbol of their adventure. They look ahead joyfully towards their kingdom. Sunny, happy departure."
+      },
+      "ar": {
+        "text": "عاد الأمير والأميرة معاً إلى مملكته. استقبلهما الناس بفرحٍ وسرور، وحكموا بالعدل والحكمة. وعاشا معاً بسعادةٍ أبدية، متذكرين دائماً القطة البيضاء التي كانت أميرةً طيبة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The prince and princess returned together to his kingdom. They were welcomed with great joy, and they ruled with justice and wisdom. They lived happily ever after, always remembering the white cat who was a kind princess.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "two_pots",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "charming watercolor children's book illustration, earthy color palette, gentle storybook mood, simple friendly characters, serene river setting, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A shiny brass pot and a simple clay pot float side-by-side on a gentle blue river, with green trees on the bank. Sunlight dapples the water. The mood is peaceful and slightly apprehensive."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الوعاءان",
+      "subtitle": "وعاء النحاس ووعاء الطين",
+      "tagline": "الصداقة، الحذر، ودروس النهر"
+    },
+    "en": {
+      "title": "The Two Pots",
+      "subtitle": "The Brass Pot and the Clay Pot",
+      "tagline": "Friendship, caution, and river lessons"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A gleaming brass pot and a fragile clay pot sit together on a riverbank under a gentle sun. The clay pot looks worried, while the brass pot looks sturdy and confident. Lush green reeds grow nearby."
+      },
+      "ar": {
+        "text": "كان يا مكان، في قديم الزمان، وعاءٌ من نحاس لامع ووعاءٌ آخر من طين هش. كانا صديقين، يعيشان بالقرب من ضفة النهر. الوعاء النحاسي كان قوياً ولامعاً، أما وعاء الطين فكان خفيفاً وقابلاً للكسر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Once upon a time, there lived a shiny brass pot and a fragile clay pot. They were good friends, resting near the bank of a gentle river. The brass pot was strong and gleaming, while the clay pot was light and easily broken.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A sudden flood swells the river; water rushes around the two pots, lifting them. The clay pot looks terrified, while the brass pot remains upright and steady. Trees on the bank are partially submerged."
+      },
+      "ar": {
+        "text": "في يومٍ من الأيام، هطل المطر بغزارة، ارتفع منسوب النهر فجأة، واجتاحت المياه الوعاءين. حملهم التيار بقوة، وبدأوا يتدحرجون في الماء. شعر وعاء الطين بالخوف الشديد وهو يرتطم بالأمواج.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, the rain poured down, and the river swelled suddenly. The rushing water swept around both pots, lifting them away. The clay pot felt a shiver of fear as the currents tumbled him along the water.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The brass pot floats close to the clay pot, nudging it gently. The clay pot is jostled by small waves. The brass pot has a reassuring expression (anthropomorphized). The river flows swiftly through a green valley."
+      },
+      "ar": {
+        "text": "قال وعاء النحاس لصديقه الطيني: «لا تقلق يا صديقي! أنا بجانبك. سأحميك من أي شيء قد يؤذيك. ابقَ قريباً مني.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The brass pot floated close to his friend. \"Don't worry, my dear friend!\" he called out. \"I am right beside you. I will keep you safe from anything that might hurt you. Just stay close to me.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The brass pot, carried by a stronger current, accidentally bumps hard against the clay pot. The clay pot cracks and breaks into pieces. The brass pot looks shocked and dismayed. Small fish swim around the debris."
+      },
+      "ar": {
+        "text": "لكن التيار كان قوياً، وفي لحظةٍ، اصطدم الوعاء النحاسي بوعاء الطين بقوة. سمع صوت تكسّرٍ مريع! انكسر وعاء الطين إلى قطعٍ صغيرة، وتناثر في النهر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But the current was strong, and in a moment, the brass pot bumped hard against the clay pot. A terrible cracking sound was heard! The clay pot broke into many small pieces, scattering in the water.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The brass pot floats alone on the river, looking sad and regretful. The broken pieces of the clay pot are visible underwater. The river continues to flow under a soft, cloudy sky."
+      },
+      "ar": {
+        "text": "نظر الوعاء النحاسي بحزنٍ إلى صديقه المكسور. لقد حاول مساعدته، لكن حمايته القوية أدت إلى تدميره. تعلم الوعاء النحاسي درساً قاسياً عن قوته وكيف يجب أن يكون حذراً مع أصدقائه الأضعف.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The brass pot floated sadly, looking at his broken friend. He had meant to protect him, but his own great strength had accidentally caused his friend's end. The brass pot learned a hard lesson about being careful with those who are weaker.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

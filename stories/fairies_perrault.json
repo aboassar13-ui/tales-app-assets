@@ -1,0 +1,137 @@
+{
+  "id": "fairies_perrault",
+  "category": "fairy_tale",
+  "source": "Charles Perrault (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "gentle storybook illustration, soft pastel palette, whimsical fairy-tale mood, friendly characters, enchanted forest setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind young woman with flowers gently falling around her head, speaking softly to a small rabbit in a sun-dappled forest clearing. Her sister stands nearby, scowling, with a small toad hopping away from her feet."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الجنيات",
+      "subtitle": "الألماس والضفادع",
+      "tagline": "الكلمات الطيبة تجلب الجمال، والكلمات القاسية تجلب المفاجآت"
+    },
+    "en": {
+      "title": "The Fairies",
+      "subtitle": "Diamonds and Toads",
+      "tagline": "Kind words bring beauty, and harsh words bring surprises"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A loving mother embraces her two young daughters, one with a bright, cheerful smile, the other with a grumpy frown, in front of a humble cottage. Sunlight streams through the trees."
+      },
+      "ar": {
+        "text": "في قديم الزمان، عاش رجلٌ أرمل مع ابنتيه. كانت الصغرى طيبة القلب، لطيفة، وودودة مع كل من تقابله. أما الكبرى، فكانت عكسها تماماً، غليظة الطباع، ومتعجرفة، ولم يعرف أحدٌ كيف يتحملها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Once upon a time, there lived a widower with his two daughters. The younger one was kind-hearted, sweet, and friendly to everyone she met. The elder daughter, however, was the opposite – ill-tempered and proud, and no one could stand her ways.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The father and his two daughters walking on a forest path. The younger daughter stops to help an old woman who has dropped a bundle of sticks, while the elder daughter impatiently tugs at her father's sleeve."
+      },
+      "ar": {
+        "text": "ذات يوم، بينما كان الأب عائداً من المدينة، قابلته امرأة عجوز متسخة الثياب في الغابة. سارعت ابنته الصغرى لمساعدتها في جمع ما سقط منها، بينما سارعت الكبرى لتقول لأبيها: «أسرع بنا، إنها تضيّع وقتنا!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, as their father was returning from the town, he met an old woman in dirty clothes in the forest. His younger daughter hurried to help her pick up the sticks she had dropped, while the elder impatiently tugged at her father's sleeve, saying, \"Let's hurry, Father, she's wasting our time!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The old woman, now transformed into a radiant fairy, stands before the two sisters in the forest clearing. Jewels and flowers rain down from the younger sister's smiling lips. Small toads and snakes hop from the elder sister's frowning mouth."
+      },
+      "ar": {
+        "text": "اقتربت العجوز من الابنة الصغرى وقالت: «يا ابنتي، لأنكِ طيبة القلب، سأمنحكِ هبةً عظيمة. من الآن فصاعداً، كل كلمةٍ تخرج من فمك ستكون إما زهرةً جميلة أو جوهرةً ثمينة.» ثم التفتت إلى الكبرى وقالت: «أما أنتِ، فكل كلمةٍ تنطقين بها ستكون ضفدعاً أو أفعى سامة!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The old woman approached the younger daughter and said, \"My dear, because you are so kind, I shall grant you a great gift. From this day forward, every word you speak will be either a beautiful flower or a precious jewel.\" She then turned to the elder and said, \"As for you, every word you utter will be a toad or a poisonous snake!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The two sisters and their father are back at their humble cottage. The younger sister speaks to her father, and roses and sparkling diamonds fall onto the table. The elder sister speaks angrily, and a large toad hops onto the floor."
+      },
+      "ar": {
+        "text": "عادوا إلى البيت، وبدأت الابنة الصغرى تتحدث مع أبيها. فإذا بالورود العطرة والألماس المتلألئ تتساقط من شفتيها! أما أختها الكبرى، فكلما فتحت فمها لتتكلم، خرج منها ضفدعٌ أو ثعبانٌ صغير، مما أثار اشمئزاز الجميع.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "They returned home, and the younger daughter began to speak to her father. Roses and sparkling diamonds tumbled from her lips! But whenever her elder sister opened her mouth to speak, out hopped a toad or a little snake, much to everyone's disgust.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The younger sister, surrounded by admiring villagers, gives a flower to a child. The elder sister, alone and shunned, tries to speak but a frog croaks out, making the villagers recoil in disgust."
+      },
+      "ar": {
+        "text": "انتشر الخبر في القرية. أحبّ الجميع الابنة الصغرى، فقد كانت كلماتها تجلب لهم الجمال والفرح. أما أختها، فقد نبذها الجميع بسبب كلماتها الموحشة، ولم يعد أحدٌ يرغب في رؤيتها أو سماعها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "News of this spread throughout the village. Everyone loved the younger daughter, for her words brought them beauty and joy. But the elder sister was shunned by all because of her dreadful words, and no one wanted to see or hear from her anymore.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A handsome young prince rides through the forest on a white horse. He hears the younger sister speaking to a bird, and a shower of gems falls around her. He stops, enchanted."
+      },
+      "ar": {
+        "text": "في أحد الأيام، مرّ أميرٌ وسيمٌ بالغابة. سمع صوت الابنة الصغرى تتحدث إلى طائرٍ صغير، وتساقطت حولها الجواهر والزهور. توقف الأمير مبهوراً بجمال كلماتها، ونزل عن حصانه ليراها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, a handsome prince was riding through the forest. He heard the younger daughter speaking to a little bird, and jewels and flowers rained down around her. The prince stopped, enchanted by the beauty of her words, and dismounted his horse to see her.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The prince kneels before the younger sister, holding a sparkling diamond. Flowers are scattered at their feet in the forest clearing. The elder sister watches from behind a tree, a toad hopping near her foot."
+      },
+      "ar": {
+        "text": "اقترب منها الأمير، ووجدت كلماته الجميلة تخرج منه أيضاً! سألها عن اسمها، فأجابته بكلماتٍ رقيقة خرجت منها زهورٌ عطرة. أدرك الأمير أنها الفتاة التي يبحث عنها، وطلب يدها للزواج.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince came closer, and found that beautiful words came from him too! He asked her name, and she answered with gentle words from which fragrant flowers bloomed. The prince knew she was the one he had been searching for, and he asked her to marry him.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The younger sister, now a radiant princess in a beautiful gown, waves goodbye to her father from a golden carriage. The elder sister stands forlornly by the cottage, a single toad hopping away from her."
+      },
+      "ar": {
+        "text": "فرح الأب كثيراً، وعاشت الابنة الصغرى مع أميرها في سعادةٍ وهناء. أما الأخت الكبرى، فبقيت في البيت، ولم تتعلّم أبداً أن الكلمات الطيبة هي أجمل هبةٍ يمكن أن يمنحها الإنسان.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The father was overjoyed, and the younger daughter lived happily ever after with her prince. But the elder sister remained at home, never learning that kind words are the most beautiful gift anyone can give.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

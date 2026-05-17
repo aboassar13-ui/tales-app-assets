@@ -1,0 +1,235 @@
+{
+  "id": "robin_hood",
+  "category": "adventure",
+  "source": "Medieval English folk tales (public domain) — gentle retelling",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "warm storybook illustration, earthy forest palette, cheerful and adventurous mood, friendly animal companions, classic medieval English forest setting, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Robin Hood, a kind-faced archer in green, stands under a giant oak tree in Sherwood Forest, smiling with a longbow over his shoulder. A few Merry Men are nearby, laughing gently, and a deer peeks from behind a bush."
+  },
+  "i18n": {
+    "ar": {
+      "title": "روبن هود والغابة",
+      "subtitle": "مغامرات في غابة شيروود",
+      "tagline": "قوس ذكي، أصدقاء طيبون، وقلب كبير"
+    },
+    "en": {
+      "title": "Robin Hood and the Forest",
+      "subtitle": "Adventures in Sherwood Forest",
+      "tagline": "A clever bow, kind friends, and a big heart"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A lush, ancient forest with towering oak trees and sunbeams filtering through the leaves. A winding dirt path leads deeper into the woods. A small, friendly squirrel sits on a mossy branch, watching."
+      },
+      "ar": {
+        "text": "في قلب غابة شيروود الخضراء والواسعة، حيث الأشجار العالية تلامس السماء، عاش بطلٌ اسمه روبن هود. كانت الغابة بيته، وكانت الطيور والحيوانات أصدقاءه. كان يحب همس الرياح بين الأوراق وأشعة الشمس الذهبية.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Deep in the heart of Sherwood Forest, where tall trees touched the sky, lived a hero named Robin Hood. The forest was his home, and the birds and animals were his friends. He loved the whisper of the wind through the leaves and the golden sunshine filtering down.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Robin Hood, a youthful man with a kind smile, wears forest green clothing and holds a longbow. He's teaching a small group of cheerful Merry Men to shoot arrows at a target made of hay. They are all laughing under a large oak tree."
+      },
+      "ar": {
+        "text": "لم يكن روبن هود وحيداً، بل كان لديه أصدقاء مخلصون يُعرفون بـ«الرجال المرحين». كانوا يرتدون اللون الأخضر مثله، ويقضون أيامهم في التدرب على القوس والسهم، والغناء حول نار المخيم، والضحك بصوت عالٍ.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Robin Hood was not alone; he had loyal friends known as the Merry Men. They wore forest green, just like him, and spent their days practicing with bows and arrows, singing around a campfire, and laughing out loud with joy.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A small, humble village with thatched-roof cottages. Farmers with sad faces look at their empty fields, where withered crops lie. A gentle, empathetic Robin Hood watches them from a distance, hidden behind a large tree, with a thoughtful expression."
+      },
+      "ar": {
+        "text": "في القرى القريبة، كان الفلاحون يعيشون حياةً صعبة. كانت محاصيلهم قليلة، والشرير العمدة يجمع منهم ضرائب كثيرة. كانوا يشعرون بالجوع والحزن، ولم يكن لديهم من يساعدهم.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In the nearby villages, the farmers lived a hard life. Their crops were meager, and the greedy Sheriff collected too many taxes from them. They felt hungry and sad, with no one to help them in their time of need.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Robin Hood and Little John (a tall, strong man with a staff) are discreetly leaving baskets of fresh bread, cheese, and apples on the doorsteps of humble village cottages at night. A friendly owl watches from a tree branch."
+      },
+      "ar": {
+        "text": "رأى روبن هود حزنهم، وقرّر أن يساعد. كان يعتقد أن كل شخص يستحق الطعام والسعادة. لذا، بدأ هو ورجاله المرحون يجمعون الطعام من الغابة ويشاركونه مع القرويين المحتاجين.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Robin Hood saw their sadness and decided to help. He believed everyone deserved food and happiness. So, he and his Merry Men began to gather food from the forest and share it with the villagers who were in need.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Robin Hood, dressed in green, is sharing a loaf of bread and a cheerful smile with a small, grateful child in a village. The child's mother looks on with relief and a small smile. Other villagers are receiving food from the Merry Men in the background."
+      },
+      "ar": {
+        "text": "كانوا يتركون سلال الطعام أمام أبواب البيوت في الليل، ويختفون قبل أن يراهم أحد. في الصباح، كان القرويون يجدون الخبز الطازج، الجبن، والتفاح. كانوا يتساءلون من هو هذا البطل الخفي.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "They would leave baskets of food on doorsteps at night and disappear before anyone saw them. In the morning, the villagers would find fresh bread, cheese, and apples. They wondered who this secret hero could be.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A grand, greedy Sheriff of Nottingham, a stout man in rich red robes, is counting bags of gold coins on a large wooden table in his castle. His face is stern and unhappy despite the gold. Two timid guards stand nearby."
+      },
+      "ar": {
+        "text": "لكن العمدة الشرير في نوتنغهام لم يكن سعيداً. كان يحب المال كثيراً، وعندما سمع عن روبن هود، غضب وقال: «من يجرؤ على مساعدة القرويين دون إذني؟ سأقبض عليه!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "But the greedy Sheriff of Nottingham was not happy. He loved money very much, and when he heard about Robin Hood, he grew angry. \"Who dares to help the villagers without my permission? I will catch him!\" he declared.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Robin Hood and his Merry Men are having a joyful feast under a huge, ancient oak tree in Sherwood Forest. They are sharing roasted vegetables and berries, laughing and telling stories. A friendly badger is peeking from a log."
+      },
+      "ar": {
+        "text": "في أحد الأيام، قرّر روبن هود أن يُعلّم العمدة درساً في اللطف. أقام هو ورجاله وليمة كبيرة في الغابة، مع الكثير من الطعام والأغاني. أراد أن يشارك فرحتهم مع كل شخص.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "One day, Robin Hood decided to teach the Sheriff a lesson in kindness. He and his men prepared a grand feast in the forest, with lots of food and cheerful songs. He wanted to share their joy with everyone.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The Sheriff of Nottingham, looking puzzled and slightly annoyed, is walking through the forest with his guards. He hears faint, happy singing and laughter coming from deeper within the woods. He is looking for Robin Hood."
+      },
+      "ar": {
+        "text": "سمع العمدة عن الوليمة من أحد رجاله. ظنّ أنها فرصة للقبض على روبن هود. فجمع جنوده وذهب إلى الغابة، يتبع صوت الغناء والضحك الذي كان يرتفع بين الأشجار.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The Sheriff heard about the feast from one of his men. He thought it was a perfect chance to catch Robin Hood. So, he gathered his soldiers and went into the forest, following the sound of singing and laughter that echoed through the trees.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Robin Hood, with a mischievous grin, is inviting the surprised Sheriff and his guards to join the feast. The Merry Men are smiling kindly. The Sheriff looks wary but intrigued by the delicious food spread on blankets."
+      },
+      "ar": {
+        "text": "عندما وصل العمدة وجنوده، وجدوا روبن هود ورجاله يضحكون ويأكلون. ابتسم روبن هود ودعا العمدة: «مرحباً بك يا سيدي! تفضل وشاركنا طعامنا وأغانينا. الغابة تتسع للجميع.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "When the Sheriff and his men arrived, they found Robin Hood and his Merry Men laughing and eating. Robin Hood smiled and invited the Sheriff, \"Welcome, good sir! Come, share our food and songs. There is enough for everyone in the forest.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The Sheriff of Nottingham, looking slightly confused but enjoying himself, is sitting with Robin Hood and the Merry Men, eating a roasted apple. He's listening to a Merry Man play a lute and another singing a cheerful song. The mood is surprisingly friendly."
+      },
+      "ar": {
+        "text": "تردد العمدة قليلاً، لكن رائحة الطعام الشهي كانت لا تُقاوم. جلس معهم، وأكل وشرب، واستمع إلى أغانيهم المضحكة. لأول مرة منذ وقت طويل، شعر العمدة بالراحة والسعادة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The Sheriff hesitated, but the smell of delicious food was irresistible. He sat with them, ate and drank, and listened to their merry songs. For the first time in a long while, the Sheriff felt relaxed and happy.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Robin Hood is telling a captivating story to the Sheriff and his guards, who are now sitting comfortably around the campfire, fully engaged. The Merry Men are nodding along, some still playing soft music. The forest is peaceful at dusk."
+      },
+      "ar": {
+        "text": "بعد الوليمة، جلس روبن هود يحكي للعمدة قصصاً عن الغابة وعن مساعدة الضعفاء. لم يتحدث عن المال أو الضرائب، بل عن أهمية اللطف والمشاركة. استمع العمدة باهتمام، وبدأ قلبه يتغيّر قليلاً.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "After the feast, Robin Hood told the Sheriff stories about the forest and helping those in need. He didn't talk about money or taxes, but about the importance of kindness and sharing. The Sheriff listened intently, and his heart began to soften a little.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The Sheriff of Nottingham, no longer looking stern, is shaking hands with Robin Hood under the moonlight. Both are smiling. The Merry Men are waving goodbye respectfully. The Sheriff's guards look surprised by this friendly interaction."
+      },
+      "ar": {
+        "text": "عندما حان وقت الرحيل، ودّع روبن هود العمدة باحترام. قال العمدة: «لم أكن أعلم أن الحياة يمكن أن تكون بهذه السعادة دون جمع المال.» ووعد بأنه سيفكر في كلماته.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "When it was time to leave, Robin Hood bid the Sheriff a respectful farewell. The Sheriff said, \"I never knew life could be so happy without collecting so much money.\" He promised to think about Robin Hood's words.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The Sheriff of Nottingham, now with a gentle expression, is speaking to villagers. He's handing back some bags of gold to a grateful farmer. The villagers are smiling, and the Sheriff's guards look less stern, almost relieved."
+      },
+      "ar": {
+        "text": "عاد العمدة إلى نوتنغهام، لكنه لم يعد كما كان. بدأ يفكّر في القرويين بلطف أكبر، وقلّل من الضرائب. وبدأ الناس في القرى يشعرون بالأمان والسعادة أكثر من أي وقت مضى.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The Sheriff returned to Nottingham, but he was not the same. He began to think of the villagers with more kindness and lessened their taxes. The people in the villages started to feel safer and happier than ever before.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Robin Hood and his Merry Men are sitting peacefully under an oak tree, watching villagers happily tending their fields in the distance. Robin Hood has a contented smile. The forest is green and vibrant, full of life."
+      },
+      "ar": {
+        "text": "أما روبن هود ورجاله المرحون، فقد واصلوا العيش في غابة شيروود، يحرصون على أن تكون الغابة مكاناً آمناً لكل من يحتاج المساعدة. كانوا أبطالاً باللطف، وليس بالقوة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "As for Robin Hood and his Merry Men, they continued to live in Sherwood Forest, making sure the woods were a safe place for anyone who needed help. They were heroes of kindness, not of force.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Robin Hood, with a cheerful smile, is playing a simple wooden flute while sitting on a tree branch. A happy squirrel listens beside him. In the background, children from the village are playing near the edge of the forest, looking carefree and joyful."
+      },
+      "ar": {
+        "text": "وهكذا، أصبحت غابة شيروود مكاناً للسلام والفرح، بفضل قلب روبن هود الكبير وذكائه. وعاش الجميع في سعادة، متذكرين دائماً أن اللطف والمشاركة يجعلان العالم مكاناً أفضل بكثير.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "And so, Sherwood Forest became a place of peace and joy, thanks to Robin Hood's big heart and clever ways. Everyone lived happily, always remembering that kindness and sharing make the world a much better place.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

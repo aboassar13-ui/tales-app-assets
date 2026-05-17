@@ -1,0 +1,235 @@
+{
+  "id": "jungle_book_mowgli",
+  "category": "adventure",
+  "source": "Rudyard Kipling, The Jungle Book 1894 (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 12,
+  "style_suffix": "vibrant Indian jungle children's book illustration, lush green and earthy palette, friendly anthropomorphic animals, warm and adventurous mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful young boy with dark hair and a loincloth, Mowgli, riding playfully on the back of a wise, smiling brown bear, Baloo. A sleek black panther, Bagheera, walks beside them, looking protective. They are in a sun-dappled, dense green jungle with exotic flowers. Gentle, friendly expressions."
+  },
+  "i18n": {
+    "ar": {
+      "title": "ماوكلي، فتى الأدغال",
+      "subtitle": "صداقات في قلب الغابة",
+      "tagline": "طفلٌ شجاع، أصدقاء أوفياء، وقوانين الغابة الساحرة"
+    },
+    "en": {
+      "title": "Mowgli, the Jungle Boy",
+      "subtitle": "Friendships in the Heart of the Wild",
+      "tagline": "A brave boy, loyal friends, and the magic of jungle laws"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A tiny, adorable baby in a simple cloth, with wide curious eyes, is found by a kind, grey mother wolf with soft fur. She gently nudges the baby with her nose in a cozy, moss-lined cave. Two playful wolf cubs peek from behind her. Warm, safe mood."
+      },
+      "ar": {
+        "text": "في قلب غابة الهند الخضراء، حيث الأشجار العالية والزهور الملونة، حدث شيءٌ عجيب. عثرت أمٌّ ذئبةٌ طيبة اسمها «راكشا» على طفلٍ صغيرٍ ضائع. كان الطفل يبتسم لها دون خوف، فقررت أن تحميه وتعتني به كأحد صغارها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Deep in the heart of India's green jungle, where tall trees touched the sky and colorful flowers bloomed, something wondrous happened. A kind mother wolf, Raksha, found a lost baby boy. He smiled up at her without fear, and she decided to protect him and raise him as one of her own cubs.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The baby, now a toddler, is playfully wrestling with two wolf cubs in a sunlit clearing. The mother wolf watches with a gentle smile. Father wolf observes proudly from a nearby rock. Lush green jungle surrounds them. Happy, family scene."
+      },
+      "ar": {
+        "text": "كبر الطفل بين الذئاب، وأسموه «ماوكلي»، أي «الضفدع الصغير» لأنه كان ناعماً وبلا شعر. تعلّم كيف يمشي على أربع، وكيف يفهم لغة الغابة. كان يلعب مع صغار الذئاب، ويعدو مع الريح، ويشعر أنه جزءٌ لا يتجزأ من هذه العائلة المحبّة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The boy grew up among the wolves, and they named him Mowgli, meaning 'little frog' because he was smooth and hairless. He learned to walk on all fours and to understand the jungle's language. He played with the wolf cubs, ran with the wind, and felt like an inseparable part of his loving family.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "Mowgli, a young boy now, sits respectfully at the feet of a large, wise brown bear, Baloo, who is teaching him about different leaves and berries. A sleek, graceful black panther, Bagheera, watches from a tree branch nearby with an alert but gentle expression. Sunny jungle setting."
+      },
+      "ar": {
+        "text": "لم يكن ماوكلي وحيداً في تعلّم قوانين الغابة. كان لديه معلّمان حكيمان: «بالو» الدبّ البني الضخم الذي يعلّمه عن الفاكهة والعسل، و«باغيرا» النمر الأسود الرشيق الذي يعلّمه الصيد والتسلّق. كانا يحبّانه ويحمِيانه.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mowgli was not alone in learning the jungle's laws. He had two wise teachers: Baloo, the big brown bear, who taught him about fruits and honey, and Bagheera, the sleek black panther, who taught him hunting and climbing. They loved him and kept him safe.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Mowgli, a young boy, is carefully climbing a sturdy vine, with Bagheera the panther watching below, ready to catch him if he falls. Baloo the bear is nearby, playfully swatting at a beehive. Lush jungle canopy, bright daylight."
+      },
+      "ar": {
+        "text": "مع بالو، تعلّم ماوكلي أغاني الغابة، وكيف يميّز بين النداءات المختلفة للحيوانات. ومع باغيرا، تعلّم كيف يتسلّق الأشجار بسرعة، وكيف يتخفّى بين الأوراق. كان كل يوم مغامرةً جديدةً مليئة بالدروس الممتعة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "With Baloo, Mowgli learned the jungle's songs and how to distinguish between the different calls of the animals. With Bagheera, he learned how to climb trees swiftly and how to hide among the leaves. Every day was a new adventure filled with exciting lessons.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Mowgli, Baloo, and Bagheera are gathered by a shimmering jungle river. Mowgli is splashing water playfully, Baloo is enjoying a swim, and Bagheera is drinking gracefully. The jungle is vibrant and alive around them. Serene and joyful mood."
+      },
+      "ar": {
+        "text": "كانت أيام ماوكلي في الغابة سعيدةً جداً. كان يسبح في الأنهار الباردة، ويأكل الفاكهة الطازجة، وينام تحت النجوم. كان يشعر بالحرية المطلقة، وكان يعتبر الغابة بيته الوحيد، والحيوانات عائلته الحقيقية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mowgli's days in the jungle were very happy. He swam in cool rivers, ate fresh fruits, and slept under the stars. He felt absolute freedom and considered the jungle his only home, and the animals his true family.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A sly, striped tiger, Shere Khan, with a scar over one eye, lurks in the shadows of dense jungle foliage, watching Mowgli and his wolf family from a distance with a menacing but not scary expression. The wolves are unaware. Dusk light."
+      },
+      "ar": {
+        "text": "لكن لم تكن كل الحيوانات صديقةً لماوكلي. كان هناك نمرٌ شريرٌ يُدعى «شيرخان»، يكره البشر ويطارد ماوكلي. كان شيرخان يحاول دائماً إيذاء ماوكلي، لكن عائلة الذئاب وأصدقاءه كانوا يحمونه بكل قوّتهم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But not all animals were Mowgli's friends. There was a sly tiger named Shere Khan, who disliked humans and pursued Mowgli. Shere Khan always tried to harm Mowgli, but his wolf family and friends protected him with all their might.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Mowgli, a young boy, is racing through the jungle with a pack of friendly wolves, their fur glistening in the dappled sunlight. Baloo and Bagheera are running alongside, looking protective. Shere Khan is a distant, blurred shape in the background, unable to keep up. Dynamic, safe chase scene."
+      },
+      "ar": {
+        "text": "في إحدى الليالي، حاول شيرخان أن يتسلّل إلى عرين الذئاب. لكن الذئاب الشجاعة، ومعها بالو وباغيرا، وقفوا في وجهه. دافعوا عن ماوكلي بشجاعةٍ كبيرة، وأجبروا النمر الشرير على التراجع إلى الظلام.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One night, Shere Khan tried to sneak into the wolf den. But the brave wolves, along with Baloo and Bagheera, stood against him. They defended Mowgli with great courage, forcing the sly tiger to retreat back into the shadows.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Mowgli is playfully riding on Baloo's back as Baloo swims across a wide, clear river. Bagheera is perched gracefully on a rock by the riverbank, watching over them. Sunlight glints on the water. Joyful, carefree scene."
+      },
+      "ar": {
+        "text": "مع مرور السنين، أصبح ماوكلي ماهراً في كل شيءٍ يخصّ الغابة. كان أسرع من أيّ إنسان في الركض، وأكثر حكمةً في فهم الطبيعة. كان يشعر بانتمائه العميق لهذه الحياة البرّية المليئة بالمفاجآت.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As the years passed, Mowgli became skilled in everything related to the jungle. He was faster than any human, and wiser in understanding nature. He felt a deep sense of belonging to this wild life, full of surprises.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Mowgli, a young boy, is sharing a meal of berries and honey with his wolf family in their den. Baloo and Bagheera are nearby, sharing their own food. The scene is cozy and full of warmth, illuminated by soft jungle light. Family bond emphasis."
+      },
+      "ar": {
+        "text": "كان ماوكلي يحبّ عائلته من الذئاب أكثر من أي شيء. كانت أمّه راكشا تحكي له القصص، وأبوه الذئب يعلّمه الشجاعة. كان يعلم أن هذه العائلة ستحبه وتحميه مهما حدث.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mowgli loved his wolf family more than anything. His mother Raksha told him stories, and his wolf father taught him courage. He knew that this family would love and protect him no matter what happened.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Mowgli is sitting on a high tree branch with a group of mischievous monkeys, looking a little annoyed but also amused. The monkeys are swinging around him, some holding fruits. Bagheera is looking up from below with a 'what can you do' expression. Playful chaos."
+      },
+      "ar": {
+        "text": "في إحدى المرات، اختطفته عصابةٌ من القرود المشاغبة. كانت القرود تحبّ اللعب والمرح، لكنها كانت تزعج ماوكلي كثيراً. أرسل ماوكلي نداء استغاثة، فجاء بالو وباغيرا لإنقاذه، وعلّماه درساً عن اختيار الأصدقاء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One time, a mischievous band of monkeys kidnapped him. The monkeys loved playing and having fun, but they annoyed Mowgli greatly. Mowgli sent out a call for help, and Baloo and Bagheera came to rescue him, teaching him a lesson about choosing friends.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Mowgli is sitting by a glowing campfire, mesmerized by the flames. Baloo and Bagheera watch him with gentle curiosity. The jungle is dark around them, but the fire casts a warm, safe glow. Night scene."
+      },
+      "ar": {
+        "text": "مع مرور الوقت، بدأ ماوكلي يرى أن هناك عالماً آخر غير الغابة. رأى «النار» لأول مرة، وأدرك أنها قوةٌ عظيمة يمكن أن تحمي أو تدفئ. بدأ يفهم الفرق بين عالم الحيوانات وعالم البشر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As time passed, Mowgli began to see there was another world beyond the jungle. He saw 'fire' for the first time and realized it was a great power that could protect or warm. He began to understand the difference between the animal world and the human world.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Mowgli, a young boy, stands at the edge of the jungle, looking towards a distant village with small, simple huts. His wolf family, Baloo, and Bagheera stand behind him, looking sad but understanding. A path leads into the village. Emotional farewell, soft light."
+      },
+      "ar": {
+        "text": "قرر ماوكلي أنه يجب أن يتعرّف على عالم البشر. ودّع عائلته الذئبة وأصدقاءه بالو وباغيرا بحزنٍ شديد. قال له بالو: «تذكّر يا ماوكلي، قوانين الغابة ستبقى دائماً في قلبك.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mowgli decided he needed to explore the human world. He bid his wolf family and his friends Baloo and Bagheera a sad farewell. Baloo told him, \"Remember, Mowgli, the laws of the jungle will always be in your heart.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "Mowgli, a young boy, is cautiously approaching a small human village. A kind-faced woman is standing at the edge of the village, looking at him with surprise and gentle curiosity. Simple huts and a few villagers in the background. Peaceful encounter."
+      },
+      "ar": {
+        "text": "وصل ماوكلي إلى قريةٍ صغيرة على حافة الغابة. كانت امرأةٌ لطيفة اسمها «ميسوا» قد فقدت ابنها منذ زمن، ورأت في ماوكلي شبهاً كبيراً به. رحّبت به في بيتها وعاملته بلطفٍ كبير.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mowgli arrived at a small village on the edge of the jungle. A kind woman named Messua, who had lost her own son long ago, saw a great resemblance in Mowgli. She welcomed him into her home and treated him with great kindness.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Mowgli is sitting with Messua and her family in a simple, cozy village hut. He is learning to eat with his hands and wear simple clothes. Messua smiles at him warmly. A gentle fire glows in the hearth. Warm, domestic scene."
+      },
+      "ar": {
+        "text": "في القرية، تعلّم ماوكلي كيف يتحدّث مثل البشر، وكيف يلبس ملابسهم، وكيف يأكل طعامهم. كان يفتقد الغابة وأصدقاءه، لكنه كان سعيداً أيضاً بمعرفة هذا العالم الجديد، الذي كان مختلفاً تماماً عن عالمه القديم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In the village, Mowgli learned how to speak like humans, wear their clothes, and eat their food. He missed the jungle and his friends, but he was also happy to learn about this new world, which was so different from his old one.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Mowgli, now a bit older and wearing simple village clothes, is standing at the edge of the jungle. Baloo and Bagheera emerge from the trees, greeting him with happy, gentle expressions. The wolf pack is visible in the background, happy to see him. Reunion scene, warm sunlight."
+      },
+      "ar": {
+        "text": "لم ينسَ ماوكلي أصدقاءه أبداً. كان يزورهم في الغابة بين الحين والآخر، يتبادل معهم القصص والضحكات. كان ماوكلي قد وجد مكانه بين عالمين، عالمه الأول في الغابة وعالمه الجديد في القرية، يحمل في قلبه حبّ كليهما.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mowgli never forgot his friends. He visited them in the jungle now and then, sharing stories and laughter. Mowgli had found his place between two worlds, his first world in the jungle and his new world in the village, carrying the love of both in his heart.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

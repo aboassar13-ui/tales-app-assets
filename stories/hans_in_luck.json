@@ -1,0 +1,249 @@
+{
+  "id": "hans_in_luck",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "vibrant storybook illustration, warm autumn colors, cheerful and naive character designs, rustic European countryside setting, gentle humor, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful young man with a wide smile, wearing simple clothes and carrying a large sack of gold over his shoulder, walks happily down a winding path through a sunny, green countryside. Birds fly overhead."
+  },
+  "i18n": {
+    "ar": {
+      "title": "هانس المحظوظ",
+      "subtitle": "رحلة السعادة الحقيقية",
+      "tagline": "فرحة بسيطة في قلبٍ راضٍ"
+    },
+    "en": {
+      "title": "Hans in Luck",
+      "subtitle": "The Journey to True Happiness",
+      "tagline": "Simple joy in a contented heart"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A young man named Hans, with a big smile, is receiving a large, heavy sack of gold coins from his master, a kind-looking old man, in front of a rustic farmhouse. Sunlight streams through trees."
+      },
+      "ar": {
+        "text": "بعد سبع سنوات من العمل الشاق، كان هانس الشاب سعيدًا جدًا. أعطاه سيده كيسًا كبيرًا مليئًا بالذهب كمكافأة. قال هانس: «يا له من كيس ثقيل! الآن سأعود إلى بيتي لأرى أمي.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "After seven long years of hard work, young Hans was very happy. His master gave him a big, heavy sack full of gold coins as his wages. \"What a heavy sack!\" Hans exclaimed. \"Now I will go home to see my mother.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Hans, struggling but smiling, walks along a dusty country road, carrying the heavy sack of gold on his shoulder. His brow is furrowed with effort, but his eyes sparkle with joy. A gentle breeze rustles leaves on nearby trees."
+      },
+      "ar": {
+        "text": "بدأ هانس رحلة العودة إلى المنزل، وحمل كيس الذهب الثقيل على كتفه. كان الذهب يلمع تحت أشعة الشمس، لكنه كان يثقل كاهله. تنهد هانس: «كم هو متعب حمل هذا الكنز!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans began his journey home, carrying the heavy sack of gold on his shoulder. The gold gleamed in the sunlight, but it weighed him down. Hans sighed, \"How tiring it is to carry this treasure!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "Hans, looking tired, encounters a cheerful horseman riding a strong brown horse on a winding country road. Hans gazes at the horse with admiration, imagining how easy it would be to travel on its back."
+      },
+      "ar": {
+        "text": "بعد قليل، رأى هانس فارسًا يركب حصانًا قويًا. فكّر هانس: «آه، لو كان لدي حصان! لكانت رحلتي أسهل بكثير.» توقف الفارس وابتسم لهانس.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Soon, Hans saw a horseman riding a strong horse. Hans thought, \"Oh, if only I had a horse! My journey would be much easier.\" The horseman stopped and smiled at Hans.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Hans happily exchanges his heavy sack of gold for the horse. He pats the horse's neck with a joyful expression, while the horseman grins, holding the gold. They are on a sunny country path."
+      },
+      "ar": {
+        "text": "قال هانس للفارس: «يا سيدي، كم أتمنى لو كان لدي حصان لأستريح من حمل هذا الذهب.» أجاب الفارس: «ما رأيك أن نبادل؟ أعطني ذهبك وأعطيك حصاني.» وافق هانس بسعادة، فقد ظنّ أنه قام بصفقة رائعة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans said to the horseman, \"Sir, how I wish I had a horse to rest from carrying this gold.\" The horseman replied, \"How about we trade? Give me your gold, and I'll give you my horse.\" Hans happily agreed, thinking he had made a wonderful deal.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Hans is now riding the horse, but awkwardly and uncomfortably. He holds on tight as the horse trots a little too fast. His initial joy is replaced by a slight frown of worry, but he tries to maintain a brave face. Countryside road."
+      },
+      "ar": {
+        "text": "ركب هانس الحصان، لكنه لم يكن متعودًا على الركوب. بدأ الحصان يركض بسرعة، وكاد هانس أن يسقط! تذكر هانس أن سيده كان يقول: «الخيول تحتاج إلى من يعرف كيف يروضها.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans rode the horse, but he wasn't used to riding. The horse started to gallop, and Hans nearly fell off! Hans remembered his master used to say, \"Horses need someone who knows how to tame them.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Hans, looking bewildered, is trying to control the horse when a farmer walks by, calmly leading a gentle brown cow on a leash. Hans watches the cow with longing, imagining a peaceful life with it. Sunny rural path."
+      },
+      "ar": {
+        "text": "بعد قليل، مرّ فلاح يقود بقرةً هادئة. قال هانس: «يا إلهي، هذا الحصان سريع جدًا! لو كان لدي بقرة، لكنت أعيش حياةً هادئة.» نظر الفلاح إلى هانس بابتسامة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Soon, a farmer passed by, leading a calm cow. Hans said, \"Oh dear, this horse is too fast! If only I had a cow, I would live a peaceful life.\" The farmer looked at Hans with a smile.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Hans happily exchanges the horse for the cow with the farmer. Hans gently strokes the cow's head, looking contented, while the farmer holds the horse's reins. A small stream flows nearby."
+      },
+      "ar": {
+        "text": "قال هانس للفلاح: «يا سيدي، هل تبادلني بقرتك الهادئة بحصاني السريع؟» وافق الفلاح بسعادة، فقد كان الحصان مفيدًا له. شعر هانس بالفرح، فهو الآن يمتلك بقرةً جميلة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans said to the farmer, \"Sir, would you trade your calm cow for my fast horse?\" The farmer happily agreed, as the horse would be useful to him. Hans felt joyful, for now he owned a beautiful cow.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Hans is now walking along with the cow, but he looks a little bored and tired. The cow is slow and makes him feel drowsy. He yawns widely. The path is getting narrower and less exciting."
+      },
+      "ar": {
+        "text": "مشى هانس مع بقرته الجديدة، لكن المشي كان بطيئًا جدًا. شعر بالنعاس، وبدأت الشمس تغرب. فكّر هانس: «البقرة بطيئة جدًا، وأنا جائع! متى سأصل إلى البيت؟»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans walked with his new cow, but the pace was very slow. He felt sleepy, and the sun began to set. Hans thought, \"The cow is too slow, and I'm hungry! When will I reach home?\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Hans, looking a bit frustrated with the slow cow, sees a butcher approaching, carrying a plump goose under his arm. Hans eyes the goose with interest, thinking about a tasty meal. Dusk light."
+      },
+      "ar": {
+        "text": "بعد قليل، مرّ جزّار يحمل إوزةً سمينة تحت ذراعه. قال هانس: «يا له من طعام شهي! لو كان لدي هذه الإوزة، لأكلت عشاءً لذيذًا.» ابتسم الجزّار لهانس.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Soon, a butcher passed by, carrying a plump goose under his arm. Hans said, \"What a delicious meal! If I had that goose, I would eat a tasty dinner.\" The butcher smiled at Hans.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Hans happily trades the cow for the goose with the butcher. Hans holds the goose gently, looking forward to a meal. The butcher leads the cow away, looking pleased. A small village is visible in the distance."
+      },
+      "ar": {
+        "text": "قال هانس للجزّار: «يا سيدي، هل تبادلني بقرتي بإوزتك السمينة؟» وافق الجزّار بسرعة، فقد كانت البقرة أكثر فائدة له. شعر هانس بالفرح، فهو الآن يمتلك إوزةً لذيذة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans said to the butcher, \"Sir, would you trade my cow for your plump goose?\" The butcher quickly agreed, as the cow was more useful to him. Hans felt joyful, for now he owned a delicious goose.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Hans is now carrying the goose, but it squawks loudly and flaps its wings, making him jump. He looks surprised and a little annoyed. The path is now a narrow dirt track, and Hans is getting hungrier."
+      },
+      "ar": {
+        "text": "حمل هانس الإوزة، لكنها بدأت تُصدر أصواتًا عالية وتُرفرف بجناحيها. قفز هانس من المفاجأة! فكّر هانس: «هذه الإوزة مزعجة جدًا! أنا بحاجة إلى شيء أهدأ.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans carried the goose, but it started to squawk loudly and flap its wings. Hans jumped in surprise! Hans thought, \"This goose is very noisy! I need something calmer.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Hans, looking exasperated with the noisy goose, sees a sharpener approaching, carrying a large grindstone and a small, heavy stone. Hans's eyes light up at the idea of a simple, quiet stone. Forest path."
+      },
+      "ar": {
+        "text": "بعد قليل، مرّ عامل شحذ يحمل حجرًا كبيرًا لشحذ السكاكين، وحجرًا صغيرًا ثقيلًا. قال هانس: «يا له من حجر هادئ ومفيد! لو كان لدي هذا الحجر، لكنت أسعد الناس.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Soon, a sharpener passed by, carrying a large grindstone for sharpening knives, and a small, heavy stone. Hans said, \"What a quiet and useful stone! If I had that stone, I would be the happiest person.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "Hans happily trades the noisy goose for the heavy stone with the sharpener. Hans struggles a bit with the weight of the stone but smiles, thinking it's a good deal. The sharpener walks away with the goose, looking content."
+      },
+      "ar": {
+        "text": "قال هانس لعامل الشحذ: «يا سيدي، هل تبادلني إوزتي المزعجة بحجرك الثقيل؟» وافق عامل الشحذ بسعادة، فقد كان يحتاج إلى إوزة. حمل هانس الحجر الثقيل، لكنه شعر بالراحة لأنه تخلص من الإوزة الصاخبة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans said to the sharpener, \"Sir, would you trade my noisy goose for your heavy stone?\" The sharpener happily agreed, as he needed a goose. Hans carried the heavy stone, but he felt relieved to be rid of the squawking goose.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Hans is walking along, carrying the heavy stone, looking tired and hot. He stops by a well in the middle of a field, looking longingly at the cool water. His face shows exhaustion but still a hint of optimism."
+      },
+      "ar": {
+        "text": "واصل هانس طريقه، والحجر الثقيل يضغط عليه. شعر بالعطش الشديد والتعب. رأى بئرًا عميقة على جانب الطريق. قال لنفسه: «سأشرب قليلاً وأرتاح.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans continued on his way, the heavy stone weighing him down. He felt very thirsty and tired. He saw a deep well by the side of the road. He said to himself, \"I'll drink a little and rest.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Hans leans over a stone well, trying to get a drink, and accidentally drops the heavy stone into the well with a splash. He looks surprised for a moment, then a huge, relieved smile spreads across his face. Sunlight glints off the water."
+      },
+      "ar": {
+        "text": "عندما انحنى هانس ليشرب من البئر، انزلق الحجر الثقيل من يده وسقط في الماء بـ «بلاش!» نظر هانس إلى البئر، ثم ابتسم ابتسامةً عريضة. قال: «الآن أنا حرٌّ حقًا!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "As Hans leaned over to drink from the well, the heavy stone slipped from his hand and fell into the water with a splash! Hans looked into the well, then a huge, relieved smile spread across his face. He said, \"Now I am truly free!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_16",
+      "image": {
+        "prompt": "Hans walks away from the well with a light step, his arms swinging freely, a joyful and carefree expression on his face. He looks much happier and lighter than before, walking towards a beautiful sunset. Birds fly overhead."
+      },
+      "ar": {
+        "text": "شعر هانس وكأن جبلًا قد أُزيح عن كتفيه. لم يعد يحمل أي شيء ثقيل. بدأ يركض ويغني بفرح. لقد فقد كل ما لديه، لكنه وجد السعادة الحقيقية في قلبه الخفيف.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Hans felt as if a mountain had been lifted from his shoulders. He no longer carried anything heavy. He began to skip and sing with joy. He had lost everything he owned, but he had found true happiness in his light heart.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

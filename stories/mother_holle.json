@@ -1,0 +1,319 @@
+{
+  "id": "mother_holle",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "charming storybook illustration, soft winter light, cozy rustic setting, gentle expressive characters, warm muted color palette, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind girl with golden hair stands under a snowy sky, holding a feather pillow from which snowflakes gently fall. Behind her, a cozy cottage with smoke curling from its chimney. A friendly old woman in the background smiles warmly."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الأم هولّا",
+      "subtitle": "الفتاة الذهبية والفتاة القطرانية",
+      "tagline": "قصه عن اللطف والاجتهاد والمكافأة"
+    },
+    "en": {
+      "title": "Mother Holle",
+      "subtitle": "The Golden Girl and the Pitch Girl",
+      "tagline": "A tale of kindness, diligence, and reward"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A rustic cottage with a small garden in a peaceful village. A kind, pretty girl with golden hair sits by a well, spinning flax with a spindle. Her stepmother and stepsister are inside, looking out with stern faces."
+      },
+      "ar": {
+        "text": "في قرية بعيدة، عاشت أرملة مع ابنتين. كانت إحداهما جميلة ولطيفة، تعمل بجدّ كل يوم. أما الأخرى، ابنة الأرملة الحقيقية، فكانت كسولة وقبيحة، تفضّل اللعب على العمل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a village far away, there lived a widow with two daughters. One was kind and pretty, working hard every single day. The other, the widow's own daughter, was lazy and unkind, preferring to play rather than help.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The kind girl, dressed in simple clothes, sits by a well, diligently spinning flax. Her hands are busy, and her face shows concentration. In the background, her stepsister lounges on a porch swing, eating an apple."
+      },
+      "ar": {
+        "text": "كانت الأم تفضل ابنتها الكسولة، وتجعل الفتاة الطيبة تقوم بكل الأعمال الشاقة في المنزل. كانت الفتاة تجلس كل يوم قرب البئر، تدور خيط الكتان حتى تتألم أصابعها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The mother favored her own lazy daughter and made the kind girl do all the difficult chores in the house. Every day, the kind girl would sit by the well, spinning flax until her fingers ached.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The kind girl, with a drop of blood on her finger, leans over a well. Her spindle, wrapped in flax, has just fallen into the deep, dark water. Her face shows a mix of sadness and worry."
+      },
+      "ar": {
+        "text": "في أحد الأيام، وأثناء عملها، جرحت الفتاة إصبعها بشدة. ولما حاولت غسل الدم من الخيط، سقطت المغزل في البئر العميقة. ملأ الحزن قلبها، فقد كانت تخاف غضب زوجة أبيها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, as she worked, the kind girl pricked her finger badly. When she tried to wash the blood from the flax, her spindle slipped and fell into the deep well. Sadness filled her heart, for she feared her stepmother's anger.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The stepmother, with a stern and angry face, points accusingly at the kind girl, who stands with downcast eyes. The stepsister smirks in the background. The well is visible outside the window."
+      },
+      "ar": {
+        "text": "عندما عادت الفتاة إلى المنزل، أخبرت زوجة أبيها بما حدث. صرخت زوجة أبيها بغضب: «كيف تجرئين على إضاعة المغزل؟ اذهبي الآن إلى البئر وأعيديه!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the girl returned home, she told her stepmother what had happened. Her stepmother shouted angrily, \"How dare you lose the spindle? Go back to the well and get it now!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The kind girl, looking worried but determined, stands on the edge of a deep well, about to jump in. The well water shimmers with a mysterious, soft light. No scary elements."
+      },
+      "ar": {
+        "text": "لم تجد الفتاة حلاً آخر. عادت إلى البئر، وبقلبٍ مليء بالخوف، قفزت لتبحث عن المغزل في الماء. لكنها لم تسقط في الماء البارد، بل وجدت نفسها تهبط في مكانٍ غريبٍ وجميل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The girl saw no other choice. She returned to the well, and with a heart full of worry, she jumped in to find her spindle. But she didn't fall into cold water; instead, she found herself gently floating down into a strange and beautiful place.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A magical, bright meadow in an enchanted land. A talking apple tree with red, ripe apples on its branches gently asks the kind girl for help. The girl looks surprised but ready to assist."
+      },
+      "ar": {
+        "text": "وجدت نفسها في مرجٍ أخضر جميل تحت شمسٍ دافئة. رأت شجرة تفاحٍ مليئة بالثمار اللذيذة. نادت الشجرة بصوتٍ حنون: «يا فتاة، هزّيني! تفاحي ناضج ويحتاج أن يُقطف!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "She found herself in a beautiful green meadow under a warm sun. She saw an apple tree full of delicious, ripe fruit. The tree called out in a gentle voice, \"Oh, girl, shake me! My apples are ripe and need to be picked!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The kind girl happily shakes an apple tree, and red apples tumble down onto a soft grassy ground. She collects them gently into a basket. The tree looks grateful."
+      },
+      "ar": {
+        "text": "الفتاة الطيبة، دون تردد، بدأت تهزّ الشجرة حتى سقط كل التفاح على الأرض. جمعته في كومة جميلة، ثم واصلت طريقها في المرج الساحر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The kind girl, without hesitation, shook the tree until all the apples tumbled to the ground. She gathered them into a neat pile, then continued her journey through the enchanted meadow.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A magical, glowing bread oven with golden-brown loaves inside, gently asking the kind girl for help. The girl looks thoughtful, ready to act. The scene is warm and inviting."
+      },
+      "ar": {
+        "text": "بعد قليل، رأت فرناً كبيراً مليئاً بالخبز الذهبي. نادى الفرن: «يا فتاة، أخرجيني! خبزي نضج وسيحترق إن لم تخرجيه!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "A little further on, she saw a large oven full of golden-brown bread. The oven called out, \"Oh, girl, pull me out! My bread is baked and will burn if you don't take it out!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The kind girl, with oven mitts, carefully pulls golden loaves of bread from a magical, glowing oven. Steam gently rises from the fresh bread. The oven looks content."
+      },
+      "ar": {
+        "text": "مرة أخرى، لم تتردد الفتاة. استخدمت مجرفة الخبز وأخرجت كل الأرغفة بحذر، ووضعتها لتبرد. ثم سارت في طريقها، تتساءل أين ستنتهي هذه المغامرة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Again, the girl did not hesitate. She used the bread peel and carefully pulled out all the loaves, setting them aside to cool. Then she continued on her way, wondering where this adventure would lead.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "A cozy, rustic cottage interior. An old woman with kind eyes and a friendly smile, Mother Holle, sits by a window, surrounded by many feather pillows. The kind girl approaches her respectfully."
+      },
+      "ar": {
+        "text": "وأخيراً، وصلت إلى كوخٍ صغير. خرجت منه امرأة عجوز ذات أسنانٍ كبيرة، لكنها كانت تبتسم بلطف. قالت: «لا تخافي يا عزيزتي. أنا الأم هولّا. إن عملتِ بجدّ في بيتي، ستجدين السعادة.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At last, she came to a small cottage. An old woman with large teeth, but a kind smile, stepped out. She said, \"Do not be afraid, dear one. I am Mother Holle. If you work diligently in my house, you will find happiness.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The kind girl shakes a large, fluffy feather pillow with all her might inside Mother Holle's cozy cottage. Feathers fly everywhere, looking like gentle snowflakes. Mother Holle watches with a pleased smile."
+      },
+      "ar": {
+        "text": "كان عمل الفتاة الوحيد هو هزّ فراش الأم هولّا كل يوم، بقوة كبيرة حتى تتطاير الريش كالثلج. عندما كانت تهزّ الفراش، كانت الثلوج تتساقط على الأرض في عالمنا.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The girl's only chore was to shake Mother Holle's feather bed every day, with all her might, so that the feathers flew like snowflakes. When she shook the bed, snow would fall upon the Earth in our world.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The kind girl smiles happily as she works diligently, sweeping a clean cottage floor. Mother Holle sits by the fireplace, knitting, looking at the girl with pride and affection. The cottage is tidy and warm."
+      },
+      "ar": {
+        "text": "عملت الفتاة بجدّ وإخلاص، وأبقت بيت الأم هولّا نظيفاً ومرتباً. كانت سعيدة بخدمة العجوز الطيبة، ولم تشعر بالوقت يمرّ سريعاً. أحبت الأم هولّا الفتاة كثيراً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The girl worked diligently and faithfully, keeping Mother Holle's house neat and tidy. She was happy to serve the kind old woman and didn't notice how quickly time passed. Mother Holle grew very fond of the girl.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "Mother Holle, with a warm smile, guides the kind girl to a grand archway dripping with sparkling gold. The girl looks amazed and delighted, reaching out a hand to touch the gold."
+      },
+      "ar": {
+        "text": "بعد فترة، شعرت الفتاة بالحنين إلى بيتها. قالت للأم هولّا: «لقد اشتقت إلى المنزل. حان الوقت لأعود.» ابتسمت الأم هولّا وقالت: «لقد عملتِ بجدّ، وسأكافئك.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "After some time, the girl felt a longing for her home. She told Mother Holle, \"I miss home. It's time for me to return.\" Mother Holle smiled and said, \"You have worked hard, and I shall reward you.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The kind girl stands under a magical archway, and a shower of shimmering gold coins and flakes falls all over her, covering her dress and hair. She beams with joy and surprise. Mother Holle waves goodbye from a distance."
+      },
+      "ar": {
+        "text": "قادتها الأم هولّا إلى بوابة كبيرة. عندما مرت الفتاة من تحتها، انهمر عليها وابلٌ من الذهب اللامع، غطّى شعرها وثيابها. قالت الأم هولّا: «هذا جزاء عملك الجادّ!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Mother Holle led her to a grand gateway. As the girl passed beneath it, a shower of shimmering gold coins and flakes poured down, covering her hair and clothes. Mother Holle said, \"This is your reward for your hard work!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "The kind girl, now covered in sparkling gold, emerges from the well in her village. Her stepmother and stepsister look on with wide eyes of shock and envy from the cottage door."
+      },
+      "ar": {
+        "text": "عادت الفتاة إلى العالم العلوي، وخرجت من البئر، وهي تلمع بالذهب. عندما رأت زوجة أبيها وابنتها الذهب، امتلأتا بالدهشة والغيرة. سألت زوجة أبيها: «كيف حصلتِ على كل هذا؟»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The girl returned to the upper world, emerging from the well, sparkling with gold. When her stepmother and stepsister saw the gold, they were filled with shock and envy. Her stepmother asked, \"How did you get all this?\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_16",
+      "image": {
+        "prompt": "The stepsister, looking haughty and lazy, sits by the well, spinning flax with a look of boredom. The stepmother stands over her, urging her on with a demanding expression. The cottage is in the background."
+      },
+      "ar": {
+        "text": "قصّت الفتاة الطيبة قصتها. قرّرت زوجة أبيها أن ترسل ابنتها الكسولة لتنال الذهب أيضاً. أجبرت ابنتها على الجلوس قرب البئر، تدور الخيط وتنتظر سقوط المغزل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The kind girl told her story. Her stepmother decided to send her own lazy daughter to get gold too. She forced her daughter to sit by the well, spinning flax and waiting for the spindle to fall.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_17",
+      "image": {
+        "prompt": "The stepsister, with a forced smile, shakes an apple tree. Only a few apples fall, and the tree looks disappointed. She quickly moves on, showing impatience."
+      },
+      "ar": {
+        "text": "عندما سقط المغزل في البئر، قفزت الفتاة الكسولة. وجدت نفسها في المرج الأخضر. نادتها شجرة التفاح، لكن الفتاة الكسولة قالت: «لا أريد أن أتعب نفسي!» ومضت في طريقها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the spindle fell into the well, the lazy girl jumped in. She found herself in the green meadow. The apple tree called to her, but the lazy girl said, \"I don't want to get tired!\" and walked on.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_18",
+      "image": {
+        "prompt": "The stepsister, looking annoyed, ignores the glowing oven asking for help. She crosses her arms and rolls her eyes, showing her disdain for work. The oven looks sad."
+      },
+      "ar": {
+        "text": "ناداها الفرن، لكنها أجابت بوقاحة: «هل تظن أنني سأحرق أصابعي من أجلك؟» وواصلت طريقها، تبحث عن الأم هولّا مباشرةً دون عمل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The oven called to her, but she replied rudely, \"Do you think I'm going to burn my fingers for you?\" and continued on her way, looking to find Mother Holle directly without doing any work.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_19",
+      "image": {
+        "prompt": "The stepsister roughly shakes a feather pillow in Mother Holle's cottage, making a small mess. Mother Holle watches with a disappointed expression, arms crossed. The stepsister looks bored and annoyed."
+      },
+      "ar": {
+        "text": "وصلت إلى الأم هولّا، وعملت عندها بضعة أيام، لكنها كانت كسولة وغير مبالية. لم تهزّ الفراش بقوة، ولم تهتم بنظافة البيت. غضبت الأم هولّا من كسلها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "She reached Mother Holle's cottage and worked for a few days, but she was lazy and careless. She didn't shake the bed with much effort and didn't care about keeping the house clean. Mother Holle grew displeased with her laziness.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_20",
+      "image": {
+        "prompt": "The stepsister stands under a magical archway, and a shower of dark, sticky pitch falls all over her, covering her dress and hair. She cries out in disgust and anger. Mother Holle looks on with a stern but fair expression."
+      },
+      "ar": {
+        "text": "عندما حان وقت عودتها، قادتها الأم هولّا إلى البوابة. لكن هذه المرة، عندما مرت الفتاة الكسولة من تحتها، انهمرت عليها مادةٌ سوداء لزجة من القطران. قالت الأم هولّا: «هذا جزاء عملك!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When it was time for her to return, Mother Holle led her to the gateway. But this time, as the lazy girl passed beneath it, a shower of dark, sticky pitch fell all over her. Mother Holle said, \"This is your reward for your work!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_21",
+      "image": {
+        "prompt": "The stepsister, covered in sticky pitch, emerges from the well in her village, crying in frustration. Her stepmother looks shocked and angry. The kind girl watches from the cottage door with a gentle, understanding expression."
+      },
+      "ar": {
+        "text": "عادت الفتاة الكسولة إلى المنزل، مغطاةً بالقطران الذي لم يذهب أبداً. تعلمت كلتا الفتاتين درساً مهماً: اللطف والاجتهاد يجلبان المكافأة، بينما الكسل والأنانية يجلبان العقاب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The lazy girl returned home, covered in sticky pitch that never quite came off. Both girls learned an important lesson: kindness and diligence bring rewards, while laziness and selfishness bring their own consequences.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

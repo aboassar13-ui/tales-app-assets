@@ -1,0 +1,193 @@
+{
+  "id": "nightingale",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "delicate ink and watercolor illustration, soft jewel-tone palette, gentle storybook mood, ethereal glow, traditional Chinese palace setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tiny, beautiful nightingale perched on a branch in a lush Chinese garden, singing with eyes closed. A regal emperor in silken robes looks on with wonder. Soft, golden sunlight filters through bamboo."
+  },
+  "i18n": {
+    "ar": {
+      "title": "العندليب",
+      "subtitle": "أغنية القلب الحقيقي",
+      "tagline": "صوتٌ ساحر، قلبٌ مخلص، وجمالٌ لا يُشترى"
+    },
+    "en": {
+      "title": "The Nightingale",
+      "subtitle": "The Song of the True Heart",
+      "tagline": "A magical voice, a loyal heart, and beauty beyond price"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A grand Chinese palace with ornate roofs and colorful banners. An emperor with a kind face stands on a balcony overlooking a lush, green garden filled with exotic flowers and ancient trees. Soft morning light."
+      },
+      "ar": {
+        "text": "في قصرٍ فخمٍ بالصين، عاش إمبراطورٌ عظيم. كان قصره أجمل ما يكون، وحدائقه مليئةً بالزهور النادرة والأشجار العتيقة. كان الإمبراطور يحب كل ما هو جميل، لكنه لم يكن يعرف بعد أجمل ما في الدنيا.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a magnificent palace in China lived a great Emperor. His palace was the grandest, and his gardens were filled with rare flowers and ancient trees. The Emperor loved all beautiful things, but he did not yet know the most beautiful thing in the world.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A tiny brown nightingale with bright eyes sits on a delicate branch in a moonlit garden, singing a beautiful melody. The emperor, in silken nightclothes, listens from his window, a look of pure enchantment on his face."
+      },
+      "ar": {
+        "text": "ذات ليلة، سمع الإمبراطور صوتاً عذباً يأتيه من الحديقة. خرج لينظر، فوجد عصفوراً صغيراً رمادي اللون، اسمه العندليب، يغني أجمل الألحان. كان صوته رقيقاً كالحرير، ومليئاً بالسعادة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One night, the Emperor heard a sweet sound drifting from the garden. He looked out and found a small, plain brown bird, called a Nightingale, singing the most beautiful music. Its voice was as soft as silk and full of joy.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The emperor walks through his palace gardens, holding a golden cage. He gestures for the nightingale to enter. Courtiers in fine robes follow respectfully. The nightingale looks hesitant but curious."
+      },
+      "ar": {
+        "text": "أمر الإمبراطور أن يُحضَر العندليب إلى القصر. أراد أن يسمع صوته كل يوم. وضع العندليب في قفصٍ ذهبي، لكنه كان يغني بحزنٍ عندما يكون بعيداً عن حديقته الطبيعية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Emperor commanded that the Nightingale be brought to the palace. He wanted to hear its song every day. The Nightingale was placed in a golden cage, but it sang sadly when it was away from its natural garden home.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A close-up of the nightingale in its golden cage, singing beautifully. The emperor and his court listen, captivated. Jewels and treasures are displayed nearby, but the emperor's eyes are fixed on the bird."
+      },
+      "ar": {
+        "text": "قال الإمبراطور: \"هذا العندليب صوته أغلى من كنوز الدنيا!\" أمر بأن يُكتب في كل كتب الصين عن هذا الطائر العجيب. كان صوته يملأ القصر فرحاً وبهجة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "\"This Nightingale's voice is more precious than all the treasures in the world!\" declared the Emperor. He ordered that the wondrous bird be written about in all the books of China. Its song filled the palace with happiness and delight.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A magnificent, intricate mechanical bird made of gold and jewels sits on a perch. Its eyes gleam, and its feathers are perfectly crafted. A crowd of courtiers marvels at its beauty and complexity."
+      },
+      "ar": {
+        "text": "بعد فترة، جاء هديةٌ للإمبراطور من بلدٍ بعيد: طائرٌ آلي مصنوعٌ من الذهب والمجوهرات. كان يشبه العندليب تماماً، وعندما يغني، كان صوته جميلاً جداً، لكنه لم يكن حقيقياً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "After some time, a gift arrived for the Emperor from a faraway land: an artificial bird made of gold and jewels. It looked just like the Nightingale, and when it sang, its voice was very beautiful, but it was not real.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The emperor listens to the mechanical bird singing on its perch. The real nightingale sits silently in its cage nearby, looking sad and ignored. The courtiers all admire the mechanical bird."
+      },
+      "ar": {
+        "text": "أحب الإمبراطور الطائر الآلي كثيراً. وضعه في غرفة نومه، وأصبح يسمعه بدلاً من العندليب الحقيقي. نسي الإمبراطور العندليب الصغير، الذي شعر بالحزن الشديد وغادر القصر عائداً إلى حديقته.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Emperor loved the mechanical bird very much. He placed it in his bedroom and listened to it instead of the real Nightingale. The Emperor forgot the little bird, who felt very sad and left the palace, returning to its garden.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The mechanical bird on its perch, singing. Suddenly, its gears grind, and its movements become jerky and stiff. Smoke wisps from its workings. The emperor looks confused and concerned."
+      },
+      "ar": {
+        "text": "لكن بعد فترة، بدأ الطائر الآلي يتعطل. توقفت ألحانه الجميلة، وأصبح صوته خشناً وغير واضح. لم يعد الإمبراطور يستمتع به كما كان.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But after a while, the artificial bird began to malfunction. Its beautiful melodies stopped, and its voice became harsh and unclear. The Emperor no longer enjoyed it as he once had.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The emperor lies in his grand bed, looking pale and ill. The mechanical bird sits silently on its perch, unable to sing. Courtiers look worried. Outside the window, the moon shines brightly."
+      },
+      "ar": {
+        "text": "وفي ليلةٍ من الليالي، مرض الإمبراطور مرضاً شديداً. شعر بالوحدة والخوف، ولم يستطع النوم. لم يكن هناك من يغني له أو يسلّيه.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One night, the Emperor became very ill. He felt lonely and afraid and could not sleep. There was no one to sing to him or comfort him.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "From outside the emperor's window, the little brown nightingale perches on a branch, singing a gentle, soothing song. The emperor's eyes open slightly, and a faint smile appears on his face."
+      },
+      "ar": {
+        "text": "فجأةً، سمع صوتاً مألوفاً. كان العندليب الصغير، يقف على نافذة غرفته، يغني له بلحنٍ هادئٍ ومريح. شعر الإمبراطور بتحسنٍ كبير، وأدرك قيمة الصدق والجمال الحقيقي.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Suddenly, he heard a familiar sound. It was the little Nightingale, perched on his window, singing a calm and comforting melody. The Emperor felt much better and realized the value of truth and real beauty.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The nightingale flies into the emperor's bedroom and perches on his chest, singing. The emperor's face is relaxed and peaceful. The mechanical bird is pushed aside. Soft, warm light fills the room."
+      },
+      "ar": {
+        "text": "دخل العندليب إلى الغرفة وغنى للإمبراطور بكل ما لديه من حب. غنى عن الحدائق الجميلة، والنجوم المتلألئة، وعن كل الأشياء الرائعة في العالم. استعاد الإمبراطور قوته بفضل أغنية العندليب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Nightingale flew into the room and sang to the Emperor with all its heart. It sang of beautiful gardens, twinkling stars, and all the wonderful things in the world. The Emperor regained his strength thanks to the Nightingale's song.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_011",
+      "image": {
+        "prompt": "The Emperor, now healthy and smiling, sits on his throne. The nightingale perches on his shoulder, singing. The mechanical bird is placed on a shelf in the background. Courtiers look on joyfully. Bright, cheerful atmosphere."
+      },
+      "ar": {
+        "text": "عندما استعاد الإمبراطور صحته، أمر بإعادة العندليب إلى مكانته. قال: \"الطائر الآلي جميل، لكنه لا يملك قلباً. أما أنت يا عصفوري الصغير، فأنت تملك أغنيةً تأتي من الروح.\"",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the Emperor recovered his health, he ordered the Nightingale to be restored to its place of honor. He said, \"The artificial bird is beautiful, but it has no heart. You, my little bird, have a song that comes from the soul.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The nightingale sings happily in the lush palace garden. The emperor sits nearby on a bench, listening with a contented smile. The mechanical bird is displayed in a glass case, admired but not central. Golden afternoon light."
+      },
+      "ar": {
+        "text": "عاش العندليب في القصر، يغني للإمبراطور كلما طلبه. وأصبح الطائر الآلي يُعرض في صندوقٍ زجاجي، ليراه الناس ويتذكروا أن أجمل الأشياء هي تلك التي تأتي من القلب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Nightingale lived in the palace, singing for the Emperor whenever he wished. The artificial bird was put on display in a glass case, for people to see and remember that the most beautiful things are those that come from the heart.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

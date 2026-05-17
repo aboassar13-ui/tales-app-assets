@@ -1,0 +1,193 @@
+{
+  "id": "how_rain_falls",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "bright, cheerful children's book illustration, vibrant nature colors, friendly anthropomorphic elements, gentle educational mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Two happy children, a boy and a girl, in colorful raincoats and boots, splash in a puddle under a gentle rain. A rainbow arches in the sky, and green plants are everywhere. A smiling sun peeks through the clouds."
+  },
+  "i18n": {
+    "ar": {
+      "title": "كيف يسقط المطر",
+      "subtitle": "رحلة قطرة الماء الصغيرة",
+      "tagline": "من المحيط إلى الغيوم، ثم تعود إلينا!"
+    },
+    "en": {
+      "title": "How Rain Falls",
+      "subtitle": "The Journey of a Water Drop",
+      "tagline": "From ocean to clouds, and back to us again!"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "Two curious children, a boy and a girl, with bright eyes, looking out a large window at a gentle rain falling. They are wearing cozy pajamas, and a warm lamp glows in the background. Green trees outside look refreshed."
+      },
+      "ar": {
+        "text": "في يومٍ ممطر، وقفت ليلى وأحمد عند النافذة، يراقبان قطرات المطر تتسابق على الزجاج. كانت الأرض عطشى، والنباتات تمدّ أوراقها الصغيرة لتشرب. تساءلت ليلى: «من أين يأتي المطر يا أحمد؟»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "On a rainy day, Lily and Adam stood by the window, watching raindrops race down the glass. The thirsty ground drank eagerly, and plants stretched their tiny leaves to sip. \"Where does the rain come from, Adam?\" Lily wondered aloud.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A vast, sparkling blue ocean under a bright sun. Tiny, happy water droplets with small smiles are jumping up from the surface, turning into invisible vapor. A friendly sun character shines down."
+      },
+      "ar": {
+        "text": "ابتسم أحمد وقال: «تبدأ رحلة المطر من المحيطات والبحار الواسعة!» تخيّلا قطرة ماء صغيرة اسمها «نقطة»، تعيش في محيطٍ أزرق كبير. كانت نقطة سعيدة، تسبح وتلعب مع صديقاتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "\"The rain's journey begins in the wide oceans and seas!\" Adam smiled. They imagined a tiny water drop named 'Droplet,' living in a big blue ocean. Droplet was happy, swimming and playing with her friends.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A friendly sun with a warm smile shining brightly over the ocean. Tiny water droplets are rising as steam, drawn upwards by the sun's warmth. They look light and airy, floating towards the sky."
+      },
+      "ar": {
+        "text": "في يومٍ مشمسٍ ودافئ، شعرت نقطة بحرارة الشمس تداعبها. بدأت تشعر بالخفة، ثم ارتفعت ببطء نحو السماء، متحولةً إلى بخار ماءٍ غير مرئي. هذه هي عملية التبخّر، عندما يصبح الماء غازاً!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "On a warm, sunny day, Droplet felt the sun's heat tickle her. She started to feel lighter, then slowly rose towards the sky, turning into invisible water vapor. This is evaporation, when water becomes a gas!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Many tiny, cheerful water vapor particles floating higher and higher into the cool blue sky. They are gathering together, starting to form a wispy, white cloud. A gentle breeze is depicted."
+      },
+      "ar": {
+        "text": "كلما صعدت نقطة أعلى، أصبحت السماء أبرد. التقت هناك بآلاف القطرات الأخرى، وكلها صعدت بفضل الشمس الدافئة. اجتمعت هذه القطرات الصغيرة معاً، وبدأت تتشكل على شكل غيمةٍ بيضاء ناعمة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The higher Droplet went, the colder the sky became. There, she met thousands of other tiny droplets, all lifted by the warm sun. These little droplets gathered together, starting to form a soft, white cloud.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A fluffy white cloud, now a bit darker and heavier, floating gracefully in the sky. Inside the cloud, tiny water droplets are bumping into each other and growing bigger. A friendly cloud face looks content."
+      },
+      "ar": {
+        "text": "داخل الغيمة، كانت نقطة وصديقاتها تتقارب وتلتصق ببعضها. كلما التقت قطرات أكثر، أصبحت الغيمة أكبر وأثقل. هكذا تتكون الغيوم، وهي بيوت الماء في السماء!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Inside the cloud, Droplet and her friends bumped and stuck together. The more droplets that joined, the bigger and heavier the cloud became. This is how clouds form — they are the water's homes in the sky!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A dark, full rain cloud hovering over green mountains. Large, happy raindrops are starting to fall from the cloud towards the ground. A bright flash of lightning, not scary, but gentle and illuminating, is visible in the distance."
+      },
+      "ar": {
+        "text": "عندما أصبحت الغيمة ثقيلة جداً بقطرات الماء، لم تعد تستطيع حملها. سقطت قطرة نقطة وصديقاتها من السماء، هذه هي الأمطار! أحياناً، عندما تكون الغيوم مشحونة جداً، نرى وميض البرق ونسمع صوت الرعد.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the cloud became too heavy with water droplets, it couldn't hold them anymore. Droplet and her friends fell from the sky — this is rain! Sometimes, when clouds are very full, we see a flash of lightning and hear thunder.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "A cozy bedroom scene. A child is sleeping soundly in bed. Outside the window, a gentle snowfall covers the trees and ground in white. A soft, glowing nightlight is on the bedside table."
+      },
+      "ar": {
+        "text": "أحياناً، عندما يكون الجو بارداً جداً في الأعلى، تتجمد قطرات الماء الصغيرة وتتحول إلى بلورات ثلج جميلة. ثم تسقط على شكل ثلج ناعم يغطّي الأرض ببطانية بيضاء لامعة. وهذا يحدث في الأماكن الباردة جداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Sometimes, when it's very cold high up, tiny water droplets freeze and turn into beautiful ice crystals. Then they fall as soft snow, covering the ground in a sparkling white blanket. This happens in very cold places.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A close-up of a green leaf covered in tiny, sparkling dew drops. A soft morning light gently illuminates the scene. A small, friendly ladybug is crawling on the leaf."
+      },
+      "ar": {
+        "text": "وفي الصباح الباكر، قبل أن تشرق الشمس تماماً، قد نرى قطرات صغيرة من الماء تتجمع على أوراق الشجر وأزهارها. هذه هي قطرات الندى، وهي تتكون عندما يصبح الهواء البارد قريباً من الأرض.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And in the early morning, before the sun is fully up, we might see tiny drops of water gather on leaves and flowers. These are dew drops, forming when cool air meets the ground.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "A gentle, misty fog covering a field with soft green grass and a few distant trees. The fog is not scary, but peaceful and ethereal. A friendly, curious rabbit peeks from the grass."
+      },
+      "ar": {
+        "text": "أحياناً، تتجمع الغيوم بالقرب من الأرض بدلاً من أن تبقى في السماء. هذا ما نسميه الضباب. الضباب مثل الغيمة، لكنه أقرب إلينا، يجعلنا نرى العالم كأنه في حلمٍ أبيض ناعم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Sometimes, clouds gather close to the ground instead of staying high in the sky. This is what we call fog. Fog is like a cloud, but closer to us, making the world look like a soft, white dream.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Smiling raindrops falling onto happy green plants and flowers. A small, clean river flows happily through a green valley. The ground looks healthy and vibrant."
+      },
+      "ar": {
+        "text": "عندما تسقط الأمطار، تروي الأرض العطشى. تشرب النباتات والأشجار، وتنمو وتزهر. تمتلئ الأنهار والجداول بالمياه، وتصبح صالحة للشرب لكل الكائنات الحية. المطر مهم جداً لكل شيء!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the rain falls, it waters the thirsty ground. Plants and trees drink, growing big and blooming. Rivers and streams fill with water, becoming fresh for all living things to drink. Rain is so important for everything!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Happy water droplets flowing in a cheerful river, winding its way through a green landscape towards a large blue ocean. Fish are swimming playfully in the river."
+      },
+      "ar": {
+        "text": "تخيلت ليلى أن قطرة نقطة، بعد أن سقطت مطراً، جرت مع قطرات أخرى في نهرٍ صغير. جرى النهر بين التلال الخضراء، ثم انضم إلى نهرٍ أكبر، حتى وصل أخيراً إلى المحيط الواسع من جديد.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Lily imagined Droplet, after falling as rain, flowing with other drops in a little river. The river wound through green hills, then joined a bigger river, until it finally reached the wide ocean once again.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The two children, Lily and Adam, are now drawing a cheerful diagram of the water cycle on a large piece of paper with colorful crayons. The diagram shows the sun, ocean, clouds, rain, and river, all connected in a loop. They are smiling proudly at their work."
+      },
+      "ar": {
+        "text": "«وهكذا، تعود نقطة إلى بيتها الأول في المحيط، لتبدأ رحلتها من جديد!» قال أحمد. فهمت ليلى أن الماء لا يختفي أبداً، بل ينتقل في دورةٍ رائعة من المحيط إلى السماء ثم إلى الأرض، وهكذا دواليك.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "\"And so, Droplet returns to her first home in the ocean, ready to begin her journey all over again!\" Adam said. Lily understood that water never disappears, but travels in a wonderful cycle from the ocean to the sky, then to the land, and back again.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

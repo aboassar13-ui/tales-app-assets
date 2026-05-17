@@ -1,0 +1,235 @@
+{
+  "id": "twelve_dancing_princesses",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 13,
+  "style_suffix": "enchanted storybook illustration, soft glowing colors, magical forest elements, graceful figures, gentle mystery, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "Twelve beautiful young princesses in shimmering gowns, each with worn-out dancing shoes, are secretly tiptoeing down a hidden staircase that glows faintly. The staircase leads to a magical, shimmering forest of silver and gold trees. A curious young soldier watches from the shadows, holding a cloak."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الأميرات الاثنتا عشرة الراقصات",
+      "subtitle": "سرّ الأحذية البالية",
+      "tagline": "اثنتا عشرة أختًا، سرٌّ ليلي، وأحذيةٌ سحرية"
+    },
+    "en": {
+      "title": "The Twelve Dancing Princesses",
+      "subtitle": "The Secret of the Worn-Out Shoes",
+      "tagline": "Twelve sisters, a nightly secret, and magical shoes"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A grand, elegant royal castle with twelve tall, narrow windows, each lit by a soft glow. A full moon hangs in the sky, and gentle stars twinkle above, suggesting a peaceful night. The castle is surrounded by a calm, manicured garden."
+      },
+      "ar": {
+        "text": "في مملكةٍ بعيدة، عاش ملكٌ كريمٌ مع بناته الاثنتي عشرة الجميلات. كنّ أميراتٍ ساحرات، بشعرهن الطويل وعيونهن اللامعة. لكنّ الملك كان حائراً بسبب سرٍّ غريبٍ يحير الجميع في القصر كل صباح.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a faraway kingdom, a kind king lived with his twelve beautiful daughters. They were charming princesses, with long flowing hair and sparkling eyes. But the king was puzzled by a strange secret that bewildered everyone in the palace each morning.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A royal bedchamber with twelve ornate beds, each with a princess sleeping peacefully. In the foreground, a maid holds up twelve pairs of tiny, delicate dancing shoes, all completely worn out and full of holes. The maid looks confused and worried."
+      },
+      "ar": {
+        "text": "كل صباح، كانت خادمة الأميرات تجد أحذيتهن الراقصة الجميلة باليةً تماماً، وكأنها رُقصت بها طوال الليل! لم يفهم أحد كيف يحدث هذا، فالأميرات كنّ نائماتٍ في غرفهن المقفلة بإحكام كل ليلة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Every morning, the princesses' maid would find their beautiful dancing shoes completely worn out, as if they had been danced in all night! No one understood how this happened, for the princesses were tucked in their securely locked rooms each night.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The king sits on his throne in the royal hall, looking stern and concerned. Before him stand the twelve princesses, looking innocent and slightly nervous, their hands clasped. A royal announcement scroll is unrolled on a nearby table."
+      },
+      "ar": {
+        "text": "أعلن الملك: «من يكشف سرّ بناتي، ويتتبع خطواتهن الليلية، سيتزوج إحداهنّ ويصبح ملكاً بعدي!» لكنه حذّر قائلاً: «إن فشل في ثلاثة ليالٍ، فسيُطرد من المملكة!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The king announced, \"Whoever can discover my daughters' secret, and trace their nightly steps, shall marry one of them and become king after me!\" But he warned, \"If he fails after three nights, he shall be sent away from the kingdom!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A young, kind-faced soldier in a simple uniform walks through a lush green field towards the castle. He carries a small knapsack and looks determined but gentle. The sun is setting behind him, casting a warm glow."
+      },
+      "ar": {
+        "text": "جاء العديد من الأمراء والجنود الشجعان، لكن لا أحد منهم استطاع كشف السر. كانوا ينامون في الغرفة المجاورة لغرفة الأميرات، ويستيقظون في الصباح دون أن يروا شيئاً، والأحذية بالية كالعادة. حتى جاء جنديٌّ شابٌّ وطيّب القلب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Many brave princes and soldiers came, but none could uncover the secret. They would sleep in the room next to the princesses, only to wake in the morning having seen nothing, and the shoes worn out as always. Until, one day, a kind-hearted young soldier arrived.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "An old, wise woman with a gentle smile hands the soldier a small, dark cloak in a quiet village setting. The soldier looks at her with respect and gratitude. The woman's eyes sparkle with ancient knowledge."
+      },
+      "ar": {
+        "text": "في طريقه إلى القصر، قابل الجندي امرأةً عجوزاً حكيمة. ابتسمت له وقالت: «لا تشرب أي شرابٍ تقدّمه لك الأميرات في المساء، وتظاهر بالنوم. وخذ هذا الرداء الخفيّ، سيساعدك.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "On his way to the palace, the soldier met a wise old woman. She smiled and said, \"Do not drink any drink the princesses offer you in the evening, and pretend to be asleep. And take this invisible cloak; it will help you.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The soldier lies on a bed in a grand room, pretending to be asleep. The eldest princess, in a shimmering nightgown, holds a small silver cup, offering it to him with a sweet but slightly mischievous smile. The room is dimly lit by moonlight."
+      },
+      "ar": {
+        "text": "وصل الجندي إلى القصر، وفي المساء، جاءت الأميرة الكبرى وقدّمت له شراباً لذيذاً. تظاهر الجندي بشربه، ثم استلقى على سريره وتظاهر بالنوم العميق. سمع الأميرات يتهامسن ويضحكن.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The soldier arrived at the palace, and in the evening, the eldest princess brought him a sweet drink. The soldier pretended to sip it, then lay down on his bed and feigned a deep sleep. He heard the princesses whispering and giggling.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The twelve princesses, dressed in their finest ball gowns, gather around a trapdoor hidden beneath a rug in their room. The eldest princess is opening the trapdoor, revealing a glowing, magical staircase leading downwards. The soldier, cloaked and invisible, stands nearby, observing them with wide eyes."
+      },
+      "ar": {
+        "text": "عند منتصف الليل، استيقظ الجندي بهدوء. ارتدى الرداء السحري وأصبح غير مرئي. رأى الأميرة الكبرى تضغط على زرٍّ خفيّ، فانفتحت فتحةٌ سريّة في الأرض، وكشفت عن درجٍ سحريٍّ يؤدّي إلى الأسفل. نزلت الأميرات واحدةً تلو الأخرى.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At midnight, the soldier quietly woke up. He put on the magical cloak and became invisible. He saw the eldest princess press a hidden button, and a secret trapdoor opened in the floor, revealing a magical staircase leading downwards. The princesses descended one by one.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The twelve princesses are walking down a path made of silver in an enchanted forest. The trees have leaves of shining silver and branches laden with silver flowers. The soldier, invisible, follows closely, his foot accidentally catching a branch, making a soft 'snap' sound."
+      },
+      "ar": {
+        "text": "تبع الجندي الأميرات بصمت. مرّوا عبر غابةٍ أشجارها أوراقها فضية تتلألأ. سمعت الأميرة الصغرى صوتاً، وقالت: «أليس هذا صوتاً؟» قالت الكبرى: «لا، إنه صوتُ الريح.» لكن الجندي كان قد كسر غصناً فضياً وأخذه معه.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The soldier followed the princesses silently. They passed through a forest where the trees had shimmering silver leaves. The youngest princess heard a sound and whispered, \"Was that not a snap?\" The eldest replied, \"No, my dear, it was only the wind.\" But the soldier had broken off a silver twig and kept it.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The twelve princesses are walking on a path made of gold in an enchanted forest. The trees have leaves of shining gold and branches laden with golden fruits. The soldier, invisible, follows, his foot accidentally catching a branch, making a soft 'rustle' sound."
+      },
+      "ar": {
+        "text": "ثم وصلوا إلى غابةٍ أخرى، أشجارها أوراقها ذهبية تتوهّج، وثمارها ذهبية لامعة. سمعت الأميرة الوسطى صوتاً، وقالت: «أنا متأكدة أنني سمعت شيئاً!» لكن الكبرى طمأنتها. أخذ الجندي غصناً ذهبياً آخر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Next, they reached another forest, where the trees had glowing golden leaves and shimmering golden fruits. The middle princess heard a rustle and exclaimed, \"I'm sure I heard something!\" But the eldest reassured her. The soldier took another golden twig.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The twelve princesses are walking on a path made of diamonds in an enchanted forest. The trees have leaves of sparkling diamonds and branches laden with diamond blossoms. The soldier, invisible, follows, his foot accidentally catching a branch, making a soft 'clink' sound."
+      },
+      "ar": {
+        "text": "وأخيراً، وصلوا إلى غابةٍ ثالثة، أشجارها أوراقها من الألماس المتلألئ، وثمارها من الأحجار الكريمة. سمعت الأميرة الكبرى صوتاً هذه المرة، وقالت بقلق: «هل هناك من يتبعنا؟» لكن الأميرات الأخريات قلن: «لا، لا أحد!» أخذ الجندي غصناً ماسياً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Finally, they arrived at a third forest, where the trees had sparkling diamond leaves and gemstone fruits. The eldest princess heard a sound this time and asked worriedly, \"Is someone following us?\" But the other princesses said, \"No, no one!\" The soldier took a diamond twig.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The twelve princesses are crossing a sparkling, clear lake in twelve small, elegant boats, each rowed by a handsome young prince. The princes are smiling and chatting with the princesses. The soldier, invisible, secretly climbs into the boat of the youngest princess. The lake reflects the shimmering trees."
+      },
+      "ar": {
+        "text": "بعد الغابات، وصلوا إلى بحيرةٍ كبيرة، تنتظرهم فيها اثنا عشر قارباً صغيراً، يقود كل قاربٍ أميرٌ وسيم. ركبت كل أميرةٍ مع أميرها، وركب الجندي خفيةً في قارب الأميرة الصغرى، التي لاحظت أن القارب أصبح أثقل قليلاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Beyond the forests, they reached a large lake, where twelve small boats awaited them, each rowed by a handsome prince. Each princess stepped into a boat with her prince, and the soldier secretly climbed into the boat of the youngest princess, who noticed the boat felt a little heavier.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A grand, underground ballroom made of crystal and shimmering lights. The twelve princesses are dancing joyfully with twelve handsome princes. Their worn-out shoes are evident, but their faces are full of happiness. The invisible soldier watches from a corner, holding his three twigs (silver, gold, diamond)."
+      },
+      "ar": {
+        "text": "وصلوا إلى قصرٍ سحريٍّ تحت الأرض، حيث كانت الموسيقى تعزف والأنوار تتلألأ. رقصت الأميرات مع الأمراء حتى الفجر، وضحكن وغنين. كانت أحذيتهن تبلى من شدة الرقص. شاهد الجندي كل شيء من زاويةٍ خفية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "They arrived at a magical underground palace, where music played and lights sparkled. The princesses danced with the princes until dawn, laughing and singing. Their shoes wore out from all the dancing. The soldier watched everything from a hidden corner.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The sun is rising, casting soft light into the princesses' bedchamber. The twelve princesses are back in their beds, pretending to sleep, but with tired smiles on their faces. The invisible soldier slips quietly back into his own room, holding the three twigs."
+      },
+      "ar": {
+        "text": "عند الفجر، ودّعت الأميرات الأمراء، ووعدنهم بالعودة في الليلة التالية. ثم عادت الأميرات إلى غرفتهن عبر الدرج السري، وتبعهم الجندي. تظاهرن بالنوم، وعاد الجندي إلى سريره، وهو يحمل أغصانه الثلاثة كدليل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At dawn, the princesses bid farewell to the princes, promising to return the next night. Then the princesses returned to their room via the secret staircase, and the soldier followed them. They pretended to sleep, and the soldier returned to his bed, holding his three twigs as proof.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The king sits on his throne, looking surprised and intrigued. The soldier stands before him, holding up the three glittering twigs (silver, gold, diamond). The twelve princesses stand nearby, looking a bit shocked but also relieved."
+      },
+      "ar": {
+        "text": "في الصباح، استدعى الملك الجندي وسأله عن السر. ابتسم الجندي وأخرج الأغصان الثلاثة المتلألئة، وحكى للملك كل ما رآه. نظرت الأميرات إلى بعضهن بدهشة، فقد انكشف سرّهن أخيراً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In the morning, the king summoned the soldier and asked him about the secret. The soldier smiled and brought out the three shimmering twigs, telling the king everything he had seen. The princesses looked at each other in astonishment, for their secret was finally revealed.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "A joyful wedding scene in the royal castle. The kind soldier, now a prince, stands proudly beside the youngest princess, who is beaming in a beautiful gown. The other eleven princesses and the king are smiling happily, celebrating the union. The castle is adorned with flowers."
+      },
+      "ar": {
+        "text": "سعد الملك كثيراً بصدق الجندي وشجاعته. ووفقاً لوعده، سأل الجندي أي أميرة يرغب في الزواج منها. اختار الجندي الأميرة الصغرى، التي كانت لطيفةً وجميلة، وعاشت المملكة في سعادةٍ ورقصٍ وفرحٍ إلى الأبد.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The king was overjoyed by the soldier's honesty and bravery. True to his promise, he asked the soldier which princess he wished to marry. The soldier chose the youngest princess, who was kind and lovely, and the kingdom lived in happiness, dancing, and joy forever after.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "elves_and_shoemaker",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A kind, elderly shoemaker with spectacles working diligently on a worn wooden workbench, surrounded by leather and tools. A warm lamp casts a soft glow. Through a small window, a snowy village street is visible."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الأقزام وصانع الأحذية",
+      "subtitle": "حكاية الكرم والعمل الصغير",
+      "tagline": "صانع أحذية طيب، مساعدة سحرية، وملابس صغيرة"
+    },
+    "en": {
+      "title": "The Elves and the Shoemaker",
+      "subtitle": "A Tale of Kindness and Tiny Hands",
+      "tagline": "A kind shoemaker, magical help, and tiny clothes"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "An old, kind shoemaker with a gentle smile, sitting on a stool in his small, humble workshop. He holds a piece of leather and a hammer, looking a bit weary but still hopeful. Sunlight streams through a dusty window. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "في قريةٍ صغيرة، عاش صانع أحذيةٍ عجوزٌ طيبٌ مع زوجته. كانا يعملان بجدٍ كل يوم، لكن الحظ لم يحالفهما. كانت لديهما قطعةٌ صغيرةٌ من الجلد، بالكاد تكفي لزوجٍ واحدٍ من الأحذية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a small village lived a kind old shoemaker and his wife. They worked very hard every day, but good fortune rarely found them. They had only a tiny piece of leather left, barely enough to make a single pair of shoes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The shoemaker's wife, a kind woman with a shawl, stands beside him. They both look at the small piece of leather on the workbench with a concerned but determined expression. The workshop is tidy but shows signs of age. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "تنهّد صانع الأحذية وقال لزوجته: «هذا كل ما تبقى لدينا يا عزيزتي. سأقوم بقصه الآن، وسأخيطه غداً.» كانت زوجته تطمئنه بابتسامة، فقد كانت تؤمن بأن الخير سيأتي يوماً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The shoemaker sighed and said to his wife, \"This is all we have left, my dear. I will cut the leather tonight, and sew it in the morning.\" His wife offered a reassuring smile, for she always believed that good things would come their way.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A close-up of the shoemaker's hands carefully cutting the leather on his workbench. The tools are well-used and simple. A small oil lamp casts soft shadows. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "بمهارةٍ وحذر، قصّ صانع الأحذية الجلد إلى قطعٍ صغيرة جاهزة للخياطة. رتّبها بعناية على الطاولة، ثم ذهب هو وزوجته إلى النوم، متمنّين أن يحمل الغد بعض الأمل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "With skillful, careful hands, the shoemaker cut the leather into small pieces, ready for sewing. He arranged them neatly on his workbench, then he and his wife went to bed, hoping that tomorrow would bring some good fortune.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The shoemaker and his wife wake up, rubbing their eyes, and enter the workshop. Their expressions are surprised and disbelieving as they see a perfectly finished pair of shiny shoes on the workbench. Morning light streams through the window. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "في الصباح الباكر، استيقظ صانع الأحذية وذهب إلى ورشته. لكنه توقّف عند الباب بدهشة! فبدلاً من قطع الجلد، وجد زوجاً من الأحذية الجميلة الجاهزة تماماً، وكأن سحراً قد حدث!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Early the next morning, the shoemaker woke and went to his workshop. But he stopped at the doorway in surprise! Instead of the cut leather pieces, he found a perfectly finished pair of beautiful shoes, as if by magic!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The shoemaker holds up the finished shoes, examining them closely with his wife. Both have wide-eyed, joyful expressions. The shoes are elegant and perfectly crafted. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "أمسك صانع الأحذية الحذاءين، وقلّبهما بين يديه. كانت الخياطة دقيقةً جداً، واللمعان رائعاً. لم يرَ في حياته عملاً بهذه الجودة! جاءت زوجته، وشاركتْه الذهول والفرح.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The shoemaker picked up the shoes, turning them over in his hands. The stitching was so fine, and the polish so bright. He had never seen such perfect craftsmanship! His wife came in and shared his astonishment and joy.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A customer, a well-dressed lady, happily tries on the new shoes in the shoemaker's shop. The shoemaker and his wife beam with satisfaction. A small pile of gold coins sits on the counter. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "لم يمضِ وقتٌ طويل حتى دخلت سيدةٌ غنية إلى المحل. أعجبتها الأحذية كثيراً، واشترتها بسعرٍ أعلى من المعتاد. فرح الزوجان، واشتريا بمالها جلداً يكفي لزوجين من الأحذية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "It wasn't long before a wealthy lady entered the shop. She loved the shoes so much that she bought them for a much higher price than usual. The couple rejoiced, and with the money, they bought enough leather for two more pairs of shoes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The shoemaker cuts two more pairs of leather, laying them out on the workbench. He looks a little less weary, but still curious. The sun sets outside the window. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "قصّ صانع الأحذية الجلد الجديد، ورتّب القطع على الطاولة، كما فعل في الليلة السابقة. قال لزوجته: «لنذهب إلى النوم، ونرى ماذا سيحدث هذه المرة.» كان الفضول يملأ قلبيهما.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The shoemaker cut the new leather, arranging the pieces on the table, just as he had the night before. He said to his wife, \"Let us go to bed, and see what happens this time.\" Their hearts were filled with curiosity.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The shoemaker and his wife hide behind a curtain or doorframe, peeking into the workshop at midnight. Two tiny, joyful elves, dressed in ragged clothes, are busily sewing and hammering the shoes with tiny tools. Moonlight streams through the window. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "في تلك الليلة، لم يستطع الزوجان النوم. اختبآ خلف الستارة، وانتظرا. عند منتصف الليل، دخل قزمان صغيران مرحان! كانا يرتديان ملابس بالية، وبدآ يعملان بسرعةٍ ونشاطٍ مدهشين!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "That night, the couple could not sleep. They hid behind a curtain and waited. At midnight, two tiny, cheerful elves crept in! They wore ragged clothes and began to work with astonishing speed and energy!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Close-up of the two elves, one sewing with a tiny needle, the other hammering a tiny nail into a shoe. They are focused and happy, their tiny faces glowing. The shoemaker and his wife watch, wide-eyed and amazed. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "كان القزمان يخيطان ويصقلان ويدقّان المطارق الصغيرة، حتى انتهيا من كل الأزواج من الأحذية، ووضعوها على الطاولة. ثم اختفيا بنفس السرعة التي ظهرا بها! نظر الزوجان إلى بعضهما البعض في دهشة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The elves stitched and polished and hammered with their tiny tools, until all the pairs of shoes were finished and placed on the table. Then they vanished as quickly as they had appeared! The shoemaker and his wife stared at each other in wonder.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The shoemaker's wife has a thoughtful, kind expression. She points to the ragged clothes of the elves, suggesting they make new ones. The shoemaker nods in agreement, a gentle smile on his face. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "قالت الزوجة: «يا عزيزي، لقد ساعدانا هذان القزمان الصغيران كثيراً. انظر إلى ملابسهما البالية! يجب أن نصنع لهما ملابس جديدة دافئة، لنشكرهما على لطفهما.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The wife said, \"My dear, these little elves have helped us so much. Look at their ragged clothes! We must make them new, warm outfits to thank them for their kindness.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The shoemaker and his wife busy working by candlelight, cutting and sewing tiny coats, trousers, vests, and shoes. Their faces are focused and happy, full of gratitude. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "وافق صانع الأحذية بسعادة. في اليوم التالي، لم يقصّ جلداً للأحذية. بدلاً من ذلك، قضى الزوجان اليوم كله في خياطة معاطف صغيرة، وسراويل، وصدريات، وأحذية صغيرة جداً، كل ذلك بحبٍ وشكر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The shoemaker happily agreed. The next day, he did not cut leather for shoes. Instead, the couple spent the entire day sewing tiny coats, trousers, vests, and minuscule shoes, all with love and gratitude.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The tiny new clothes for the elves are neatly laid out on the workbench. They are colorful and cozy, perfectly sized for tiny figures. The shoemaker and his wife hide again, eager to see the elves' reaction. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "عندما جاء الليل، وضع الزوجان الملابس الجديدة على الطاولة بدلاً من قطع الجلد. ثم اختبآ مرةً أخرى، وقلوبهما ترفرف فرحاً وترقباً. كانا يتمنّيان أن تعجب الهدايا القزمين.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When night fell, the couple placed the new clothes on the workbench instead of leather pieces. Then they hid once more, their hearts fluttering with joy and anticipation. They hoped the elves would like their gifts.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The two elves enter the workshop and discover the new clothes. Their tiny faces light up with pure delight and surprise. They immediately try on the clothes, laughing and dancing. The shoemaker and his wife watch, smiling warmly. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "عند منتصف الليل، جاء القزمان كالمعتاد. عندما رأيا الملابس الجديدة، صرخا ببهجة! لبساها بسرعة، وبدآ يرقصان ويغنيان بسعادةٍ لا توصف، وهما يضحكان ويقفزان في أنحاء الورشة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At midnight, the elves came as usual. When they saw the new clothes, they cried out with delight! They quickly put them on, then began to dance and sing with boundless joy, laughing and leaping around the workshop.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The elves, now beautifully dressed, wave goodbye cheerfully from the workshop window. They have radiant smiles. The shoemaker and his wife wave back, sad to see them go but happy for their new clothes. Moonlight on a snowy landscape outside. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "غنى القزمان: «ما دمنا نلبس ثياباً جديدة، فلن نعمل بعد الآن!» ثم لوّحا للزوجين من النافذة، واختفيا إلى الأبد. لم يعودا أبداً، لكن صانع الأحذية وزوجته لم ينسيا لطفهما.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The elves sang, \"Now that we're dressed in clothes so fine, we'll work no more, it's playtime!\" Then they waved to the couple from the window and vanished forever. They never returned, but the shoemaker and his wife never forgot their kindness.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "The shoemaker and his wife, now looking prosperous and happy, work together in their bright, thriving workshop. The shelves are full of beautiful shoes. They smile at each other, still kind and grateful. cozy storybook illustration, soft earthy tones, charming whimsical characters, traditional European village setting, warm glow, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "منذ ذلك اليوم، استمر صانع الأحذية وزوجته في العمل بجدٍ وصدق. ببركة تلك المساعدة السحرية، ازدهرت أعمالهما، وعاشا حياةً سعيدة ومريحة، ولم ينسيا أبداً أن الخير يعود بالخير.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "From that day forward, the shoemaker and his wife continued to work hard and honestly. Thanks to that magical help, their business prospered, and they lived a happy, comfortable life, never forgetting that kindness always returns kindness.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

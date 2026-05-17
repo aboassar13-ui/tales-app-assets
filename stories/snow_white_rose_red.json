@@ -1,0 +1,235 @@
+{
+  "id": "snow_white_rose_red",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 12,
+  "style_suffix": "warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "Snow-White and Rose-Red, two kind young sisters, are sitting by a cozy fireplace in their small, clean cottage. A large, friendly brown bear with kind eyes peeks his head through the open cottage door, gently looking at them. Snow is falling softly outside."
+  },
+  "i18n": {
+    "ar": {
+      "title": "بياض الثلج ووردة حمراء",
+      "subtitle": "حكاية الدب اللطيف والأمير المسحور",
+      "tagline": "أختان طيبتان، دب كبير، وسحر الربيع"
+    },
+    "en": {
+      "title": "Snow-White and Rose-Red",
+      "subtitle": "The Tale of the Gentle Bear and the Enchanted Prince",
+      "tagline": "Two kind sisters, a big bear, and the magic of spring"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "Two young girls, Snow-White with fair hair and Rose-Red with dark hair, are playing happily in a vibrant green meadow filled with wildflowers. A cozy, small cottage with a garden is nestled nearby under a sunny sky. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "عاشت في غابةٍ جميلة أختان لطيفان: بياض الثلج ذات الشعر الفاتح، ووردة حمراء ذات الشعر الداكن. كانتا تعيشان مع أمهما في كوخٍ صغيرٍ وسط الأزهار. كانت بياض الثلج هادئةً ووديعة، ووردة حمراء مرحةً ونشيطة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a beautiful forest lived two kind sisters: Snow-White with her fair hair, and Rose-Red with her dark locks. They lived with their mother in a small cottage surrounded by flowers. Snow-White was quiet and gentle, while Rose-Red was cheerful and lively.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The mother sits by a warm fireplace in their cozy cottage, reading a storybook to Snow-White and Rose-Red. The girls are nestled close to her, looking content. A small window shows a snowy landscape outside. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "كانت الأم تحبهما كثيراً، وتعلمهما أن يكونا طيبتين مع كل المخلوقات. كان الكوخ دائماً دافئاً ونظيفاً، وفي الشتاء، كانت الأم تقرأ لهما القصص بجانب المدفأة المشتعلة، بينما تتساقط الثلوج في الخارج.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Their mother loved them dearly and taught them to be kind to all creatures. Their cottage was always warm and clean. In winter, she would read them stories by the crackling fireplace, as snow fell softly outside.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A large, friendly brown bear gently pushes open the cottage door with his snout. Snow-White and Rose-Red look up from their seats by the fireplace with curiosity and a little surprise, but no fear. The mother smiles calmly. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "ذات مساءٍ شتويٍ بارد، طرق أحدهم الباب. عندما فتحت الأم، وجدت دباً كبيراً يقف على العتبة! صرخت الأختان قليلاً، لكن الأم قالت بهدوء: «لا تخافا، إنه دبٌّ طيب.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One cold winter evening, there was a knock at the door. When their mother opened it, she found a large bear standing on the doorstep! The sisters gasped a little, but their mother calmly said, \"Don't be afraid, children, he looks like a kind bear.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The large brown bear is lying comfortably on the rug in front of the fireplace, warming himself. Snow-White and Rose-Red are gently patting his fur, and Snow-White is wiping snow from his coat with a cloth. The mother watches approvingly. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "طلب الدب أن يتدفأ قليلاً، فسمحت له الأم. دخل الدب الكبير بهدوء، واستلقى أمام المدفأة. قامت بياض الثلج ووردة حمراء بمسح الثلج عن فروه، ولعبتا معه بلطف. كان الدب ودوداً جداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The bear asked if he could warm himself, and their mother agreed. The big bear came in quietly and lay down in front of the fireplace. Snow-White and Rose-Red gently wiped the snow from his fur and played with him. He was very friendly.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The bear is sleeping soundly by the fireplace. Snow-White and Rose-Red are sleeping in their beds nearby, looking peaceful. The mother is knitting quietly, glancing at the bear with a soft smile. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "أصبح الدب صديقهم. كان يأتي كل مساءٍ ليقضي الليل الدافئ بجانب المدفأة، ويعود إلى الغابة في الصباح. كانت الأختان تحبان اللعب معه، وتعتنيان به بحنان. أحب الدب الطيبة التي وجدها في هذا البيت.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The bear became their friend. Every evening, he would come to spend the warm night by the fireplace, returning to the forest in the morning. The sisters loved to play with him and cared for him tenderly. The bear loved the kindness he found in this home.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "In a forest clearing, Snow-White and Rose-Red are helping a grumpy, small dwarf whose long white beard is caught in a fallen tree branch. Rose-Red tries to pull the branch, while Snow-White gently untangles the beard. The dwarf looks annoyed. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "في أحد الأيام، بينما كانت الأختان في الغابة، وجدتا قزماً صغيراً غاضباً. كانت لحيته الطويلة البيضاء عالقةً في شجرةٍ سقطت. حاولت بياض الثلج أن تسحب الشجرة، بينما قامت وردة حمراء بفك لحيته بعناية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, while the sisters were in the forest, they found a grumpy little dwarf. His long white beard was caught in a fallen tree branch. Snow-White tried to pull the branch, while Rose-Red carefully untangled his beard.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The dwarf, now free, grumbles and stuffs a small bag of glittering gold coins into his pocket. Snow-White and Rose-Red look on, a little surprised by his lack of gratitude. The forest path is sun-dappled. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "أخيراً تحرر القزم، لكنه لم يشكر الأختين. بل صرخ بغضب: «أنتما حمقاوان! كدت أنسى كنزي بسببكما!» ثم التقط كيساً صغيراً مليئاً بالعملات الذهبية واختفى في الغابة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Finally, the dwarf was free, but he didn't thank the sisters. Instead, he grumbled angrily, \"You clumsy girls! I almost forgot my treasure because of you!\" Then he picked up a small bag full of gold coins and vanished into the forest.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "In a different part of the forest, the dwarf is struggling to carry a heavy sack of jewels. His beard is now caught in a fishing line. Snow-White and Rose-Red are carefully cutting the line with small scissors, trying not to hurt him. The dwarf looks exasperated. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "بعد أيام، وجدتا القزم مرة أخرى. كانت لحيته عالقةً هذه المرة في خيط صيد، وكان يحمل كيساً ثقيلاً من المجوهرات. ساعدته بياض الثلج ووردة حمراء على فك الخيط بحذر، لكنه صرخ مرة أخرى دون شكر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Days later, they found the dwarf again. This time, his beard was caught in a fishing line, and he was carrying a heavy sack of jewels. Snow-White and Rose-Red carefully helped him untangle the line, but he shouted at them again without thanks.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The dwarf is trying to cross a small stream, but his beard is tangled in a thorny bush on the bank. Snow-White and Rose-Red are gently trying to free him, their faces showing patience and kindness despite his grumbling. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "ولم تكن تلك آخر مرة. كلما وجدتا القزم، كان في مشكلةٍ جديدة بسبب لحيته الطويلة وكنوزه. وفي كل مرة، كانتا تساعدانه بلطفٍ وصبر، وفي كل مرة، كان يصرخ ويشتكي بدلاً من أن يشكر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And that wasn't the last time. Whenever they found the dwarf, he was in new trouble because of his long beard and his treasures. Each time, they helped him with kindness and patience, and each time, he grumbled and complained instead of thanking them.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The large brown bear is playfully chasing Snow-White and Rose-Red through a sunlit forest. The girls are laughing and running, looking joyful. Butterflies flutter around them, and the trees are full of green leaves, indicating spring. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "جاء الربيع، وبدأت الثلوج تذوب. كان الدب يزور الكوخ كل يوم، لكنه لم يعد يدخل. كان يلعب مع الأختين في الغابة المشمسة، يركضان ويضحكان معاً. كانت الأختان سعيدة بقضاء الوقت مع صديقهما الكبير.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Spring arrived, and the snow began to melt. The bear still visited the cottage every day, but he no longer came inside. He would play with the sisters in the sunny forest, running and laughing together. The sisters were happy to spend time with their big friend.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The dwarf is standing in a forest clearing, counting his gold coins greedily. Suddenly, the large brown bear appears from behind a tree, looking determined but not aggressive. The dwarf looks terrified and drops his coins. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "في أحد الأيام، وجد الدب القزم الشرير في الغابة وهو يعد كنوزه. كان القزم يصرخ قائلاً: «هذه كنوزي! لا أحد يأخذها!» نظر الدب إلى القزم بعينين حادتين، وكانت عيناه تلمعان بطريقة غريبة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, the bear found the grumpy dwarf in the forest, counting his treasures. The dwarf was shouting, \"These are my treasures! No one will take them!\" The bear looked at the dwarf with sharp, gleaming eyes that shone strangely.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The large brown bear is seen chasing the terrified dwarf through the forest. The dwarf is dropping his bags of gold and jewels as he runs. Snow-White and Rose-Red watch from a distance, looking a little surprised. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "خاف القزم وركض بعيداً، تاركاً وراءه كنوزه المتناثرة. ركض الدب وراءه، مطارداً إياه بعيداً عن الغابة. نظرت الأختان إلى بعضهما البعض في حيرة، لم تفهما ما يحدث.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The dwarf grew terrified and ran away, dropping his scattered treasures. The bear chased after him, driving him far away from the forest. The sisters looked at each other, confused, not understanding what was happening.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "In the forest, the large brown bear stands tall, and a shimmering light surrounds him. Snow-White and Rose-Red watch in awe as the bear's form begins to change, transforming into a handsome young prince. The discarded bear skin lies on the ground. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "عندما عاد الدب، وقفت الأختان تراقبان. وفجأة، لمع ضوءٌ ساطع حوله! بدأ فروه يختفي، وظهر تحته شابٌ وسيم بملابس الأمير! كان الدب صديقهما أميراً مسحوراً!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the bear returned, the sisters watched. Suddenly, a bright light shone around him! His fur began to disappear, and beneath it stood a handsome young prince in royal clothes! Their bear friend was an enchanted prince!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The handsome young prince, formerly the bear, stands smiling gently at Snow-White and Rose-Red. He gestures towards the glittering jewels and gold coins scattered on the forest floor, which were the dwarf's treasure. The sisters look amazed. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "قال الأمير بصوتٍ لطيف: «لقد سحرني ذلك القزم الشرير، وحوّلني إلى دب. لم ينكسر السحر إلا عندما يختفي هو وكنوزه. وبفضلكما، تحررت أخيراً.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince spoke in a gentle voice, \"That wicked dwarf enchanted me and turned me into a bear. The spell could only be broken when he and his treasures were gone. Thanks to your kindness, I am finally free.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Snow-White and Rose-Red, now dressed in beautiful, simple gowns, stand with the prince and their mother in a sunlit palace garden. The prince holds Snow-White's hand, and Rose-Red stands happily beside them. Flowers bloom everywhere. Warm watercolor children's book illustration, soft forest and cottage palette, gentle storybook mood, friendly animal characters, classic European fairy-tale setting, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "تزوج الأمير بياض الثلج، وأخذ معه وردة حمراء وأمها للعيش في قصره الجميل. عاشوا جميعاً بسعادةٍ ورخاء، بفضل طيبة قلب الأختين التي كسرت أعتى السحر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince married Snow-White and brought Rose-Red and their mother to live in his beautiful palace. They all lived happily and prosperously ever after, thanks to the sisters' kind hearts that broke the strongest spell.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

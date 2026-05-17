@@ -1,0 +1,221 @@
+{
+  "id": "little_mermaid",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen, 1837 (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "vibrant underwater children's book illustration, luminous ocean colors, friendly sea creatures, joyful and curious mermaid, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young mermaid princess with flowing red hair, wearing a shimmering green tail, sits on a coral branch, gazing up at a sunlit ocean surface. Friendly fish swim around her."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الحورية الصغيرة",
+      "subtitle": "رحلة من البحر إلى البر",
+      "tagline": "فضول، مغامرة، وكنز العائلة"
+    },
+    "en": {
+      "title": "The Little Mermaid",
+      "subtitle": "A Journey from Sea to Shore",
+      "tagline": "Curiosity, adventure, and the treasure of family"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A beautiful underwater kingdom with shimmering coral castles and colorful fish. A kind old Sea King with a long white beard sits on a throne, surrounded by his six mermaid daughters, the youngest with bright red hair looking out with wonder."
+      },
+      "ar": {
+        "text": "في أعماق البحار الزرقاء، كان هناك ملكٌ طيب يحكم مملكةً رائعة من المرجان. كان لديه ست أميرات حوريات، وكل واحدة منهن جميلة، لكن أصغرهن، ذات الشعر الأحمر اللامع، كانت الأكثر فضولاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Deep beneath the sparkling blue waves, a kind Sea King ruled a magnificent coral kingdom. He had six lovely mermaid princesses, each one beautiful, but the youngest, with her bright red hair, was the most curious of all.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The little mermaid, Ariel, swims gracefully through a vibrant coral garden, her red hair flowing. She collects shiny pebbles and sea shells, her eyes wide with wonder at everything around her."
+      },
+      "ar": {
+        "text": "أحبت الحورية الصغيرة جمع الأشياء اللامعة من السفن الغارقة، وكنزها المفضل كان تمثالاً صغيراً لإنسان. كانت تحلم بالعالم في الأعلى، عالم البشر الغامض.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The little mermaid loved to collect shiny treasures from sunken ships, and her favorite was a small statue of a human. She often dreamed of the world above, the mysterious world of people.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The little mermaid sits with her grandmother, a wise old mermaid with silver hair, who points to the shimmering surface of the ocean. The grandmother tells stories of the human world, and the little mermaid listens intently."
+      },
+      "ar": {
+        "text": "كانت جدتها الحكيمة تخبرها قصصاً عن عالم البشر، عن الشمس المشرقة والأشجار الخضراء. كانت الحورية الصغيرة تتوق لرؤية هذا العالم بنفسها، تشعر بأن قلبها يناديها إلى الأعلى.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Her wise grandmother would tell her tales of the human world, of bright sunshine and green trees. The little mermaid yearned to see it for herself, feeling her heart call her to the surface.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The little mermaid, now older, swims to the surface for the first time. She sees a grand ship with sails billowing, and people dancing joyfully on deck under a starry night sky. She watches from a safe distance, hidden by gentle waves."
+      },
+      "ar": {
+        "text": "عندما بلغت السن المناسبة، سمح لها والدها بالصعود إلى السطح. رأت سفينةً كبيرة تتهادى على الأمواج، والناس يرقصون ويغنون تحت ضوء القمر. كان قلبها يرفرف من الفرح والدهشة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When she was old enough, her father allowed her to swim to the surface. She saw a grand ship gently rocking on the waves, with people dancing and singing under the moon. Her heart fluttered with joy and wonder.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A kind-faced sea witch, with swirling purple tentacles and a friendly smile, sits in her cozy underwater cave, surrounded by glowing potions and ancient books. The little mermaid approaches her cautiously but with determination."
+      },
+      "ar": {
+        "text": "عادت الحورية إلى بيتها، لكنها لم تستطع نسيان ما رأته. قررت أن تذهب إلى ساحرة البحر، الساحرة الطيبة التي كانت تساعد الكائنات البحرية أحياناً. كانت الساحرة تعيش في كهفٍ مليء بالأعشاب البحرية المتوهجة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The mermaid returned home, but she couldn't forget what she had seen. She decided to visit the sea witch, a kind witch who sometimes helped sea creatures. The witch lived in a cave filled with glowing sea herbs.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The sea witch and the little mermaid sit across from each other. The sea witch holds a shimmering potion, and the little mermaid looks at it with hopeful eyes. They are discussing the terms of the magical transformation."
+      },
+      "ar": {
+        "text": "قالت الحورية للساحرة عن حلمها. قالت الساحرة: «يمكنني أن أحوّل ذيلك إلى ساقين، لكن سيكون عليكِ أن تعطيني صوتك الجميل في المقابل. وستعودين إلى البحر عند غروب الشمس في اليوم التالي.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The mermaid told the witch about her dream. The witch said, \"I can turn your tail into legs, but you must give me your beautiful voice in return. And you must return to the sea by sunset the next day.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The little mermaid bids farewell to her worried sisters and father in the underwater kingdom. They look sad but understand her longing. She has a determined, hopeful look on her face."
+      },
+      "ar": {
+        "text": "وافقت الحورية الصغيرة، رغم حزنها على صوتها. ودّعت عائلتها، التي حذرتها من المخاطر، لكنها فهمت رغبتها في استكشاف العالم. شربت الجرعة السحرية وشعرت بتحوّل غريب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The little mermaid agreed, though she felt sad about her voice. She said goodbye to her family, who warned her of dangers but understood her longing to explore. She drank the magical potion and felt a strange transformation.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The little mermaid, now with human legs, sits on a sandy beach, looking at her new feet with a mix of awe and slight awkwardness. Gentle waves lap at her feet, and a curious seagull watches her from nearby."
+      },
+      "ar": {
+        "text": "استيقظت الحورية الصغيرة على شاطئ رملي، وقد تحول ذيلها إلى ساقين بشريتين! كانت تشعر بالغرابة، لكن الفرح غمر قلبها. مشت ببطء على الرمال الدافئة، وأحست بالشمس على وجهها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The little mermaid awoke on a sandy beach, her tail now transformed into human legs! She felt a little strange, but joy filled her heart. She walked slowly on the warm sand, feeling the sun on her face.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The little mermaid, wearing a simple dress, walks through a vibrant green meadow filled with wildflowers. She marvels at the buzzing bees, colorful butterflies, and tall trees, touching a flower gently."
+      },
+      "ar": {
+        "text": "اكتشفت عالماً جديداً مليئاً بالعجائب! رأت الزهور بألوانها الزاهية، وسمعت زقزقة العصافير، وشاهدت الفراشات تحلّق في السماء. كل شيء كان مختلفاً وجميلاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "She discovered a new world full of wonders! She saw flowers in bright colors, heard birds singing, and watched butterflies flutter in the sky. Everything was different and beautiful.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The little mermaid approaches a bustling village market, her eyes wide with curiosity. She sees people laughing, buying colorful fruits and crafts. A friendly vendor offers her a small flower."
+      },
+      "ar": {
+        "text": "زارت قريةً صغيرة حيث رأى الناس لطفها وصمتها. ابتسموا لها وقدموا لها زهوراً. لم تستطع الغناء، لكن عينيها عبّرت عن كل مشاعرها بالدهشة والسعادة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "She visited a small village where people noticed her kindness and quiet grace. They smiled and offered her flowers. She couldn't sing, but her eyes expressed all her wonder and happiness.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The little mermaid sits on a cliff overlooking the vast ocean, watching the sunset paint the sky in fiery colors. She feels a gentle longing for her home but also gratitude for her adventure."
+      },
+      "ar": {
+        "text": "عندما بدأت الشمس تغرب، جلست الحورية الصغيرة على صخرة كبيرة تطل على المحيط. شعرت ببعض الحنين إلى بيتها، لكنها كانت سعيدة بكل لحظة قضتها في هذا العالم الجديد.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As the sun began to set, the little mermaid sat on a large rock overlooking the ocean. She felt a gentle longing for her home, but she was also happy for every moment she had spent in this new world.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The little mermaid dives back into the ocean as the last rays of sun disappear. Her legs transform back into a shimmering mermaid tail, and she swims joyfully downwards, her heart full."
+      },
+      "ar": {
+        "text": "مع آخر شعاع للشمس، قفزت الحورية الصغيرة إلى الماء. تحوّلت ساقاها إلى ذيلها اللامع مرة أخرى. سبحت عائدةً إلى أعماق المحيط، وقلبها مليء بالذكريات الجميلة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "With the very last ray of sunlight, the little mermaid dove into the water. Her legs transformed back into her shimmering tail. She swam back down to the ocean depths, her heart full of beautiful memories.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The little mermaid is embraced by her loving family – her father, sisters, and grandmother – in their coral castle. She tells them stories with happy gestures and bright eyes, and they listen with joy and relief."
+      },
+      "ar": {
+        "text": "عندما عادت إلى مملكتها، استقبلتها عائلتها بحبٍّ كبير. حكت لهم عن كل ما رأته، وعن الزهور، وعن الناس الطيبين. كانت سعيدةً جداً بالعودة إلى بيتها وعائلتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When she returned to her kingdom, her family welcomed her with great love. She told them all about what she had seen, about the flowers and the kind people. She was so happy to be back home with her family.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The little mermaid, surrounded by her sisters, shares her treasures from the human world – a smooth pebble, a fallen feather, a small wildflower. They all look at the items with fascination, sharing in her adventure."
+      },
+      "ar": {
+        "text": "تعلّمت الحورية الصغيرة أن العالم مليء بالعجائب، سواء فوق الماء أو تحته. لكنها عرفت أن أثمن كنز هو حب عائلتها وبيتها الدافئ في قاع البحر. ومنذ ذلك اليوم، أصبحت تحكي لأخواتها قصصاً رائعة عن عالم البشر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The little mermaid learned that the world was full of wonders, both above and below the water. But she also knew that the most precious treasure was the love of her family and her warm home at the bottom of the sea. From that day on, she loved sharing wonderful stories of the human world with her sisters.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

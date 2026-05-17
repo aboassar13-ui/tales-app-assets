@@ -1,0 +1,193 @@
+{
+  "id": "ricky_of_the_tuft",
+  "category": "fairy_tale",
+  "source": "Charles Perrault (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "charming storybook illustration, soft golden and forest green palette, whimsical fairy-tale setting, gentle character designs, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young prince with a small tuft of hair on his head stands in a sun-dappled forest clearing, looking thoughtful. A beautiful princess with kind eyes approaches him cautiously. Animals like squirrels and rabbits watch from the trees. Warm, inviting atmosphere."
+  },
+  "i18n": {
+    "ar": {
+      "title": "ريكي ذو العرف",
+      "subtitle": "أمير الغابة والهدية المفقودة",
+      "tagline": "الجمال الحقيقي يكمن في القلب"
+    },
+    "en": {
+      "title": "Ricky of the Tuft",
+      "subtitle": "The Forest Prince and the Missing Gift",
+      "tagline": "True beauty lies within the heart"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A young prince, looking a bit plain but with kind eyes, sits on a mossy log in a sunlit forest. He has a distinctive small tuft of hair on his head. A curious squirrel peeks from a branch above. Soft, natural lighting."
+      },
+      "ar": {
+        "text": "في مملكةٍ بعيدة، عاش أميرٌ صغيرٌ اسمه ريكي. لم يكن ريكي وسيماً كالأمراء الآخرين، لكن كان لديه قلبٌ طيبٌ وذكاءٌ حاد. كان أكثر ما يميزه هو خصلة شعرٍ صغيرةٍ دائماً ما تقف منتصبةً على رأسه، لذلك دعاه الناس «ريكي ذو العرف».",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "In a faraway kingdom lived a young prince named Ricky. Ricky wasn't as handsome as other princes, but he had a kind heart and a clever mind. What made him most noticeable was a small tuft of hair that always stood straight up on his head, so people called him 'Ricky of the Tuft'.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Prince Ricky walks through a dense forest, looking a little lost but determined. Sunlight filters through the leaves, illuminating his path. He carries a small, empty satchel. Gentle, slightly mysterious forest atmosphere."
+      },
+      "ar": {
+        "text": "كان الأمير ريكي يشعر أحياناً أنه يفتقد شيئاً ما، شيئاً لا يمكنه وصفه. كان يحب الصيد والمشي في الغابة، لكنه كان يتمنى لو كان لديه شيءٌ يجعله مميزاً حقاً. في أحد الأيام، قرر الذهاب في رحلةٍ عميقةٍ في الغابة ليكتشف ما ينقصه.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Prince Ricky sometimes felt he was missing something, something he couldn't quite describe. He loved to hunt and walk in the woods, but he wished he had something that made him truly special. One day, he decided to journey deep into the forest to discover what he lacked.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A beautiful princess, with a slightly vacant but sweet expression, sits by a clear forest stream. She is trying to tie a ribbon around a flower, but her fingers fumble. Her dress is elegant but simple. Peaceful forest setting."
+      },
+      "ar": {
+        "text": "وفي مكانٍ آخر، عاشت أميرةٌ جميلةٌ جداً اسمها أورا. كانت أورا أجمل فتاةٍ في جميع الممالك، بشعرٍ ذهبيٍ كالشمس وعينين زرقاوين كالبحر. لكنها كانت بطيئة الفهم، وتجد صعوبةً في فهم الأشياء البسيطة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Elsewhere lived a very beautiful princess named Aura. Princess Aura was the prettiest girl in all the kingdoms, with hair like sunshine and eyes as blue as the sea. But she was slow to understand things, finding it hard to grasp simple matters.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Princess Aura is looking confusedly at a puzzle box, unable to figure out how to open it. Her hands are delicate but clumsy. A small bird chirps encouragingly from a nearby branch. Soft, dappled light."
+      },
+      "ar": {
+        "text": "كانت الأميرة أورا تحبّ اللعب في حديقة القصر، لكنها كانت غالباً ما تسقط ألعابها أو لا تستطيع تركيبها. كانت تتمنى لو كانت أذكى، لو كانت تستطيع فهم العالم من حولها بسهولة أكبر، ولكنها كانت دائماً تشعر بأنها تفتقد شيئاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Princess Aura loved playing in the palace gardens, but she often dropped her toys or couldn't figure out how they worked. She wished she were cleverer, able to understand the world around her more easily, always feeling that something was missing.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Prince Ricky stumbles upon a hidden clearing in the forest where Princess Aura is sitting by a stream, looking a bit sad. He approaches her, his tuft of hair catching the light. The forest around them is lush and green."
+      },
+      "ar": {
+        "text": "في أحد الأيام، بينما كان ريكي يتجول في الغابة، وصل إلى فسحةٍ جميلةٍ حيث كانت تجلس الأميرة أورا تبكي بهدوء. لم يعرفها ريكي، لكنه رأى حزنها، فاقترب منها بلطفٍ وسأل: «لماذا تبكين يا جميلة؟»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "One day, as Ricky wandered through the woods, he came upon a lovely clearing where Princess Aura sat, quietly weeping. Ricky didn't know her, but he saw her sadness and approached gently. \"Why do you cry, fair maiden?\" he asked.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Princess Aura looks up at Prince Ricky with surprise and a hint of shyness. She points to a complex knot in a flower stem that she cannot untie. Ricky smiles kindly, his tuft of hair visible. Warm forest light."
+      },
+      "ar": {
+        "text": "رفعت الأميرة رأسها وقالت بصوتٍ مرتعش: «لقد عقَدتُ خيطاً في زهرةٍ، ولا أستطيع فكّه. أنا غبيةٌ جداً، ولا أستطيع فعل أي شيءٍ صحيح.» نظر ريكي إلى العقدة، ثم ابتسم وقال: «هذا ليس صعباً.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess looked up, her voice trembling. \"I tied a knot in this flower stem, and I cannot undo it. I am so foolish; I can't do anything right.\" Ricky looked at the knot, then smiled. \"That is not so difficult,\" he said.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Prince Ricky deftly unties the knot in the flower stem with a few quick movements of his fingers. Princess Aura watches with wide, amazed eyes. Ricky's tuft of hair bobs as he concentrates. Soft, gentle focus."
+      },
+      "ar": {
+        "text": "بأصابعه الخفيفة، فكّ ريكي العقدة المعقدة في لحظات. قالت أورا بدهشة: «يا لك من ذكي! أنت تفهم الأشياء بسرعة! أنا أتمنى لو كنت مثلك. أنا حقاً أفتقد الذكاء.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "With his nimble fingers, Ricky untied the tricky knot in mere moments. Aura gasped, \"Oh, how clever you are! You understand things so quickly! I wish I were like you. I truly miss being smart.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Ricky looks thoughtful, touching his distinctive tuft of hair. He explains to Aura that he feels he lacks something too, something beyond just looks. Aura listens intently, her expression softening. Forest clearing setting."
+      },
+      "ar": {
+        "text": "شعر ريكي بالأسف على الأميرة. قال لها: «أنا أيضاً أفتقد شيئاً. الجميع يقولون إنني لست وسيماً كفاية، وإن شعري الغريب لا يناسب أميراً. أتمنى لو كنت جميلاً.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Ricky felt a pang of sympathy for the princess. \"I too miss something,\" he told her. \"Everyone says I'm not handsome enough, and that my funny hair isn't fit for a prince. I wish I were beautiful.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Princess Aura looks closely at Ricky's tuft of hair, then at his kind eyes. She smiles genuinely. \"But your hair is unique and charming!\" she exclaims. Ricky looks surprised and pleased. Gentle sunlight through leaves."
+      },
+      "ar": {
+        "text": "نظرت أورا إلى ريكي، ورأت لطفه وذكاءه. ثم نظرت إلى شعره المميز وقالت: «لكن عرفك هذا جميل وفريد! إنه يجعلك مميزاً. أنا أظن أنك أميرٌ رائع كما أنت!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Aura looked at Ricky, seeing his kindness and intelligence. Then she gazed at his distinctive hair and exclaimed, \"But this tuft of yours is wonderful and unique! It makes you special. I think you are a marvelous prince just as you are!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Ricky and Aura are now smiling at each other, sitting together by the stream. They have exchanged their 'missing' gifts: Ricky has gained confidence in his uniqueness, and Aura has found clarity and a friend. Golden hour lighting."
+      },
+      "ar": {
+        "text": "شعر ريكي بالسعادة. لأول مرة، لم يشعر بأن عرفه عيب، بل علامة مميزة. ابتسمت الأميرة أورا، وشعرت بأنها ليست غبية، بل لديها صديقٌ يراها على حقيقتها. لقد وجدا ما كانا يفتقدانه: الثقة والقبول.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Ricky felt a warmth spread through him. For the first time, his tuft didn't feel like a flaw but a unique mark. Princess Aura smiled, feeling she wasn't foolish, but had found a friend who saw her true self. They had found what they were missing: confidence and acceptance.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Ricky and Aura walk together through the forest, holding hands. Ricky points out interesting plants, and Aura asks thoughtful questions. They look happy and at ease with each other. A rabbit hops alongside them. Whimsical forest path."
+      },
+      "ar": {
+        "text": "منذ ذلك اليوم، أصبح ريكي وأورا صديقين حميمين. كان ريكي يعلّم أورا عن العالم، وكانت أورا تذكّر ريكي دائماً بجمال قلبه وتميزه. لقد أدركا أن الجمال الحقيقي ليس في المظهر، بل في لطف القلب والذكاء.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "From that day on, Ricky and Aura became the dearest of friends. Ricky taught Aura about the world, and Aura reminded Ricky of his kind heart and unique spirit. They realized true beauty wasn't just in looks, but in a gentle heart and a bright mind.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Ricky and Aura return to the edge of the forest, looking back at the trees. Ricky's tuft of hair is prominent, and Aura's smile is radiant. They seem content and complete. Soft, happy ending light."
+      },
+      "ar": {
+        "text": "وتعلّم الجميع في مملكتهم أن الجمال يأتي بأشكالٍ عديدة، وأن أهم شيء هو أن تكون لطيفاً وذكيّاً، وأن تحبّ نفسك كما أنت، بعرفك المميز أو بقلبك الطيب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And everyone in their kingdom learned that beauty comes in many forms, and the most important thing is to be kind, to be clever, and to love yourself just as you are, with your special tuft or your kind heart.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

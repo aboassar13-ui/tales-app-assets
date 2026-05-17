@@ -1,0 +1,109 @@
+{
+  "id": "milkmaid_and_pail",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "charming watercolor illustration, soft earthy palette, gentle storybook mood, cheerful characters, rural village setting, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young milkmaid with a bright smile walks along a country path, balancing a full pail of milk on her head. Sunlight filters through green trees, and a few happy butterflies flutter around her. Warm, inviting illustration."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الفلاحة ودلو الحليب",
+      "subtitle": "حكاية الحلم المتبخر",
+      "tagline": "حلمٌ جميل، وخطأٌ صغير، ودرسٌ كبير"
+    },
+    "en": {
+      "title": "The Milkmaid and Her Pail",
+      "subtitle": "The Tale of the Spilled Dream",
+      "tagline": "A sweet dream, a little stumble, and a big lesson"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A young milkmaid with rosy cheeks and a simple dress walks along a dirt path in a sunny countryside. She balances a large pail of white milk on her head with practiced ease. Green fields and a few wildflowers surround her. Soft watercolor style."
+      },
+      "ar": {
+        "text": "كانت هناك فلاحةٌ شابة تعيش في قريةٍ صغيرة. في صباحٍ مشمس، ملأت دلواً بالحليب الأبيض الطازج، ووضعته على رأسها لتأخذه إلى السوق. ابتسمت وهي تسير، فقد كان يوماً جميلاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Once upon a time, in a cozy little village, lived a cheerful milkmaid. One sunny morning, she filled a pail with fresh, white milk and carefully balanced it on her head to take it to the market. She smiled as she walked, for it was a lovely day.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Close-up on the milkmaid's face as she daydreams. Her eyes are closed, and a gentle smile plays on her lips. The pail of milk is still balanced on her head, but the background is a soft blur of imagined riches. Warm, soft light."
+      },
+      "ar": {
+        "text": "وبينما كانت تسير، بدأت تفكّر بما ستفعله بالمال الذي ستحصل عليه من بيع الحليب. قالت لنفسها: \"سأشتري بيضاً كثيراً، ثم أفقس البيض لأحصل على دجاجاتٍ صغيرة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As she ambled along the path, her mind began to wander to the money she would earn from the milk. \"I know!\" she thought happily. \"I will buy a dozen fine eggs, and then hatch them to get little chicks.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The milkmaid is now imagining chickens pecking at grain in a small yard. She sees herself wearing a pretty new dress, holding a basket of eggs. The scene is bright and cheerful, with a slightly hazy, dreamlike quality."
+      },
+      "ar": {
+        "text": "ستكبر الدجاجات وتصبح دجاجاتٍ كبيرة، وأبيعها لأشتري ثوباً جديداً جميلاً! وعندما أرتدي الثوب، سأهز رأسي بفخر، وأقول للجميع: انظروا كم أنا سعيدة وغنية!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Those chicks will grow into plump hens, and I will sell them for a beautiful new dress! And when I wear that lovely dress, I'll toss my head with pride and say, 'Look how happy and wealthy I am!'",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The milkmaid, lost in her daydream, tosses her head back with an imagined flourish. The pail of milk on her head tilts precariously. Her eyes are still closed, and she has a look of pure, happy anticipation on her face. Sunny rural path."
+      },
+      "ar": {
+        "text": "وفي لحظة حماس، هزّت الفلاحة رأسها بقوة لتتخيّل نفسها وهي ترتدي الثوب الجديد. لكنها نسيت الدلو الثقيل الذي على رأسها!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In her excitement, the milkmaid tossed her head back, picturing her grand new gown. But oh, she quite forgot the heavy pail balanced up high!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The pail of milk has tipped over, and white milk is splashing onto the dirt path and the milkmaid's simple dress. Her eyes are wide open now in shock and dismay. Butterflies flutter nearby, unaffected. Soft, diffused light."
+      },
+      "ar": {
+        "text": "انقلب الدلو! وسقط الحليب الأبيض على الأرض وعلى ملابسها. نظرت الفلاحة حولها، ورأت كل أحلامها تتبخر مع الحليب المسكوب. شعرت بالحزن، ولكنها تعلمت درساً مهماً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Down tumbled the pail! White milk splashed onto the path and her simple dress. The milkmaid looked around, all her lovely plans now spilled on the ground. She felt a little sad, but she had learned a valuable lesson.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A wise old owl perched on a tree branch looks down kindly at the milkmaid, who is now looking up at the owl with a thoughtful expression. The spilled milk is visible on the path. Gentle morning light."
+      },
+      "ar": {
+        "text": "قالت لنفسها: \"لن أحلم كثيراً بما سيحدث غداً قبل أن أفعله اليوم. يجب أن أكون واقعية وأعمل بجد.\" ثم مسحت دموعها وبدأت تجمع ما تبقى من حليب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "She told herself, \"I won't dream so much about tomorrow before today is done. I must be practical and work hard.\" Then she wiped her eyes and began to gather what little milk remained.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

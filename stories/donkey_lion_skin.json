@@ -1,0 +1,151 @@
+{
+  "id": "donkey_lion_skin",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "gentle cartoon children's book illustration, earthy color palette, sunny meadow setting, friendly animal characters, lighthearted storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A fluffy brown donkey peeking out from behind a large, discarded lion skin, with a mischievous grin on its face. A group of startled rabbits and squirrels scatter in the background. Bright, sunny meadow."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الحمار والأسد",
+      "subtitle": "قصة الحمار الذي تنكر في جلد أسد",
+      "tagline": "مظهرٌ خادع وصوتٌ يكشف الحقيقة"
+    },
+    "en": {
+      "title": "The Donkey in the Lion's Skin",
+      "subtitle": "The Tale of the Donkey Who Dressed as a Lion",
+      "tagline": "A disguise that fooled the eyes, but not the ears"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A fluffy brown donkey happily munching grass in a bright, sunny meadow filled with wildflowers. A large, discarded lion skin lies nearby under a tree. Warm, cheerful atmosphere."
+      },
+      "ar": {
+        "text": "في يومٍ مشمس، كان هناك حمارٌ لطيف يعيش في مزرعةٍ جميلة. كان يحبّ أن يأكل العشب الأخضر ويلعب في الحقول الواسعة. في أحد الأيام، وجد شيئاً غريباً ملقىً تحت شجرةٍ كبيرة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "One sunny day, a gentle donkey lived on a lovely farm. He loved to munch on sweet green grass and play in the wide-open fields. One afternoon, he discovered something strange lying forgotten beneath a big, shady tree.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The donkey curiously sniffing a large, dusty lion skin. Its eyes are wide with wonder and a hint of mischief. The meadow is quiet around him. Soft, dappled sunlight."
+      },
+      "ar": {
+        "text": "لقد كان جلد أسدٍ قديم! فكّر الحمار بفكرةٍ ماكرة. \"ماذا لو ارتديتُ هذا الجلد؟\" تساءل. \"ربما سيخاف الجميع منّي!\"",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "It was an old lion's skin! The donkey's mind sparked with a playful idea. \"What if I put this on?\" he wondered aloud. \"Maybe all the other animals will be afraid of me!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The donkey struggling to put on the lion skin, looking a bit clumsy. He finally manages to drape it over himself, with the mane around his head. He stands up, trying to look fierce."
+      },
+      "ar": {
+        "text": "بذل الحمار جهداً كبيراً ليرتدي الجلد الثقيل. عندما نجح أخيراً، وقف أمام المرآة المائية الصغيرة في البركة. بدا وكأنه أسدٌ ضخم! شعر بالحماس والفخر.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The donkey struggled and wiggled until the heavy skin was draped all over him. He stood up, looking into a small puddle that acted like a mirror. He looked just like a mighty lion! He felt so excited and proud.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The donkey, wearing the lion skin, walks proudly out of the trees into a meadow where rabbits, squirrels, and birds are playing. They freeze in terror, eyes wide, as they see the 'lion'."
+      },
+      "ar": {
+        "text": "خرج الحمار ليمشي بين الحيوانات الأخرى. رأته الأرانب، والسناجب، والغزلان، فتجمّدت في أماكنها خوفاً. ركضت كل المخلوقات الصغيرة بعيداً بأقصى سرعة، وهي تصرخ: \"أسد! أسد!\"",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The donkey strutted out to meet the other animals. Rabbits, squirrels, and deer saw him and froze in their tracks, their eyes wide with fright. All the little creatures scampered away as fast as they could, shouting, \"A lion! A lion!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The donkey standing alone in the meadow, the lion skin still on. He looks around at the empty space where the other animals were, a slightly smug expression on his face. The sun shines brightly."
+      },
+      "ar": {
+        "text": "ضحك الحمار في سرّه. \"لقد نجحت خطتي!\" قال لنفسه. \"أنا الآن أقوى حيوان في الغابة.\" استمتع بالشعور الجديد بالقوة والخوف الذي يثيره في الآخرين.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The donkey chuckled to himself. \"My clever plan worked!\" he thought. \"I am the most powerful creature here!\" He enjoyed the feeling of being feared and respected by everyone else.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A farmer leading a group of sheep into the meadow. The donkey, in the lion skin, stands tall, trying to look imposing. The sheep stop dead in their tracks, bleating nervously, unsure what to do."
+      },
+      "ar": {
+        "text": "بعد ذلك، رأى الحمار قطيعاً من الأغنام يقترب. قرّر أن يخيفهم أيضاً. وقف أمامهم بثبات، رافعاً رأسه المتخفّي خلف جلد الأسد، وانتظر رؤيتهم يفرّون مذعورين.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Next, the donkey saw a flock of sheep approaching the meadow. He decided to try and scare them too. He stood very still, holding his head high within the lion's mane, waiting to see them run away in a panic.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The donkey, still in the lion skin, opens his mouth to let out a loud, unmistakable donkey bray. The sheep look utterly confused, then relieved. The farmer behind them is smiling, understanding the trick."
+      },
+      "ar": {
+        "text": "لكن عندما فتح الحمار فمه ليطلق زئيراً قوياً، خرج منه صوتٌ مختلف تماماً! \"هييي هاا! هييي هاا!\" سمعت الأغنام الصوت، فبدأت ترعى بهدوء. لم يكن أسداً على الإطلاق!",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "But when the donkey opened his mouth to let out a mighty roar, a very different sound came out! \"Hee-haw! Hee-haw!\" The sheep heard the familiar sound and went back to their grazing, quite unbothered. He wasn't a lion at all!",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The donkey, embarrassed, pulls off the lion skin. He stands there as just a donkey, looking sheepish. The farmer chuckles, and the sheep seem to ignore him now. A few birds chirp nearby."
+      },
+      "ar": {
+        "text": "شعر الحمار بالإحراج الشديد. خلع جلد الأسد بسرعة. عرف الجميع الآن أنه مجرد حمارٍ صغير. تعلم درساً مهماً: لا يمكنك خداع الناس إلى الأبد بمظهرك فقط.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The donkey felt very embarrassed. He quickly took off the lion's skin. Now everyone knew he was just a little donkey. He learned an important lesson: you can't fool everyone forever just by how you look.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The donkey is back to happily munching grass with the sheep. The lion skin is discarded again under the tree. The sun is setting, casting a warm, golden light over the peaceful meadow. Friendly atmosphere."
+      },
+      "ar": {
+        "text": "عاد الحمار ليكون صديقاً لطيفاً، يشارك الأغنام طعامها. أدرك أن الصدق واللطف أفضل بكثير من التظاهر بشيءٍ لستَ عليه. ومنذ ذلك اليوم، لم يحاول خداع أحد مرة أخرى.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The donkey went back to being a friendly fellow, sharing the meadow with the sheep. He realized that being honest and kind was much better than pretending to be something he wasn't. From that day on, he never tried to trick anyone again.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

@@ -73,6 +73,24 @@
       "duration_minutes": 5
     },
     {
+      "id": "shater_hassan",
+      "category": "arabic_classic",
+      "order": 6,
+      "ar_title": "شاطر حسن",
+      "en_title": "Clever Hassan",
+      "scenes": 15,
+      "duration_minutes": 12
+    },
+    {
+      "id": "kalila_lion_and_bull",
+      "category": "arabic_classic",
+      "order": 7,
+      "ar_title": "الأسد والثور",
+      "en_title": "The Lion and the Ox",
+      "scenes": 20,
+      "duration_minutes": 10
+    },
+    {
       "id": "red_riding_hood",
       "category": "fairy_tale",
       "order": 10,
@@ -226,6 +244,15 @@
       "duration_minutes": 7
     },
     {
+      "id": "little_mermaid",
+      "category": "fairy_tale",
+      "order": 26,
+      "ar_title": "الحورية الصغيرة",
+      "en_title": "The Little Mermaid",
+      "scenes": 14,
+      "duration_minutes": 10
+    },
+    {
       "id": "three_billy_goats_gruff",
       "category": "fairy_tale",
       "order": 26,
@@ -240,6 +267,15 @@
       "order": 27,
       "ar_title": "الجميلة والوحش",
       "en_title": "Beauty and the Beast",
+      "scenes": 15,
+      "duration_minutes": 10
+    },
+    {
+      "id": "pied_piper",
+      "category": "fairy_tale",
+      "order": 28,
+      "ar_title": "عازف الناي المسحور",
+      "en_title": "The Pied Piper of Hamelin",
       "scenes": 15,
       "duration_minutes": 10
     },
@@ -361,6 +397,15 @@
       "duration_minutes": 4
     },
     {
+      "id": "wolf_in_sheep_clothing",
+      "category": "fable",
+      "order": 49,
+      "ar_title": "الذئب في ثوب الخروف",
+      "en_title": "The Wolf in Sheep's Clothing",
+      "scenes": 12,
+      "duration_minutes": 8
+    },
+    {
       "id": "golden_goose",
       "category": "fable",
       "order": 50,
@@ -406,31 +451,49 @@
       "duration_minutes": 9
     },
     {
-      "id": "lions",
-      "category": "nonfiction",
-      "order": 81,
-      "ar_title": "عجائب الأسود",
-      "en_title": "Amazing Lions",
-      "scenes": 9,
-      "duration_minutes": 5
+      "id": "peter_pan",
+      "category": "adventure",
+      "order": 61,
+      "ar_title": "بيتر بان",
+      "en_title": "Peter Pan",
+      "scenes": 15,
+      "duration_minutes": 9
     },
     {
-      "id": "dinosaurs",
-      "category": "nonfiction",
-      "order": 82,
-      "ar_title": "عالم الديناصورات",
-      "en_title": "The World of Dinosaurs",
-      "scenes": 10,
-      "duration_minutes": 6
+      "id": "wizard_of_oz",
+      "category": "adventure",
+      "order": 62,
+      "ar_title": "ساحر أوز",
+      "en_title": "The Wizard of Oz",
+      "scenes": 15,
+      "duration_minutes": 9
     },
     {
-      "id": "space_planets",
-      "category": "nonfiction",
-      "order": 83,
-      "ar_title": "رحلة في الفضاء",
-      "en_title": "A Journey Through Space",
-      "scenes": 9,
-      "duration_minutes": 6
+      "id": "alice_wonderland",
+      "category": "adventure",
+      "order": 63,
+      "ar_title": "أليس في بلاد العجائب",
+      "en_title": "Alice in Wonderland",
+      "scenes": 15,
+      "duration_minutes": 8
+    },
+    {
+      "id": "jungle_book_mowgli",
+      "category": "adventure",
+      "order": 64,
+      "ar_title": "ماوكلي، فتى الأدغال",
+      "en_title": "Mowgli, the Jungle Boy",
+      "scenes": 15,
+      "duration_minutes": 12
+    },
+    {
+      "id": "robin_hood",
+      "category": "adventure",
+      "order": 65,
+      "ar_title": "روبن هود والغابة",
+      "en_title": "Robin Hood and the Forest",
+      "scenes": 15,
+      "duration_minutes": 10
     },
     {
       "id": "elephants",
@@ -440,6 +503,330 @@
       "en_title": "Amazing Elephants",
       "scenes": 8,
       "duration_minutes": 5
+    },
+    {
+      "id": "lions",
+      "category": "nonfiction",
+      "order": 81,
+      "ar_title": "عجائب الأسود",
+      "en_title": "Amazing Lions",
+      "scenes": 9,
+      "duration_minutes": 5
+    },
+    {
+      "id": "giraffes",
+      "category": "nonfiction",
+      "order": 82,
+      "ar_title": "عجائب الزرافات",
+      "en_title": "Amazing Giraffes",
+      "scenes": 10,
+      "duration_minutes": 5
+    },
+    {
+      "id": "dolphins",
+      "category": "nonfiction",
+      "order": 83,
+      "ar_title": "عجائب الدلافين",
+      "en_title": "Amazing Dolphins",
+      "scenes": 10,
+      "duration_minutes": 5
+    },
+    {
+      "id": "space_planets",
+      "category": "nonfiction",
+      "order": 84,
+      "ar_title": "رحلة في الفضاء",
+      "en_title": "A Journey Through Space",
+      "scenes": 9,
+      "duration_minutes": 6
+    },
+    {
+      "id": "ancient_egypt",
+      "category": "nonfiction",
+      "order": 85,
+      "ar_title": "عجائب مصر القديمة",
+      "en_title": "Wonders of Ancient Egypt",
+      "scenes": 14,
+      "duration_minutes": 14
+    },
+    {
+      "id": "how_plants_grow",
+      "category": "nonfiction",
+      "order": 86,
+      "ar_title": "كيف تنمو النباتات",
+      "en_title": "How Plants Grow",
+      "scenes": 10,
+      "duration_minutes": 7
+    },
+    {
+      "id": "how_rain_falls",
+      "category": "nonfiction",
+      "order": 87,
+      "ar_title": "كيف يسقط المطر",
+      "en_title": "How Rain Falls",
+      "scenes": 12,
+      "duration_minutes": 10
+    },
+    {
+      "id": "dinosaurs",
+      "category": "nonfiction",
+      "order": 88,
+      "ar_title": "عالم الديناصورات",
+      "en_title": "The World of Dinosaurs",
+      "scenes": 10,
+      "duration_minutes": 6
+    },
+    {
+      "id": "blue_bird_daulnoy",
+      "category": "fairy_tale",
+      "order": 89,
+      "ar_title": "الطائر الأزرق",
+      "en_title": "The Blue Bird",
+      "scenes": 14,
+      "duration_minutes": 10
+    },
+    {
+      "id": "brave_little_tailor",
+      "category": "fairy_tale",
+      "order": 90,
+      "ar_title": "الخيّاط الصغير الشجاع",
+      "en_title": "The Brave Little Tailor",
+      "scenes": 15,
+      "duration_minutes": 10
+    },
+    {
+      "id": "donkey_lion_skin",
+      "category": "fable",
+      "order": 91,
+      "ar_title": "الحمار والأسد",
+      "en_title": "The Donkey in the Lion's Skin",
+      "scenes": 9,
+      "duration_minutes": 5
+    },
+    {
+      "id": "donkey_skin",
+      "category": "fairy_tale",
+      "order": 92,
+      "ar_title": "جلد الحمار",
+      "en_title": "Donkey-Skin",
+      "scenes": 20,
+      "duration_minutes": 12
+    },
+    {
+      "id": "elves_and_shoemaker",
+      "category": "fairy_tale",
+      "order": 93,
+      "ar_title": "الأقزام وصانع الأحذية",
+      "en_title": "The Elves and the Shoemaker",
+      "scenes": 15,
+      "duration_minutes": 10
+    },
+    {
+      "id": "fairies_perrault",
+      "category": "fairy_tale",
+      "order": 94,
+      "ar_title": "الجنيات",
+      "en_title": "The Fairies",
+      "scenes": 8,
+      "duration_minutes": 8
+    },
+    {
+      "id": "fir_tree",
+      "category": "fairy_tale",
+      "order": 95,
+      "ar_title": "شجرة التنوب",
+      "en_title": "The Fir Tree",
+      "scenes": 12,
+      "duration_minutes": 8
+    },
+    {
+      "id": "golden_key_grimm",
+      "category": "fairy_tale",
+      "order": 96,
+      "ar_title": "المفتاح الذهبي",
+      "en_title": "The Golden Key",
+      "scenes": 11,
+      "duration_minutes": 9
+    },
+    {
+      "id": "good_little_mouse",
+      "category": "fairy_tale",
+      "order": 97,
+      "ar_title": "الفأرة الصغيرة الطيبة",
+      "en_title": "The Good Little Mouse",
+      "scenes": 8,
+      "duration_minutes": 8
+    },
+    {
+      "id": "hans_in_luck",
+      "category": "fairy_tale",
+      "order": 98,
+      "ar_title": "هانس المحظوظ",
+      "en_title": "Hans in Luck",
+      "scenes": 16,
+      "duration_minutes": 9
+    },
+    {
+      "id": "hop_o_my_thumb",
+      "category": "fairy_tale",
+      "order": 99,
+      "ar_title": "هوب صغير الإبهام",
+      "en_title": "Hop-o'-My-Thumb",
+      "scenes": 8,
+      "duration_minutes": 8
+    },
+    {
+      "id": "milkmaid_and_pail",
+      "category": "fable",
+      "order": 100,
+      "ar_title": "الفلاحة ودلو الحليب",
+      "en_title": "The Milkmaid and Her Pail",
+      "scenes": 6,
+      "duration_minutes": 5
+    },
+    {
+      "id": "mother_holle",
+      "category": "fairy_tale",
+      "order": 101,
+      "ar_title": "الأم هولّا",
+      "en_title": "Mother Holle",
+      "scenes": 21,
+      "duration_minutes": 10
+    },
+    {
+      "id": "nightingale",
+      "category": "fairy_tale",
+      "order": 102,
+      "ar_title": "العندليب",
+      "en_title": "The Nightingale",
+      "scenes": 12,
+      "duration_minutes": 10
+    },
+    {
+      "id": "oak_and_reed",
+      "category": "fable",
+      "order": 103,
+      "ar_title": "البلوطة والقصبة",
+      "en_title": "The Oak and the Reed",
+      "scenes": 8,
+      "duration_minutes": 5
+    },
+    {
+      "id": "ricky_of_the_tuft",
+      "category": "fairy_tale",
+      "order": 104,
+      "ar_title": "ريكي ذو العرف",
+      "en_title": "Ricky of the Tuft",
+      "scenes": 12,
+      "duration_minutes": 10
+    },
+    {
+      "id": "ridiculous_wishes",
+      "category": "fable",
+      "order": 105,
+      "ar_title": "الأمنيات السخيفة",
+      "en_title": "The Ridiculous Wishes",
+      "scenes": 8,
+      "duration_minutes": 5
+    },
+    {
+      "id": "six_swans",
+      "category": "fairy_tale",
+      "order": 106,
+      "ar_title": "الإوزات الست",
+      "en_title": "The Six Swans",
+      "scenes": 18,
+      "duration_minutes": 10
+    },
+    {
+      "id": "snow_queen",
+      "category": "fairy_tale",
+      "order": 107,
+      "ar_title": "ملكة الثلج",
+      "en_title": "The Snow Queen",
+      "scenes": 14,
+      "duration_minutes": 12
+    },
+    {
+      "id": "snow_white_rose_red",
+      "category": "fairy_tale",
+      "order": 108,
+      "ar_title": "بياض الثلج ووردة حمراء",
+      "en_title": "Snow-White and Rose-Red",
+      "scenes": 15,
+      "duration_minutes": 12
+    },
+    {
+      "id": "thumbeline_ag",
+      "category": "fairy_tale",
+      "order": 109,
+      "ar_title": "توملينا",
+      "en_title": "Thumbelina",
+      "scenes": 8,
+      "duration_minutes": 8
+    },
+    {
+      "id": "tin_soldier",
+      "category": "fairy_tale",
+      "order": 110,
+      "ar_title": "الجندي الصفيح الثابت",
+      "en_title": "The Steadfast Tin Soldier",
+      "scenes": 8,
+      "duration_minutes": 7
+    },
+    {
+      "id": "town_mouse_country_mouse_v2",
+      "category": "fable",
+      "order": 111,
+      "ar_title": "الأسد والخنزير البري",
+      "en_title": "The Lion and the Boar",
+      "scenes": 7,
+      "duration_minutes": 7
+    },
+    {
+      "id": "twelve_dancing_princesses",
+      "category": "fairy_tale",
+      "order": 112,
+      "ar_title": "الأميرات الاثنتا عشرة الراقصات",
+      "en_title": "The Twelve Dancing Princesses",
+      "scenes": 15,
+      "duration_minutes": 13
+    },
+    {
+      "id": "two_pots",
+      "category": "fable",
+      "order": 113,
+      "ar_title": "الوعاءان",
+      "en_title": "The Two Pots",
+      "scenes": 5,
+      "duration_minutes": 5
+    },
+    {
+      "id": "white_cat_daulnoy",
+      "category": "fairy_tale",
+      "order": 114,
+      "ar_title": "القطة البيضاء",
+      "en_title": "The White Cat",
+      "scenes": 14,
+      "duration_minutes": 10
+    },
+    {
+      "id": "wild_swans",
+      "category": "fairy_tale",
+      "order": 115,
+      "ar_title": "البجع البري",
+      "en_title": "The Wild Swans",
+      "scenes": 14,
+      "duration_minutes": 10
+    },
+    {
+      "id": "yellow_dwarf",
+      "category": "fairy_tale",
+      "order": 116,
+      "ar_title": "القزم الأصفر",
+      "en_title": "The Yellow Dwarf",
+      "scenes": 12,
+      "duration_minutes": 8
     }
   ]
 }

@@ -1,0 +1,137 @@
+{
+  "id": "hop_o_my_thumb",
+  "category": "fairy_tale",
+  "source": "Charles Perrault (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "vibrant gouache children's book illustration, earthy color palette, whimsical fairy-tale setting, expressive cartoony characters, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tiny boy wearing a large, floppy hat and oversized boots stands triumphantly on a pile of small, shiny seven-league boots. He has a mischievous grin. His seven older brothers huddle behind him, looking relieved. A friendly, slightly bewildered ogre watches from a distance."
+  },
+  "i18n": {
+    "ar": {
+      "title": "هوب صغير الإبهام",
+      "subtitle": "حكاية الصبي الذكي والأحذية السبعة",
+      "tagline": "الصغير الأذكى، ينقذ إخوته السبعة!"
+    },
+    "en": {
+      "title": "Hop-o'-My-Thumb",
+      "subtitle": "The Tale of the Cleverest Boy and Seven-League Boots",
+      "tagline": "The littlest and smartest, saved his seven brothers!"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A woodcutter and his wife look worriedly at their seven sons, who are all playing together. The smallest boy, Hop, is examining a pebble. The cottage is small and rustic, with a forest visible through the window."
+      },
+      "ar": {
+        "text": "في كوخٍ صغيرٍ بجوار غابةٍ كثيفة، عاشت عائلةٌ فقيرة لديها سبعة أولاد. كان الابن الأصغر، هوب، صغيراً جداً لدرجة أنه لم يكن أكبر من إبهام، لكنه كان الأذكى بينهم جميعاً. في يومٍ من الأيام، لم يعد لدى الأب والأم ما يكفي لإطعام أولادهم.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "In a tiny cottage beside a deep, dark wood, lived a poor woodcutter and his wife with their seven sons. The youngest boy, Hop, was no bigger than a thumb, but he was the cleverest of them all. One day, the parents had no food left to feed their children.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The parents sadly lead their seven sons into a dark forest. The sons look confused and scared. Hop, the smallest, looks determined and drops a trail of small white pebbles behind him as they walk."
+      },
+      "ar": {
+        "text": "قرر الأب والأم أن يأخذوا الأولاد السبعة إلى الغابة ويتركوهم هناك. شعر هوب بالخوف على إخوته، فبدأ يترك خلفه حصواتٍ بيضاء صغيرة ليعرفوا طريق العودة. مشوا بعيداً جداً حتى لم يعد الكوخ مرئياً.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The parents decided to lead the seven sons into the forest and leave them there. Hop worried for his brothers, so he began dropping tiny white pebbles behind them, marking a path. They walked so far that the cottage disappeared from view.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The seven brothers are lost in a dark, spooky forest at night. They huddle together, looking frightened. Hop points towards a faint light in the distance, his face determined."
+      },
+      "ar": {
+        "text": "عندما حلّ الظلام، أدرك الأولاد أنهم تاهوا. لم يستطع هوب رؤية الحصوات في الظلام. شعر الإخوة بالجوع والخوف. فجأة، رأى هوب ضوءاً خافتاً في نهاية الطريق. قال: «تعالوا، ربما نجد المساعدة هناك!»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "When darkness fell, the brothers realized they were lost. Hop couldn't see his pebbles in the night. The brothers shivered with hunger and fear. Suddenly, Hop spotted a faint light far ahead. \"Come this way,\" he chirped, \"Perhaps we can find help!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The brothers approach a large, slightly dilapidated castle. A huge, grumpy-looking ogre with a very large mouth and small eyes opens the heavy wooden door. Hop stands bravely at the front, his brothers hiding behind him."
+      },
+      "ar": {
+        "text": "قاد هوب إخوته نحو الضوء، فوجدوا قلعةً كبيرة. طرقوا الباب بخوف، ففتحه لهم عملاقٌ ضخمٌ بوجهٍ مخيف. قال العملاق بصوتٍ أجش: «من تزعج نومي؟» قال هوب بشجاعة: «نحن أولادٌ تائهون يا سيدي.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Hop led his brothers toward the light, and they found a huge castle. Trembling, they knocked. A giant ogre with a booming voice opened the door. \"Who disturbs my slumber?\" he grumbled. Hop bravely stepped forward, \"We are lost children, sir.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Inside the ogre's castle, the ogre and his wife are serving a large meal to the seven brothers. The ogre looks hungry and keeps glancing at the boys. Hop is whispering to his brothers, looking observant."
+      },
+      "ar": {
+        "text": "دعانا العملاق وزوجته لتناول العشاء، لكن هوب شكّ في نواياهم. لاحظ أن العملاق وزوجته يأكلون كثيراً، بينما يعطون الأولاد طعاماً قليلاً. قال هوب لإخوته: «لا تثقوا بهم، هم يريدون أكلنا!»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The ogre and his wife invited them in for supper, but Hop was suspicious. He noticed the ogre and his wife ate huge portions, while the boys got very little. \"Don't trust them,\" Hop whispered to his brothers, \"I think they want to eat us!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The seven brothers are asleep in large, ornate beds in the ogre's castle. Hop is awake, carefully taking off the ogre's seven-league boots. The ogre and his wife are asleep in another room, snoring loudly."
+      },
+      "ar": {
+        "text": "عندما ذهب الجميع للنوم، تسلل هوب بهدوء إلى غرفة العملاق. رأى سبعة أحذيةٍ كبيرة جداً بجوار سرير العملاق. كانت هذه أحذيةً سحرية يمكنها أن تقطع مسافاتٍ طويلة في خطوة واحدة. أخذ هوب الأحذية وهرب بها.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "When everyone went to sleep, Hop tiptoed into the ogre's room. He saw seven enormous boots beside the ogre's bed. These were magic seven-league boots that could cross great distances in a single stride! Hop snatched the boots and quietly fled.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Hop, now wearing the comically oversized seven-league boots, is leading his brothers out of the castle and into the forest. He takes a giant stride, covering a long distance instantly. His brothers follow, amazed."
+      },
+      "ar": {
+        "text": "لبس هوب الأحذية السحرية، وكانت كبيرة جداً عليه، لكنه استطاع المشي بها. قاد إخوته السبعة خارج القلعة، وأخذ يخطو خطواتٍ عملاقة تعبر الغابة بسرعة. وصلوا إلى قريتهم قبل شروق الشمس.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Hop put on the magic boots. They were far too big, but he managed! He led his seven brothers out of the castle, taking giant strides that covered miles of forest in moments. They reached their village before the sun rose.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The seven brothers are back in their small cottage. Their parents are overjoyed to see them. Hop, still wearing the large boots, looks proud. The ogre is seen in the far distance, looking confused and searching for his boots."
+      },
+      "ar": {
+        "text": "فرح الأب والأم كثيراً بعودة أولادهم سالمين. أصبحوا يعيشون حياةً أفضل بفضل ذكاء هوب وشجاعته. أما العملاق، فقد بقي في قلعته يبحث عن أحذيته السحرية ولن يراها مرة أخرى.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The parents were overjoyed to have their sons back safe and sound. Life became much better thanks to Hop's cleverness and bravery. The ogre, meanwhile, stayed in his castle, forever searching for his missing magic boots.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

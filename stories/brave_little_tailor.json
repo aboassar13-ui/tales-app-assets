@@ -1,0 +1,235 @@
+{
+  "id": "brave_little_tailor",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "vibrant storybook illustration, rich earthy and forest palette, whimsical character designs, slightly exaggerated features, adventurous and cheerful mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A small, cheerful tailor with a clever twinkle in his eye, wearing a green tunic and a belt that reads 'Seven in one stroke!', stands proudly in a sunlit meadow. Behind him, a giant looks confused, and a wild boar looks surprised, all in a friendly, cartoonish style."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الخيّاط الصغير الشجاع",
+      "subtitle": "حكاية السبعة بضربة واحدة",
+      "tagline": "ذكاءٌ صغير، مغامراتٌ كبيرة، وبطولةٌ غير متوقعة"
+    },
+    "en": {
+      "title": "The Brave Little Tailor",
+      "subtitle": "The Tale of Seven in One Stroke",
+      "tagline": "Small wit, big adventures, and unexpected heroism"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A small, cheerful tailor with a kind smile, wearing a green tunic, sits cross-legged on a wooden table in his cozy workshop, stitching a garment. Sunlight streams through a small window. Spools of colorful thread and fabric scraps are around him."
+      },
+      "ar": {
+        "text": "في قريةٍ صغيرة، عاش خيّاطٌ لطيفٌ ومرح. كان يحبّ عمله، ويغني وهو يخيط الأقمشة الملوّنة. كان صغيراً في حجمه، لكن قلبه كان مليئاً بالفرح والنشاط.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In a small village, lived a cheerful and kind tailor. He loved his work, singing happily as he stitched colorful fabrics. He was small in stature, but his heart was full of joy and energy.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The tailor sits at his table, happily spreading sweet plum jam on a slice of bread. Seven cartoonish flies buzz around the jam, looking eager. The workshop is bright and cozy."
+      },
+      "ar": {
+        "text": "في صباحٍ مشمس، أراد الخيّاط أن يفطر. دهن مربى البرقوق الحلو على قطعة خبز طازجة. لكن سبع ذبابات مشاغبة طارت بسرعة نحو المربى، وحاولت أن تشاركه فطورَه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "One sunny morning, the tailor wanted to enjoy his breakfast. He spread sweet plum jam on a fresh slice of bread. But seven mischievous flies quickly buzzed towards the jam, trying to share his meal.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The tailor, with a determined but gentle expression, swings a soft cloth, swatting at the seven cartoonish flies around his jam. The flies are depicted as comically surprised but unharmed, just scattered away. The jam is still on the bread."
+      },
+      "ar": {
+        "text": "تضايق الخيّاط، فأخذ قطعة قماش ناعمة وضرب بها الذباب بضربةٍ واحدة. وعندما نظر، وجد أن كل الذبابات السبع قد ابتعدت عن المربى! صرخ بفخر: «سبعة بضربة واحدة!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Annoyed, the tailor took a soft cloth and swatted at the flies with a single stroke. When he looked, all seven flies had flown away from the jam! He exclaimed proudly, \"Seven in one stroke!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The tailor proudly stitches a wide, green fabric belt with shiny gold thread. The words 'Seven in one stroke!' are clearly visible on the belt. He has a joyful, confident expression."
+      },
+      "ar": {
+        "text": "قرر الخيّاط أن يصنع لنفسه حزاماً يذكّره بهذا العمل العظيم. خاط كلماتٍ كبيرة وذهبية على حزامٍ أخضر جميل: «سبعة بضربة واحدة!» شعر أنه أصبح بطلاً حقيقياً.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The tailor decided to make himself a belt to remember this great deed. He stitched big, golden words onto a handsome green belt: 'Seven in one stroke!' He felt like a true hero.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The tailor, wearing his new belt, bravely walks out of his village into a lush forest. He carries a small piece of cheese in his hand. Birds sing cheerfully around him, and the sun shines."
+      },
+      "ar": {
+        "text": "وضع الخيّاط حزامه الجديد، وقرر أن يخرج إلى العالم ليرى المغامرات. أخذ معه قطعة جبن صغيرة وخرج من القرية، متجهاً نحو الغابة الكبيرة، وقلبه يملؤه الفضول.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Wearing his new belt, the tailor decided to venture out into the world to find adventures. He took a small piece of cheese with him and left the village, heading towards the big forest, his heart full of curiosity.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The tailor stands confidently before a huge, friendly-looking but confused giant in a forest clearing. The giant scratches his head, looking at the tailor's belt with its bold inscription. The tailor points to his belt with a knowing smile."
+      },
+      "ar": {
+        "text": "في الغابة، التقى الخيّاط بعملاقٍ ضخم. رأى العملاق الحزام وضحك: «ماذا تفعل هنا أيها الصغير؟» أشار الخيّاط إلى حزامه وقال: «أنا قوي جداً. لقد قتلت سبعة بضربة واحدة!»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In the forest, the tailor met a huge giant. The giant saw the belt and chuckled, \"What are you doing here, little one?\" The tailor pointed to his belt and declared, \"I am very mighty! I killed seven in one stroke!\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The giant, still confused but impressed, tests the tailor's strength. The giant crushes a stone into powder. The tailor then cleverly squeezes the cheese he carries, making liquid ooze out, making it look like he crushed a stone too. The giant looks amazed."
+      },
+      "ar": {
+        "text": "أراد العملاق أن يختبر قوة الخيّاط. أمسك حجراً صلباً وسحقه بيده. ثم قال: «أرني قوتك!» فأخذ الخيّاط قطعة الجبن التي يحملها وعصرها، فنزل منها سائلٌ أصفر، ظنّ العملاق أنه عصر حجراً!",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The giant wanted to test the tailor's strength. He picked up a hard stone and crushed it in his hand. Then he said, \"Show me your strength!\" So the tailor took the piece of cheese he carried and squeezed it, and yellow liquid oozed out, making the giant think he had crushed a stone too!",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The tailor and the giant walk side-by-side. The giant carries a large tree trunk on his shoulder, struggling slightly. The tailor, with a mischievous grin, sits comfortably on a branch of the same tree trunk, enjoying the ride. Birds perch on the giant's shoulder."
+      },
+      "ar": {
+        "text": "أُعجب العملاق بذكاء الخيّاط، فدعاه ليساعده في حمل شجرةٍ كبيرة. حمل العملاق الجذع الضخم على كتفه، وتسلّق الخيّاط بذكاء وجلس على أحد الأغصان، فظنّ العملاق أن الخيّاط يساعده في الحمل!",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The giant was impressed by the tailor's cleverness and invited him to help carry a large tree. The giant hoisted the massive trunk onto his shoulder, and the tailor cleverly climbed and sat on one of the branches, making the giant think the tailor was helping with the load!",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Three giants sit around a campfire, looking suspicious. The tailor is hidden behind a bush, peeking out with a clever look. The giants are discussing the tailor, pointing towards the bush. The night is dark, but the campfire glows warmly."
+      },
+      "ar": {
+        "text": "وصل الخيّاط والعملاق إلى كهفٍ يعيش فيه عمالقة آخرون. في الليل، سمع الخيّاط العمالقة يتحدّثون عن خطّةٍ لإيذائه. فابتسم الخيّاط وخطّط لشيءٍ ما.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The tailor and the giant arrived at a cave where other giants lived. That night, the tailor overheard the giants discussing a plan to harm him. The tailor smiled to himself and began to plan something clever.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The tailor is shown sleeping soundly in a cozy bed, while a giant, with a comically frustrated expression, tries to hit him with a club. The club misses the tailor, hitting the bed instead. The tailor is undisturbed."
+      },
+      "ar": {
+        "text": "عندما جاء العمالقة ليعتدوا عليه، كان الخيّاط قد اختبأ في زاويةٍ آمنة في الكهف. ضرب العمالقة السرير الذي كان ينام عليه بشدة، لكن الخيّاط كان بعيداً وآمناً، وبدأ يضحك في سرّه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "When the giants came to attack him, the tailor had already hidden in a safe corner of the cave. The giants struck the bed where he had been sleeping with great force, but the tailor was far away and safe, and he chuckled to himself.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The tailor, looking confident and a bit mischievous, walks away from the cave with the giants looking utterly baffled and defeated behind him. Sunlight streams into the cave entrance."
+      },
+      "ar": {
+        "text": "في الصباح، خرج الخيّاط من مخبئه. عندما رآه العمالقة، ظنّوا أنه أقوى منهم بكثير لأنه نجا من ضرباتهم. خافوا منه وهربوا بعيداً في الغابة، تاركين الخيّاط وحده.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In the morning, the tailor emerged from his hiding spot. When the giants saw him, they thought he must be much stronger than them to have survived their blows. They grew afraid and ran far away into the forest, leaving the tailor alone.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The tailor, looking proud with his belt, enters a bustling royal court. A king and queen on their thrones look intrigued and slightly bewildered by the small tailor's grand entrance. Courtiers whisper amongst themselves."
+      },
+      "ar": {
+        "text": "واصل الخيّاط رحلته حتى وصل إلى مملكةٍ بعيدة. رأى الملك حزامه الذي يقول «سبعة بضربة واحدة!» فظنّ أنه محاربٌ عظيم. طلب الملك من الخيّاط أن يحميه من وحوش الغابة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The tailor continued his journey until he reached a distant kingdom. The King saw his belt that read 'Seven in one stroke!' and thought he was a great warrior. The King asked the tailor to protect his kingdom from the forest beasts.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The tailor, with a clever grin, hides behind a tree in a dense forest. Two wild boars are running towards a trap (a net hanging between trees). The tailor is about to pull a rope to spring the trap. A forest path is visible."
+      },
+      "ar": {
+        "text": "كان هناك خنـزيران برّيان يزعجان المملكة. لم يواجههما الخيّاط بالقوة، بل استخدم ذكاءه. اختبأ خلف شجرة، وانتظر حتى اقتربا من شبكةٍ كان قد أعدّها، ثم شدّ الحبل بذكاء، فأمسك بهما.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "There were two wild boars causing trouble in the kingdom. The tailor didn't face them with strength, but with his wits. He hid behind a tree and waited until they approached a net he had prepared, then cleverly pulled the rope, trapping them both.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The tailor, looking calm and confident, leads a unicorn (gentle, white, with a golden horn) through a forest path. The unicorn follows him willingly, not resisting. The tailor holds a golden rope gently. Sunlight filters through the trees."
+      },
+      "ar": {
+        "text": "ثم طلب الملك منه أن يمسك وحيد القرن. لم يكن وحيد القرن شريراً، لكنه كان صعب الإمساك. تتبّعه الخيّاط بهدوء، ثم أطعمه تفاحةً لذيذة، فتبعه وحيد القرن إلى القصر بهدوء تام.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Next, the King asked him to capture a unicorn. The unicorn wasn't mean, but it was hard to catch. The tailor followed it quietly, then offered it a delicious apple, and the unicorn followed him back to the palace quite calmly.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "The king and queen, looking delighted, present the tailor with a shiny medal in a grand throne room. The tailor, with his 'Seven in one stroke!' belt visible, bows humbly. Courtiers applaud happily."
+      },
+      "ar": {
+        "text": "أُعجب الملك والملكة بشجاعة الخيّاط وذكائه، وأصبح بطلاً عظيماً في المملكة. لم يقاتل الخيّاط أحداً، ولم يستخدم القوة، بل استخدم عقله وكلماته الذكية ليصبح الأبهر في الأرض.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The King and Queen were so impressed by the tailor's bravery and cleverness, and he became a great hero in the kingdom. The tailor never fought anyone, and never used strength, but used his mind and clever words to become the most amazing in the land.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

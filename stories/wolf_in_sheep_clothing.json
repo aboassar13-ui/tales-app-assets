@@ -1,0 +1,193 @@
+{
+  "id": "wolf_in_sheep_clothing",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A sly wolf wearing a fluffy sheep's wool coat, looking with a mischievous grin at a flock of innocent sheep grazing in a green meadow with a kind shepherd dog in the distance. Sunny day."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الذئب في ثوب الخروف",
+      "subtitle": "حكاية الذئب الذي تظاهر بالبراءة",
+      "tagline": "المظاهر تخدع، والحقيقة تظهر دوماً"
+    },
+    "en": {
+      "title": "The Wolf in Sheep's Clothing",
+      "subtitle": "The Tale of the Wolf Who Pretended",
+      "tagline": "Appearances can fool, but truth always finds its way"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A fluffy white flock of sheep happily grazing in a sun-drenched green meadow. A gentle shepherd dog watches over them from a small hill. Rolling hills and a blue sky in the background. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "في مرعى أخضر واسع، كانت قطيعٌ من الخراف البيضاء الناعمة ترعى بسعادة. كانت الخراف الصغيرة تقفز وتلعب، بينما كانت الخراف الكبيرة تتناول العشب اللذيذ بهدوء. كان كل شيء هادئًا وجميلًا.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a wide, green meadow, a fluffy flock of white sheep grazed happily. The little lambs bounced and played, while the older sheep munched on sweet grass in peace. All was quiet and lovely under the warm sun.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A clever-looking grey wolf with bright, curious eyes peeking from behind a bushy tree at the happy sheep in the meadow. He has a thoughtful expression, planning something. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "ولكن في الغابة القريبة، كان هناك ذئب جائع ومحتال يراقب القطيع. كان يشتهي الخراف الطرية، لكنه عرف أن الكلب الراعي كان ذكيًا ويقظًا، ولن يسمح له بالاقتراب بسهولة.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "But in the nearby woods, a hungry and cunning wolf watched the flock. He longed for a tasty lamb, but he knew the shepherd dog was clever and watchful, and wouldn't let him get close easily.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The wolf is looking at an old, discarded sheepskin on the ground with a thoughtful, mischievous expression. A lightbulb idea seems to appear above his head. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "فكر الذئب وفكر، ثم لمعت في رأسه فكرة! رأى جلد خروف قديم مرميًا على الأرض. ابتسم الذئب بخبث وقال لنفسه: «هذا هو الحل! سأخدعهم جميعًا!»",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "The wolf thought and thought, and then an idea sparkled in his mind! He spotted an old sheepskin discarded on the ground. The wolf grinned slyly and said to himself, \"This is it! I'll fool them all!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The wolf is carefully putting on the sheepskin over his grey fur, his head peeking out, looking a bit silly but determined. He is trying to make himself look like a fluffy sheep. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "ارتدى الذئب جلد الخروف بعناية، وغطى به فروه الرمادي. أصبح يبدو وكأنه خروف كبير وممتلئ. ضحك الذئب بصمت، متخيلًا كيف سيختلط بالقطيع دون أن يكتشفه أحد.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "The wolf carefully put on the sheepskin, covering his grey fur. He now looked like a big, fluffy sheep. The wolf chuckled quietly, imagining how he would blend in with the flock without anyone noticing.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The wolf, disguised in the sheepskin, is slowly and cautiously walking towards the flock of sheep in the meadow. He tries to mimic the gentle steps of a sheep, but his wolf tail is slightly visible. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "بخطوات بطيئة ومترددة، بدأ الذئب يتجه نحو القطيع. حاول أن يمشي مثل الخراف، وأن يحرك رأسه بلطف. اقترب أكثر وأكثر، وقلبه يدق بسرعة من الإثارة.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "With slow, hesitant steps, the wolf began to move towards the flock. He tried to walk like a sheep, and gently bob his head. Closer and closer he came, his heart thumping with excitement.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The wolf is now fully integrated into the flock, standing among several sheep that are oblivious to his disguise. His sheepskin looks convincing, but his eyes still hold a hint of mischief. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "نجحت الخطة! دخل الذئب بين الخراف، وبدأ يتظاهر بالرعي معهم. لم تلاحظه الخراف الصغيرة، وواصلت اللعب. شعر الذئب بالانتصار، وكاد أن يضحك بصوت عالٍ.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "The plan worked! The wolf entered among the sheep and began to pretend to graze with them. The little lambs didn't notice him and continued to play. The wolf felt triumphant and almost laughed out loud.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "A curious lamb is nudging the wolf (in disguise) with its nose, making the wolf look uncomfortable and try to back away subtly. The wolf's tail might be slightly more visible now. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "ولكن خروفًا صغيرًا فضوليًا اقترب من الذئب. بدأ الخروف الصغير يدفع الذئب بأنفه، محاولًا اللعب. شعر الذئب بالانزعاج، وحاول أن يبتعد دون أن يلفت الانتباه.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "But a curious little lamb came close to the wolf. The small lamb began to nudge the wolf with its nose, trying to play. The wolf felt annoyed and tried to back away without drawing attention.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The shepherd dog, a friendly but alert character, is looking intently at the disguised wolf from a distance. His ears are perked up, and he seems to sense something is not quite right. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "من بعيد، كان الكلب الراعي يراقب القطيع بعينيه اليقظتين. لاحظ حركة غريبة بين الخراف. كان هناك شيء ما مختلف في هذا «الخروف» الجديد. رفع الكلب أذنيه، وشعر بأن هناك خطبًا ما.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "From a distance, the shepherd dog watched the flock with his keen eyes. He noticed a strange movement among the sheep. There was something different about this 'new sheep.' The dog perked up his ears, feeling that something was not quite right.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The shepherd dog is slowly approaching the disguised wolf. The wolf looks nervous, and his grey wolf tail is now clearly sticking out from under the sheepskin. The sheep around them are beginning to look confused. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "اقترب الكلب الراعي ببطء من الذئب المتخفي. بدأ الذئب يشعر بالتوتر، ولسوء حظه، خرج ذيله الرمادي الطويل من تحت جلد الخروف. رأى الكلب الذيل وعرف الحقيقة!",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The shepherd dog slowly approached the disguised wolf. The wolf began to feel nervous, and to his misfortune, his long grey wolf tail poked out from under the sheepskin. The dog saw the tail and knew the truth!",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The shepherd dog is gently but firmly nudging the wolf (who is now fully revealed as a wolf, sheepskin slightly askew) away from the flock and towards the edge of the meadow. The wolf looks a bit embarrassed. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "لم ينبح الكلب، بل اقترب بهدوء من الذئب. دفع الكلب الذئب بلطف نحو خارج المرعى. فهم الذئب أنه قد اكتشف أمره، وأن خطته قد فشلت فشلاً ذريعًا.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The dog didn't bark, but quietly approached the wolf. The dog gently nudged the wolf towards the edge of the meadow. The wolf understood he had been discovered, and his plan had utterly failed.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The wolf, looking a bit sheepish, is walking away from the meadow with the sheepskin now fallen off, revealing his true self. The shepherd dog watches him go, wagging his tail gently. The sheep are safe and calm. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "خرج الذئب من المرعى وهو يشعر بالخجل، وترك جلد الخروف خلفه. نظر الكلب الراعي إليه وهو يبتعد، ثم عاد إلى مراقبة قطيعه. كانت الخراف آمنة بفضل يقظة الكلب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The wolf left the meadow, feeling a bit embarrassed, leaving the sheepskin behind. The shepherd dog watched him go, then returned to guarding his flock. The sheep were safe, thanks to the dog's watchful eyes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A wise old shepherd is sitting on a stone bench, petting the shepherd dog. The sheep are grazing peacefully in the background. The shepherd has a knowing smile on his face. charming storybook illustration, soft pastoral colors, gentle countryside setting, friendly animal characters, no scary imagery, no text in image, no watermark"
+      },
+      "ar": {
+        "text": "وعاد كل شيء إلى طبيعته في المرعى. تعلم الذئب درسًا مهمًا في ذلك اليوم، وتعلمت الخراف أن المظاهر قد تخدع. وأن الصدق واليقظة هما الأهم دائمًا.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And all returned to normal in the meadow. The wolf learned an important lesson that day, and the sheep learned that appearances can be deceiving. Honesty and watchfulness are always the most important things.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

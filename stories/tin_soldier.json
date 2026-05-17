@@ -1,0 +1,137 @@
+{
+  "id": "tin_soldier",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 7,
+  "style_suffix": "charming vintage children's book illustration, muted jewel-tone palette, gentle storybook mood, whimsical character designs, slightly worn toy aesthetic, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A brave tin soldier with one leg stands proudly on a windowsill overlooking a bustling toy shop interior. A graceful paper ballerina with a pink tutu is nearby. Warm sunlight streams through the window. Vintage toy shop aesthetic."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الجندي الصفيح الثابت",
+      "subtitle": "قصة عن الشجاعة والوفاء",
+      "tagline": "قلبٌ واحد، وحبٌّ لا يتزعزع"
+    },
+    "en": {
+      "title": "The Steadfast Tin Soldier",
+      "subtitle": "A Tale of Courage and True Love",
+      "tagline": "One heart, unwavering devotion"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A toy maker's workshop filled with colorful wooden animals and tin toys. A brand new tin soldier, standing proudly on one leg, is placed on a shelf next to a beautiful paper ballerina. Soft, warm light."
+      },
+      "ar": {
+        "text": "في محل ألعابٍ قديم، وُلد جنديٌّ صفيحيٌّ ذو ساقٍ واحدة. كان آخر ما صُنع من علبة الصفيح. بجانبه، وقفت دميةٌ جميلةٌ من الورق، ترتدي ثوباً أبيضَ رقيقاً. نظر الجندي إليها، وشعر بشيءٍ غريبٍ في قلبه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "In a bustling toy shop, a brand new tin soldier stood proudly on his one leg – the very last one made from a tin box. Beside him stood a beautiful paper doll, wearing a delicate white dress. The soldier looked at her and felt a flutter in his tin heart.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A curious child's hand reaches for the tin soldier on the shelf. The soldier is tilted slightly, as if about to fall. The paper ballerina watches with wide, painted eyes. Gentle, slightly dusty workshop setting."
+      },
+      "ar": {
+        "text": "في تلك الليلة، وبينما كانت كل الألعاب نائمة، سقط الجندي من النافذة إلى الشارع المظلم. سقط أرضاً، لكنه لم يتأذَّ كثيراً. بدأ رحلته في عالمٍ واسعٍ وغريب.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "That night, while all the toys were asleep, the soldier tumbled from the windowsill down into the dark street below. He landed with a clatter, but he was not badly hurt. His grand adventure in the wide, strange world had begun.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A small paper boat sails down a gutter stream. The tin soldier stands bravely in the middle of the boat, holding his rifle. Rainy day, grey skies, with reflections of buildings in the water."
+      },
+      "ar": {
+        "text": "وجد نفسه في قاربٍ ورقيٍّ صغيرٍ يطفو في مجرى ماء. كان القارب يبحر بسرعة، والجندي يمسك ببندقيته، وقلبه يخفق بشجاعة. كان مستعداً لمواجهة أي شيء.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "He found himself in a little paper boat, floating down a stream of water. The boat sailed swiftly, and the soldier held his rifle tight, his heart beating bravely. He was ready to face whatever came his way.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A large, whiskered rat peers out from a sewer grate, looking menacingly at the paper boat. The tin soldier stands firm, facing the rat. Dark, damp sewer environment with murky water."
+      },
+      "ar": {
+        "text": "فجأةً، ظهر فأرٌ كبيرٌ من فتحة المجاري. كانت عيناه تلمعان في الظلام، وأراد أن يأكل الجندي. لكن الجندي لم يخف، ووقف بثباتٍ يدافع عن نفسه.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Suddenly, a big rat with sharp whiskers peered out from a sewer grate, its eyes gleaming in the dark. It wanted to snatch the soldier! But the soldier stood his ground, brave and unwavering, ready to defend himself.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A large fish with wide eyes swims up to the paper boat in the dark sewer water. The tin soldier is about to be swallowed. The scene is dark and slightly ominous, but not frightening."
+      },
+      "ar": {
+        "text": "بعد ذلك، ابتلع سمكٌ كبيرٌ القارب والجندي معاً! شعر الجندي بالظلام والماء من حوله، لكنه لم يفقد الأمل. فكر في الدمية الورقية الجميلة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Then, a big fish with wide, curious eyes swallowed the boat and the soldier whole! The soldier felt the darkness and the water all around him, but he did not lose hope. He thought of the pretty paper doll.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The tin soldier is spat out by the fish onto a dry, grassy bank by a river. He looks around, a bit damp but intact. The sun is rising, casting a warm glow. Reeds and small flowers grow nearby."
+      },
+      "ar": {
+        "text": "لحسن الحظ، خرج السمك من الماء، وبصق القارب والجندي على ضفة النهر. كان الجندي متعباً ومبللاً، لكنه كان سليماً. نظرت حوله، ورأى منزله قريباً.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Luckily, the fish swam near the shore and spat out the boat and the soldier onto the riverbank! The soldier was tired and a little damp, but he was whole. He looked around and saw his home not far away.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The tin soldier is back in the toy shop, standing on the windowsill again. The paper ballerina is still there, looking as beautiful as ever. Sunlight streams in, illuminating dust motes in the air. A feeling of peace."
+      },
+      "ar": {
+        "text": "عاد الجندي إلى نافذة محل الألعاب. كانت الدمية الورقية لا تزال واقفة هناك، جميلة كما كانت. نظر إليها، وابتسم قلبه الصفيحي. لقد عاد أخيراً إلى حيث ينتمي.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The soldier found his way back to the toy shop windowsill. The paper doll was still standing there, as lovely as ever. He looked at her, and his tin heart smiled. He was finally back where he belonged.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A child picks up the tin soldier and the paper ballerina. The child places them together on the windowsill, side-by-side, looking at them fondly. Warm, soft lighting in the toy shop. Peaceful and happy ending."
+      },
+      "ar": {
+        "text": "ثم، جاءت فتاة صغيرة، ووضعت الجندي بجانب الدمية الورقية. وقفا معاً، جنباً إلى جنب، ينظران إلى العالم الخارجي. لقد وجد الجندي مكانه، بجانب حبيبته.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Then, a little girl picked up the soldier and the paper doll. She placed them together on the windowsill, side-by-side, looking out at the world. The soldier had found his place, right next to his dearest love.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

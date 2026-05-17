@@ -1,0 +1,193 @@
+{
+  "id": "fir_tree",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "warm watercolor children's book illustration, earthy green and brown palette, gentle storybook mood, expressive friendly faces, forest setting, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A small, eager fir tree in a sun-dappled forest clearing, looking up at the sky with bright green needles. Birds perch on its branches, and a friendly rabbit sits at its base. Warm, inviting light filters through the trees."
+  },
+  "i18n": {
+    "ar": {
+      "title": "شجرة التنوب",
+      "subtitle": "حكاية الشجرة الصغيرة",
+      "tagline": "حلمٌ في الغابة، فرحٌ قصير، ودرسٌ في الامتنان"
+    },
+    "en": {
+      "title": "The Fir Tree",
+      "subtitle": "The Little Tree's Tale",
+      "tagline": "A forest dream, a brief joy, and a lesson in contentment"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A young fir tree stands in a lush green forest, surrounded by taller trees. Sunlight streams down through the canopy. The fir tree looks upwards with bright, curious needles. Small forest animals like squirrels and birds are visible."
+      },
+      "ar": {
+        "text": "في قلب غابةٍ كثيفة، عاشت شجرة تنوب صغيرة. كانت تحلم بأيامٍ قادمة، حينما تصبح طويلةً وقوية. كانت تنظر إلى الأشجار العالية حولها وتتمنى أن تصل أغصانها إلى السماء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In the heart of a deep, green forest, lived a little fir tree. It dreamed of the days to come, when it would grow tall and strong. It looked at the towering trees around it and wished its branches could reach the sky.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The fir tree is surrounded by blooming wildflowers and friendly forest creatures like rabbits and deer. The sun is shining brightly. The tree looks happy and content in its forest home."
+      },
+      "ar": {
+        "text": "كانت أيامها مليئةً بضحكات السناجب ولعب الفراشات. كانت تستمع إلى أغاني الطيور وتستمتع بدفء الشمس. لكن قلبها الصغير كان يتوق إلى مغامرةٍ أكبر، شيءٌ أكثر إثارةً من مجرد العيش في الغابة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Its days were filled with the chatter of squirrels and the flutter of butterflies. It listened to the songs of birds and enjoyed the warmth of the sun. Yet, its little heart yearned for a grander adventure, something more exciting than just living in the woods.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A group of lumberjacks with axes enter the forest. The fir tree looks on with a mix of excitement and nervousness. The animals are scattering, looking a bit worried."
+      },
+      "ar": {
+        "text": "في يومٍ من الأيام، سمعت صوت فؤوسٍ تقترب. رأت رجالاً يرتدون ملابس سميكة، يحملون أدواتٍ لامعة. تساءلت شجرة التنوب: «هل حان الوقت أخيراً لمغامرتي؟»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, it heard the sound of approaching axes. It saw men in sturdy clothes, carrying shiny tools. The fir tree wondered, \"Is my adventure finally about to begin?\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A lumberjack carefully selects the fir tree. He measures it and smiles. The tree is being gently cut down, with leaves and small branches falling around it. The animals watch sadly from a distance."
+      },
+      "ar": {
+        "text": "اختارتها يدٌ قوية. شعرت بحركةٍ مفاجئة، ثم بدأت تسقط ببطء. لم يكن الأمر مؤلماً، بل كان أشبه برحلةٍ جديدة. حملها الرجال بعناية، ووضعت بعيداً عن أصدقائها في الغابة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "A strong hand chose it. It felt a sudden movement, and then it began to fall, slowly. It wasn't painful, more like a new journey starting. The men carried it carefully, placing it far from its forest friends.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The fir tree is decorated with colorful ornaments, twinkling lights, and shiny baubles. It stands in a cozy, warmly lit room, perhaps near a fireplace. Children are looking at it with wonder and excitement."
+      },
+      "ar": {
+        "text": "وجدت نفسها في غرفةٍ دافئة، مزينةً بأضواءٍ متلألئة وكراتٍ ملونة. كانت أجمل شجرةٍ رآها الناس! وضعوها في مكانٍ مميز، وأحاط بها الأطفال بابتساماتٍ واسعة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "It found itself in a warm room, adorned with twinkling lights and colorful baubles. It was the most beautiful tree anyone had ever seen! Placed in a special spot, children gathered around with wide, happy smiles.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Children are gathered around the decorated fir tree, singing carols and opening presents. The tree looks proud and happy, its branches laden with gifts and decorations. A warm, festive atmosphere."
+      },
+      "ar": {
+        "text": "كانت هذه ليلةً رائعة! غنى الأطفال حولها، وفتحوا هداياهم تحت أغصانها. شعرت شجرة التنوب بالسعادة والفخر، فقد حققت حلمها بأن تكون مركز اهتمام الجميع.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "It was a wonderful night! Children sang carols around it and opened their presents beneath its boughs. The fir tree felt happy and proud, its dream of being the center of attention finally fulfilled.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The festive decorations are being taken down. The tree looks a little sad as the lights are removed and ornaments packed away. The room is becoming bare."
+      },
+      "ar": {
+        "text": "لكن الاحتفال لم يدم طويلاً. بعد انتهاء الحفلة، بدأت الأضواء تُزال، والزينة تُجمع. شعرت الشجرة ببعض الحزن وهي ترى الأيام المبهجة تنتهي.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But the celebration didn't last forever. After the party ended, the lights were taken down, and the decorations were packed away. The tree felt a little sad as the joyful days came to a close.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The fir tree is taken to an attic or storage room. It looks dusty and forgotten, surrounded by old boxes and furniture. Cobwebs are visible. The tree's needles droop slightly."
+      },
+      "ar": {
+        "text": "نُقلت الشجرة إلى غرفةٍ علوية باردة، ووضعت جانباً بين صناديق قديمة. لم يعد أحدٌ يتذكرها. شعرت بالوحدة والنسيان، بعيدةً عن الغابة وعن الاحتفال.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The tree was moved to a cold attic room, left among old boxes and forgotten things. No one seemed to remember it anymore. It felt lonely and neglected, far from the forest and the festivities.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The fir tree, looking withered and brown, is being carried out of the house by a man. It's being taken to a bonfire or dump. The mood is somber. Small animals (mice) might be watching sadly."
+      },
+      "ar": {
+        "text": "مرّ وقتٌ طويل. بدأت أوراقها تذبل وتتحول إلى اللون البني. حملها رجلٌ مرة أخرى، لكن هذه المرة لم يكن لوضعها في مكانٍ جميل. كانت ذاهبةً إلى مكانٍ لا عودة منه.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Much time passed. Its needles began to wither and turn brown. A man carried it again, but this time, not to a place of beauty. It was being taken somewhere it would not return from.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The fir tree sits next to a bonfire, its dry branches starting to catch fire. The flames are bright but not menacing. The tree looks resigned, perhaps with a faint memory of the forest or the party."
+      },
+      "ar": {
+        "text": "جلست الشجرة بجانب نارٍ كبيرة، ورأت أوراقها تشتعل. لم تكن خائفة، بل شعرت ببعض الدفء الأخير. تذكّرت الغابة، وأشعة الشمس، وضحكات الأطفال.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The tree sat beside a large bonfire, watching its dry needles catch flame. It wasn't scared, but felt a final warmth. It remembered the forest, the sunlight, and the children's laughter.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Ashes of the fir tree drift upwards towards a starry night sky. A few gentle embers glow. The scene is peaceful and ethereal. Perhaps a faint silhouette of the tree remains."
+      },
+      "ar": {
+        "text": "تحوّلت إلى رمادٍ خفيف، وتناثر في الهواء كأنه نجومٌ صغيرة. لم تعد الشجرة تتوق إلى شيء، فقد فهمت أخيراً أن كل لحظةٍ، سواء كانت في الغابة أو في غرفةٍ دافئة، لها جمالها الخاص.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "It turned into light ashes, scattering into the air like tiny stars. The tree no longer yearned for anything. It finally understood that every moment, whether in the forest or in a warm room, held its own special beauty.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A wide shot of a forest clearing at night, with stars visible. A few glowing embers float upwards from where the tree once was, blending with the stars. A gentle, peaceful closing image."
+      },
+      "ar": {
+        "text": "كانت قصتها قد انتهت، لكن ذكراها بقيت. تعلمت أن السعادة ليست دائماً في تحقيق الأحلام الكبيرة، بل في تقدير ما لديك والاستمتاع بكل يومٍ كما هو.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Its story was over, but its memory remained. It had learned that happiness isn't always in achieving grand dreams, but in appreciating what you have and enjoying each day as it is.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

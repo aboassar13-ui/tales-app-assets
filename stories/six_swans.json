@@ -1,0 +1,277 @@
+{
+  "id": "six_swans",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "enchanting storybook illustration, soft forest greens and earthy browns with touches of magical light, gentle and slightly melancholic mood, European folk art influence, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young princess with long, flowing hair, dressed in a simple but elegant forest-green dress, is spinning thread from starwort flowers in a quiet, sun-dappled forest clearing. Six majestic white swans fly gracefully overhead. The scene is peaceful and hopeful."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الإوزات الست",
+      "subtitle": "حكاية الأميرة الشجاعة وإخوتها",
+      "tagline": "صمتٌ وحبٌ يكسران سحراً قديماً"
+    },
+    "en": {
+      "title": "The Six Swans",
+      "subtitle": "The Tale of the Brave Princess and Her Brothers",
+      "tagline": "Silence and love break an ancient spell"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A kind king and queen with six playful young princes and one sweet little princess in a sunlit castle garden. The children are laughing and chasing butterflies. The king and queen watch with loving smiles."
+      },
+      "ar": {
+        "text": "في مملكة بعيدة، عاش ملكٌ طيبٌ مع ملكته الجميلة، وكان لديهما سبعة أطفال: ستة أمراء شجعان وأميرة صغيرة لطيفة اسمها إليزا. كانت العائلة تعيش في سعادة وهناء، يملأ ضحك الأطفال أرجاء القصر والحديقة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a faraway kingdom, a kind king lived with his beautiful queen. They had seven children: six brave princes and one sweet little princess named Eliza. The family lived happily, their laughter filling the castle and its sunlit gardens.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A wicked old queen, with a tall pointed hat and a dark cloak, stands in a shadowy part of the castle, looking sinisterly at a portrait of the happy royal family. Her face is sharp and cold."
+      },
+      "ar": {
+        "text": "لكن السعادة لم تدم طويلاً. توفيت الملكة، وبعد مدة، تزوج الملك من امرأة أخرى. كانت الملكة الجديدة جميلة جداً، لكن قلبها كان قاسياً وممتلئاً بالغيرة، ولم تكن تحب أطفال الملك الطيبين.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But happiness did not last forever. The queen passed away, and after some time, the king married another woman. The new queen was very beautiful, but her heart was cold and full of jealousy. She did not like the king's kind children.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The wicked queen stands with a magical staff, casting a shimmering green spell over the six young princes, who are beginning to transform into white swans. Their faces show surprise, not fear. The princess Eliza watches from behind a pillar, frightened."
+      },
+      "ar": {
+        "text": "في يومٍ من الأيام، استخدمت الملكة الساحرة الشريرة سحرها الأسود. حوّلت الأمراء الستة إلى إوزات بيضاء جميلة، وقالت: «طيروا بعيداً، ولا تعودوا إلا عندما تكسرون سحري!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, the wicked queen used her dark magic. She turned the six princes into beautiful white swans, saying, \"Fly far away, and do not return until my spell is broken!\" Princess Eliza watched from a hidden corner, her heart aching.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Six majestic white swans with golden crowns on their heads fly gracefully over a castle at sunset, heading towards a distant forest. Princess Eliza, a small figure, watches them from a tower window with a sad expression."
+      },
+      "ar": {
+        "text": "طار الأمراء الإوزات بعيداً، فوق الغابات والجبال، تاركين خلفهم القصر. حزنت الأميرة إليزا كثيراً على إخوتها. لم يصدق الملك كلام الملكة الشريرة بأن الأمراء ذهبوا في رحلة، لكنه لم يعرف الحقيقة أبداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The swan-princes flew far away, over forests and mountains, leaving the castle behind. Princess Eliza grieved deeply for her brothers. The king did not believe the wicked queen's story that the princes had simply gone on a journey, but he never learned the truth.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Princess Eliza, now a young woman, walks alone through a deep, magical forest. Trees with glowing leaves surround her, and a gentle light guides her path. She looks determined and a little bit sad."
+      },
+      "ar": {
+        "text": "عندما كبرت إليزا، هربت من القصر بحثاً عن إخوتها. مشت أياماً وليالي في الغابات العميقة، وكانت تسأل كل حيوان تلقاه: «هل رأيت ست إوزات بيضاء تحمل تيجاناً ذهبية؟»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When Eliza grew older, she ran away from the castle to search for her brothers. She walked for days and nights through the deep forests, asking every animal she met, \"Have you seen six white swans wearing golden crowns?\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Princess Eliza sits by a calm lake at dawn, watching six white swans swim gracefully. As the sun rises, the swans slowly transform back into their human prince forms for a brief moment, smiling at their sister. The scene is magical and tender."
+      },
+      "ar": {
+        "text": "في إحدى الليالي، وصلت إلى بحيرة هادئة. وعند الفجر، رأت ست إوزات بيضاء تسبح بهدوء. وعندما أشرقت الشمس، تحوّلت الإوزات إلى إخوتها الأمراء! عانقوها بحب، وشرحوا لها كيف سُحِروا.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One night, she reached a calm lake. At dawn, she saw six white swans swimming peacefully. As the sun rose, the swans transformed into her prince brothers! They embraced her lovingly and explained how they had been enchanted.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "An old, wise fairy with a kind face and glowing eyes appears to Princess Eliza in a moonlit forest clearing. The fairy is holding a handful of glowing starwort flowers. Eliza listens intently, her face full of hope."
+      },
+      "ar": {
+        "text": "قالت إليزا: «كيف يمكنني كسر هذا السحر؟» ظهرت لها جنية غابة حكيمة وقالت: «يجب أن تنسجي ستة قمصان من زهور النجمة البرية، وأن تلتزمي الصمت التام لمدة ست سنوات. أي كلمة تنطقيها ستقتل إخوتك.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza asked, \"How can I break this spell?\" A wise forest fairy appeared and said, \"You must weave six shirts from starwort flowers, and you must remain completely silent for six years. Any word you utter will kill your brothers.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Princess Eliza, in simple clothes, gathers glowing starwort flowers in a moonlit meadow. Her hands are careful and gentle. She looks determined and brave, ready for her difficult task."
+      },
+      "ar": {
+        "text": "بدأت إليزا مهمتها الصعبة. كانت تجمع زهور النجمة البرية، وتنسج القمصان بإبرةٍ وخيط. لم تنطق بكلمة واحدة، حتى عندما كانت تشعر بالتعب أو الجوع. كان حبها لإخوتها هو قوتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza began her difficult task. She gathered starwort flowers and wove the shirts with needle and thread. She did not utter a single word, even when she felt tired or hungry. Her love for her brothers was her strength.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Princess Eliza sits quietly under a large oak tree, diligently weaving a shirt from starwort flowers. Her fingers are nimble, and her face is serene. A small, curious squirrel watches her from a branch. Five finished shirts are neatly folded beside her."
+      },
+      "ar": {
+        "text": "مرت الأيام والشهور، ونسجت إليزا خمسة قمصان كاملة. كانت الإوزات الست تزورها كل مساء، تطمئن عليها وتحرسها وهي نائمة. كانت إليزا تبتسم لهم بصمت، وقلبها مليء بالأمل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Days and months passed, and Eliza wove five complete shirts. The six swans visited her every evening, watching over her as she slept. Eliza would smile at them silently, her heart full of hope.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "A kind young king, dressed in royal hunting attire, looks with gentle curiosity at Princess Eliza, who is sitting under a tree, silently weaving her sixth shirt. He is accompanied by a friendly hunting dog. Eliza looks up with calm, silent dignity."
+      },
+      "ar": {
+        "text": "في أحد الأيام، جاء ملك شاب وسيم إلى الغابة للصيد. رأى إليزا تجلس تحت شجرة، تنسج بصمت. أعجب بجمالها وهدوئها، فاقترب منها وسألها: «لماذا لا تتكلمين يا فتاة؟»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, a handsome young king came to the forest to hunt. He saw Eliza sitting under a tree, weaving silently. He was struck by her beauty and calm demeanor. He approached her and asked, \"Why do you not speak, young woman?\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The young king gently takes Eliza's hand, leading her towards his castle. She carries her unfinished sixth starwort shirt and her weaving basket. She looks at him with trust, but remains silent. The castle is visible in the distance, bathed in warm sunlight."
+      },
+      "ar": {
+        "text": "لم تستطع إليزا أن تجيب، فأومأت برأسها فقط. أحبها الملك بلطفها وشجاعتها، فطلب منها أن تأتي لتعيش في قصره. وافقت إليزا بصمت، وأخذت معها قمصانها ونبتة النجمة البرية لتكمل عملها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza could not answer, so she simply nodded. The king was touched by her kindness and courage, and asked her to come and live in his castle. Eliza silently agreed, taking her shirts and starwort plants with her to continue her work.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Eliza sits by a sunlit window in a beautiful castle room, diligently weaving the last part of her sixth starwort shirt. She looks peaceful and focused. The king watches her from the doorway with a gentle, admiring smile."
+      },
+      "ar": {
+        "text": "عاشت إليزا في القصر، وكانت تنسج قمصانها في غرفة هادئة. لم يتوقف الملك عن حبها، لكنه كان حزيناً لأنها لا تتكلم. كان يزورها كل يوم، ويجلس بجانبها بصمت، يحترم وعدها الغامض.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza lived in the castle, weaving her shirts in a quiet room. The king continued to love her, though he was sad that she never spoke. He visited her every day, sitting by her side in silence, respecting her mysterious vow.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The wicked queen from Eliza's old kingdom, disguised as an old, envious woman, whispers into the ears of the new king's royal advisors. The advisors look suspicious and worried, glancing towards Eliza's room."
+      },
+      "ar": {
+        "text": "مرت السنوات، وأوشكت إليزا على الانتهاء من القميص السادس. لكن الملكة الشريرة القديمة، التي كانت تراقبها، نشرت إشاعات سيئة عن إليزا، وقالت إنها ساحرة شريرة لا تتكلم. صدّق بعض الناس هذه الإشاعات.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Years passed, and Eliza was close to finishing her sixth shirt. But the wicked old queen, who had been watching her, spread bad rumors about Eliza, saying she was a silent, evil witch. Some people in the kingdom believed these rumors.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Eliza, now looking a little weary but determined, is being led by stern royal guards to a public square. She clutches her six unfinished starwort shirts tightly. The king looks conflicted and sad, but must obey his advisors."
+      },
+      "ar": {
+        "text": "حاول الملك حماية إليزا، لكن مستشاريه أقنعوه بأنها خطيرة. أُمرت إليزا بالذهاب إلى ساحة المدينة. كانت تحمل القمصان الست التي لم تكتمل بعد، وكانت صامتة، لكن عينيها كانتا مليئتين بالشجاعة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The king tried to protect Eliza, but his advisors convinced him she was dangerous. Eliza was ordered to go to the town square. She clutched the six unfinished shirts, still silent, but her eyes were full of courage.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Just as Eliza is about to be taken, six majestic white swans with golden crowns fly down from the sky and land gently beside her in the town square. The crowd watches in stunned silence. Eliza's face shows a mix of relief and urgency."
+      },
+      "ar": {
+        "text": "في تلك اللحظة الحرجة، ظهرت ست إوزات بيضاء تحلّق في السماء! نزلت الإوزات بهدوء إلى ساحة المدينة، وحلّقت حول إليزا. كان القميص السادس لم يكتمل بعد، وكان ينقصها جزء صغير في أحد الأكمام.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At that critical moment, six white swans appeared, circling in the sky! The swans descended gently into the town square, flying around Eliza. The sixth shirt was still unfinished, lacking a small piece on one sleeve.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_16",
+      "image": {
+        "prompt": "Eliza quickly throws the starwort shirts over the six swans. As the shirts touch them, the swans transform back into the six princes, each wearing a shirt, but one prince has a swan's wing instead of an arm where the sleeve was incomplete. Eliza smiles through tears."
+      },
+      "ar": {
+        "text": "رمت إليزا القمصان بسرعة على الإوزات. تحوّلت الإوزات فوراً إلى إخوتها الأمراء! ارتدى كل أمير قميصه، لكن الأمير الأصغر ظل لديه جناح إوزة بدلاً من ذراع، لأن قميصه لم يكتمل. بكت إليزا فرحاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza quickly threw the shirts over the swans. Immediately, the swans transformed back into her prince brothers! Each prince wore his shirt, but the youngest prince still had a swan's wing instead of an arm, because his shirt was incomplete. Eliza wept with joy.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_17",
+      "image": {
+        "prompt": "Eliza, now speaking, stands with her six brothers (one with a swan's wing) and the kind young king. She is explaining her story to the relieved and amazed crowd. The wicked queen watches from a distance, looking defeated and angry."
+      },
+      "ar": {
+        "text": "عندها، تكلمت إليزا أخيراً! روت للملك والناس قصتها كاملة، وكيف حوّلت الملكة الشريرة إخوتها إلى إوزات. فهم الجميع تضحيتها العظيمة وصمتها الطويل. ندم الملك على شكّه، وعانق إليزا وإخوتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Then, Eliza finally spoke! She told the king and the people her entire story, and how the wicked queen had turned her brothers into swans. Everyone understood her great sacrifice and long silence. The king regretted his doubts and embraced Eliza and her brothers.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_18",
+      "image": {
+        "prompt": "The kind young king and Queen Eliza (now dressed in a beautiful royal gown) stand with her six happy brothers (the youngest prince's arm is now fully human, healed by love) in a grand castle hall. They are all smiling, celebrating their reunion and peace."
+      },
+      "ar": {
+        "text": "تزوجت إليزا من الملك الشاب، وعاشوا في سعادة. وعاد إخوتها الستة إلى القصر، وحتى جناح الأمير الأصغر شُفي بمرور الوقت، بفضل الحب والراحة. عاشت المملكة في سلام، وعرفت قيمة الشجاعة والصمت المحب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza married the kind young king, and they lived happily. Her six brothers returned to the castle, and even the youngest prince's wing healed over time, thanks to love and peace. The kingdom lived in harmony, having learned the value of courage and loving silence.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

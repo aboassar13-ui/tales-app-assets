@@ -1,0 +1,179 @@
+{
+  "id": "golden_key_grimm",
+  "category": "fairy_tale",
+  "source": "Brothers Grimm (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 9,
+  "style_suffix": "cozy winter children's book illustration, muted cool palette with warm accents, gentle storybook mood, friendly character design, snowy forest setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "A small boy in a warm winter coat and knitted hat, holding a tiny golden key, looking curious and hopeful amidst a snowy forest. A gentle light highlights the key."
+  },
+  "i18n": {
+    "ar": {
+      "title": "المفتاح الذهبي",
+      "subtitle": "حكاية الصبي والمفتاح",
+      "tagline": "مفتاح صغير، سر كبير، وفرحة الاكتشاف"
+    },
+    "en": {
+      "title": "The Golden Key",
+      "subtitle": "The Boy and the Key",
+      "tagline": "A tiny key, a big secret, and the joy of discovery"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A small, bundled-up boy in a snowy forest, gathering firewood. His cheeks are rosy from the cold, and snow gently falls around him. He looks focused and diligent."
+      },
+      "ar": {
+        "text": "في يومٍ شتوي بارد، حيث كانت الثلوج تغطي كل شيء مثل بطانية بيضاء، خرج صبيٌ صغير إلى الغابة. كان يرتدي معطفاً دافئاً وقبعة صوفية، ويبحث عن حطبٍ صغير ليُشعل ناراً دافئة في بيته.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "On a very cold winter day, when snow covered everything like a soft white blanket, a little boy went into the forest. He wore a warm coat and a woolly hat, searching for small pieces of firewood to light a cozy fire at home.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The boy, with a small pile of firewood, clears a patch of snow from a tree stump. His eyes are wide with surprise as he spots something shiny in the snow. Gentle sunlight peeks through the bare trees."
+      },
+      "ar": {
+        "text": "وبينما كان يجمع الأغصان الجافة، وجد غصناً كبيراً جداً مغطى بالثلج. قرر أن يزيح الثلج عنه ليأخذه. وبينما كان يزيح الثلج برفق، رأى شيئاً صغيراً يلمع في بياض الثلج.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "As he gathered dry branches, he found a very large one, completely covered in snow. He decided to clear the snow from it to take it. And as he gently brushed away the snow, he saw something small and shiny glittering in the white.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "Close-up of the boy's gloved hand carefully picking up a tiny, intricately designed golden key from the snow. The key gleams softly against the white. His face shows curiosity."
+      },
+      "ar": {
+        "text": "كان مفتاحاً ذهبياً! صغيراً جداً وجميلاً، يلمع بلون الذهب الخالص. لم يرَ الصبي مفتاحاً كهذا من قبل. حمله بين أصابعه، وشعر بقلبه يخفق من الفضول.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "It was a golden key! So small and beautiful, shining with the pure color of gold. The boy had never seen a key quite like it. He held it between his fingers, and his heart fluttered with curiosity.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The boy stands in the snowy forest, holding the golden key thoughtfully. He looks around him, wondering what the key might open. Snowflakes fall gently, creating a quiet atmosphere."
+      },
+      "ar": {
+        "text": "فكر الصبي: «لا بد أن هذا المفتاح يفتح شيئاً ما! لكن ماذا؟ وأين يمكن أن أجد ما يفتحه؟» نظر حوله في الغابة الواسعة، كل الأشجار والوديان كانت مغطاة بالثلج، ولم يرَ أي بيت أو صندوق.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The boy wondered, \"This key must open something! But what? And where could I find what it opens?\" He looked around the vast forest; all the trees and valleys were covered in snow, and he saw no house or box.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The boy carefully scrapes away snow from the ground near the base of an old tree. His expression is determined and hopeful. The golden key is clutched in his other hand."
+      },
+      "ar": {
+        "text": "لم يستسلم الصبي. كان يعلم أن كل مفتاح له قفل. بدأ يبحث بجدية أكبر، يزيح الثلوج عن جذوع الأشجار القديمة، ويفتش تحت الصخور الكبيرة، على أمل أن يجد صندوقاً صغيراً مخفياً.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The boy didn't give up. He knew every key had a lock. He began searching more carefully, clearing snow from old tree stumps and looking under large rocks, hoping to find a small hidden box.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The boy's face lights up with discovery as he uncovers a small, dark iron chest half-buried in the snow under a tree root. The chest looks old and mysterious. The golden key is ready in his hand."
+      },
+      "ar": {
+        "text": "بعد أن بحث طويلاً، شعر بشيء صلب تحت الثلج الكثيف عند جذع شجرة بلوط قديمة. حفر الصبي بيديه الصغيرتين بحماس، وما لبث أن كشف عن صندوقٍ صغير من الحديد الأسود، نصفه مدفون في الأرض.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "After searching for a long time, he felt something hard beneath the thick snow at the base of an old oak tree. The boy eagerly dug with his small hands, and soon uncovered a small, dark iron chest, half-buried in the earth.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Close-up of the boy's hands, one holding the golden key, the other carefully inserting it into the keyhole of the old iron chest. His eyes are wide with anticipation. The keyhole is perfectly sized for the key."
+      },
+      "ar": {
+        "text": "كان الصندوق قديماً جداً، لكنه كان مغلقاً بقفل صغير. أمسك الصبي بالمفتاح الذهبي، ورآه يتناسب تماماً مع ثقب القفل. شعر بقلبه يدق بسرعة، هل سيفتح؟",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The chest was very old, but it was secured with a small lock. The boy held the golden key and saw that it fit perfectly into the keyhole. His heart beat fast, wondering, would it open?",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The boy carefully turns the golden key in the lock. A faint click is heard, and his face shows a mix of relief and growing excitement. Snow continues to fall gently around him."
+      },
+      "ar": {
+        "text": "أدخل الصبي المفتاح بحذر، ثم لفه ببطء. سمع «طقطقة» صغيرة، وعلم أن القفل قد فُتح! أخذ نفساً عميقاً قبل أن يفتح الصندوق.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The boy carefully inserted the key, then slowly turned it. He heard a tiny 'click,' and knew the lock was open! He took a deep breath before opening the chest.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The boy carefully lifts the lid of the old iron chest. A soft, warm light glows from within, revealing a treasure of sparkling gems, ancient scrolls, and small, magical-looking toys. His face is filled with wonder."
+      },
+      "ar": {
+        "text": "رفع الصبي غطاء الصندوق ببطء. وما رآه جعله ينسى البرد كله! كان الصندوق مليئاً بالكنوز! جواهر تتلألأ، ولفائف قديمة، ولعب صغيرة تلمع وكأنها مصنوعة من السحر.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Slowly, the boy lifted the lid of the chest. And what he saw made him forget all about the cold! The chest was filled with treasures! Sparkling jewels, ancient scrolls, and small, glowing toys that looked as if they were made of magic.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The boy sits happily beside the open chest, gently touching a sparkling gem. His face is alight with joy and wonder. The golden key rests beside the treasure. The snowy forest is quiet and peaceful around him."
+      },
+      "ar": {
+        "text": "لم يمد يده ليأخذ شيئاً، بل جلس ينظر إلى الكنوز بذهول. لم يكن يعرف ما هي كل هذه الأشياء، لكنه شعر بفرحة كبيرة في قلبه. لقد وجد السر الذي يفتحه المفتاح الذهبي.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "He didn't reach out to take anything, but simply sat, gazing at the treasures in awe. He didn't know what all these things were, but he felt a great joy in his heart. He had found the secret that the golden key unlocked.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The boy looks up from the chest with a thoughtful, content smile, appreciating the quiet beauty of the snowy forest around him. The open chest is still glowing softly, but the focus is on his peaceful expression."
+      },
+      "ar": {
+        "text": "لم يكن الأمر يتعلق بما كان داخل الصندوق بقدر ما كان يتعلق بمتعة البحث والاكتشاف. تعلم الصبي أن الصبر والفضول يمكن أن يفتحا له أبواباً أكثر إثارة من أي كنز.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "It wasn't just about what was inside the chest, but the joy of the search and discovery. The boy learned that patience and curiosity could open doors to adventures more exciting than any treasure.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

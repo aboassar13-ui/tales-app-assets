@@ -1,0 +1,137 @@
+{
+  "id": "oak_and_reed",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "gentle watercolor children's book illustration, muted earthy palette, serene nature setting, friendly anthropomorphic characters, peaceful storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A mighty, ancient oak tree stands tall and proud beside a slender, flexible reed bending in a gentle breeze, with a clear blue sky and fluffy white clouds above; warm, inviting storybook style."
+  },
+  "i18n": {
+    "ar": {
+      "title": "البلوطة والقصبة",
+      "subtitle": "درس في المرونة",
+      "tagline": "القوة الحقيقية ليست في الصلابة، بل في القدرة على التكيف."
+    },
+    "en": {
+      "title": "The Oak and the Reed",
+      "subtitle": "A Lesson in Flexibility",
+      "tagline": "True strength isn't in stiffness, but in the power to bend."
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A large, proud oak tree with thick branches and a sturdy trunk stands in a sunny meadow. Beside it, a slender green reed sways gently. The oak looks down at the reed with a self-satisfied expression. Soft, warm sunlight."
+      },
+      "ar": {
+        "text": "في حقلٍ أخضر واسع، وقفت شجرة بلوطٍ عظيمة، شامخةً وقوية. كانت أغصانها ممتدة نحو السماء، وجذعها سميكٌ لا يتزعزع. بجانبها، نمت قصبةٌ رفيعة ومرنة، تنحني مع كل نسمة هواء.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "In a wide, green meadow stood a great oak tree, tall and mighty. Its branches reached towards the sky, and its trunk was thick and unshakeable. Beside it grew a slender, flexible reed, bending with every gentle breeze.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The oak tree speaks to the reed, its face carved into the bark looking down condescendingly. The reed looks up with a humble expression. The sun shines brightly, casting long shadows. Peaceful meadow setting."
+      },
+      "ar": {
+        "text": "قالت شجرة البلوط للقصبة بصوتٍ متعجرف: \"انظري إليّ! أنا قويةٌ وصلبة، لا يمكن لأي شيءٍ أن يكسرني. أما أنتِ، فتبدين ضعيفةً وهشة، تنحنين مع كل ريحٍ تمر بكِ.\"",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The oak tree spoke to the reed in a boastful voice, \"Look at me! I am strong and rigid. Nothing can break me. But you, you look so weak and fragile, bending with every wind that passes by.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The reed replies softly to the oak tree. Its voice is gentle. The reed's expression is humble but not fearful. The setting is still the sunny meadow, but the sky begins to show a few wispy clouds."
+      },
+      "ar": {
+        "text": "أجابت القصبة بصوتٍ هادئ: \"صحيحٌ أنني أنحني، لكنني أفعل ذلك لأتجنب الكسر. قوتي تكمن في مرونتي، وليس في صلابتي. ربما هناك قوةٌ في الانحناء أيضاً.\"",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The reed answered softly, \"It is true that I bend, but I do so to avoid breaking. My strength comes from my flexibility, not my stiffness. Perhaps there is strength in bending, too.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The sky darkens ominously. Dark, swirling storm clouds gather above the meadow. The oak tree stands tall, its leaves rustling nervously. The reed begins to bend low, its top almost touching the ground. Dramatic lighting."
+      },
+      "ar": {
+        "text": "فجأةً، هبّت رياحٌ عاتية، وتجمّعت غيومٌ سوداء في السماء. بدأ المطر يهطل بغزارة، وأصبح الهواء ثقيلاً بالصيحات. بدأت العاصفة تقترب بقوة، حاملةً معها رياحاً شديدة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Suddenly, a fierce wind began to blow, and dark storm clouds gathered in the sky. Rain started to fall, and the air grew heavy with the wind's howl. The storm was coming with great force, bringing powerful gusts.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The storm rages. Lightning flashes in the dark sky. The mighty oak tree is shown straining against the wind, its branches whipping violently. Its trunk is starting to crack. The reed is bent almost flat to the ground, completely submerged in wind and rain."
+      },
+      "ar": {
+        "text": "حاولت شجرة البلوط الصمود، متمسكةً بجذورها بقوة. لكن الرياح كانت أقوى من أي وقتٍ مضى. بدأت أغصانها تتكسر، وجذعها يئن تحت الضغط الشديد، ولم تستطع مقاومة قوة الطبيعة الهائلة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The oak tree tried to stand firm, holding tightly to its roots. But the wind was stronger than ever before. Its branches began to snap, and its trunk groaned under the immense pressure. It could not withstand nature's powerful force.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The oak tree has been uprooted and lies on its side in the muddy ground, its branches broken and scattered. The storm is beginning to subside. The reed, however, is slowly rising back to its full height, gently shaking off the water."
+      },
+      "ar": {
+        "text": "في النهاية، لم تعد شجرة البلوط قادرة على التحمل. اقتلعت جذورها من الأرض، وسقطت الشجرة العظيمة أرضاً، مكسورةً ومحطمة. لقد أثبتت العاصفة أن الصلابة وحدها لا تكفي.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Finally, the mighty oak could hold on no longer. Its roots were torn from the earth, and the great tree crashed to the ground, broken and shattered. The storm had proven that rigidity alone was not enough.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The storm has passed. The sun is breaking through the clouds. The slender reed stands tall and undamaged in the meadow, gently swaying. The fallen oak tree lies nearby, a testament to its rigid pride. Peaceful, post-storm scene."
+      },
+      "ar": {
+        "text": "أما القصبة، فقد انحنت تماماً مع الرياح، ثم وقفت مرة أخرى عندما هدأت العاصفة. لم تتضرر، بل كانت تقف شامخةً ومرنة. لقد تعلمت القصبة أن الانحناء هو سر البقاء.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "But the reed, which had bent low with the wind, slowly rose again when the storm passed. It was unharmed and stood tall and flexible. The reed had learned that bending was the secret to survival.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The reed looks towards the fallen oak tree with a gentle, understanding expression. The sun shines warmly on the reed. The overall mood is peaceful and reflective, with a hint of sadness for the oak but acceptance of the lesson learned."
+      },
+      "ar": {
+        "text": "وقفت القصبة بجانب شجرة البلوط الملقاة، متفكرةً في الدرس الذي تعلمته. أدركت أن القوة الحقيقية لا تكمن في الصلابة التي ترفض الانحناء، بل في المرونة التي تسمح بالتكيف والبقاء.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The reed stood beside the fallen oak, reflecting on the lesson learned. It understood that true strength was not in being too stiff to bend, but in being flexible enough to adapt and endure.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

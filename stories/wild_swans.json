@@ -1,0 +1,221 @@
+{
+  "id": "wild_swans",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "enchanting storybook illustration, soft dreamy lighting, whimsical forest and castle settings, gentle and expressive characters, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A beautiful young princess with long golden hair, wearing a simple dress, stands in a magical forest clearing. Eleven majestic white swans fly gracefully overhead against a twilight sky, their wings catching the last light. The princess looks up with a hopeful, loving expression."
+  },
+  "i18n": {
+    "ar": {
+      "title": "البجع البري",
+      "subtitle": "إليسا والأمراء البجع",
+      "tagline": "أميرة شجاعة، إخوة مبعدون، وسرٌّ خفي"
+    },
+    "en": {
+      "title": "The Wild Swans",
+      "subtitle": "Eliza and the Swan Princes",
+      "tagline": "A brave princess, banished brothers, and a secret task"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A kind king with a gentle smile plays with twelve cheerful children – eleven lively boys and one sweet little girl with golden hair – in a sunlit castle garden filled with bright flowers. The children are laughing and running."
+      },
+      "ar": {
+        "text": "في مملكة بعيدة، عاش ملك طيب مع اثني عشر طفلاً جميلاً: أحد عشر أميراً شجاعاً، وأميرة صغيرة اسمها إليسا، ذات شعر ذهبي كالشمس. كانوا يعيشون أياماً مليئة بالحب واللعب، يضحكون في حدائق القصر الواسعة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a faraway kingdom, a kind king lived with his twelve beautiful children: eleven brave princes, and a sweet little princess named Eliza, whose hair was golden like the sun. They lived days full of love and play, laughing in the wide castle gardens.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "An evil queen with a stern face and dark robes stands over a cauldron, stirring a green potion. Behind her, the eleven princes, looking confused and a little scared, are transforming into elegant white swans, their clothes falling away as feathers appear."
+      },
+      "ar": {
+        "text": "لكن سعادتهم لم تدم طويلاً. تزوّج الملك بملكة شريرة لا تحب الأطفال. أرادت التخلص من الأمراء. ألقت عليهم تعويذة مظلمة، فتحوّل الأمراء الأحد عشر إلى بجع أبيض جميل، وطاروا بعيداً في السماء الزرقاء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But their happiness did not last. The king married an evil queen who did not love children. She wanted to get rid of the princes. She cast a dark spell upon them, and the eleven princes transformed into beautiful white swans, flying far away into the blue sky.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The evil queen, with a cruel smirk, pushes Princess Eliza, now wearing plain, simple clothes, out of the castle gates into a dark, overgrown forest. Eliza looks back with a sad, bewildered expression."
+      },
+      "ar": {
+        "text": "ثم جاء دور الأميرة إليسا. منعتها الملكة الشريرة من العيش في القصر، وأرسلتها بعيداً لتعيش مع فلاحين فقراء في بيتٍ صغير. حزنت إليسا كثيراً، لكنها لم تنسَ إخوتها أبداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Then it was Princess Eliza's turn. The evil queen forbade her from living in the castle and sent her far away to live with poor farmers in a small cottage. Eliza was very sad, but she never forgot her brothers.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "Eliza, now a young woman, sits by a riverbank at sunset, her golden hair flowing. She watches eleven white swans gracefully swimming on the water. A single tear rolls down her cheek, but her eyes hold a glimmer of hope and recognition."
+      },
+      "ar": {
+        "text": "كبرت إليسا وأصبحت شابة جميلة. كانت تحب المشي بجانب النهر، تتأمل الطبيعة وتتذكر إخوتها. في أحد الأيام، رأت أحد عشر بجعة بيضاء تسبح برشاقة على الماء. شعرت بقلبها يخفق، كأنها تعرفهم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza grew into a beautiful young woman. She loved walking by the river, gazing at nature and remembering her brothers. One day, she saw eleven white swans gracefully swimming on the water. Her heart fluttered, as if she knew them.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The eleven swans land on the riverbank as the sun sets. As the last rays touch them, they transform back into young men, her eleven brothers, in simple tunics. Eliza rushes to embrace them, tears of joy streaming down her face."
+      },
+      "ar": {
+        "text": "عندما غربت الشمس، نزلت البجعات إلى اليابسة، وفي لحظةٍ سحرية، تحوّلوا إلى أمراء! لقد كانوا إخوتها! احتضنتهم إليسا بحبٍّ وفرح، وتحدّثوا طويلاً عن كل ما حدث لهم. كانت البجعات تطير في النهار وتعود بشراً في الليل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As the sun set, the swans landed on the bank, and in a magical moment, they transformed into princes! They were her brothers! Eliza embraced them with love and joy, and they talked for a long time about everything that had happened. The swans would fly by day and return to human form by night.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Eliza sits with her eleven brothers in a hidden cave, illuminated by a small fire. The brothers explain the spell, looking solemn. Eliza listens intently, her face determined, holding a small bundle of stinging nettles."
+      },
+      "ar": {
+        "text": "أخبرها إخوتها أن الساحرة الشريرة ألقت عليهم تعويذة لا تكسر إلا بشيء صعب. يجب أن تنسج أحد عشر قميصاً من نبات القراص اللاذع، وتلفّها عليهم. والأهم، يجب أن تلتزم الصمت التام حتى تنتهي من مهمتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Her brothers told her that the evil sorceress had cast a spell that could only be broken by a difficult task. She had to weave eleven shirts from stinging nettles and throw them over each of them. Most importantly, she had to remain completely silent until her task was done.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Eliza, with a determined expression, gathers stinging nettles from a thorny patch in a moonlit forest. Her hands are bare and red from the stings, but she continues her work bravely. The nettles glow faintly with a magical aura."
+      },
+      "ar": {
+        "text": "بدأت إليسا عملها الشاق. ذهبت إلى الغابة وجمعت نبات القراص اللاذع، الذي كان يلسع يديها الرقيقتين. كانت الألم شديداً، لكن حبها لإخوتها كان أقوى. كانت تنسج وتنسج، ودموعها تسقط بصمت.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza began her difficult work. She went into the forest and gathered stinging nettles, which stung her delicate hands. The pain was intense, but her love for her brothers was stronger. She wove and wove, her tears falling silently.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Eliza, looking tired but focused, sits in a small, rustic hut, spinning nettle thread on a simple spinning wheel. Her hands are bandaged. Outside the window, a kind young king on horseback rides by, noticing the light in her window, looking intrigued."
+      },
+      "ar": {
+        "text": "في أحد الأيام، كان ملك شاب يركب حصانه في الغابة، ورأى إليسا تعمل بصمت في كوخها الصغير. أعجب بجمالها وصمتها، فطلب منها أن تأتي معه إلى قصره لتكون زوجته. لم تستطع إليسا أن تتكلم، لكنها أومأت برأسها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, a young king was riding his horse through the forest and saw Eliza silently working in her small hut. He was captivated by her beauty and quiet grace, so he asked her to come with him to his castle to be his wife. Eliza could not speak, but she nodded her head.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Eliza, now a queen, sits in a lavish castle chamber, but she is still secretly weaving nettle shirts. Her hands are still bandaged. A kind young king looks at her with concern, while a suspicious bishop watches her from the shadows, his eyes narrowed."
+      },
+      "ar": {
+        "text": "عاشت إليسا في القصر، وأصبحت ملكة، لكنها لم تتوقف عن عملها السري. كانت تنسج قمصان القراص في غرفتها، وتخفيها عن الجميع. كان الملك يحبها، لكن الكاهن الأكبر كان يشك في صمتها ويظن أنها ساحرة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza lived in the castle and became a queen, but she did not stop her secret work. She wove the nettle shirts in her chamber, hiding them from everyone. The king loved her, but the archbishop suspected her silence and thought she was a witch.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Eliza, looking frightened but resolute, is led by royal guards through a castle courtyard towards a large pyre. She clutches the bundle of eleven nettle shirts tightly. The king looks on with a sad, conflicted expression, while the bishop points accusingly."
+      },
+      "ar": {
+        "text": "في أحد الأيام، اكتشف الكاهن قمصان القراص وأخبر الملك أن إليسا ساحرة. حزن الملك، لكنه لم يصدقه تماماً. حكموا على إليسا بالحرق، لكنها لم تتكلم، بل تمسّكت بقمصانها السبعة التي صنعتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, the archbishop discovered the nettle shirts and told the king that Eliza was a witch. The king was saddened but did not fully believe him. They sentenced Eliza to be burned, but she did not speak, clinging to the seven shirts she had made.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Just as Eliza is about to be led to the pyre, eleven majestic white swans fly down from the sky and land in the castle courtyard. Eliza looks up with a look of immense relief and hope, holding out the shirts."
+      },
+      "ar": {
+        "text": "بينما كانوا يقودون إليسا إلى النار، ظهرت أحد عشر بجعة بيضاء في السماء! حلّقوا فوق القصر ونزلوا بهدوء إلى الفناء. كانت هذه اللحظة التي انتظرتها إليسا لإنقاذ إخوتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As they led Eliza to the pyre, eleven white swans appeared in the sky! They circled above the castle and gently landed in the courtyard. This was the moment Eliza had been waiting for to save her brothers.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Eliza quickly throws the nettle shirts over the eleven swans. As each shirt touches a swan, it transforms into a young prince, some with swan wings remaining on their arms, looking grateful and relieved. Eliza finally smiles and opens her mouth to speak."
+      },
+      "ar": {
+        "text": "ألقت إليسا القمصان بسرعة على البجعات. تحوّلت كل بجعة إلى أمير من إخوتها، لكن أحدهم بقي لديه جناح بجعة بدلاً من ذراع، لأن إليسا لم تكمل له قميصاً كاملاً. في تلك اللحظة، رفعت إليسا صوتها وقالت: «إخوتي!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza quickly threw the shirts over the swans. Each swan transformed into one of her brothers, but one still had a swan's wing instead of an arm, because Eliza had not finished a complete shirt for him. In that moment, Eliza finally spoke, crying, \"My brothers!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The eleven princes, now fully human (one with a swan wing), stand protectively around Eliza. The king looks shocked but relieved and happy. The bishop looks surprised and ashamed. The crowd cheers, realizing Eliza's innocence."
+      },
+      "ar": {
+        "text": "شرح الأمراء للملك كل شيء، وكيف أن أختهم الشجاعة أنقذتهم بصمتها وحبها. فهم الملك الحقيقة، وعرف أن إليسا لم تكن ساحرة، بل كانت أميرة مخلصة. اعتذر منها، وعاقب الملكة الشريرة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princes explained everything to the king, telling him how their brave sister had saved them with her silence and love. The king understood the truth and knew that Eliza was not a witch, but a loyal princess. He apologized to her and punished the evil queen.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Eliza, now a radiant queen in a beautiful gown, stands with her kind king and all eleven of her brothers (the one with the swan wing is smiling happily). They are in a beautiful castle garden, celebrating with music and flowers. White doves fly overhead."
+      },
+      "ar": {
+        "text": "عاشت إليسا وإخوتها في سعادة وهناء. حكمت المملكة بحكمة ولطف إلى جانب ملكها المحب. وتذكر الجميع تضحيتها العظيمة وصمتها الشجاع الذي أعاد لها عائلتها وأنقذ مملكتها. وعاش الجميع في سلام.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Eliza and her brothers lived happily ever after. She ruled the kingdom with wisdom and kindness alongside her loving king. Everyone remembered her great sacrifice and brave silence, which brought her family back and saved her kingdom. And all lived in peace.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

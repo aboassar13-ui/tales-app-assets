@@ -1,0 +1,235 @@
+{
+  "id": "shater_hassan",
+  "category": "arabic_classic",
+  "source": "Arabic folk tale (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 12,
+  "style_suffix": "vibrant desert-themed children's book illustration, warm sandy and jewel-toned palette, expressive friendly characters, ancient Arabian kingdom setting, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A clever young boy named Hassan with a wide, confident smile, wearing traditional desert clothes, holding a glowing brass mirror. Behind him, a majestic desert palace and a friendly-looking, slightly bewildered ogre are visible in the distance. Sunny day."
+  },
+  "i18n": {
+    "ar": {
+      "title": "شاطر حسن",
+      "subtitle": "الفتى الذكي والغول الطيب",
+      "tagline": "ذكاءٌ يفوق القوة، وشجاعةٌ في قلبٍ صغير"
+    },
+    "en": {
+      "title": "Clever Hassan",
+      "subtitle": "The Smart Boy and the Gentle Ogre",
+      "tagline": "Wisdom over strength, and courage in a little heart"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A bustling marketplace in an ancient desert city. A young boy, Hassan, with bright, curious eyes, helps his father sell fresh dates and spices. People in traditional robes haggle and laugh. Warm sunlight filters through awnings."
+      },
+      "ar": {
+        "text": "في قلب مدينةٍ صحراوية قديمة، عاش فتىً صغير اسمه حسن. كان حسن ذكياً جداً، يحب الاستماع إلى حكايات المسافرين، ويتعلم من كل شيء يراه. كان يساعد والده في السوق، ويبيع التمر والتوابل بابتسامةٍ ودودة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In the heart of an ancient desert city, lived a bright young boy named Hassan. Hassan was very clever, loving to listen to travelers' tales and learning from everything he saw. He helped his father in the bustling marketplace, selling dates and spices with a friendly smile.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A beautiful princess with kind eyes, wearing a flowing silk gown and a delicate tiara, tends to vibrant flowers in a lush palace garden. Tall palm trees and ornate fountains are in the background. She looks a little sad."
+      },
+      "ar": {
+        "text": "لم يكن بعيداً عن المدينة قصرٌ فخم، يسكنه ملكٌ حكيم وابنته الأميرة الجميلة. كانت الأميرة لطيفة القلب، تحب الأزهار والعصافير، لكنها كانت تشعر بالوحدة أحياناً، وتتمنى أن تجد صديقاً يشاركها أحلامها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Not far from the city stood a grand palace, home to a wise king and his beautiful daughter, the princess. The princess was kind-hearted, loving flowers and birds, but sometimes she felt a little lonely, wishing for a friend to share her dreams.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A fearsome but not scary ogre with a large, friendly-looking nose and green skin, wearing a simple tunic, peeks out from behind a large rock in a rocky desert landscape. He looks curious and a bit shy. Distant mountains are hazy."
+      },
+      "ar": {
+        "text": "وفي الصحراء الواسعة، بعيداً عن أعين الناس، عاش غولٌ ضخم. لم يكن شريراً، بل كان وحيداً جداً، ويحب جمع الأشياء اللامعة. كان يخاف الناس منه بسبب حجمه وصوته العالي، لكن قلبه كان طيباً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And in the vast desert, far from prying eyes, lived a giant ogre. He wasn't wicked, but very lonely, and loved collecting shiny things. People feared him because of his size and loud voice, but his heart was kind.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The ogre, looking surprised and a little sad, gently holds a delicate, sparkling brass mirror in his huge hand. His cave is dimly lit with glowing crystals, and there are many other shiny trinkets scattered around."
+      },
+      "ar": {
+        "text": "في أحد الأيام، وجد الغول مرآةً نحاسية لامعة في الصحراء. كانت مرآةً سحرية، تظهر صوراً من بعيد. نظر فيها فرأى الأميرة في حديقة القصر، وفتن بجمالها ولطفها. تمنى لو كان لديه صديقٌ مثلها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, the ogre found a shiny brass mirror in the desert. It was a magical mirror, showing distant images. He looked into it and saw the princess in her palace garden, enchanted by her beauty and kindness. He wished he had a friend like her.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The ogre, with a gentle but firm expression, carefully carries the princess, who looks surprised but not scared, through a rocky desert path towards his cave. He holds her gently, like a precious bird. The princess is looking around curiously."
+      },
+      "ar": {
+        "text": "لكن الغول، لشدة وحدته، لم يعرف كيف يطلب صداقتها. فقرر أن يأخذها إلى كهفه ليُريها كنوزه. حملها بلطفٍ من حديقة القصر، وذهب بها إلى كهفه السري. لم تؤذها الأميرة، لكنها كانت خائفة ووحيدة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But the ogre, in his great loneliness, didn't know how to ask for her friendship. So he decided to take her to his cave to show her his treasures. He gently carried her from the palace garden to his secret cave. The princess was unharmed, but she felt scared and alone.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The King, with a worried expression, stands on his palace balcony, looking out over the vast desert. Royal guards on camels are already searching in the distance. The palace garden is visible below."
+      },
+      "ar": {
+        "text": "عندما اكتشف الملك اختفاء ابنته، حزن حزناً شديداً. أرسل جنوده في كل اتجاه، ووعد بجائزةٍ كبيرة لمن يعيد الأميرة. انتشر الخبر في كل مكان، وسمع به حسن في السوق.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the King discovered his daughter was gone, he was filled with deep sorrow. He sent his soldiers in every direction, promising a great reward to anyone who could bring her back. The news spread far and wide, and Hassan heard it in the marketplace.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Hassan, looking determined and thoughtful, sits cross-legged on a rug in his humble home, drawing a map in the sand with a stick. His father watches him proudly. A small oil lamp casts a warm glow."
+      },
+      "ar": {
+        "text": "فكر حسن طويلاً. تذكر حكايات الغيلان التي سمعها، وكيف أنهم يحبون الأشياء اللامعة. خطرت له فكرةٌ ذكية. قال لوالده: «سأذهب لأبحث عن الأميرة. سأعود بها سالمة إن شاء الله.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hassan thought for a long time. He remembered the ogre tales he'd heard, and how they loved shiny things. A clever idea sparked in his mind. He told his father, \"I will go and search for the princess. I will bring her back safely, God willing.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Hassan, riding a friendly-looking camel, traverses a beautiful desert landscape with rolling dunes and distant oases. He looks confident, carrying a small bag. The sun is setting, casting long shadows."
+      },
+      "ar": {
+        "text": "أخذ حسن معه كيساً صغيراً مليئاً بقطعٍ زجاجية لامعة وملونة، وبعض الطعام والماء. ركب جمله الأمين، وانطلق في الصحراء، يتبع آثار أقدام الغول الكبيرة التي وجدها قرب القصر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hassan took a small bag filled with shiny, colorful glass pieces, along with some food and water. He rode his trusty camel and set off into the desert, following the large ogre footprints he found near the palace.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Hassan stands at the entrance of a large, dark cave, holding up a sparkling glass shard. The ogre peeks out from inside, looking curious and intrigued by the light, not menacing. The princess is visible in the background, looking hopeful."
+      },
+      "ar": {
+        "text": "بعد أيام من السفر، وصل حسن إلى كهفٍ كبير. وقف عند المدخل، وأخرج قطعةً زجاجية لامعة من كيسه، ورفعها لتتألق في ضوء الشمس. سمع حركةً في الداخل، فابتسم بخبث.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "After days of travel, Hassan reached a large cave. He stood at the entrance, took a shiny glass shard from his bag, and held it up to sparkle in the sunlight. He heard movement inside and smiled slyly.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The ogre, with a wide, curious smile, holds out his huge hand, eager to receive a handful of glittering glass pieces from Hassan. Hassan, looking calm and friendly, carefully places the pieces in the ogre's hand. The princess watches, astonished, from a safe distance."
+      },
+      "ar": {
+        "text": "خرج الغول من الكهف، وعيناه تلمعان من الفضول. قال حسن بصوتٍ هادئ: «مرحباً أيها الغول الطيب. لقد أحضرت لك هديةً جميلة، قطعاً لامعة تزيد على كنوزك.» مد الغول يده الضخمة، وأخذ القطع بفرح.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The ogre emerged from the cave, his eyes gleaming with curiosity. Hassan said in a calm voice, \"Greetings, kind ogre. I have brought you a beautiful gift, shiny pieces to add to your treasures.\" The ogre extended his huge hand and took the pieces with joy.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Hassan and the ogre sit together, with the princess nearby, watching as Hassan uses a small piece of cloth to polish the ogre's brass mirror. The ogre looks fascinated and happy, pointing at the mirror, while Hassan explains something with a smile."
+      },
+      "ar": {
+        "text": "جلس حسن مع الغول، وبدأ يُري الغول كيف يجعل المرآة النحاسية أكثر لمعاناً. قال حسن: «هذه المرآة سحرية، لكنها تحتاج إلى العناية. إذا أردت أن ترى فيها صوراً أوضح، يجب أن تكون نظيفةً جداً.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hassan sat with the ogre and began to show him how to make the brass mirror shine even brighter. Hassan said, \"This mirror is magical, but it needs care. If you want to see clearer images, it must be very clean.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The ogre, looking confused but eager to please, tries to polish the brass mirror himself, but his huge fingers are clumsy. Hassan gently takes the mirror to demonstrate the correct technique. The princess watches with a small smile."
+      },
+      "ar": {
+        "text": "حاول الغول أن يقلّد حسناً، لكن أصابعه الكبيرة كانت خرقاء. قال حسن: «لا بأس أيها الغول، سأعلمك سراً. هذه المرآة تحتاج إلى لمسةٍ خفيفة. دعني أريك.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The ogre tried to imitate Hassan, but his huge fingers were clumsy. Hassan said, \"It's alright, ogre, I'll teach you a secret. This mirror needs a gentle touch. Let me show you.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "Hassan holds the brass mirror, showing the ogre a clear, beautiful reflection of the princess, who is smiling gently. The ogre looks delighted and amazed. Hassan winks at the princess, indicating his plan."
+      },
+      "ar": {
+        "text": "أخذ حسن المرآة وبدأ يمسحها بلطف. فجأةً، ظهرت صورة الأميرة فيها بوضوح، تبتسم ابتسامةً رقيقة. نظر الغول إلى الصورة بانبهار، وكأنه يراها لأول مرة بهذا الوضوح. أومأ حسن للأميرة سراً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hassan took the mirror and began to polish it gently. Suddenly, the princess's image appeared clearly, smiling softly. The ogre gazed at the reflection in awe, as if seeing her clearly for the first time. Hassan secretly winked at the princess.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Hassan, with a friendly and reassuring expression, leads the princess out of the cave. The ogre stands at the entrance, waving goodbye with a slightly sad but understanding expression, holding his shiny brass mirror. Sunny desert morning."
+      },
+      "ar": {
+        "text": "قال حسن للغول: «أرى أنك تحب الأميرة كثيراً. لكنها تحتاج أيضاً إلى رؤية والدها. إذا سمحت لها بالذهاب، سأعود لأريك المزيد من الأشياء اللامعة، وسأزورك دائماً.» فكر الغول للحظة، ثم أومأ برأسه موافقاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hassan told the ogre, \"I see you love the princess very much. But she also needs to see her father. If you let her go, I will come back to show you more shiny things, and I will visit you always.\" The ogre thought for a moment, then nodded in agreement.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "Hassan and the princess ride a camel back to the palace, smiling happily. The King rushes out to embrace his daughter, looking overjoyed. Royal guards cheer in the background. Bright, celebratory atmosphere."
+      },
+      "ar": {
+        "text": "ركب حسن والأميرة الجمل، وعادا إلى القصر. كان الملك سعيداً جداً بعودة ابنته، وشكر حسناً على شجاعته وذكائه. وعد حسن الغول أنه سيزوره، وأنهما سيصبحان صديقين حقيقيين.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hassan and the princess rode the camel back to the palace. The King was overjoyed to have his daughter back and thanked Hassan for his bravery and cleverness. Hassan promised the ogre he would visit, and that they would become true friends.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

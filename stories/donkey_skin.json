@@ -1,0 +1,305 @@
+{
+  "id": "donkey_skin",
+  "category": "fairy_tale",
+  "source": "Charles Perrault (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 12,
+  "style_suffix": "gentle watercolor children's book illustration, earthy and jewel-tone palette, whimsical fairy-tale setting, expressive friendly faces, soft storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young princess with kind eyes, wearing a cloak made of shimmering donkey skin, peeks out from behind a large oak tree in a sun-dappled forest. A friendly rabbit sits at her feet, and a gentle bluebird is perched on her shoulder."
+  },
+  "i18n": {
+    "ar": {
+      "title": "جلد الحمار",
+      "subtitle": "أميرةٌ ذكية وعباءة سحرية",
+      "tagline": "لُطفٌ وذكاء في رحلةٍ غير متوقعة"
+    },
+    "en": {
+      "title": "Donkey-Skin",
+      "subtitle": "A Clever Princess and a Magical Cloak",
+      "tagline": "Kindness and wit on an unexpected journey"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A beautiful queen with long golden hair holds a newborn baby princess tenderly in a sunlit castle chamber. A king with a kind smile looks on lovingly. Delicate flowers bloom in the window."
+      },
+      "ar": {
+        "text": "في مملكةٍ مزدهرة، عاش ملكٌ وملكته محبوبان. رزقا بطفلةٍ جميلة ذات عينين لامعتين، فأسماها الملك اسمًا يعني 'جمال الروح'. كانت الأميرة هديةً ثمينة، وتمنى لها الأبوان حياةً مليئةً بالسعادة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a flourishing kingdom, there lived a beloved king and queen. They were blessed with a beautiful baby girl, whose eyes sparkled with joy. The king named her 'Soul's Beauty.' She was a precious gift, and her parents wished her a life filled with happiness.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A king, looking sad and aged, sits by the bedside of his dying queen. The young princess, about eight years old, holds her mother's hand. The room is filled with soft, muted light."
+      },
+      "ar": {
+        "text": "لكن الحزن زار القصر. مرضت الملكة مرضاً شديداً، وقبل أن تفارق الحياة، طلبت من الملك أن يعدها بأمرٍ واحد: أن يتزوج فقط من امرأةٍ تفوقها جمالاً. وعدها الملك وهو حزين، ولم يدرِ كم كان هذا الوعد صعباً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But sorrow visited the palace. The queen fell gravely ill. Before she passed away, she asked the king for one promise: that he would only marry someone more beautiful than herself. The king, heartbroken, promised, not knowing how difficult that vow would be.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A king, looking bewildered and unhappy, is presented with a magical mirror by a courtier. A portrait of his deceased queen hangs on the wall, her beauty serene. The room is dimly lit."
+      },
+      "ar": {
+        "text": "بحث الملك عن أجمل امرأة في العالم، ووجد مرآةً سحرية تقول له الحقيقة. كانت المرآة تخبره أن لا أحد أجمل من الملكة الراحلة. لكن بعد سنوات، بدأت المرآة تقول إن الأميرة 'جمال الروح' هي الأجمل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The king searched for the most beautiful woman in the world and found a magical mirror that always told the truth. The mirror confirmed that no one was more beautiful than his late queen. But years later, the mirror began to say that the princess, 'Soul's Beauty,' was the fairest.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A king with a pained expression looks at his young daughter, the princess, who is dressed in simple clothes. He holds the magical mirror, which reflects the princess's innocent, beautiful face. The king looks distraught."
+      },
+      "ar": {
+        "text": "شعر الملك بالحزن والخوف. لقد وعد زوجته الراحلة! لم يكن يريد أن يتزوج ابنته، لكنه شعر أنه مجبرٌ على الوفاء بوعده. فكّر في طريقةٍ للخروج من هذا المأزق الصعب، وقرر أن يطلب من ابنته أشياء مستحيلة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The king felt anguish and fear. He had promised his departed wife! He did not want to marry his daughter, yet he felt bound by his vow. He pondered how to escape this terrible dilemma and decided to ask his daughter for impossible things.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A young princess sits sadly in a royal chamber, holding a single, perfect rose. She looks out a window at the distant kingdom. The king stands in the doorway, looking pained."
+      },
+      "ar": {
+        "text": "قال الملك للأميرة: «إن كنتِ حقاً أجمل مني، أحضري لي فستاناً من نور الشمس، وفستاناً من ضوء القمر، وآخر من لون السماء.» ظنّ الملك أنها لن تستطيع، لكن الأميرة وافقت بعينيها الحزينتين.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The king told the princess, \"If you are truly more beautiful than I, bring me a dress made of sunlight, one of moonlight, and another the color of the sky.\" The king thought she would fail, but the princess agreed with her sad eyes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A magical tailor, with twinkling eyes and a long beard, works with threads of pure light to weave a shimmering golden dress. The princess watches with hope. The chamber is filled with soft, ethereal light."
+      },
+      "ar": {
+        "text": "ذهبت الأميرة إلى خياطٍ عجوزٍ وحكيم، كان يعرف أسرار النسيج السحري. قام الخياط بنسج فستانٍ من خيوط الشمس الذهبية، وفستانٍ آخر من خيوط القمر الفضية، وثالثٍ من أنقى ألوان السماء الزرقاء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess went to an old, wise tailor who knew the secrets of magical weaving. The tailor spun a gown from threads of golden sunlight, another from silvery moonlight, and a third from the purest blue of the sky.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The princess, now dressed in a magnificent gown of woven sunlight, stands before her father and the magical mirror. The mirror glows brightly, reflecting her radiant beauty. The king looks astonished and worried."
+      },
+      "ar": {
+        "text": "عندما رأى الملك الفساتين، تعجّب من جمالها. لكنه لم يستسلم، وقال: «الآن، أحضري لي جلد حمارٍ خاص، جلده يلمع كالذهب!» كانت هذه مهمةً شبه مستحيلة، لكن الأميرة لم تيأس.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the king saw the dresses, he marveled at their beauty. But he did not give up. \"Now,\" he declared, \"bring me the skin of a special donkey, one whose hide shines like gold!\" This seemed an almost impossible task, but the princess did not despair.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A shimmering, golden-hued donkey stands in a stable, its coat glowing softly. The princess gently strokes its head, her face a mixture of sadness and determination. Tiny magical sparks emanate from the donkey's coat."
+      },
+      "ar": {
+        "text": "كان في الحديقة الخلفية للحصن حمارٌ عجوزٌ، جلده يلمع ببريقٍ ذهبي غريب. كان هذا الحمار هديةً سحرية للملك. اقتربت منه الأميرة، وبلمسةٍ لطيفة، استطاعت أن تحصل على جلده الثمين.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In the castle's back garden stood an old donkey whose coat shimmered with a strange golden light. This donkey was a magical gift to the king. The princess approached it, and with a gentle touch, she was able to obtain its precious hide.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The princess, now wearing a cloak made from the shimmering, golden donkey skin, looks sad but resolute. She packs a small bundle of belongings. Her father, the king, looks away, unable to meet her gaze."
+      },
+      "ar": {
+        "text": "صنعت الأميرة من جلد الحمار عباءةً رائعة، وارتدتها فوق ملابسها البسيطة. ودّعت والدها، ثم غادرت القصر وحيدةً، تحمل معها حقيبةً صغيرة، متجهةً نحو المجهول، وقلبها يخفق بالأمل والخوف.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess fashioned a magnificent cloak from the donkey skin and wore it over her simple clothes. She bid her father farewell, then left the castle alone, carrying a small bundle, heading towards the unknown, her heart filled with hope and fear.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The princess, disguised in her shimmering donkey-skin cloak, walks through a bustling medieval town market. People in colorful clothes ignore her, and she looks small and lost amidst the crowd. A friendly dog wags its tail at her."
+      },
+      "ar": {
+        "text": "تجولت الأميرة في بلادٍ غريبة، ترتدي عباءة الحمار حتى لا يعرفها أحد. وصلت إلى مملكةٍ بعيدة، وعملت في مطبخ القصر كطاهية. كانت تعمل بجدٍ ولطف، لكنها كانت تشعر بالوحدة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess wandered through strange lands, wearing the donkey cloak so no one would recognize her. She arrived in a faraway kingdom and found work in the palace kitchen as a scullery maid. She worked hard and kindly, but she often felt lonely.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The princess, in her donkey-skin cloak, secretly plays a small lute in a quiet corner of the palace garden. A little bird perches on her shoulder, and a curious rabbit listens nearby. Moonlight filters through the trees."
+      },
+      "ar": {
+        "text": "في ليالي الصيف الهادئة، كانت الأميرة تعزف على عودها الصغير في الحديقة، وتغني أغاني حزينة عن وطنها. كانت الطيور والفئران تتجمّع حولها، تستمع إلى صوتها الجميل، وتشعر بالأمان.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "On quiet summer nights, the princess would play her small lute in the garden, singing sad songs of her homeland. Birds and mice would gather around, listening to her beautiful voice and feeling safe in her presence.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A handsome prince, in royal attire, walks through the palace gardens and hears the princess's beautiful singing and lute music. He stops, captivated, trying to find the source of the enchanting sound. He looks thoughtful."
+      },
+      "ar": {
+        "text": "في إحدى الليالي، سمع الأمير صوت الأميرة العذب وهي تغني. انجذب إلى اللحن الجميل، وتتبعه حتى وجدها في الحديقة. عندما رآها، شعر بشيءٍ غريب في قلبه، وكأنها فتاةٌ يعرفها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One night, the prince heard the princess's sweet singing. He was drawn to the lovely melody and followed it until he found her in the garden. When he saw her, he felt something strange in his heart, as if he knew this girl.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The prince, with a gentle smile, offers the princess a delicate flower he has picked. She looks at him shyly from beneath her shimmering donkey-skin hood. They stand in a moonlit palace garden filled with roses."
+      },
+      "ar": {
+        "text": "بدأ الأمير يزور الأميرة كل ليلة، ويتحدث معها، ويشاركها أفكاره. ورغم أنها كانت ترتدي عباءة الحمار، شعر الأمير بالانجذاب نحو لطفها وروحها الطيبة. أحبّها دون أن يعرف من تكون.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince began visiting the princess every night, talking with her and sharing his thoughts. Even though she wore the donkey cloak, the prince felt drawn to her kindness and gentle spirit. He fell in love with her, without knowing who she truly was.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "A grand royal ball is in full swing. The prince, looking unhappy, is pressured by his parents to choose a bride. The princess, wearing her donkey-skin cloak, watches sadly from a shadowed doorway."
+      },
+      "ar": {
+        "text": "قرر الأمير إقامة حفلٍ كبير، ودعا كل فتيات المملكة. أراد أن يجد عروساً له. لكنه لم ينسَ الأميرة ذات الصوت الجميل، ولم يستطع أن يختار أي فتاةٍ أخرى.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince decided to hold a grand ball and invited all the young women of the kingdom, hoping to find a bride. But he had not forgotten the girl with the beautiful voice, and he could not choose any other.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "The princess, unable to bear the thought of the prince marrying someone else, secretly puts on one of her magical dresses (moonlight blue). She walks towards the ball, her face filled with a mix of hope and fear."
+      },
+      "ar": {
+        "text": "في ليلة الحفل، قررت الأميرة أن تخلع عباءة الحمار وتلبس فستانها الأزرق كلون السماء. ذهبت إلى الحفل، فبهر الجميع بجمالها، ولم يعرفوها. اقترب منها الأمير، وشعر أنه يعرفها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "On the night of the ball, the princess decided to cast aside the donkey cloak and wear her sky-blue dress. She went to the ball, and everyone was dazzled by her beauty, but no one recognized her. The prince approached her and felt as though he knew her.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_16",
+      "image": {
+        "prompt": "The prince and princess dance together joyfully in the middle of a magnificent ballroom. She wears the blue dress, and he looks deeply into her eyes. The other guests watch in admiration. Soft, magical light fills the room."
+      },
+      "ar": {
+        "text": "رقص الأمير معها، وشعر بسعادةٍ غامرة. سألها عن اسمها، فأخبرته أنها 'جمال الروح'. أدرك الأمير أنها هي الفتاة التي أحبّها في الحديقة، وأنها أميرةٌ حقيقية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince danced with her, feeling an overwhelming joy. He asked her name, and she told him she was 'Soul's Beauty.' The prince realized she was the girl he had loved in the garden, and that she was a true princess.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_17",
+      "image": {
+        "prompt": "The princess, realizing the ball is ending, rushes away from the prince, leaving behind a single earring that glints on the floor. The prince looks after her, holding the earring, a look of determination on his face."
+      },
+      "ar": {
+        "text": "لكن الأميرة تذكّرت أنها لا تزال ترتدي عباءة الحمار تحت فستانها. خافت أن يكتشف أمرها، فهربت بسرعة، تاركةً وراءها قلادةً صغيرة هديةً من والدها. أمسك الأمير بالقلادة، وقرر أن يبحث عنها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But the princess remembered she was still wearing the donkey cloak beneath her gown. Fearing discovery, she fled quickly, leaving behind a small necklace, a gift from her father. The prince caught the necklace and resolved to find her.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_18",
+      "image": {
+        "prompt": "The prince holds the delicate necklace found at the ball and searches the kingdom. He shows the necklace to all the women, but none of them can claim it. A royal herald announces the prince's search."
+      },
+      "ar": {
+        "text": "أعلن الأمير في جميع أنحاء المملكة: \"من تناسبها هذه القلادة، فهي عروسي\". جاب الجنود القرى والمدن، يعرضون القلادة على كل امرأة، لكن لم تناسب أحداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince announced throughout the kingdom, \"Whoever this necklace fits shall be my bride.\" Soldiers traveled to villages and towns, showing the necklace to every woman, but it fit no one.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_19",
+      "image": {
+        "prompt": "The prince arrives at the palace kitchen. The princess, still in her simple work clothes and donkey-skin cloak, steps forward. The prince kneels and gently fastens the necklace around her neck. It fits perfectly."
+      },
+      "ar": {
+        "text": "عندما وصل الجنود إلى قصر الأمير، رأت الأميرة القلادة، فعرفت أنها لها. تقدمت بجرأة، وارتداها الأمير حول عنقها، فكانت مناسبةً تماماً. أدرك الأمير أنها هي \"جمال الروح\" التي أحبها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When the soldiers reached the prince's own palace, the princess saw the necklace and knew it was hers. She stepped forward bravely. The prince fastened the necklace around her neck, and it fit perfectly. He knew she was the 'Soul's Beauty' he loved.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_20",
+      "image": {
+        "prompt": "The princess, now revealed in her true royal beauty and wearing the blue dress, stands beside the prince, holding hands. Her father, the king, arrives and embraces her joyfully. The magical donkey, with its golden coat, looks on contentedly."
+      },
+      "ar": {
+        "text": "خلعت الأميرة عباءة الحمار، وظهرت بجمالها الحقيقي. فرح الأمير كثيراً، وعادت الأميرة إلى مملكتها مع والدها، وتزوّجت الأمير، وعاشوا في سعادةٍ وهناء، متذكرين دائماً قوة اللطف والجمال الداخلي.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess removed the donkey cloak, revealing her true royal beauty. The prince rejoiced, and she returned to her kingdom with her father. She married the prince, and they lived happily ever after, always remembering the power of kindness and inner beauty.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

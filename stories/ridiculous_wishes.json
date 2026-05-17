@@ -1,0 +1,137 @@
+{
+  "id": "ridiculous_wishes",
+  "category": "fable",
+  "source": "Charles Perrault (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 5,
+  "style_suffix": "charming children's book illustration, vibrant earthy palette, whimsical storybook mood, friendly character designs, cozy woodland setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "A humble woodcutter with a kind smile and a pointed cap stands in a sun-dappled forest clearing, holding a stack of firewood. A small, glowing forest spirit with butterfly wings hovers nearby, offering him a shimmering light."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الأمنيات السخيفة",
+      "subtitle": "قصة الحطّاب وزوجته",
+      "tagline": "فكر قبل أن تتمنى!"
+    },
+    "en": {
+      "title": "The Ridiculous Wishes",
+      "subtitle": "The Tale of the Woodcutter and His Wife",
+      "tagline": "Think Before You Wish!"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A poor woodcutter with a worn coat and a kind face chops wood in a sunlit forest. A tiny, glowing spirit with iridescent wings appears from behind a mossy tree trunk, looking curious."
+      },
+      "ar": {
+        "text": "في قلب غابةٍ كثيفة، عاش حطّابٌ فقير مع زوجته. كانا يعيشان في كوخٍ متواضع، ويكسبان رزقهما بصعوبة. في أحد الأيام، وبينما كان الحطّاب يقطع الأشجار، ظهر أمامه روحٌ صغيرة متلألئة من بين الأشجار.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "Deep in a thick forest, lived a poor woodcutter and his wife. They had a humble cottage and earned their living with great difficulty. One day, as the woodcutter was chopping trees, a tiny, sparkling spirit appeared before him from behind the trunks.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The glowing forest spirit hovers in front of the surprised woodcutter, its hands emitting soft light. The woodcutter looks astonished, dropping his axe slightly. The forest floor is covered in fallen leaves."
+      },
+      "ar": {
+        "text": "قالت الروح الصغيرة بصوتٍ رقيق: \"أيها الحطّاب الطيب، لقد رأيتُ لطفك في قلب هذه الغابة. سأمنحك ثلاث أمنيات. لكن فكّر جيداً قبل أن تتمنى، فالكلمات لا يمكن استرجاعها.\"",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The little spirit said in a gentle voice, \"Kind woodcutter, I have seen your goodness in the heart of this forest. I shall grant you three wishes. But think carefully before you wish, for words cannot be taken back.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The woodcutter, thinking of his empty stomach, rubs his belly. He is in his small, simple kitchen. A steaming plate of sausages sits on the table. The forest spirit watches from the window with a slightly puzzled expression."
+      },
+      "ar": {
+        "text": "شعر الحطّاب بالجوع الشديد. فكّر في زوجته وفي وجبةٍ لذيذة. قال بسرعةٍ دون تفكير: \"أتمنى لو كان لديّ طبقٌ كبيرٌ من النقانق الشهية الآن!\" وفجأة، ظهر طبقٌ كبيرٌ من النقانق الساخنة أمامه.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The woodcutter felt a rumbling in his tummy. He thought of his wife and a delicious meal. He quickly said without thinking, \"I wish I had a big plate of tasty sausages right now!\" And suddenly, a large plate of hot sausages appeared before him.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The woodcutter's wife, a plump woman with rosy cheeks, happily places a long string of sausages on a wooden table in their cozy kitchen. The forest spirit peeks from behind a curtain, looking amused."
+      },
+      "ar": {
+        "text": "عاد الحطّاب إلى زوجته سعيداً، وأخبرها بما حدث. فرحت الزوجة كثيراً، وقالت: \"يا لك من رجلٍ غريب! أمنيةٌ كهذه؟ كان يجب أن تتمنى الثراء!\" لكنها بدأت تأكل النقانق بسعادة.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The woodcutter returned to his wife, happy, and told her what had happened. The wife was very pleased and said, \"Oh, you strange man! A wish like that? You should have wished for riches!\" But she began to eat the sausages with delight.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The wife is still eating sausages, but suddenly her nose elongates comically into a long, sausage-like shape. She looks shocked and horrified in a small hand mirror. The woodcutter facepalms in dismay."
+      },
+      "ar": {
+        "text": "وبينما كانت تأكل، قالت زوجته بغضب: \"كان يجب أن تتمنى لي أنفاً طويلاً مثل هذه النقانق!\" وفي لحظة، نما أنف الزوجة بشكلٍ غريب وطويل جداً، وطوله مثل طول النقانق التي تأكلها! صرخت الزوجة من المفاجأة.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "As she was eating, his wife said angrily, \"You should have wished my nose was as long as these sausages!\" In an instant, the wife's nose grew strangely long, as long as the sausages she was eating! The wife screamed in surprise.",
+        "voice": "onyx"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The woodcutter looks panicked, holding his wife's long, sausage-like nose with both hands. The forest spirit hovers nearby, looking sympathetic but unable to interfere further. The kitchen looks disheveled."
+      },
+      "ar": {
+        "text": "نظر الحطّاب إلى زوجته المذعورة، وقال: \"يا إلهي! لقد أسأت استخدام أمنيتي الثانية!\" ركض إلى الغابة بسرعة، ووجد روح الشجرة مرة أخرى.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The woodcutter looked at his panicked wife and said, \"Oh dear! I've misused my second wish!\" He ran back into the forest quickly and found the tree spirit again.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The woodcutter pleads with the forest spirit, gesturing wildly toward his home. The spirit listens patiently, its glow slightly dimmer. The forest setting is peaceful, with shafts of sunlight filtering through the canopy."
+      },
+      "ar": {
+        "text": "قال الحطّاب: \"أيتها الروح الطيبة، أرجوكِ، أصلحي ما فعلتُ! أتمنى أن يعود أنف زوجتي إلى طبيعته!\" ابتسمت الروح وقالت: \"لقد تعلمت درساً. أمنيتك الثالثة ستصلح الأمر.\"",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The woodcutter pleaded, \"Oh kind spirit, please, fix what I have done! I wish my wife's nose would return to normal!\" The spirit smiled and said, \"You have learned a lesson. Your third wish will set things right.\"",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The wife's nose is back to normal. She hugs her husband tightly in their cozy kitchen, looking relieved and happy. The woodcutter smiles, holding her close. The forest spirit gives a final, gentle nod from the doorway before disappearing."
+      },
+      "ar": {
+        "text": "عاد الحطّاب إلى المنزل، وعادت أنف زوجته طبيعية. تعانقت الزوجة بحرارة، وقالت: \"الحمد لله! لن أفكر في أمنيات سخيفة مرة أخرى!\" ومنذ ذلك اليوم، فكّروا جيداً قبل أن يتمنوا أي شيء.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The woodcutter returned home, and his wife's nose was normal again. The wife hugged him warmly and said, \"Thank goodness! I will never think of silly wishes again!\" From that day on, they always thought carefully before wishing for anything.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

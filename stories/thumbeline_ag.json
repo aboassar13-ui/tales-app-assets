@@ -1,0 +1,137 @@
+{
+  "id": "thumbeline_ag",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "gentle watercolor illustration, soft golden and earthy palette, cozy storybook mood, curious and kind expressions, rustic European countryside setting, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tiny girl with flower petal clothes and a leaf hat peeks out from behind a large dandelion; a friendly ladybug rests on her hand. Soft morning light filters through a garden."
+  },
+  "i18n": {
+    "ar": {
+      "title": "توملينا",
+      "subtitle": "الفتاة الصغيرة التي عاشت في زهرة",
+      "tagline": "صغيرة لكن شجاعة، وجدت طريقها دائمًا"
+    },
+    "en": {
+      "title": "Thumbelina",
+      "subtitle": "The Little Girl Who Lived in a Flower",
+      "tagline": "So small but so brave, she always found her way"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A kind, childless woman gently holds a tiny seed, no bigger than her thumb, in her palm. Warm sunlight streams into a cozy cottage room filled with plants."
+      },
+      "ar": {
+        "text": "كانت هناك امرأة طيبة لا تنجب أطفالاً. ذهبت إلى ساحرة عجوز طلبت منها بذرة سحرية. أعطتها الساحرة شعيرة صغيرة وقالت: \"ازرعي هذه، وسترين ما سيحدث\".",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Once upon a time, there was a kind woman who longed for a child. She visited an old witch who gave her a magical barleycorn. \"Plant this seed,\" the witch whispered, \"and see what wonderful thing comes of it.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A beautiful, tulip-like flower blooms in a terracotta pot on a windowsill. Inside, a tiny girl, no bigger than a thumb, sleeps peacefully nestled among the petals. Soft, warm light."
+      },
+      "ar": {
+        "text": "زرعت المرأة البذرة في أصيص زهور، وسرعان ما نبتت زهرة جميلة تشبه التوليب. وعندما فتحت بتلاتها، وجدت بداخلها فتاة صغيرة جداً، بحجم الإبهام! أسمتها المرأة \"توملينا\".",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The woman planted the seed in a flowerpot, and soon a beautiful, tulip-like flower bloomed. When its petals opened, nestled inside was a tiny girl, no bigger than a thumb! The woman named her \"Thumbelina.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "Thumbelina sleeps soundly in a polished walnut shell cradle, covered with soft flower petals. A large, friendly ladybug peeks over the edge of the shell. The room is cozy and filled with plants."
+      },
+      "ar": {
+        "text": "عاشت توملينا بسعادة في منزل المرأة. كانت تنام في قشرة جوزٍ ملمّعة، وتلعب بأوراق الزهور. كانت تحب الغناء والرقص، وكانت كل المخلوقات الصغيرة في الحديقة تحبها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Thumbelina lived happily with the woman. She slept in a polished walnut shell and played with flower petals. She loved to sing and dance, and all the little creatures in the garden adored her company.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A grotesque toad with bulging eyes peers through an open window into the cottage at night. It leers at the sleeping Thumbelina in her walnut shell cradle. Moonlight illuminates the scene."
+      },
+      "ar": {
+        "text": "في ليلةٍ من الليالي، بينما كانت توملينا نائمة، قفز ضفدعٌ قبيح عبر النافذة المفتوحة. رأى الفتاة الصغيرة اللطيفة، وقرر أنها ستكون زوجةً رائعة لابنه الضفدع.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One night, while Thumbelina slept soundly, a grumpy toad hopped through the open window. He saw the tiny, sweet girl and decided she would make a perfect wife for his own son.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Two toads, a large one and a smaller one, are on a lily pad in a pond at dawn. The smaller toad is admiring Thumbelina, who is asleep in her walnut shell cradle, which the toads are carrying on a lily pad."
+      },
+      "ar": {
+        "text": "حمل الضفدع الأم قشرة الجوز وطفلته النائمة، وقفز بها إلى بركة قريبة. وضعها على ورقة زنبق ماء كبيرة، واستدعى ابنه ليأخذها. استيقظت توملينا مذعورةً ورأت نفسها في وسط الماء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The mother toad carried the walnut shell and the sleeping Thumbelina away to a nearby pond. She placed the cradle on a large lily pad and called for her son to come and claim her. Thumbelina awoke in fright, finding herself adrift on the water.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Tiny fish swim around the lily pad carrying Thumbelina. A kind dragonfly hovers nearby, looking concerned. Thumbelina waves her arms, trying to get help. The toads watch from the bank, looking pleased."
+      },
+      "ar": {
+        "text": "بدأت توملينا بالبكاء. لكن أسماكاً لطيفة سمعت صراخها وقطعت ساق ورقة الزنبق، مما جعلها تطفو بعيداً عن الضفادع. ثم جاءت فراشة كبيرة وربطت خيطاً رفيعاً بقطعة قماش حول خصر توملينا، وسحبتها عبر النهر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Thumbelina began to cry. But some kind little fish heard her cries and nibbled through the stem of the lily pad, letting it float away from the toads. Then a dragonfly came and tied a thread around Thumbelina's waist, pulling her across the river.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Thumbelina, now on land, is being pulled by a dragonfly through a field of wildflowers. She is wearing a dress made of petals. A handsome prince with butterfly wings watches her with admiration from atop a tall flower."
+      },
+      "ar": {
+        "text": "وصلت توملينا إلى أرضٍ جديدة، حيث قابلت ملك الجنّات ذو الأجنحة الجميلة. وقع في حبها فوراً عندما سمع صوتها وغناءها. أراد أن يتزوجها ويعطيها زوجاً من الأجنحة لكي تطير.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Thumbelina arrived on new land, where she met the King of the Flower Fairies, who had beautiful wings. He fell instantly in love when he heard her singing voice. He wanted to marry her and give her a pair of wings so she could fly.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Thumbelina, now wearing delicate butterfly wings, smiles joyfully as she flies through a sun-dappled meadow filled with colorful flowers. The flower fairy king flies beside her, holding her hand. Other fairies watch happily."
+      },
+      "ar": {
+        "text": "أعطى الملك توملينا أجنحةً رقيقة كأجنحة الفراشة، واسمته \"مايا\". فرحت توملينا كثيراً، وأصبحت ملكة الجنّات. عاشت مع الملك في سعادةٍ وهناء، تطير بين الزهور كل يوم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The King gave Thumbelina delicate wings, like those of a butterfly, and renamed her \"Maia.\" Thumbelina was overjoyed and became the Queen of the Flower Fairies. She lived happily with the King, flying among the flowers every day.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

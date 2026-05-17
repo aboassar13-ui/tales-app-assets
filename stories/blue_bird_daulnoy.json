@@ -1,0 +1,221 @@
+{
+  "id": "blue_bird_daulnoy",
+  "category": "fairy_tale",
+  "source": "Madame d'Aulnoy, 1697 (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "soft, luminous watercolor children's book illustration, jewel-tone palette (sapphire, emerald, amethyst), ethereal fairy-tale setting, gentle storybook mood, expressive friendly faces, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A handsome prince transformed into a beautiful blue bird perches on a windowsill, singing to a lovely princess inside a moonlit castle room. A jealous fairy with dark robes glares from a shadowy corner. Soft, glowing light."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الطائر الأزرق",
+      "subtitle": "حكاية الأمير المسحور",
+      "tagline": "حبٌّ يغني، وسحرٌ يُكسر"
+    },
+    "en": {
+      "title": "The Blue Bird",
+      "subtitle": "The Tale of the Enchanted Prince",
+      "tagline": "Love that sings, and magic that breaks"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A handsome prince with kind eyes and a warm smile rides a white horse through a sunlit meadow filled with wildflowers. He waves to a group of happy villagers. Gentle, joyful atmosphere."
+      },
+      "ar": {
+        "text": "في مملكةٍ بعيدة، عاش أميرٌ شابٌّ طيب القلب. كان محبوباً من شعبه، ويحبّ قضاء وقته في التجول في حدائق القصر وغاباته. كان يحلم بالزواج من الأميرة الجميلة التي تسكن القصر المجاور.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a faraway kingdom, lived a young prince with a kind heart. He was loved by his people and enjoyed wandering through the palace gardens and forests. He dreamed of marrying the beautiful princess who lived in the neighboring castle.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A beautiful princess with long, flowing hair looks out from a castle balcony, smiling shyly at the prince on his horse below. Moonlight illuminates the scene. Warm, romantic mood."
+      },
+      "ar": {
+        "text": "وكانت الأميرة الجميلة تبادله المشاعر. كانت تنظر إليه من شرفتها كل مساء، وتتمنى لو يلتقيان قريباً. كانا يتبادلان الرسائل سراً، مليئة بالحب والأشواق، على أمل أن يجتمعا يوماً ما.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And the beautiful princess felt the same. She would gaze at him from her balcony each evening, wishing they could meet soon. They secretly exchanged letters filled with love and longing, hoping for a day they could be together.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A menacing fairy with sharp features and dark, swirling robes stands in a shadowy grove, a green magical glow emanating from her hand. She glares with jealousy towards the castle. Eerie, envious mood."
+      },
+      "ar": {
+        "text": "لكن في المملكة المجاورة، كانت تعيش جنّيةٌ شريرةٌ وغيورة. كانت تكره سعادة الأمير والأميرة، وقررت أن تفرّق بينهما إلى الأبد. خطّطت لعملٍ شيطانيّ ليلاً.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "But in the neighboring kingdom, lived a wicked and jealous fairy. She detested the happiness of the prince and princess and decided to part them forever. She plotted a wicked deed under the cover of night.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The prince, mid-transformation, is shrouded in swirling blue and gold magical mist. His form is becoming bird-like. He looks surprised and frightened. Dark, enchanted forest setting."
+      },
+      "ar": {
+        "text": "عندما كان الأمير يتجوّل في الغابة، ظهرت الجنيّة أمامه. رفعت عصاها السحرية، ورشّت عليه مسحوقاً لامعاً. في لحظة، شعر الأمير أن جسده يتغيّر ويتقلّص، وأجنحةٌ صغيرة تنمو على ظهره.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "As the prince wandered through the forest, the fairy appeared before him. She raised her magic wand and sprinkled him with shimmering dust. In an instant, the prince felt his body change and shrink, small wings growing from his back.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "A beautiful, iridescent blue bird with large, expressive eyes perches on a branch, looking sadly down at the prince's discarded riding clothes on the forest floor. Soft, diffused light."
+      },
+      "ar": {
+        "text": "تحوّل الأمير إلى طائرٍ أزرق جميل، صغير الحجم لكنّ صوته كان عذباً. لم يعد يستطيع الكلام، ولم يعد أميراً. كان حزيناً جداً، لكنه قرر أن يطير إلى نافذة حبيبته.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince had transformed into a beautiful blue bird, small in size but with a lovely singing voice. He could no longer speak, no longer a prince. He was very sad, but he decided to fly to his beloved's window.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The blue bird flies through the night sky towards a brightly lit castle window. Stars twinkle, and a full moon hangs overhead. Hopeful, magical atmosphere."
+      },
+      "ar": {
+        "text": "طار الطائر الأزرق عبر الليل، متّجهاً نحو نافذة الأميرة. كان يغني أغنيةً حزينة وجميلة، يأمل أن تسمعها الأميرة وتعرف أنه هو. كانت موسيقاه تملأ الهواء بلمسةٍ من السحر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The blue bird flew through the night, heading towards the princess's window. He sang a sad and beautiful song, hoping the princess would hear it and know it was him. His music filled the air with a touch of magic.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The princess, in her nightgown, looks out her window with wonder and concern as the blue bird sings on the sill. Tears well up in her eyes. Soft moonlight streams into the room."
+      },
+      "ar": {
+        "text": "سمعت الأميرة الغناء الجميل، وفتحت نافذتها. رأت الطائر الأزرق الصغير يجلس على حافة النافذة، يغني لها بحزن. شعرت بشيءٍ غريب، كأنها تعرف هذا الصوت.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess heard the beautiful singing and opened her window. She saw the little blue bird sitting on the windowsill, singing sadly to her. She felt something strange, as if she knew that voice.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The princess gently offers a small piece of bread to the blue bird, who hops closer, looking at her with trust. Her face is filled with compassion and a dawning realization. Warm candlelight."
+      },
+      "ar": {
+        "text": "قالت الأميرة للطائر: «يا لك من طائرٍ جميل! صوتك يلامس قلبي. هل أنت حزين؟» قدّمت له قطعة خبز صغيرة، فاقترب الطائر منها، ونظر في عينيها بعمق.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess said to the bird, \"Oh, what a beautiful bird you are! Your voice touches my heart. Are you sad?\" She offered him a tiny piece of bread, and the bird hopped closer, looking deeply into her eyes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The princess holds the blue bird gently in her hands, stroking its feathers. She looks determined, a spark of courage in her eyes. The bird looks up at her trustingly. Soft, indoor lighting."
+      },
+      "ar": {
+        "text": "شعرت الأميرة أن هذا الطائر يخفي سراً. قررت أن تساعده. حملته بلطف بين يديها، وهمست له: «لا تخف، سأحميك وأساعدك.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess felt that this bird held a secret. She decided she would help him. She gently held him in her hands and whispered, \"Don't be afraid, I will protect you and help you.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The princess, guided by an ancient book, places a small, shimmering amulet around the blue bird's neck. The bird glows faintly. The room is filled with soft, magical light. Ancient scrolls and books on shelves."
+      },
+      "ar": {
+        "text": "بحثت الأميرة في الكتب القديمة، ووجدت تعويذةً قادرةً على كسر سحر الجنيّة. وضعت قلادةً صغيرة لامعة حول عنق الطائر، وقرأت بصوتٍ عالٍ الكلمات السحرية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess searched through ancient books and found a charm that could break the fairy's spell. She placed a small, shimmering amulet around the bird's neck and read the magical words aloud.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The blue bird is enveloped in a brilliant, warm light as the spell breaks. His form begins to reform into the prince. The amulet glows brightly around his neck before disappearing. The princess watches in awe."
+      },
+      "ar": {
+        "text": "بدأ الطائر الأزرق يتوهّج بضوءٍ ذهبيّ قويّ. تقلّصت أجنحته، وعاد جسده إلى حجمه الطبيعي. أمام عيني الأميرة المندهشتين، وقف الأمير الشاب مرة أخرى، قوياً وجميلاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The blue bird began to glow with a strong, golden light. His wings shrank, and his body returned to its normal size. Before the princess's astonished eyes, the young prince stood once more, strong and handsome.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The prince, now human again, kneels before the princess, taking her hands. They gaze into each other's eyes with love and relief. The blue feathers of the amulet have vanished. Soft, romantic lighting."
+      },
+      "ar": {
+        "text": "قال الأمير بحب: «لقد أنقذتني يا أميرتي. حبّك أقوى من أي سحر.» شكرته الأميرة وقالت: «لقد عرفت أنك أنت، حتى عندما كنت طائراً.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince said lovingly, \"You have saved me, my princess. Your love is stronger than any magic.\" The princess thanked him and said, \"I knew it was you, even when you were a bird.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The jealous fairy watches from afar, her face contorted with rage and disbelief as she sees the prince and princess embracing happily in the castle garden. Dark storm clouds gather ominously."
+      },
+      "ar": {
+        "text": "عندما رأت الجنيّة الشريرة أن الأمير قد عاد، غضبت بشدة. حاولت أن تعود لتلقي تعويذة أخرى، لكن حب الأمير والأميرة كان قوياً جداً، فتبخّرت قوتها في الهواء.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "When the wicked fairy saw the prince had returned, she became furious. She tried to cast another spell, but the love between the prince and princess was too strong, and her power dissolved into the air.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The prince and princess, hand in hand, walk through a beautiful, sunlit palace garden filled with blooming flowers and cheerful birds. They are smiling and looking at each other lovingly. A symbol of their enduring love."
+      },
+      "ar": {
+        "text": "عاد الأمير والأميرة ليعيشا معاً بسعادة، وحبهما يزداد قوة يوماً بعد يوم. تعلموا أن الحب الحقيقي واللطف يمكن أن يتغلبا على أقسى السحر وأشدّ الشر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The prince and princess returned to live happily together, their love growing stronger with each passing day. They learned that true love and kindness can overcome even the darkest magic and the most wicked intentions.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "yellow_dwarf",
+  "category": "fairy_tale",
+  "source": "Madame d'Aulnoy (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "charming vintage children's book illustration, desert sunset palette of oranges and golds, whimsical desert oasis setting, friendly character designs, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A young knight in simple armor offers a hand to a beautiful princess dressed in silks, standing near a sparkling desert oasis under a starry night sky. A small, mischievous yellow dwarf peeks from behind a palm tree."
+  },
+  "i18n": {
+    "ar": {
+      "title": "القزم الأصفر",
+      "subtitle": "حكاية الأميرة والواحة",
+      "tagline": "بريق المال، سحر الصحراء، ولطف القلب"
+    },
+    "en": {
+      "title": "The Yellow Dwarf",
+      "subtitle": "The Tale of the Princess and the Oasis",
+      "tagline": "Glimmer of gold, desert magic, and a kind heart"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A beautiful princess with long, flowing hair and a shimmering gown admires her reflection in a ornate hand mirror, standing in a grand palace hall. Sunlight streams through arched windows."
+      },
+      "ar": {
+        "text": "كانت هناك أميرة جميلة جداً، تعيش في قصرٍ فخم. كانت تحبّ النظر إلى وجهها في المرآة أكثر من أي شيء آخر، وتتباهى بجمالها وشعرها الطويل. ظنّت أن لا شيء أجمل منها في العالم كله.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Once upon a time, there lived a very beautiful princess in a grand palace. She loved looking at her reflection in the mirror more than anything, admiring her beauty and her long, flowing hair. She believed herself to be the loveliest in all the land.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The princess, looking bored, sits on a balcony overlooking a vast, hot desert. Sand dunes stretch to the horizon under a bright sun. A single, wilting flower sits in a pot beside her."
+      },
+      "ar": {
+        "text": "ذات يوم، شعرت بالملل الشديد. قررت أن تسافر بعيداً، إلى صحراء واسعة حيث الشمس ساطعة والرمال ذهبية. سافرت مع حاشيتها حتى وصلوا إلى واحةٍ خضراء وسط الرمال.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, she grew terribly bored. She decided to travel far away, to a vast desert where the sun was bright and the sands were golden. She traveled with her attendants until they reached a green oasis amidst the dunes.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A small, bright yellow dwarf with a pointy hat and a mischievous grin emerges from behind a cluster of palm trees in a lush desert oasis. Sparkling water pools at his feet. The princess stares in surprise."
+      },
+      "ar": {
+        "text": "في وسط الواحة، ظهر كائنٌ غريب! كان قزمًا صغيراً بلون الشمس، يرتدي قبعةً مدببة. ابتسم القزم ابتسامةً عريضة وقال: «يا أميرة، أرى أنكِ معجبةٌ ببريق الأشياء. لديّ كنزٌ لكِ!»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "In the middle of the oasis, a strange creature appeared! It was a little dwarf, the color of the sun, wearing a pointy hat. The dwarf grinned widely and said, \"O Princess, I see you admire shiny things. I have a treasure for you!\"",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The yellow dwarf holds out a handful of glittering gold coins and jewels that sparkle intensely in the desert sun. The princess's eyes widen with greed. Palm trees and a small pool are in the background."
+      },
+      "ar": {
+        "text": "أخرج القزم حفنةً من الذهب والجواهر اللامعة. لمعت في الشمس وأبهرت الأميرة. قالت فوراً: «أريدها! ماذا تريد في المقابل؟»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The dwarf held out a handful of glittering gold coins and jewels. They sparkled in the sun and dazzled the princess. \"I want them!\" she exclaimed immediately. \"What do you want in return?\"",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The yellow dwarf points a tiny finger at the princess with a sly look. The princess, still mesmerized by the gold, doesn't notice his pointed finger. A small oasis pool reflects the bright sky."
+      },
+      "ar": {
+        "text": "قال القزم: «أريد شيئاً واحداً فقط. أريد أن تخدميني وتطيعي أوامري لمدة شهرٍ كامل. كل ما أقوله، تفعلينه دون نقاش.»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The dwarf said, \"I want only one thing. I want you to serve me and obey my commands for one full month. Whatever I say, you shall do without question.\"",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The princess, blinded by greed for the gold and jewels, eagerly agrees to the dwarf's terms, nodding vigorously. The dwarf smiles slyly, and the gold coins shimmer around them. The oasis setting is lush and green."
+      },
+      "ar": {
+        "text": "لم تفكّر الأميرة كثيراً. فالذهب والجواهر بدت أغلى من أي خدمة. وافقت بسرعة، وأخذت الكنز. ابتسم القزم ابتسامةً ماكرة، وبدأت الأميرة تشعر ببعض القلق.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The princess didn't think for long. The gold and jewels seemed more precious than any service. She agreed quickly and took the treasure. The dwarf smiled a cunning smile, and the princess began to feel a little uneasy.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The yellow dwarf, now larger and more imposing, stands over the princess in the oasis. He points imperiously towards a pile of rocks. The princess looks dismayed, her fine dress dusty."
+      },
+      "ar": {
+        "text": "بدأ القزم بإعطاء الأوامر. أمر الأميرة أن تجمع الحطب، وأن تنظّف مكان نومه، وأن تحضر له الماء. كانت الأميرة تتعب وتنزعج، لكنها تذكّرت الذهب، فاستمرت في الخدمة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "The dwarf began giving orders. He commanded the princess to gather firewood, to clean his sleeping place, and to fetch him water. The princess grew tired and annoyed, but she remembered the gold and continued to serve.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A handsome young knight with kind eyes and simple armor rides a camel through the desert near the oasis. He notices the princess laboring under the hot sun, carrying a heavy water jug."
+      },
+      "ar": {
+        "text": "مرّ فارسٌ شابٌّ طيب القلب بالواحة. رأى الأميرة تعمل بجدّ وشعرها منكوش. سألها بلطف: «ما الذي تفعلينه هنا يا أميرة؟ لماذا تخدمين هذا القزم الصغير؟»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "A kind-hearted young knight rode by the oasis. He saw the princess working hard, her hair disheveled. He asked her gently, \"What are you doing here, Princess? Why are you serving this little dwarf?\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The princess, looking ashamed and weary, explains her bargain to the knight in the shade of a palm tree. The yellow dwarf watches them secretly from behind a rock, his expression menacing."
+      },
+      "ar": {
+        "text": "روت الأميرة قصتها للفارس، وكيف باعت نفسها مقابل الذهب. حزن الفارس كثيراً وقال: «الجمال والذهب لا يساويان شيئاً أمام الكرامة والحرية. تعالي معي، سأساعدكِ على الهرب.»",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The princess told the knight her story, how she had sold herself for gold. The knight felt very sad and said, \"Beauty and gold are worth nothing compared to dignity and freedom. Come with me, I will help you escape.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "As the knight helps the princess onto his camel, the yellow dwarf leaps out, shouting angrily. He tries to grab the princess's arm, but the knight shields her protectively. The oasis shimmers in the background."
+      },
+      "ar": {
+        "text": "وفجأةً، ظهر القزم غاضباً! حاول منعهم، لكن الفارس الشجاع تصدّى له. أمسك الفارس بيد الأميرة، وقفا معاً، ونظرا إلى القزم بتصميم.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Suddenly, the dwarf appeared, furious! He tried to stop them, but the brave knight stood in his way. The knight took the princess's hand, and they stood together, looking at the dwarf with determination.",
+        "voice": "nova"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The knight speaks firmly to the yellow dwarf, who shrinks back, looking surprised and defeated. The princess stands tall beside the knight, her expression now one of quiet strength. The desert sun begins to set, casting long shadows."
+      },
+      "ar": {
+        "text": "قال الفارس للقزم بصوتٍ قوي: «لقد انتهى سحرُك! لن تستعبدَ أحداً بعد اليوم.» شعر القزم بالخوف، وبدأ يتقلّص ويختفي في الرمال، ولم يبقَ منه إلا بريقٌ خافت.",
+        "voice": "fable"
+      },
+      "en": {
+        "text": "The knight spoke firmly to the dwarf, \"Your magic is over! You will enslave no one again.\" The dwarf felt fear, and he began to shrink and disappear into the sand, leaving only a faint shimmer behind.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The princess and the knight ride away from the oasis on the camel into the desert sunset. The princess looks back once, then turns forward with a hopeful smile. The desert landscape is bathed in warm, golden light."
+      },
+      "ar": {
+        "text": "ركب الفارس والأميرة على الجمل، وغادرا الواحة. تعلمت الأميرة درساً ثميناً: أن الحرية والكرامة أغلى من كل كنوز الدنيا، وأن اللطف والشجاعة هما الأجمل حقاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The knight and the princess rode the camel away from the oasis. The princess had learned a valuable lesson: freedom and dignity are more precious than all the treasures in the world, and kindness and courage are truly the most beautiful.",
+        "voice": "shimmer"
+      }
+    }
+  ]
+}

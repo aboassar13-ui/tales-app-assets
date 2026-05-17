@@ -1,0 +1,221 @@
+{
+  "id": "snow_queen",
+  "category": "fairy_tale",
+  "source": "Hans Christian Andersen (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 12,
+  "style_suffix": "soft, painterly children's book illustration, cool blue and silver palette with warm accents, gentle storybook mood, expressive friendly faces, whimsical winter forest setting, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A brave little girl with bright red mittens and a warm scarf stands looking up at a magnificent, glowing ice palace in a snowy landscape. A friendly reindeer stands beside her, nuzzling her hand. A warm, hopeful glow emanates from the palace."
+  },
+  "i18n": {
+    "ar": {
+      "title": "ملكة الثلج",
+      "subtitle": "رحلة غيردا الصغيرة",
+      "tagline": "صداقة دافئة في عالم جليدي"
+    },
+    "en": {
+      "title": "The Snow Queen",
+      "subtitle": "Gerda's Little Journey",
+      "tagline": "A warm friendship in an icy world"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "Two children, a boy and a girl, sit playing happily on a windowsill, their faces lit by warm sunlight. A small potted rose bush grows nearby. Outside, snow is gently falling on rooftops. Style: warm watercolor children's book illustration, soft pastel palette, gentle storybook mood."
+      },
+      "ar": {
+        "text": "كان يا مكان، في مدينةٍ قديمة، يعيش طفلان رائعان، كاي وغيردا. كانا أفضل الأصدقاء، يلعبان معاً في حديقة الورد الجميلة. كانت قلوبهما دافئة مثل الشمس، وحبهما للصداقة ينمو كل يوم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Once upon a time, in an old city, lived two wonderful children, Kai and Gerda. They were the best of friends, playing together in the lovely rose garden. Their hearts were as warm as the sun, and their love for friendship grew with each passing day.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A shard of ice with a swirling pattern reflects a mischievous-looking imp holding a mirror. The imp laughs as the mirror cracks into many pieces. Style: soft, painterly children's book illustration, cool blue and silver palette with warm accents."
+      },
+      "ar": {
+        "text": "في يومٍ شتوي بارد، ظهر شيطانٌ صغيرٌ يحمل مرآةً سحرية. كانت المرآة تشوّه كل ما تراه. كسر الشيطان المرآة، وتطايرت قطعها الصغيرة في كل مكان، تحمل معها البرد والتشويه.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "On a cold winter's day, a mischievous imp appeared, holding a magic mirror. This mirror twisted everything it reflected into something ugly. The imp broke the mirror, and tiny pieces flew everywhere, carrying coldness and distortion with them.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A shard of ice flies through an open window and strikes a young boy (Kai) in the eye, causing him pain. He rubs his eye, looking startled. The girl (Gerda) looks on with concern. Style: expressive friendly faces, whimsical winter forest setting."
+      },
+      "ar": {
+        "text": "دخلت قطعةٌ جليدية صغيرة نافذة كاي، وأصابته في عينه. ثم دخلت قلبه، وجعلته بارداً وقاسياً. لم يعد يرى جمال الورد أو دفء الشمس، بل فقط البرد والجليد.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "A tiny shard of ice flew through Kai's open window and pricked his eye. Then it flew into his heart, making it cold and hard. He no longer saw the beauty of the roses or the warmth of the sun, only the chill of the ice.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A majestic, ethereal Snow Queen in a shimmering ice-blue gown descends from the sky in a swirling snowstorm, beckoning to Kai. Kai, looking dazed and cold, reaches out his hand to her. Style: cool blue and silver palette, gentle storybook mood."
+      },
+      "ar": {
+        "text": "فجأةً، ظهرت ملكة الثلج بجمالها البارد. كانت جميلة لكنها جليدية. ركبت عربةً ثلجية، وأخذت كاي معها إلى قصرها البعيد في أرض الشمال المتجمدة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "Suddenly, the Snow Queen appeared in her cold beauty. She was stunning, yet icy. She rode in a sleigh made of snow and took Kai away to her distant palace in the frozen lands of the North.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Gerda stands alone in the snow-covered garden, calling Kai's name with a worried expression. The rose bushes are bare and covered in frost. A single tear freezes on her cheek. Style: soft watercolor, expressive friendly faces."
+      },
+      "ar": {
+        "text": "بحثت غيردا عن صديقها كاي، لكنها لم تجده. شعرت بالبرد في قلبها، وبكت. كانت تعلم أن عليها أن تجد كاي وتعيده، مهما كان الثمن.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Gerda searched and searched for her friend Kai, but he was nowhere to be found. A chill entered her heart, and she began to cry. She knew she had to find Kai and bring him back, no matter the cost.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "Gerda, wearing a warm red cloak, bids farewell to her grandmother and sets off on a journey. She holds a small basket and looks determined. A friendly reindeer with gentle eyes watches her from a snowy path. Style: whimsical winter forest setting, warm accents."
+      },
+      "ar": {
+        "text": "ارتدت غيردا معطفها الأحمر الدافئ، وحملت سلتها الصغيرة، وانطلقت في رحلةٍ طويلة. وعدت نفسها بأنها لن تعود حتى تجد كاي.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Gerda put on her warm red cloak, packed her little basket, and set off on a long journey. She promised herself she would not return until she found Kai.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Gerda is in a lush, warm greenhouse filled with blooming flowers of every color. An old woman with kind eyes and a flower-adorned bonnet smiles at Gerda, offering her a warm drink. Style: soft pastel palette, gentle storybook mood."
+      },
+      "ar": {
+        "text": "في طريقها، وصلت إلى بيتٍ دافئ مليء بالزهور. استقبلتها سيدةٌ عجوز لطيفة، وأطعمتها وسقيتها. شكرتها غيردا، لكنها لم تنسَ مهمتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Along her way, she found a warm little house filled with beautiful flowers. An old, kind woman welcomed her, giving her food and drink. Gerda thanked her, but she never forgot her important mission.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Gerda stands before a majestic, but slightly menacing, reindeer in a snowy landscape. The reindeer bows its head, offering Gerda a ride. A few small birds chirp encouragingly from snow-laden branches. Style: expressive friendly faces, whimsical winter forest."
+      },
+      "ar": {
+        "text": "عندما غادرت، قابلت أيلاً قوياً. قال لها الأيل: «سأساعدكِ في الوصول إلى قصر ملكة الثلج.» وركبته غيردا، وانطلقا عبر الثلج بسرعة.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "As she left, she met a strong reindeer. \"I will help you reach the Snow Queen's palace,\" the reindeer told her. Gerda climbed aboard, and they sped away through the snow.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "A mischievous-looking girl with wild hair and wearing a fur-trimmed jacket rides a horse through a snowy forest. She grins at Gerda and the reindeer, holding a shiny dagger playfully. Style: expressive friendly faces, whimsical winter forest setting."
+      },
+      "ar": {
+        "text": "في الطريق، قابلت غيردا فتاةً صغيرة جريئة، كانت تعيش مع قطاع الطرق. ساعدتها الفتاة، وأعطتها سكيناً قويّاً وقالت: «استخدميه إذا احتجتِ!»",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "On her journey, Gerda met a bold little girl who lived with robbers. The girl helped Gerda, giving her a strong knife and saying, \"Use this if you need it!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Gerda and the reindeer arrive at a vast, frozen lake. In the distance, a magnificent ice palace glows with an eerie blue light. The Snow Queen is visible through a large ice window, sitting on her throne. Style: cool blue and silver palette, majestic ice palace."
+      },
+      "ar": {
+        "text": "وصلت أخيراً إلى قصر ملكة الثلج. كان القصر مصنوعاً بالكامل من الجليد المتلألئ، وكان بارداً جداً. بحثت غيردا عن كاي بين غرف القصر الفارغة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At last, she arrived at the Snow Queen's palace. It was made entirely of glittering ice and was terribly cold. Gerda searched the empty rooms of the palace for Kai.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Gerda finds Kai sitting alone in a vast, icy hall. He is trying to spell a word with ice shards on a frozen table, his face emotionless. He doesn't seem to recognize Gerda at first. Style: cool blue and silver palette, gentle storybook mood."
+      },
+      "ar": {
+        "text": "وجدته جالساً وحيداً، يحاول أن يكتب كلمة «أبدية» بقطع الجليد. لم يتعرّف عليها في البداية، فقد كان قلبه متجمداً.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "She found him sitting alone, trying to spell the word 'Eternity' with shards of ice. He didn't recognize her at first, for his heart was frozen solid.",
+        "voice": "shimmer"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "Gerda hugs Kai tightly, her warm tears falling onto his chest. As her tears fall, the ice shard in his heart begins to melt. His eyes begin to show recognition and warmth. Style: soft watercolor, expressive friendly faces, warm accents."
+      },
+      "ar": {
+        "text": "عانت غيردا وقبّلت كاي. بكت بحرارة، وسقطت دموعها على وجهه. ذابت قطع الجليد في قلبه، وعاد كاي إلى وعيه، وتذكّر غيردا وصديقته.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Gerda cried and hugged Kai tightly. Her warm tears fell upon his face. As her tears fell, the ice shard in his heart began to melt. Kai's eyes opened wide, and he remembered Gerda and their friendship.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The Snow Queen watches from a distance with a stern expression as Gerda and Kai embrace. The ice palace begins to shimmer and melt slightly around them. Her icy grip on Kai is broken. Style: cool blue and silver palette, slightly melting ice palace."
+      },
+      "ar": {
+        "text": "عندما ذاب الجليد، شعرت ملكة الثلج بأن قوتها تضعف. ركض كاي وغيردا معاً خارج القصر، وهما يمسكان بأيدي بعضهما البعض.",
+        "voice": "nova"
+      },
+      "en": {
+        "text": "As the ice melted, the Snow Queen felt her power over Kai weaken. Kai and Gerda ran out of the palace together, holding each other's hands tightly.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Gerda and Kai ride joyfully on the back of the reindeer, heading south through a snowy landscape. The sun is starting to break through the clouds, casting a warm glow. They are smiling and holding hands. Style: warm watercolor, gentle storybook mood, warm accents."
+      },
+      "ar": {
+        "text": "عاد الصديقان إلى مدينتهما، حيث استقبلهما الجميع بفرح. تعلموا أن حب الصداقة أقوى من أي جليد، وأن الدفء يمكن أن يذيب أشد القلوب برودة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The two friends returned to their city, welcomed by everyone with joy. They learned that the love of friendship is stronger than any ice, and that warmth can melt even the coldest hearts.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

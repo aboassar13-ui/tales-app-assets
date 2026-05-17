@@ -1,0 +1,123 @@
+{
+  "id": "town_mouse_country_mouse_v2",
+  "category": "fable",
+  "source": "Aesop's Fables (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 7,
+  "style_suffix": "charming children's book illustration, earthy pastel palette, gentle storybook mood, expressive animal characters, natural outdoor settings, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A plump, friendly country mouse offers a juicy berry to a sleek, well-dressed town mouse at the entrance to a cozy burrow. Sunny meadow background with wildflowers. Warm, inviting atmosphere."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الأسد والخنزير البري",
+      "subtitle": "قصة عن التعاون",
+      "tagline": "صراعٌ على الماء، وصداقةٌ غير متوقعة"
+    },
+    "en": {
+      "title": "The Lion and the Boar",
+      "subtitle": "A Tale of Cooperation",
+      "tagline": "A fight for water, an unexpected friendship"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A mighty lion with a golden mane pants from thirst under a blazing sun, near a small, dry watering hole. His expression is one of great discomfort. Sparse, dry grass surrounds the hole. Dusty, hot atmosphere."
+      },
+      "ar": {
+        "text": "في يومٍ شديد الحرارة، كان أسدٌ قويٌ يشعر بعطشٍ شديد. بحث عن الماء في كل مكان، لكن الأنهار والبرك كانت جافة. وصل أخيراً إلى بركةٍ صغيرة، لكنه وجدها تكاد تكون خالية.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "On a sweltering hot day, a mighty lion was overcome with thirst. He searched everywhere for water, but the rivers and ponds had all dried up. At last, he came upon a small watering hole, only to find it nearly empty.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A bristly wild boar with tusks lowers its head aggressively towards the same small, almost dry watering hole. The lion watches with a tense, wary look. Dust rises from the parched earth. Intense heat haze."
+      },
+      "ar": {
+        "text": "وبينما كان الأسد يستعد للشرب، ظهر خنزيرٌ بريٌ ضخم. كان الخنزير أيضاً عطشاناً جداً، ورأى الأسد كمتنافسٍ على آخر قطرات الماء. زأر الأسد، وضرب الخنزير بقدمه الأرض بغضب.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Just as the lion was about to drink, a large wild boar appeared. The boar was also terribly thirsty and saw the lion as a rival for the last drops of water. The lion roared, and the boar stamped his feet angrily on the ground.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The lion and the boar are locked in a tense standoff at the edge of the dry watering hole, snarling and pawing the ground. Neither has drunk yet. The sun beats down relentlessly. Dry, cracked earth."
+      },
+      "ar": {
+        "text": "بدأ الأسد والخنزير يتصارعان. تشابكا في معركةٍ شرسةٍ حول البركة الصغيرة. حاولا دفع بعضهما البعض بعيداً، وأصدر كلاهما أصواتاً غاضبة. لم يشرب أي منهما قطرة ماء واحدة.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "The lion and the boar began to fight. They grappled fiercely around the small pool, trying to push each other away. Angry snarls and grunts filled the air. Neither had managed to drink a single drop of water.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The lion and boar pause their fight, both breathing heavily, looking up. High in the clear blue sky, several dark vultures are circling ominously. The mood shifts to one of unease. Bright, harsh sunlight."
+      },
+      "ar": {
+        "text": "وفجأةً، توقّفا عن القتال. رفعت كلاهما رأسيهما لتستريحا قليلاً، فنظرا إلى السماء. رأوا طيوراً جارحة سوداء تحلّق في دوائر فوقهما. كانت تنتظر بصبرٍ لترى من سيقع أولاً.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "Suddenly, they stopped fighting. Both paused to catch their breath and looked up at the sky. They saw several dark vultures circling overhead, waiting patiently to see which one would fall first.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The lion and the boar exchange a look of dawning realization and mutual understanding. They are standing a short distance apart, no longer aggressive. The circling vultures are still visible in the sky above. Sunny, but slightly ominous."
+      },
+      "ar": {
+        "text": "نظر الأسد إلى الخنزير، ونظر الخنزير إلى الأسد. فهم كلاهما الرسالة: إذا استمرا في القتال، فسيموت كلاهما، وستفوز الطيور الجارحة. قرّرا أن هذا أغبى شيءٍ يمكن فعله.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "The lion looked at the boar, and the boar looked back at the lion. They both understood the message: if they continued to fight, they would both perish, and the vultures would win. They decided this was a very foolish thing to do.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The lion and the boar are now calmly drinking from the small watering hole, side-by-side. They look relaxed and content. The circling vultures are flying away, disappearing into the distance. Clear blue sky, peaceful atmosphere."
+      },
+      "ar": {
+        "text": "فقال الأسد للخنزير: «ربما يمكننا أن نشرب معاً؟» أجاب الخنزير: «نعم، فلنشرب بسلام.» شربا من البركة، ثم ابتعدا عن بعضهما البعض، وشكرا بعضهما البعض على تفاهمهما.",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "So the lion said to the boar, \"Perhaps we can drink together?\" The boar replied, \"Yes, let us drink in peace.\" They drank from the pool, then moved away from each other, thankful for their understanding.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The lion and the boar walk away from the watering hole in opposite directions, looking back at each other with a newfound respect. The sun is setting, casting long shadows. A sense of peace and resolution."
+      },
+      "ar": {
+        "text": "ومنذ ذلك اليوم، لم يعد الأسد والخنزير البري صديقين، لكنهما تعلما درساً مهماً: أحياناً يكون التعاون أفضل من القتال، خاصة عندما تكون هناك طيورٌ جارحة تراقب!",
+        "voice": "onyx"
+      },
+      "en": {
+        "text": "From that day on, the lion and the boar were not exactly friends, but they had learned an important lesson: sometimes cooperation is better than conflict, especially when there are vultures watching!",
+        "voice": "fable"
+      }
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "id": "kalila_lion_and_bull",
+  "category": "arabic_classic",
+  "source": "Ibn al-Muqaffa, Kalila wa Dimna (public domain since 757 CE)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "detailed traditional Persian miniature painting style, vibrant jewel tones, intricate patterns, expressive animal characters in royal attire, lush forest setting, gentle storybook mood, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A majestic golden-maned lion king sits on a simple stone throne in a lush forest clearing, looking kindly at a strong, white ox standing respectfully nearby. A small, sly jackal watches from behind a tree, a mischievous glint in its eye."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الأسد والثور",
+      "subtitle": "من حكايات كليلة ودمنة",
+      "tagline": "حكاية عن الصداقة، الوشاية، وقوة الحقيقة"
+    },
+    "en": {
+      "title": "The Lion and the Ox",
+      "subtitle": "From the Tales of Kalila wa Dimna",
+      "tagline": "A tale of friendship, gossip, and the power of truth"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A strong, healthy ox with cream-colored fur and gentle eyes stands contentedly in a vibrant green meadow beside a sparkling river. Butterflies flutter around colorful wildflowers, and the sun shines brightly."
+      },
+      "ar": {
+        "text": "في قديم الزمان، عاش ثورٌ قويٌّ أبيض اللون اسمه شتربة. كان يرعى في مرجٍ أخضر جميل، ويشرب من النهر الصافي. كان شتربة سعيداً ومطمئناً، يستمتع بكل يوم في الطبيعة الخلابة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Long, long ago, there lived a strong, white ox named Shaterbah. He grazed in a beautiful green meadow and drank from the clear river. Shaterbah was content and peaceful, enjoying every day in the lovely wilderness.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Shaterbah the ox, looking a little tired but determined, pulls a heavy wooden cart up a dusty, winding mountain path. A kind merchant in traditional robes walks beside him, encouraging him gently. The sun is setting."
+      },
+      "ar": {
+        "text": "في أحد الأيام، كان شتربة يسير مع قافلة تاجرٍ عبر طريقٍ جبليٍّ وعر. فجأةً، انكسر حبل العربة التي كان يجرها، وسقط شتربة في وادٍ عميق. حاول التاجر مساعدته، لكنه لم يستطع.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "One day, Shaterbah was traveling with a merchant's caravan along a rugged mountain path. Suddenly, the rope of the cart he was pulling broke, and Shaterbah tumbled down into a deep valley. The merchant tried to help him, but he could not.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "Shaterbah the ox stands alone in a lush, green valley, looking a little lost but calm. Tall trees surround him, and a small waterfall cascades into a clear stream. He takes a deep breath and looks around with curiosity."
+      },
+      "ar": {
+        "text": "ترك التاجر شتربة ظناً منه أنه سيهلك، لكن الثور القوي لم يستسلم. نهض شتربة ومشى في الوادي، فوجد مرعىً غنياً بالماء والعشب. قرّر أن يعيش هنا، وأن يجعل هذا الوادي بيته الجديد.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The merchant left Shaterbah, thinking he would perish, but the strong ox did not give up. Shaterbah stood up and walked through the valley, finding a rich pasture with plenty of water and grass. He decided to live there and make this valley his new home.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A majestic golden-maned lion king, with a kind and regal expression, sits on a simple stone throne in a clearing. He is surrounded by other forest animals (deer, monkeys, birds) who look at him with respect. A sense of peace and order."
+      },
+      "ar": {
+        "text": "لم يكن شتربة يعلم أن هذا الوادي هو جزءٌ من مملكة الأسد. كان ملك الغابة أسداً قوياً وحكيماً اسمه فيلذبا. كان يحكم مملكته بالعدل، وتحبه كل الحيوانات الصادقة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Shaterbah did not know that this valley was part of the Lion King's domain. The king of the forest was a mighty and wise lion named Filzbah. He ruled his kingdom with justice, and all honest animals loved him.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "Shaterbah the ox lets out a loud, joyful bellow that echoes through the valley. Birds fly up from trees in surprise, and a small stream ripples from the sound. The ox looks happy and energetic."
+      },
+      "ar": {
+        "text": "عندما شعر شتربة بالراحة، أطلق صوتاً عالياً قوياً ملأ الوادي. كان صوتاً لم يسمعه الأسد فيلذبا من قبل. اهتزت الغابة كلها من قوة هذا الصوت الجديد الغريب.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When Shaterbah felt comfortable, he let out a loud, powerful bellow that filled the valley. It was a sound King Filzbah had never heard before. The entire forest trembled from the strength of this strange new sound.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "King Filzbah the lion looks concerned, his ears slightly perked, as he listens to the distant bellow. His two jackal advisors, Dimna (sly) and Kalila (wise), stand nearby. Dimna has a cunning look, Kalila looks thoughtful."
+      },
+      "ar": {
+        "text": "تفاجأ الأسد فيلذبا بصوت شتربة. شعر بالفضول لمعرفة مصدر هذا الصوت الغريب. كان لديه اثنان من مستشاريه، اثنان من بنات آوى: دمنة الماكر، وكليلة الحكيم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "King Filzbah was surprised by Shaterbah's bellow. He felt curious to know the source of this strange sound. He had two advisors, two jackals: the cunning Dimna, and the wise Kalila.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Dimna the jackal, with a sly grin, approaches King Filzbah cautiously. He speaks with exaggerated concern, pointing a paw towards the distant valley. Kalila watches from a distance with a worried expression."
+      },
+      "ar": {
+        "text": "قال دمنة للأسد: «أيها الملك، يبدو أن هناك وحشاً غريباً قد دخل مملكتك! صوته مخيفٌ جداً، وقد يهدد سلامنا. يجب أن نعرف من هو قبل فوات الأوان.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Dimna said to the King: \"Your Majesty, it seems a strange monster has entered your kingdom! Its voice is very frightening, and it might threaten our peace. We must find out who it is before it's too late.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Kalila the jackal, looking thoughtful, speaks to King Filzbah with a calm and earnest expression. He suggests caution and understanding before judgment. Dimna rolls his eyes subtly in the background."
+      },
+      "ar": {
+        "text": "لكن كليلة قال: «لا تتسرع أيها الملك. ربما يكون هذا الصوت ليس شراً. دعنا نذهب ونستكشف الأمر بهدوء، فقد يكون كائناً مسالماً ضلّ طريقه.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But Kalila said: \"Do not rush, Your Majesty. Perhaps this sound is not evil. Let us go and investigate calmly, for it might be a peaceful creature that has lost its way.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "Dimna, with a look of false bravery, volunteers to go first. He walks with an exaggerated swagger towards the valley, glancing back at the king to ensure he is watching. Kalila follows, looking observant."
+      },
+      "ar": {
+        "text": "وافق الأسد على رأي كليلة، لكن دمنة أصرّ على الذهاب أولاً ليخبره بما يرى. ذهب دمنة إلى الوادي، ورأى شتربة الثور وهو يرعى بسلام. عرف دمنة أن الثور ليس وحشاً، لكنه أراد أن يزرع الفتنة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The King agreed with Kalila, but Dimna insisted on going first to report what he saw. Dimna went to the valley and saw Shaterbah the ox grazing peacefully. Dimna knew the ox was no monster, but he wanted to sow discord.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "Dimna returns to King Filzbah with an air of great importance, whispering exaggerated tales of the ox's power. He gestures dramatically with his paws. The king listens intently, a flicker of worry in his eyes."
+      },
+      "ar": {
+        "text": "عاد دمنة إلى الأسد وقال بكذب: «يا ملكي، رأيت وحشاً عظيماً! صوته يرعب الجبال، وقوته لا تُصدّق! إنه قادم ليزاحمك على ملكك!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Dimna returned to the King and lied: \"My King, I saw a mighty beast! Its voice terrifies the mountains, and its strength is incredible! It is coming to challenge you for your kingdom!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "Kalila quietly takes Dimna aside, his expression firm but gentle. He warns Dimna against spreading lies and causing trouble, emphasizing the importance of truth and loyalty. Dimna looks annoyed but a little wary."
+      },
+      "ar": {
+        "text": "غضب كليلة من كذب دمنة، وحاول أن يحدّثه بهدوء: «يا دمنة، لا تزرع الشر بين الأصدقاء. الكذب يدمّر الثقة، والحقيقة هي أساس كل خير.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Kalila was angry at Dimna's lies and tried to speak to him calmly: \"Dimna, do not sow evil among friends. Lies destroy trust, and truth is the foundation of all good.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "King Filzbah, looking conflicted, approaches Shaterbah the ox in the valley. Shaterbah looks surprised but friendly. Dimna watches from a distance, hidden behind a bush, with a smug expression."
+      },
+      "ar": {
+        "text": "تأثر الأسد بكلام دمنة. لكنه قرّر أن يذهب ليرى الثور بنفسه. عندما التقى الأسد بشتربة، وجده كائناً مسالماً ولطيفاً. تحدثا طويلاً، وأصبحا صديقين حميمين.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The King was swayed by Dimna's words. But he decided to go and see the ox for himself. When the King met Shaterbah, he found him to be a peaceful and gentle creature. They talked for a long time, and became close friends.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "King Filzbah and Shaterbah the ox stand side-by-side in a sunlit forest clearing, laughing together. Other forest animals watch them with happy, approving expressions. Dimna watches from afar, looking furious and jealous."
+      },
+      "ar": {
+        "text": "كان الأسد وشتربة يقضيان وقتاً ممتعاً معاً، يتشاركان الأحاديث والضحكات. أحبت الحيوانات الأخرى هذه الصداقة الغريبة، وشعرت المملكة بالسلام والفرح.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The King and Shaterbah spent wonderful time together, sharing stories and laughter. The other animals loved this unusual friendship, and the kingdom felt peaceful and joyful.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "Dimna the jackal whispers intently into King Filzbah's ear, his expression full of malice and cunning. He points a paw towards Shaterbah, who is grazing peacefully in the distance. The king looks confused and a little suspicious."
+      },
+      "ar": {
+        "text": "لكن دمنة لم يرضَ بهذه الصداقة. استمرّ في الوشاية، يزرع الشك في قلب الأسد، ويقول إن شتربة يخطّط للسيطرة على المملكة. بدأ الأسد يشعر بالخوف والريبة مرة أخرى.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But Dimna was not pleased with this friendship. He continued to gossip, sowing doubt in the King's heart, saying that Shaterbah was planning to take over the kingdom. The King began to feel fear and suspicion once more.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "King Filzbah the lion and Shaterbah the ox stand facing each other, looking sad and confused. There's a visible tension between them. Kalila the jackal stands nearby, looking distressed, while Dimna hides behind a tree, smirking."
+      },
+      "ar": {
+        "text": "وصلت الأمور إلى حدٍّ خطير. ابتعد الأسد عن شتربة، وبدأ الثور يشعر بالحزن والوحدة. لاحظت الحيوانات الأخرى هذا التغيير، وشعرت بالقلق على صداقتهما.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Matters reached a dangerous point. The King distanced himself from Shaterbah, and the ox began to feel sad and lonely. The other animals noticed this change and became worried about their friendship.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_16",
+      "image": {
+        "prompt": "Kalila the wise jackal approaches King Filzbah, speaking earnestly and pointing towards Dimna, who is trying to sneak away. Kalila reveals Dimna's true nature as a gossip and a liar, using gentle but firm words."
+      },
+      "ar": {
+        "text": "عندما رأى كليلة ما حدث، قرّر أن يتكلّم بصراحة مع الأسد. قال: «يا ملكي، دمنة يخدعك! لقد كذب عليك ليزرع العداوة بينكما. شتربة صديقٌ وفيٌّ، ولا يريد لك إلا الخير.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "When Kalila saw what was happening, he decided to speak frankly with the King. He said: \"My King, Dimna is deceiving you! He lied to you to sow enmity between you. Shaterbah is a loyal friend and wishes you nothing but good.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_17",
+      "image": {
+        "prompt": "King Filzbah looks shocked and betrayed, turning to confront Dimna, who is caught in the act of trying to sneak away. Dimna's expression is one of fear and guilt. Shaterbah watches with a sad but understanding gaze."
+      },
+      "ar": {
+        "text": "أدرك الأسد فيلذبا الحقيقة أخيراً. شعر بالأسف الشديد لأنه استمع لدمنة بدلاً من صديقه. نظر إلى دمنة بحزن وغضب، وعرف أنه ارتكب خطأً كبيراً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "King Filzbah finally realized the truth. He felt deep regret for listening to Dimna instead of his friend. He looked at Dimna with sadness and anger, knowing he had made a great mistake.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_18",
+      "image": {
+        "prompt": "King Filzbah the lion approaches Shaterbah the ox with a humble and regretful expression, extending a paw in apology. Shaterbah looks at him with understanding and forgiveness, nudging his head gently against the lion's paw. Dimna is nowhere in sight."
+      },
+      "ar": {
+        "text": "ذهب الأسد إلى شتربة واعتذر منه بصدق. شرح له كل شيء، وكيف خدعه دمنة. سامح شتربة صديقه، لأنه فهم أن الأسد قد وقع ضحية الوشاية، ولم يقصد إيذاءه.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The King went to Shaterbah and apologized sincerely. He explained everything, and how Dimna had deceived him. Shaterbah forgave his friend, understanding that the King had fallen victim to gossip and did not mean him harm.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_19",
+      "image": {
+        "prompt": "King Filzbah the lion and Shaterbah the ox are happily reunited, sitting together in the clearing. Other animals gather around, looking relieved and joyful. Kalila stands nearby, smiling gently. Dimna is seen walking away into the distance, alone and dejected."
+      },
+      "ar": {
+        "text": "عادت الصداقة بين الأسد والثور أقوى من ذي قبل. وعلمت كل حيوانات الغابة أن الوشاية والكذب لا يجلبان إلا الشر. أما دمنة، فقد شعر بالخزي، وغادر المملكة وحيداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The friendship between the King and the Ox returned, stronger than before. And all the animals of the forest learned that gossip and lies bring nothing but harm. As for Dimna, he felt ashamed and left the kingdom alone.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_20",
+      "image": {
+        "prompt": "King Filzbah and Shaterbah the ox stand together, looking out over their peaceful, thriving kingdom from a high cliff. The sun sets in a warm glow, casting long shadows. They both look content and wise, having learned a valuable lesson about trust and truth."
+      },
+      "ar": {
+        "text": "عاش الأسد والثور بسعادة، وحكما المملكة بالعدل والحكمة. وتعلّم الجميع أن الصداقة الحقيقية تُبنى على الثقة، وأن الاستماع إلى كلا الجانبين هو مفتاح حل المشاكل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The King and the Ox lived happily, ruling the kingdom with justice and wisdom. Everyone learned that true friendship is built on trust, and that listening to both sides is the key to solving problems.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

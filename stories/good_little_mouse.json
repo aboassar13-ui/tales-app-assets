@@ -1,0 +1,137 @@
+{
+  "id": "good_little_mouse",
+  "category": "fairy_tale",
+  "source": "Madame d'Aulnoy (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 8,
+  "style_suffix": "gentle storybook illustration, soft, muted color palette, whimsical fairy-tale setting, expressive animal characters, cozy and warm mood, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tiny, brave mouse with bright eyes holds a miniature golden key, standing on a velvet cushion in a sunlit castle room. A grateful queen with a kind smile looks down at the mouse. Warm, soft lighting."
+  },
+  "i18n": {
+    "ar": {
+      "title": "الفأرة الصغيرة الطيبة",
+      "subtitle": "مفتاح الحرية",
+      "tagline": "شجاعة صغيرة، رحمة كبيرة، نهاية سعيدة"
+    },
+    "en": {
+      "title": "The Good Little Mouse",
+      "subtitle": "The Key to Freedom",
+      "tagline": "A tiny bravery, a great kindness, a happy end"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A beautifully dressed queen sits sadly in a high castle tower room, looking out a barred window. Below, an evil king with a cruel expression surveys his kingdom. Dusty, cold stone walls. Dramatic lighting."
+      },
+      "ar": {
+        "text": "في مملكةٍ بعيدة، عاشت ملكةٌ طيبة القلب. لكن ملكاً شريراً ألقى بها في برجٍ عالٍ، وحبسها بعيداً عن شعبها. كانت الغرفة باردة، والنوافذ محكمة الإغلاق، ولم يكن معها أحدٌ سوى الظلام.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "In a faraway kingdom, there lived a kind and gentle queen. But a wicked king cast her into a high tower, locking her away from her people. The room was cold and the windows were barred, and she had no one but the shadows for company.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "A tiny brown mouse with big, curious eyes peeks out from a crack in the stone wall of the tower room. The queen looks down, noticing the mouse with a flicker of hope. The room is dimly lit by a single torch."
+      },
+      "ar": {
+        "text": "بينما كانت الملكة تبكي بصمت، ظهرت فأرةٌ صغيرة من شقٍ في الجدار. كانت عيناها لامعتين، وبدا عليها الفضول. لم تكن الملكة تخاف منها، بل شعرت بقليلٍ من الرفقة في وحدتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "As the queen sat weeping softly, a tiny mouse appeared from a crack in the stone. Its eyes were bright and curious. The queen wasn't afraid; she felt a little less alone with the small creature watching her.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The mouse nibbles at thick ropes that bind a heavy wooden chest in the corner of the room. Sawdust flies as it chews diligently. The queen watches with quiet anticipation, a hopeful expression on her face."
+      },
+      "ar": {
+        "text": "لاحظت الفأرة حبلاً سميكاً يربط صندوقاً خشبياً قديماً. بدأت تقرضه بأسنانها الصغيرة القوية، محاولةً تحرير ما بداخله. كانت الملكة تتابعها بصمت، وتدعو الله أن تنجح الفأرة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The mouse noticed thick ropes binding an old wooden chest in the corner. With its small, strong teeth, it began to gnaw, trying to free whatever lay inside. The queen watched silently, hoping the little mouse would succeed.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A rope snaps, and the chest lid creaks open slightly. The mouse, with great effort, pushes a tiny, shiny metal object – perhaps a hairpin – out from the chest. The queen leans forward, intrigued."
+      },
+      "ar": {
+        "text": "بعد جهدٍ كبير، انقطع أحد الحبال! ومن الصندوق، دفعت الفأرة شيئاً صغيراً لامعاً. كانت دبوس شعرٍ ذهبياً، قد سقط من الملكة منذ زمن. التقطته الفأرة ووضعته أمامها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "After much effort, one rope snapped! From the chest, the mouse pushed out something small and shiny. It was a golden hairpin, lost by the queen long ago. The mouse nudged it forward, presenting it to her.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The queen carefully picks up the hairpin and uses it to pick the simple lock on the barred window. The mouse watches, perched on the windowsill, its whiskers twitching. Soft moonlight streams through the now-unlocked bars."
+      },
+      "ar": {
+        "text": "أخذت الملكة الدبوس بحذر. عرفت أنه يمكن أن يساعدها في فتح قفل النافذة البسيط. بدأت تحاول ببطء، والفأرة الصغيرة تراقب بصمت، وكأنها تفهم خطتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The queen took the hairpin carefully. She knew it might help her pick the simple lock on the window bars. Slowly, she began to work, the little mouse watching quietly, as if understanding her plan.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The window bars swing open outwards. The queen climbs out onto a narrow stone ledge. The mouse scurries ahead, showing her a hidden path down the tower wall, illuminated by the moon. The king's guards are asleep below."
+      },
+      "ar": {
+        "text": "نجحت الملكة! انفتح القفل، وفتحت قضبان النافذة. تسللت الملكة بحذر إلى الخارج، والفأرة تقودها عبر ممرٍ ضيق على جدار البرج. كان الظلام يحمي خطواتهما، وحرّاس الملك نائمون.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The queen succeeded! The lock clicked open, and the bars swung outward. Carefully, the queen climbed out, the mouse leading the way along a narrow path down the tower wall. Darkness hid their steps, and the king's guards slept below.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The queen and the mouse reach the base of the tower. The queen gently strokes the mouse's head, her face filled with gratitude. A nearby forest is dark and mysterious, but the queen looks determined."
+      },
+      "ar": {
+        "text": "وصلتا أخيراً إلى أسفل البرج. نظرت الملكة إلى الفأرة الصغيرة وقالت بامتنان: «شكراً لكِ يا صديقتي الصغيرة. لقد أنقذتِ حياتي.» ثم أخذت الفأرة معها إلى بر الأمان.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "At last, they reached the base of the tower. The queen looked down at the little mouse and said gratefully, \"Thank you, my tiny friend. You have saved my life.\" She then gently scooped up the mouse and carried it away to safety.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The queen, now free, meets with her loyal subjects in a hidden glade. She holds the mouse in her hands. The subjects look determined to help their queen regain her throne. Soft, hopeful lighting."
+      },
+      "ar": {
+        "text": "بمساعدة الفأرة الشجاعة، استطاعت الملكة العودة إلى شعبها. أخبرت الجميع بما حدث، وقرروا معاً استعادة المملكة من الملك الشرير. وعاشت الفأرة الصغيرة في قصر الملكة، مدللةً ومحبوبة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "With the brave mouse's help, the queen returned to her loyal people. She told them all that had happened, and together they planned to reclaim the kingdom from the wicked king. The little mouse lived happily in the queen's palace, cherished and loved.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

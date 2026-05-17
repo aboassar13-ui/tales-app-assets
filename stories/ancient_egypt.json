@@ -1,0 +1,221 @@
+{
+  "id": "ancient_egypt",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 14,
+  "style_suffix": "detailed ancient Egyptian children's book illustration, warm desert palette, clear lines, friendly expressive characters, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful Egyptian boy and girl, dressed in simple linen, stand in front of the Great Pyramids of Giza, waving hello. The sun is setting, casting warm orange and purple hues over the desert landscape and the Nile river in the distance."
+  },
+  "i18n": {
+    "ar": {
+      "title": "عجائب مصر القديمة",
+      "subtitle": "رحلة عبر أرض الفراعنة",
+      "tagline": "أهرامات، نيل، وفراعنة عظماء!"
+    },
+    "en": {
+      "title": "Wonders of Ancient Egypt",
+      "subtitle": "A Journey Through the Land of Pharaohs",
+      "tagline": "Pyramids, the Nile, and mighty Pharaohs!"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A friendly ancient Egyptian boy and girl, with dark hair and simple linen tunics, stand excitedly at the edge of the desert, looking towards the majestic Great Pyramids under a clear blue sky. A small, playful desert fox is nearby."
+      },
+      "ar": {
+        "text": "مرحباً يا أصدقائي الصغار! اليوم سنذهب في رحلةٍ ممتعة إلى زمنٍ بعيدٍ جداً، إلى مصر القديمة الساحرة. سنكتشف أسرار الفراعنة، ونرى الأهرامات الشاهقة، ونعرف كيف كانت الحياة على ضفاف نهر النيل العظيم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Hello, little friends! Today we're going on an exciting journey to a time long, long ago, to enchanting Ancient Egypt. We'll uncover the secrets of the Pharaohs, marvel at the towering pyramids, and learn what life was like along the banks of the mighty Nile River.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The three Great Pyramids of Giza stand tall and golden under a bright desert sun. A few ancient Egyptian workers in the foreground are carefully placing large stone blocks using simple ramps and ropes, showing the construction process in a simplified, child-friendly way."
+      },
+      "ar": {
+        "text": "هل ترون هذه الأهرامات الضخمة؟ إنها بيوتٌ خاصة بناها المصريون القدماء لملوكهم، الفراعنة، بعد وفاتهم. لقد استخدموا آلاف العمال، وخططوا بعناية فائقة، ليرفعوا هذه الأحجار الضخمة عالياً، قطعةً فوق قطعة، لتصل إلى السماء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Do you see these enormous pyramids? They were special homes built by the ancient Egyptians for their kings, the Pharaohs, after they passed away. Thousands of workers, with clever plans, carefully lifted giant stones, block by block, reaching high into the sky.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A regal and kind-faced young Pharaoh, similar to Tutankhamun but generic, sits on a golden throne, wearing a striped nemes headdress and holding a crook and flail. He smiles gently at the viewer. Hieroglyphs are visible on the wall behind him."
+      },
+      "ar": {
+        "text": "كان الفراعنة هم ملوك وملكات مصر القديمة. كانوا يعتقدون أنهم أبناء الآلهة، ويحكمون البلاد بحكمةٍ وقوة. أشهرهم هو الملك الشاب توت عنخ آمون، الذي وجدنا كنوزه الذهبية الرائعة في قبره.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pharaohs were the kings and queens of Ancient Egypt. They believed they were children of the gods, ruling the land with wisdom and strength. One of the most famous was the young King Tutankhamun, whose amazing golden treasures were found in his tomb.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A wide, calm Nile River flows through a lush green valley. Ancient Egyptian children are playing near the riverbank, some splashing water, others watching boats with triangular sails gently floating by. Palm trees line the river."
+      },
+      "ar": {
+        "text": "نهر النيل هو شريان الحياة في مصر القديمة! كان يجلب الماء والطمي الخصب الذي يجعل الأرض صالحة للزراعة. بدون النيل، لم تكن هناك مصر القديمة. كان الأطفال يلعبون على ضفافه، والمزارعون يزرعون الحقول الخضراء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Nile River was the lifeline of Ancient Egypt! It brought water and rich, fertile soil that made the land perfect for farming. Without the Nile, there would be no Ancient Egypt. Children played on its banks, and farmers grew green fields.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "An ancient Egyptian scribe, a kind older man, sits cross-legged on the ground, carefully painting colorful hieroglyphs onto a piece of papyrus with a reed pen. A curious young boy watches him, holding a small scroll."
+      },
+      "ar": {
+        "text": "هل ترون هذه الصور والرموز الغريبة؟ هذه هي الكتابة الهيروغليفية، لغة المصريين القدماء. كل صورة كانت تعني كلمة أو صوتاً. كانوا يكتبونها على ورق البردي، وهو نوع من النبات ينمو على ضفاف النيل.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Do you see these strange pictures and symbols? This is hieroglyphic writing, the language of the ancient Egyptians. Each picture could mean a word or a sound. They wrote them on papyrus, a special paper made from reeds that grew by the Nile.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A friendly depiction of the Egyptian sun god Ra, with a falcon head and a sun disk above it, stands majestically. Beside him, Anubis, with a gentle jackal head, is shown protecting a small, symbolic sarcophagus. Both gods look benevolent."
+      },
+      "ar": {
+        "text": "آمن المصريون القدماء بالعديد من الآلهة. كان الإله رع هو إله الشمس، الذي يجلب النور والدفء كل يوم. والإله أنوبيس كان حامي الموتى، يساعدهم في رحلتهم إلى الحياة الأخرى.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Ancient Egyptians believed in many gods. Ra was the sun god, who brought light and warmth every day. Anubis, with his jackal head, was the protector of the dead, helping them on their journey to the afterlife.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "An ancient Egyptian family (father, mother, two children) sits together enjoying a simple meal of bread and fruit in their mud-brick home. Sunlight streams through a small window. A pet cat rests nearby."
+      },
+      "ar": {
+        "text": "كيف كانت حياة الطفل المصري القديم؟ كان الأطفال يلعبون بالألعاب، ويتعلمون من آبائهم وأمهاتهم. كان الأولاد يتعلمون الزراعة أو حرفة ما، والبنات يتعلمن الطبخ ونسج الكتان. وكانت العائلة تجتمع لتناول الطعام معاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "What was life like for an ancient Egyptian child? Children played with toys and learned from their parents. Boys might learn farming or a craft, while girls learned cooking and weaving linen. Families gathered to share meals together.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "A skilled ancient Egyptian craftsman carefully carves intricate details onto a wooden chest. Nearby, another artisan is painting colorful patterns onto a pottery vase. A young apprentice watches intently, holding a small tool."
+      },
+      "ar": {
+        "text": "كان المصريون القدماء فنانين وحرفيين ماهرين جداً. كانوا يصنعون المجوهرات الذهبية اللامعة، ويصممون الأثاث الجميل، وينحتون التماثيل الضخمة. كل قطعة كانت تحكي قصة عن معتقداتهم وحياتهم اليومية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The ancient Egyptians were very skilled artists and craftspeople. They made sparkling golden jewelry, designed beautiful furniture, and carved huge statues. Every piece told a story about their beliefs and daily life.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "A gentle scene showing ancient Egyptian children playing with simple wooden toys: a spinning top, a small boat, and a doll. They are laughing in a sunny courtyard of a modest house, with a pet dog wagging its tail."
+      },
+      "ar": {
+        "text": "لم تكن حياة الأطفال كلها عملاً! كانوا يحبون اللعب أيضاً. كانوا يصنعون ألعاباً من الخشب والطين، مثل الكرات والدمى والحيوانات الصغيرة. وكانوا يستمتعون بالسباحة في نهر النيل والركض تحت أشعة الشمس الدافئة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Life wasn't all work for children! They loved to play too. They made toys from wood and clay, like balls, dolls, and small animals. They enjoyed swimming in the Nile and running around under the warm sunshine.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "A grand ancient Egyptian temple entrance with towering pillars and colorful hieroglyphic carvings. A priest, with a kind and wise expression, stands at the entrance, welcoming people inside. Sunlight illuminates the scene."
+      },
+      "ar": {
+        "text": "كانت المعابد أماكن مقدسة للصلاة وتقديم القرابين للآلهة. كانت جدرانها مزينة برسوماتٍ وقصصٍ رائعة عن الفراعنة والآلهة. كان الناس يذهبون إلى هناك ليطلبوا البركة والحماية.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Temples were sacred places for prayer and making offerings to the gods. Their walls were decorated with amazing paintings and stories about Pharaohs and deities. People went there to ask for blessings and protection.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "A family of ancient Egyptians (father, mother, two children) are gathered around a table, sharing stories and laughter. A warm oil lamp casts a cozy glow. They are wearing clean, simple linen clothing. A small window shows the starry night sky."
+      },
+      "ar": {
+        "text": "كانت العائلة مهمة جداً في مصر القديمة. كان الأب والأم يعتنيان بأطفالهما بحب، ويعلمانهما كل ما يحتاجان إليه في الحياة. كانوا يجتمعون في المساء ليتبادلوا القصص ويضحكوا معاً تحت ضوء القمر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Family was very important in Ancient Egypt. Fathers and mothers cared for their children with love, teaching them everything they needed for life. They gathered in the evenings to share stories and laughter under the moonlight.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "A friendly, wise-looking ancient Egyptian priest gently explains the concept of mummification to two curious children using a small, symbolic, wrapped figurine. The process is depicted simply and respectfully, without any scary elements, focusing on the belief in the afterlife."
+      },
+      "ar": {
+        "text": "آمن المصريون القدماء بأن هناك حياةً أخرى بعد الموت. ولذلك، كانوا يحافظون على أجساد موتاهم بعناية فائقة، في عملية تسمى «التحنيط»، ليتمكنوا من العيش في العالم الآخر. كانوا يضعون الجسد في تابوت جميل، ويدفنون معه أشياء يحبونها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Ancient Egyptians believed in an afterlife after death. So, they carefully preserved the bodies of their loved ones through a process called 'mummification,' so they could live in the next world. They placed the body in a beautiful coffin and buried cherished items with it.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "A colorful ancient Egyptian tomb painting showing a joyful scene of a family reunited in the afterlife, surrounded by lush gardens and happy animals. The style is simplified and cheerful, suitable for children."
+      },
+      "ar": {
+        "text": "كانوا يظنون أن الحياة الآخرة مكانٌ جميل ومليء بالخير، مثل حديقةٍ خضراء واسعة. كانوا يأملون أن يعيشوا هناك بسعادة أبدية مع عائلاتهم وأصدقائهم، وأن يستمتعوا بكل الأشياء التي أحبوها في حياتهم الأولى.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "They imagined the afterlife as a beautiful, good place, like a vast green garden. They hoped to live there happily forever with their families and friends, enjoying all the things they loved in their first life.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The cheerful Egyptian boy and girl from the first scene wave goodbye, standing in front of a panoramic view of ancient Egypt. The pyramids are in the distance, the Nile flows, and small boats sail. The sun is setting, painting the sky with warm colors."
+      },
+      "ar": {
+        "text": "وهكذا تنتهي رحلتنا الممتعة في مصر القديمة! لقد رأينا الأهرامات العظيمة، وتعرفنا على الفراعنة، واكتشفنا أسرار النيل والحياة القديمة. أتمنى أن تكونوا قد استمتعتم بهذه المغامرة التاريخية المذهلة!",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "And so our wonderful journey through Ancient Egypt comes to an end! We've seen the great pyramids, learned about the Pharaohs, and discovered the secrets of the Nile and ancient life. I hope you've enjoyed this amazing historical adventure!",
+        "voice": "fable"
+      }
+    }
+  ]
+}

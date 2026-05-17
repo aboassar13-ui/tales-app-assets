@@ -1,0 +1,165 @@
+{
+  "id": "how_plants_grow",
+  "category": "nonfiction",
+  "source": "Original factual content",
+  "age_range": "5-9",
+  "duration_minutes": 7,
+  "style_suffix": "gentle watercolor children's book illustration, earthy color palette (greens, browns, soft yellows), friendly and educational tone, clear depictions of nature, no scary imagery, no text in image, no watermark",
+  "cover": {
+    "prompt": "A tiny, smiling seed nestled in rich soil, with a single green sprout pushing upwards towards a bright, friendly sun. A ladybug sits on a nearby leaf. Warm, inviting children's book illustration style."
+  },
+  "i18n": {
+    "ar": {
+      "title": "كيف تنمو النباتات",
+      "subtitle": "رحلة البذرة الصغيرة",
+      "tagline": "من بذرة صغيرة إلى زهرة جميلة"
+    },
+    "en": {
+      "title": "How Plants Grow",
+      "subtitle": "The Little Seed's Journey",
+      "tagline": "From a tiny seed to a beautiful bloom"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A close-up of a small, brown seed resting in dark, crumbly soil. A single drop of water glistens on its surface. Gentle sunlight filters from above. Soft, detailed watercolor style."
+      },
+      "ar": {
+        "text": "كل شيء يبدأ ببذرة صغيرة جداً. تبدو وكأنها قطعة صغيرة من التراب، لكنها تحمل بداخلها سراً مدهشاً: حياة نبات جديد! لكي تنمو، تحتاج البذرة إلى مكان دافئ ومريح.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "It all begins with a tiny seed. It might look like a little speck of dirt, but inside it holds a wonderful secret: the life of a brand-new plant! To start growing, the seed needs a cozy, warm place to rest.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "The seed is now covered by soil. A watering can gently pours water onto the soil above it. The soil looks dark and moist. A friendly earthworm peeks out from the side. Warm watercolor illustration."
+      },
+      "ar": {
+        "text": "تُزرع البذرة في التربة الغنية. ثم يأتي المطر أو نسقيها بالماء. الماء يساعد البذرة على الاستيقاظ من سباتها. تبدأ في امتصاص الماء، وتشعر بالدفء والإثارة لتبدأ رحلتها.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The seed is tucked into the rich soil. Then, rain falls, or we give it a drink of water. The water helps the seed wake up from its long nap. It starts to soak up the water, feeling warm and excited to begin its journey.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "A tiny white root emerges from the bottom of the seed, stretching downwards into the soil. A small green shoot begins to push upwards from the top of the seed. Sunlight streams down. Gentle, educational style."
+      },
+      "ar": {
+        "text": "تبدأ البذرة بإخراج جذر صغير أبيض ينمو للأسفل في التربة، ليمسك بها بقوة. وفي نفس الوقت، يخرج منها برعم أخضر صغير يتجه للأعلى، نحو ضوء الشمس الدافئ.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The seed sends out a tiny white root that stretches down into the soil, holding on tight. At the same time, a little green sprout pushes up from the top, reaching for the warm sunlight.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "The green sprout has broken through the soil surface. Two small, simple leaves are unfurling. The sun is shining brightly, and a ladybug is crawling on one of the leaves. Earthy watercolor style."
+      },
+      "ar": {
+        "text": "يخترق البرعم سطح التربة! الآن أصبح شتلة صغيرة. تنمو له أوراق صغيرة، تمتص ضوء الشمس والهواء. الشمس هي الغذاء السحري للنبات، فهي تعطيه الطاقة لينمو ويكبر.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The sprout breaks through the soil! Now it’s a little seedling. Small leaves begin to unfurl, catching the sunlight and air. The sun is like magic food for the plant, giving it energy to grow big and strong.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The seedling has grown taller and has several sets of green leaves. The roots are visible beneath the soil, spreading out. A bee is flying nearby, attracted to the plant. Bright, cheerful watercolor."
+      },
+      "ar": {
+        "text": "تنمو الشتلة أكثر فأكثر. تتمدد جذورها في الأرض لتمتص الماء والغذاء، وتنمو سيقانها وأوراقها للأعلى. كل ورقة هي مثل مصنع صغير يصنع طعام النبات من ضوء الشمس والهواء.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The seedling grows taller and taller. Its roots spread out underground, drinking water and nutrients. Its stem and leaves reach up towards the sky. Each leaf is like a tiny factory, making food from sunlight and air.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "A beautiful, colorful flower has bloomed at the top of the plant. Its petals are vibrant. Bees are buzzing around the flower, collecting nectar. The background shows a sunny garden. Gentle watercolor style."
+      },
+      "ar": {
+        "text": "بعد وقت، تبدأ النباتات في إخراج براعم جميلة. تتفتح هذه البراعم لتصبح زهوراً ملونة وجذابة. الزهور ليست جميلة فقط، بل تساعد النبات على صنع البذور.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "After some time, the plant starts to grow buds. These buds open up into beautiful, colorful flowers. Flowers aren't just pretty; they help the plant make new seeds for the future.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "Close-up of a bee covered in yellow pollen, hovering over a flower. The bee is collecting nectar. The flower is vibrant and healthy. Soft focus background of a garden. Warm watercolor."
+      },
+      "ar": {
+        "text": "النحل والفراشات يحبون الزهور! يزورونها ليلتقطوا رحيقها الحلو. وأثناء ذلك، يحملون معهم حبوب اللقاح من زهرة إلى أخرى، وهذا يساعد النباتات على إنتاج البذور.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Bees and butterflies love flowers! They visit to sip the sweet nectar. As they do, they carry tiny grains called pollen from one flower to another. This helps the plants make seeds.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "Inside the flower, small seeds are forming. Some seeds are starting to fall out onto the soil below. A gentle breeze rustles the leaves. Earthy tones, detailed illustration."
+      },
+      "ar": {
+        "text": "داخل الزهرة، تبدأ البذور الصغيرة في التكوّن. عندما تنضج البذور، تسقط على الأرض. بعضها قد تحمله الرياح بعيداً، وبعضها الآخر قد تأخذه الطيور أو الحيوانات إلى أماكن جديدة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Inside the flower, tiny new seeds begin to form. When the seeds are ready, they fall to the ground. Some might be carried away by the wind, and others might be taken by birds or animals to new places.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "A montage showing seeds being carried by the wind, dropped by a bird, and floating on a stream. Each seed lands in a new spot of soil. Dynamic composition with gentle watercolor effects."
+      },
+      "ar": {
+        "text": "هذه هي دورة حياة النبات! تبدأ ببذرة، تنمو لتصبح نباتاً، ثم تُنتج زهوراً وبذوراً جديدة. وهكذا، تستمر الحياة، وتنمو نباتات جديدة في كل مكان، لتجعل عالمنا أخضر وجميلاً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "This is the plant's life cycle! It starts as a seed, grows into a plant, makes flowers and new seeds. And so, life continues, with new plants growing everywhere, making our world green and beautiful.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "A majestic oak tree with strong roots and many green leaves, standing tall in a sunny meadow. Acorns (seeds) are visible on the ground beneath it. A family of squirrels plays around its base. Warm, illustrative style."
+      },
+      "ar": {
+        "text": "بعض البذور يمكن أن تنمو لتصبح نباتات كبيرة جداً، مثل الأشجار العظيمة! جذورها قوية تمتد عميقاً، وأغصانها تصل إلى السماء. الأشجار تعطينا الظل والهواء النقي، وهي بيت للكثير من الحيوانات.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Some seeds can grow into very big plants, like mighty trees! Their roots go deep, and their branches reach for the sky. Trees give us shade and fresh air, and they are homes for many animals.",
+        "voice": "fable"
+      }
+    }
+  ]
+}

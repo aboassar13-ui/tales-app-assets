@@ -1,0 +1,235 @@
+{
+  "id": "pied_piper",
+  "category": "fairy_tale",
+  "source": "European folk tale (public domain)",
+  "age_range": "5-9",
+  "duration_minutes": 10,
+  "style_suffix": "charming storybook illustration, soft medieval village setting, friendly character designs, warm and inviting color palette, no scary imagery, gentle storybook mood, no text in image, no watermark",
+  "cover": {
+    "prompt": "A cheerful piper in colorful clothes plays a simple flute, leading a parade of happy, cartoon-like rats away from a quaint medieval town. The townspeople wave happily from their windows and doors. Sunny day."
+  },
+  "i18n": {
+    "ar": {
+      "title": "عازف الناي المسحور",
+      "subtitle": "حكاية مدينة هاميلين",
+      "tagline": "وعدٌ، نغمٌ، وصداقةٌ غير متوقعة"
+    },
+    "en": {
+      "title": "The Pied Piper of Hamelin",
+      "subtitle": "A Gentle Retelling",
+      "tagline": "A promise, a tune, and an unexpected friendship"
+    }
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "image": {
+        "prompt": "A bustling medieval town square in Hamelin, with cheerful villagers going about their day. Cobblestone streets, timber-framed houses, and a bright blue sky. Everything looks peaceful and happy."
+      },
+      "ar": {
+        "text": "في قديم الزمان، كانت هناك بلدةٌ جميلة اسمها هاميلين، تقع بجانب نهرٍ هادئ. كانت بيوتها مصنوعةً من الخشب والحجر، وشوارعها مرصوفةً بالحصى، ومليئةً بالضجيج والضحك. عاش أهلها حياةً بسيطةً وسعيدة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "Long, long ago, in a lovely town called Hamelin, beside a gentle river, lived happy villagers. Their houses were made of wood and stone, their streets were cobbled and often filled with cheerful chatter and laughter. Life was simple and mostly joyful.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_02",
+      "image": {
+        "prompt": "Hundreds of friendly, cartoon-like rats are everywhere in Hamelin: peeking from baskets, scampering on market stalls, even playfully chasing a cat. The townspeople look annoyed but not terrified, trying to shoo them away."
+      },
+      "ar": {
+        "text": "لكن شيئاً واحداً كان يزعجهم كثيراً: الفئران! كانت الفئران في كل مكان؛ في البيوت، في المتاجر، وحتى في ساحة السوق. كانت تركض وتلعب، وتأكل من طعام الناس، وتسبّب الكثير من الفوضى والإزعاج.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "But one big problem began to bother them greatly: rats! There were rats everywhere you looked. In houses, in shops, even scurrying through the market square. They ran and played, nibbled at people's food, and caused a lot of bother and mess.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_03",
+      "image": {
+        "prompt": "The Mayor of Hamelin, a kind-faced, portly man, stands at a podium in the town square, looking worried. Villagers gather around him, holding up their hands in frustration, complaining about the rats. A banner says 'Hamelin Council'."
+      },
+      "ar": {
+        "text": "اجتمع عمدة المدينة مع أهلها. قال العمدة وهو يمسح جبينه بقلق: «ماذا سنفعل مع هذه الفئران؟ لقد حاولنا كل شيء، لكنها لا تذهب! من لديه حل، فليخبرنا، وسنكافئه بسخاء!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Mayor of Hamelin called a town meeting. Wiping his brow with worry, he declared, \"What shall we do about these rats? We've tried everything, but they simply won't leave! Whoever can find a way to help us will be rewarded most generously!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_04",
+      "image": {
+        "prompt": "A mysterious but friendly piper, dressed in a bright, multi-colored tunic and hat, stands at the edge of Hamelin. He carries a simple wooden flute and looks thoughtfully at the town. Golden sunlight bathes the scene."
+      },
+      "ar": {
+        "text": "في صباح اليوم التالي، ظهر رجلٌ غريبٌ على أطراف المدينة. كان يرتدي ثياباً ملونةً زاهية، ويحمل ناياً خشبياً بسيطاً. ابتسم ابتسامةً لطيفة، وسأل عن مشكلة الفئران. كان اسمه عازف الناي.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The very next morning, a stranger appeared at the edge of town. He wore bright, colorful clothes and carried a simple wooden flute. He had a kind smile and asked about the rat problem. His name was the Pied Piper.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_05",
+      "image": {
+        "prompt": "The Pied Piper stands before the Mayor and town council, confidently explaining his plan. The Mayor looks hopeful, and the council members listen intently. A few friendly rats are visible in the background, unaware."
+      },
+      "ar": {
+        "text": "ذهب عازف الناي إلى العمدة وقال: «أستطيع مساعدتكم، سأجعل كل الفئران تغادر المدينة.» نظر العمدة إليه بتشكك، لكنه كان يائساً. وافق على أن يعطيه أكياساً مليئةً بالذهب إذا نجح في مهمته.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Piper went to the Mayor and said, \"I can help you. I will make all the rats leave your town.\" The Mayor looked doubtful, but he was desperate. He agreed to give the Piper many bags of gold if he succeeded.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_06",
+      "image": {
+        "prompt": "The Pied Piper stands in the center of the town square, playing his flute. A magical, melodic tune emanates from it, depicted with soft, glowing musical notes. Friendly rats emerge from every corner, curious and drawn by the music, not scared."
+      },
+      "ar": {
+        "text": "وقف عازف الناي في وسط ساحة المدينة، وبدأ يعزف لحناً سحرياً على نايه. كان اللحن عذباً وجميلاً، يملأ الهواء. وبدأت الفئران تخرج من كل مكان، من البيوت والمتاجر، وتتجمّع حوله بفضول.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pied Piper stood in the middle of the town square and began to play a magical tune on his flute. The melody was sweet and lovely, filling the air. And from every house and shop, and every tiny corner, the rats began to come out, gathering around him with curiosity.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_07",
+      "image": {
+        "prompt": "The Piper walks calmly through the town, playing his flute. Behind him, a long, cheerful parade of cartoon-like rats follows happily. The townspeople watch from their windows, amazed and relieved, waving goodbye to the rats."
+      },
+      "ar": {
+        "text": "مشى عازف الناي بهدوء خارج المدينة، والفئران تتبعه في موكبٍ طويل، وكأنها ترقص على أنغام موسيقاه. كانت الفئران سعيدةً باللحن، لا تخاف أبداً. نظر أهل هاميلين بدهشةٍ وسعادة.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Piper walked calmly out of the town, and all the rats followed him in a long, happy parade, as if dancing to his music. The rats seemed quite cheerful, not scared at all. The people of Hamelin watched with wide eyes, amazed and delighted.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_08",
+      "image": {
+        "prompt": "The Pied Piper leads the parade of rats to a lush green meadow outside the town. The rats are happily exploring the tall grass and wildflowers, no longer interested in the town. The Piper smiles, his task nearly done."
+      },
+      "ar": {
+        "text": "قاد عازف الناي الفئران إلى مرجٍ أخضر واسع خارج المدينة. هناك، بدأت الفئران تلعب وتستكشف العشب الطويل والزهور البرية، سعيدةً بحريتها الجديدة. لم تعد مهتمةً بالعودة إلى المدينة أبداً.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pied Piper led the rats to a wide, green meadow outside the town. There, the rats began to play and explore the tall grass and wildflowers, happy in their new freedom. They were no longer interested in returning to the town at all.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_09",
+      "image": {
+        "prompt": "The Piper returns to the town square, expecting his reward. The Mayor, surrounded by grinning townspeople, looks hesitant and a little greedy, holding a small pouch of coins instead of the promised gold."
+      },
+      "ar": {
+        "text": "عاد عازف الناي إلى المدينة، متوقعاً أن يحصل على مكافأته. لكن العمدة، الذي كان سعيداً جداً بزوال الفئران، لم يكن يريد أن يدفع المبلغ كاملاً. قال: «لقد كان الأمر سهلاً، خذ هذه النقود القليلة.»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Piper returned to the town, expecting his reward. But the Mayor, so happy that the rats were gone, did not want to pay the full amount. He said, \"That was easy work! Take this small bag of coins instead.\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_10",
+      "image": {
+        "prompt": "The Pied Piper looks disappointed but not angry. He gently reminds the Mayor and townspeople of their promise, holding out his hand. The townspeople look a little ashamed, avoiding his gaze."
+      },
+      "ar": {
+        "text": "نظر عازف الناي إلى العمدة بحزنٍ وقال: «الوعد وعد، يا سيدي العمدة. لقد اتفقنا على شيء، ويجب أن تلتزموا به.» شعر أهل المدينة بالخجل، فقد كانوا يعرفون أن عازف الناي على حق.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pied Piper looked at the Mayor sadly and said, \"A promise is a promise, Mayor. We agreed to something, and you should keep your word.\" The townspeople looked a little ashamed, for they knew the Piper was right.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_11",
+      "image": {
+        "prompt": "The Piper raises his flute again. This time, a few curious children from the town gather around him, drawn by the gentle, inviting tune. They look happy and intrigued, not scared. The Mayor and townspeople watch, realizing their mistake."
+      },
+      "ar": {
+        "text": "رفع عازف الناي نايه مرةً أخرى، وبدأ يعزف لحناً جديداً، لحناً لطيفاً ومرحاً. هذه المرة، بدأت أطفال المدينة يتجمّعون حوله، تتبعهم عيونهم الفضولية وقلوبهم السعيدة. لم يكن اللحن مخيفاً، بل كان يدعو للعب والمرح.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pied Piper raised his flute once more and began to play a new tune, a gentle and playful melody. This time, the children of the town began to gather around him, their curious eyes and happy hearts drawn to the sound. The tune wasn't frightening; it invited them to play and explore.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_12",
+      "image": {
+        "prompt": "The Piper gently leads the children hand-in-hand out of the town towards a beautiful, sunlit path leading to a nearby hill. The children are laughing and skipping, excited for an adventure. The townspeople look remorseful and worried."
+      },
+      "ar": {
+        "text": "بدأ عازف الناي يمشي بهدوء خارج المدينة، والأطفال يتبعونه وهم يضحكون ويلعبون. كانوا سعداء بالذهاب في مغامرةٍ جديدة مع هذا الرجل اللطيف. نظر أهل المدينة إلى بعضهم البعض بقلقٍ وندم، أدركوا خطأهم.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pied Piper began to walk calmly out of the town, and the children followed, laughing and playing. They were happy to go on a new adventure with this kind man. The townspeople looked at each other with worry and regret, realizing their mistake.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_13",
+      "image": {
+        "prompt": "The Mayor, looking truly sorry, rushes after the Piper and children, carrying a large, overflowing bag of gold coins. He calls out to the Piper, his face full of apology and sincerity. The children pause, looking back curiously."
+      },
+      "ar": {
+        "text": "ركض العمدة خلفهم وهو يحمل كيساً كبيراً مليئاً بالذهب، وصاح: «توقف يا عازف الناي! لقد أخطأنا! سنفي بوعدنا! من فضلك، عد بأطفالنا إلينا!»",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Mayor ran after them, carrying a large bag overflowing with gold coins. He called out, \"Stop, Pied Piper! We were wrong! We will keep our promise! Please, bring our children back to us!\"",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_14",
+      "image": {
+        "prompt": "The Pied Piper smiles warmly and turns back. He accepts the gold from the truly apologetic Mayor. The children cheer happily, understanding that everything is well. A sense of relief and joy fills the air."
+      },
+      "ar": {
+        "text": "ابتسم عازف الناي ابتسامةً دافئة، وعاد إلى المدينة. قبل الذهب من العمدة الذي كان نادماً حقاً. هتف الأطفال بفرح، فقد فهموا أن كل شيءٍ على ما يرام الآن. عاد السلام والفرح إلى قلوب الجميع.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The Pied Piper smiled warmly and turned back. He accepted the gold from the truly apologetic Mayor. The children cheered happily, understanding that everything was well now. A sense of peace and joy filled everyone's hearts.",
+        "voice": "fable"
+      }
+    },
+    {
+      "id": "scene_15",
+      "image": {
+        "prompt": "The Pied Piper, the Mayor, and the children stand together in the town square. The Piper is surrounded by grateful children and thankful townspeople. Everyone is smiling and happy. The Piper plays a joyful farewell tune on his flute as he prepares to leave."
+      },
+      "ar": {
+        "text": "شكر أهل هاميلين عازف الناي كثيراً، ووعدوا بأنهم لن ينسوا أبداً أهمية الوفاء بالوعود. عزف عازف الناي لحن وداعٍ سعيد، ثم غادر المدينة، تاركاً خلفه درساً مهماً ومدينةً سعيدةً خاليةً من الفئران.",
+        "voice": "shimmer"
+      },
+      "en": {
+        "text": "The people of Hamelin thanked the Pied Piper profusely, promising never to forget the importance of keeping their word. The Piper played a joyful farewell tune, then left the town, leaving behind an important lesson and a happy, rat-free Hamelin.",
+        "voice": "fable"
+      }
+    }
+  ]
+}
